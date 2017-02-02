@@ -48,6 +48,15 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+ - APL & Nature of Order
+ - Agile & Scrum
+ - Process Philosophy
+ - Recognitions
+ - Emacs
+
+
+* @jaan Notes
+
 I touched on this today in chenla/docs/methodoligies file --
 Agile/Scrum was inspired by APL & A Timeless Way of Building -- but
 it's only based on the development process; not on the whole reason
@@ -125,6 +134,9 @@ rubbish heap with all the other twos and then start out with a fresh
 two....
 
 * Recognitions Quotes
+
+:NOTE: I think we will need the Piccaso Quote -- that you
+can only see something seven times in a lifetime....
 
 #+begin_quote
 “That romantic disease, originality, all around we see originality of
