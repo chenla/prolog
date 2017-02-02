@@ -193,3 +193,90 @@ A civilization = cultivation + settlement
 ** Bios       :: life on earth       3-4B
 ** Lithos     :: geological          lifetime of a solar system
 ** Cosmos     :: stellar             lifetime of the universe
+
+* Quotes
+
+#+begin_quote
+Buildings rule us via their time layering at least as much as we rule
+them, and in a surprising way.  The idea comes from Robert
+V. O'Neill's /A Hierarchical Concept of Ecosystems/. O'Neill and his
+co-authors noted that ecosystems could be better understood by
+observing the rates of change of different components.  Hummingbirds
+and flowers are quick, redwood trees slow, and whole redwood forests
+even slower.  Most interaction is within the same pace level --
+hummingbirds and flowers pay attention to each other, oblivious to
+redwoods, who are oblivious to them.  Meanwhile the forest is
+attentive to climate change but not to the hasty fate of individual
+trees.  The insite is this: "The dynamics of the system will be
+dominated by the slow components, with the rapid components simply
+following along."  Slow constrains quick; slow controls quick.
+
+-- Stewart Brand, How Buildings Learn, pg 17
+#+end_quote
+
+
+The full quote:
+
+#+begin_quote
+Then as =ej= approaches zero, corresponding to the fast components
+approaching a kind of equilibrium with the slower dynamics, the
+further dynamics of the system are dominated by the slower
+components.  This is true as long as the system remains stable.
+
+Basically the theorem demonstrates that fast components of the system
+will rapidly come into balance with the slower components.
+Thereafter, the dynamics of the system will be dominated by the slow
+components, with the rapid components simply following along.
+
+Translated into our hierarchical terminology, the slower components
+belong to a higher level and impose contraints.  As long as the system
+remains intact and stable, the next higher level determines the
+overall dynamics of the system.  The lowe hierarchical level can only
+operate within the contraints imposed.  Thus, constraint in a
+hierarchical system is the neccessary consequence of the difference in
+the race processes between levels.  The hierarchical structuring of a
+dynamic system follows with mathematical neccessity from the wide
+differences in rate processes.
+
+-- Robert V. O'Neill, A Hierarchical Concept of Ecosystems. pg98-99
+#+end_quote
+
+#+begin_quote
+The destiny of our species is shaped by the imperatives of survival on
+six distinct time scales. To survive means to com- pete successfully
+on all six time scales. But the unit of sur- vival is different at
+each of the six time scales. On a time scale of years, the unit is the
+individual. On a time scale of decades, the unit is the family. On a
+time scale of centuries, the unit is the tribe or nation. On a time
+scale of millennia, the unit is the culture. On a time scale of tens
+of millennia, the unit is the species. On a time scale of eons, the
+unit is the whole web of life on our planet. Every human being is the
+product of adaptation to the demands of all six time scales.  That is
+why conflicting loyalties are deep in our nature. In order to survive,
+we have needed to be loyal to ourselves, to our families, to our
+tribes, to our cultures, to our species, to our planet. If our
+psychological impulses are complicated, it is because they were shaped
+by complicated and conflicting demands.
+
+-- Freeman Dyson
+#+end_quote
+
+#+begin_quote
+The destiny of our species is shaped by the imperatives of survival on
+six distinct time scales. To survive means to com- pete successfully
+on all six time scales. But the unit of sur- vival is different at
+each of the six time scales. On a time scale of years, the unit is the
+individual. On a time scale of decades, the unit is the family. On a
+time scale of centuries, the unit is the tribe or nation. On a time
+scale of millennia, the unit is the culture. On a time scale of tens
+of millennia, the unit is the species. On a time scale of eons, the
+unit is the whole web of life on our planet. Every human being is the
+product of adaptation to the demands of all six time scales.  That is
+why conflicting loyalties are deep in our nature. In order to survive,
+we have needed to be loyal to ourselves, to our families, to our
+tribes, to our cultures, to our species, to our planet. If our
+psychological impulses are complicated, it is because they were shaped
+by complicated and conflicting demands.
+
+-- Freeman Dyson
+#+end_quote
