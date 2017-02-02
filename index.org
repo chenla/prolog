@@ -61,5 +61,5 @@ githubchart -u deerpig ./img/contrib.svg
  - [[./prolog-identity.org][Identity]]
  - [[./prolog-pace.org][Pace Layers]]
  - [[./prolog-scope.org][Scope]]
- - [[./prolog-transactive.org][Transactive Species]]
+ - [[./prolog-transactive.org][Transactive Nature]]
 
