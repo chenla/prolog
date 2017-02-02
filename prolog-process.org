@@ -1,0 +1,125 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Process
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/prolog-process.org
+  :Created: 2017-02-02T18:38@Prek Leap (11.642600N-104.919210W)
+  :ID: fef5f13a-64d5-4c39-a800-7999196c68ff
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.01"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" - prolog-process.org'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+I touched on this today in chenla/docs/methodoligies file --
+Agile/Scrum was inspired by APL & A Timeless Way of Building -- but
+it's only based on the development process; not on the whole reason
+for the process, which was to create buildings andf cities that have
+QWAN.
+
+I saw a comment on Reddit that said that Emacs had it, because it has
+been around so long and developed iteratively to improve it -- not
+just cosmetically but deep in its bones -- emacs is constantly
+reinventing itself, while adhering to its core principles and all the
+while shamelessly copying good ideas from everwhere, like English and
+Cantonese.
+
+Processes have centers as beautiful as any Rose window in a catherdral
+and I think that Alexander would agree that at its best -- the process
+that creates generative structures must be beautiful as well.
+
+    generative processes -- a process that leads to stronger
+reinforcing patterns -- which is the real definition of anything
+that is antifragile.
+
+It's easier to see centers in the physical world because you see a
+snapshot -- the state of a process at a given moment -- bit I think
+tha tthe physical state is an illusion -- and that the quality without
+a name cannot be name because everything is in the process of becoming
+something else. -- that beauty is the quality of processes which are
+becoming stronger -- the opposite of this is decay -- entropy
+
+The process of iterative development in Agile & Scrum is based on the
+sludgey process Alexander has developed because we have forgotten how
+to dance the process of creating life -- we need something far more
+fundemental than Agile to build things that are beautiful because we
+build things that are a natural expression of becoming --
+unfolding... which largely boils down to /caring/ - at every level and
+detail to do things right.
+
+The Gaddis quote from the Recognitions -- of stone carvers spending
+countless hours carving the backs of the heads of gargoyles that will
+be in the roof details so high up that they will never be seen --
+because /God/ sees.  /That/ is  what has been lost -- caring deeply as
+if the very fabric of the universe hung on each descion you make in
+the process because it does...
+
+Stewart Brand got the idea of buildings as processes right in /How
+Buildings Learn/  -- Alexander, as an architect, no so much.  To hom
+when his part was done, so was the building, when in fact it was only
+the beginning...
+
+Agile doesn't address software as a process -- we still think of
+software like the modern concept of a building -- after its built
+there is just maintanence.  But maintenance is actually development
+without the care.
+
+Emacs is beautiful because it is never finished & people  care about
+it.
+
+Hiro's Sushi is all about process and deeply caring.  His achievement
+is not just quality & beauty -- but consistency and reproducibility
+and sustainibility.
+
+Olson got this as well -- he said it as intellectual intensity and
+deeply caring about whatever passed scrutiny of those bushy brows.
+He got process -- Whithead -- and that all history was simultaneous --
+as did Pound before him.
+
+Perhaps it's Caxton whop did us the great disservice of taming
+Malory's magnificent rambling Arthurian Tale into a codex with a
+beginning that led to a middle that led to an end.
+
+Caxton, along with Ford's assembly line -- all tells us there is an
+end to things -- that can be used up and discarded and become waste as
+if they had found numbers that could not add another one to -- that
+2+1 is impossible and that two must be discarded and tossed onto the
+rubbish heap with all the other twos and then start out with a fresh
+two....

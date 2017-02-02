@@ -56,10 +56,10 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Sections
 
+ - [[./prolog-process.org][Process]]
  - [[./prolog-holon.org][Holons]]
  - [[./prolog-identity.org][Identity]]
  - [[./prolog-pace.org][Pace Layers]]
  - [[./prolog-scope.org][Scope]]
  - [[./prolog-transactive.org][Transactive Species]]
- - [[./prolog-process.org][Process]]
 
