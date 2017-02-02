@@ -48,3 +48,148 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+  - Pace Layers in Brand's /Clock of the Long Now/
+  - Shearing Layers in Brand's /How Buildings Learn/ 
+  - Firehose --> Otium
+
+:SEE: [[http://blog.longnow.org/02015/02/08/pace-layers-stewart-brand-paul-saffos-conversations-at-the-interval/][Pace Layer Thinkers: Stewart Brand and Paul Saffo’s Conversation at The Interval]]
+
+#+begin_quote
+the future is already here, it's just not evenly
+distributed.
+
+-- William Gibson
+#+end_quote
+
+* Issues
+
+How to different layers communicate with each other?
+
+Lower layers act as a brake for upper layers which don't
+allow the layer above it stray too far or too fast
+
+* Layer Models
+
+Brand's Pacing Layers
+
+  - fashion & art
+  - commerce
+  - governance
+  - infrastructure
+  - nature
+
+Brand's Architectual Shearing Layers
+
+  - stuff
+  - space plan
+  - services
+  - skin
+  - structure
+  - landscape
+  - site
+
+Paul Saffo's Pacing Layers
+
+  - Anthropos
+  - Bios
+  - Lithos :: literally /of stone/
+  - Cosmos
+
+People today don't understand shearing -- they think everything is
+happening at the same speed -- that everything is simultaneous --
+there is no separation of layers -- it's all a firehose that doesn't
+give you a chance to think about the next hour, let alone tomorrow.
+
+
+* Content
+ - Core    :: project design, organization & management
+ - Trivium :: prerequisite skills and knowledge
+ - Prolog  :: discursive introduction
+ - Primer  :: core code & knowledge to build and maintain civilization
+   - identity :: 
+   - pace     :: 
+   - holon    :: 
+   - scope    :: 
+ - Hoard   :: recorded memory and experience
+ 
+* Fashion & Art
+ - firehose -- real-time
+* Commerce
+ - near real-time
+----
+ - kinto        :: 
+ - bento        :: 
+
+* Governance
+ - collective -- asynchronous
+----
+Humans naturally organize themselves into:
+
+ - states
+ - nations
+ - tribes
+ - families & groups
+ - individuals
+ - roles
+
+But today we have:
+
+ - empires (PRC, Soviet Union) -- if an empire can stay together long
+   enough it sometimes can become a nation-state.  The United States
+   did it, Soviet Union fell apart before it could do it, China is
+   still trying to do it.  Rome almost did it 
+ - nation-states
+ - regions (states)
+ - areas (counties & districts)
+ - settlements (cities, towns and villages)
+ - neighborhoods
+ - individuals
+
+What we need to work towards is:
+
+ - solar
+ - planetary
+ - bioregional
+ - neighborhoods
+ - families & groups 
+ - individuals
+ - roles
+
+----
+
+ - Chenla
+ - b>i research group
+   - b>i @prekleap  :: 
+   - b>i @champasak ::  
+
+* Infrastructure
+Loosely based on TCP 7 Layer Stack
+
+  - Application     :: Otium 
+    - Interface
+    - Message Layer :: message & storage
+    - Transaction   :: blockchain
+  - Transport       :: UDP, TCP
+  - Network         :: Internet layer
+  - Physical        :: ethernet, sneakernet, Token, Ring, Mesh
+    - tool          :: computer, toaster, fridge, oven, aircon
+    - machine       :: routers, switches, pumps, fans, motors
+    - transport     :: pipes, wires, space
+    - payload       :: radio, sound, microwave, light, water,
+                       electricity, gas etc.
+** Culture
+ - philosophy :: world models (includes religion)
+ - language   :: written and spoken
+ - mythos     :: written and spoken
+ - memory     :: collective knowledge
+*** Polis      :: complex societies   10K
+
+
+A civilization = cultivation + settlement
+
+
+* Nature
+** Anthropos  :: species             2-10M
+** Bios       :: life on earth       3-4B
+** Lithos     :: geological          lifetime of a solar system
+** Cosmos     :: stellar             lifetime of the universe
