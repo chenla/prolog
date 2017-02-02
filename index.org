@@ -54,7 +54,11 @@ githubchart -u deerpig ./img/contrib.svg
 #+HTML:  <span>More</span>
 #+HTML: </div>
 
-* Sections
+* Introduction
+
+
+
+* Core Patterns
 
  - [[./prolog-process.org][Process]]
  - [[./prolog-holon.org][Holons]]
