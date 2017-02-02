@@ -1,15 +1,17 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Master Plan
+#+TITLE: Chenla Prolegomenon
 #+STARTUP: showall
-#+PROPERTY: filename
-:PROPERTIES:
-:Name: /home/deerpig/proj/chenla/core-docs/master-plan.org
-:Created: 2016-09-17T15:34@Prek Leap (11.642600N-104.919210W)
-:ID: fa188367-d380-493a-b8d2-d70c12982248
-:URL:
-:END:
+#+PROPERTY: filename 
 #+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/deerpig/deerpig-install/index.org
+  :Created: 2016-08-20T16:40@Wat Phnom (11.5733N17-104.925295W)
+  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4
+  :URL:
+  :END:
 #+INCLUDE: ./inc/macros.org
+#+INCLUDE: ./inc/links.org
 
 {{{breadcrumbs}}}
 
@@ -20,368 +22,44 @@
 
 #+TOC: headlines 4
 
+* About these pages
 
-* Changes since version: src_sh[:results value]{git describe --abbrev=0 --tags}
+#+begin_quote
+The Chenla Prolegomenon is a discursive narrative introduction to
+Chenla's Big Picture.  It's expected that it will be broken into a
+number of traditional books.
+#+end_quote
 
-#+HTML: <ul>
+* Recent Activity
 
-#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.01"
-RES=`git log $TAG...HEAD --pretty="<li>%s</li>\n" -- master-plan.org`
-if [ -z $RES ]; then
-RES="<li>no changes</li>"
-fi
-echo $RES
+Recent change activity on http://github.com/deerpig/deerpig-install
+
+#+BEGIN_SRC sh :exports results :results silent
+githubchart -u deerpig ./img/contrib.svg
 #+END_SRC
 
 #+RESULTS:
-#+BEGIN_EXPORT html
-<li>no changes</li>
-#+END_EXPORT
 
-#+HTML: </ul>
+[[./img/contrib.svg]]
+
+#+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
+#+HTML:  <span>Less</span>
+#+HTML:   <ul class="legend">
+#+HTML:     <li style="background-color: #eee"></li>
+#+HTML:     <li style="background-color: #d6e685"></li>
+#+HTML:     <li style="background-color: #8cc665"></li>
+#+HTML:     <li style="background-color: #44a340"></li>
+#+HTML:     <li style="background-color: #1e6823"></li>
+#+HTML:   </ul>
+#+HTML:  <span>More</span>
 #+HTML: </div>
 
-* Introduction
-
-Working Back to first principles
-
-
-* Problematic Nomenclature: The Four Strawmen of the Apocalypse
-
-Several core concepts that we will be dealing with in this
-work will trigger all manner of dreadful wailing and
-knashing of teeth.  We certainly acknowledge 
-
-So let's get these out of the way, so that it's clearly
-understood our position on these two subjects and how we
-will use these terms going forward.
-
-Most of the fear comes from ignorance.  We project our fears
-onto things we don't understand.  The most dangerous
-example of this is when smart people, especially scientists
-from one field or discipline make pronoucements about things
-outside of their domain of expertiese.
-
-
-The Internet gives people the illusion that we are all
-experts because we can type a string into a search engine
-and spend ten minutes reading something written by someone
-who only knows more than you do because they have spent a
-couple of hours reading about it.
-
-We, as a culture and civilization needs to instill a bit
-more humility, and become comfortable with not knowing, and
-not having an opinion on /everything/.  But at the same
-time, knowing you don't know should always be a trigger that
-spurs you into deep observation, study and contemplation to
-try to figure out figure out what is really happening and
-then share what we have learned with others, and finally
-return to an era where we can put trust in people who have
-done the hard work to find out other things that we will
-never have time to learn.
-
-*** AI
-
- - Machine Learning
- - Deep Learning
- - Artifical Intelligence
-
-*** The Singularity
-
- - the nerd rapture
- - nightfall
- - 
-
-*** Genetic Modification
-
-*** Nuclear Power
-
-Every time you take a sip of the latte that you paid far too
-much for in some souless coffee chain store on your way to
-work, every freshly picked autumn apple you crunch into as
-you watch the leaves turn color and fall dead to the earth
-(for those of you in temperate climates), every time you
-smugly flick on your super energy efficient LED desk lamp
-that is drawing power from a solar array, or wind turbine,
-or biofuel made from crops that should be producing food,
-every time you fire up your monster SUV to take your
-snowflake offspring to school in the morning which is only
-150 meters from your front door.... you are using nuclear
-energy.  In fact, without nuclear power there would be no
-life, no liquid water, no air (as we breath it).  
-
-The fact that man can now split and fuse the atom is a good
-thing -- these are still early days for nuclear power.
-The first nuclear pile, in Boston? in 194X was only xx years
-ago.  And since then more than half of that time has not
-been spent in improving the technology and making it more
-safe, it's been spent in fear and loathing and spreading
-FUD.
-
-Renewable is an ugly term.  The sun's energy is only
-renewable to us because of how short the human lifespan is.
-The Sun is a terrible, voracious waster of resources,
-gobbling up hydrogen at a a rate of <XXXXX> and radiating it
-into space in all directions.  Eventually it will run out of
-fuel, blimp out as it cools and then eventually collapse on
-itself into a white dwarf -- if the sun was more fuel
-efficient it might live several orders of magnitude longer.
-
-Calling carbon based fuels non-renewable is the same thing
--- given a hundred million years or so, ground oil will be
-restored as long as the sun keeps burning and life continues
-to flourish on this planet.
-
-Calling minerals used in manufacturing finite is equally as
-silly.  We as a species have always used what resources are
-available locally and then move to new locations when those
-resources have been exhausted.  The only thing keeping us
-from us not doing this now is a lack of imagination -- there
-are many million years worth of mineral resources available
-in our solar system.  And we're not talking about the outer
-planets here -- we have a large moon, more asteroids close
-to earth than might be imagined, and then we have the vast
-asteroid belt out beyond Mars orbit.  Once we learn to tap
-into these resources robotically, there will never be a
-shortage of base metals, and we won't have to scar the earth
-with strip mines and industrial processing that poison and
-pollute our ecosystems.
-
-We will get into this in more depth later in the work, but
-we believe that energy production should be, whenever
-possible, decentralized and that whatever technology that
-makes sense for the job should be employed.  There is no
-magic bullet.  Most domestic electrical needs can be met by
-locally installed solar or wind.  Once vehicles have been
-electrified, much of the power to charge them will also come
-from so-called renewable energy generation.
-
-If heavy industry is moved into space, a combination of
-solar and nuclear will provide all of the power needed.
-
-On earth, the thing that will really require nuclear will be
-computers.  At present Google, just one company, uses XX% of
-America's electrical capacity.  And we are still in early
-days....  fifty years from now today's Googleplex will seem
-like a pocket calculator -- we will need an enormous amount
-of power to mainting the amount of computation our
-civilization depends on for its survival -- it's a simple
-matter of physics.  Nuclear power will be the only viable
-means of providing this.
-
-And unless we can leverage quantum entanglement and scale it
-to provide massive bandwidth -- much of that computation
-will have to be located in places where latency is low
-enough to be practical and that distance will be determined
-by the speed of light.
-
-This is already a governing factor in locating data centers
-for high volume micro-trading in major stock markets --
-computation can not be more than XX kilometers from the
-trading floor (which actually is just another server farm)
-because any further than that would increase latency and
-slow down the system.
-
-
-
-* Multi-Planet Species
- - earth
- - luna
- - mars
- - asteroids
-* Independent Bioregions
-* Cities
-* Towns
-* Villages
-* World Wide Mesh
-* Shops
-* Individuals
-** Devices
-** Person Holons
-* On Being the Right Size
-
-Haldane's thesis is that sheer size very often defines what
-bodily equipment an animal must have:
-
-#+begin_quote
-"Insects, being so small, do not have oxygen-carrying
-bloodstreams. What little oxygen their cells require can be
-absorbed by simple diffusion of air through their
-bodies. But being larger means an animal must take on
-complicated oxygen pumping and distributing systems to reach
-all the cells."
-#+end_quote
-
-But this is just as much about the limits of human cognition
--- we only have so much ram, can only keep so many things in
-our head at one time -- we have short term, medium term and
-long term memory.  We can only relate to so many other
-people, we can only make friends with so many people.  We
-can only empathize at small scales -- one person is a
-tragedy, a million a statistic.
-
-We see the world at newtonian scales where the universe is
-quantum.
-
- - 4-6 give or minus two
- - 2 levels of separation
-
-** APL
-
-  | Region                    | 8,000,000 |
-  | City                      | 500,000   |
-  | Communities & small towns | 5-10,000  |
-  | Neighborhood              | 500-1000  |
-  | House Cluster/Work Group  | 30-50     |
-* Mankind
-
- Mankind is more than the hominid homo sapien, 
-
- - we are a transactive species
- - we spread the load of cognition, memory and muscles between each
-   other and other members of mankind, including dogs, and now
-   computers and robots
-* Maps
-
-Holons are extended and interact with each other through cognitive
-maps which can be modeled as directed property graphs.
-
-** Cognitive
-
-A person is a holon that has a conception of self -- which is similar
-too but not the same as self-awareness -- a term that carries a lot of
-baggage.
-
-Persons are a conceptual holon, they don't exists except as an
-abstract self-consciousness;
-
-Persons are a collection personas -- aspects of the self
-that is used internally and or presented to the world as a
-self-contained entity.
-
-Personas are made up of roles -- roles are overlapping.
-
-Persons Holons are modeled both in the brain and externally as a group
-of overlapping, intersecting directed property graphs.  Each of these
-graphs is a shard of a person, persona or role which we call a 
-=horcrux=.
-
-** Collective
-
-*** Human thresholds -- memory, group size
-*** levels of separation
-
-
-
-** Inanimate
-* Building Blocks
-
-We can build anything using four fundemental building blocks:
-
-  - Process :: steps and rules
-  - Message :: docs, messages, storage, blobs are are all messages --
-       that are nodes in graphs that model a holon.  Messages have are
-       anything that change state from one location, time, etc to another.
-       storage is sending a message with a delay between sending and
-       recieving.
-   - State :: 
-   - Relationship :: 
-
-*** Work as a foundation for transactions
-
-  - Providing energy & performing work generates tokens
-  - Using energy destroys tokens
-  - Using energy or work done by someone else transfers tokens from
-    you to them. 
-* Homoiconography
-
-Equivalence of code and data
-
-We need self-processing graphs -- processes -> the whole
-graph is both code & data -- that runs everytime that the
-graph changes -- change one thing and the change propagates
-out through the whole graph and all other graphs connected
-to it -- so yes, concurrency, going forward will be a big
-thing.
-
-* Mind and Body
-
-The mammal neocortex is a self-programing general purpose
-computational engine.
-
-- hierachical AND linear
-
-** Extension of Cognition and Memory
-
-- Life -> neocortex
-- neocortex -> speech
-- speech -> writing
-
-- cognitive machines (computers)
-
-** Extension of Muscle and the Senses
-
-- dogs extended our smell and hearing
-- tools extended out hands
-- cows and horses extended our muscles
-
-** Machines
-
-- machines combine tools and external energy
-
-** Robots
-
-- robots are machines controlled by compters
-* Context & Scale
-
- - LOD
- - POV
- - ROC
-* Holons
-
-No man is an island, he is a holon
-
-It's holons, all the way down....
-
- - everything has a dual whole/part nature depending on POV and LOD
- - Everything can be viewed as an atom or a holon
- - atoms are mutually exclusive
- - holons are both:
-    - self contained semi-autonmous wholes
-    - parts of a larger structure
-
-* Encoding & Structure
-
- - primitives :: symbols, numbers, strings, lists
- - triples :: subject, predicate, object
- - directed property graphs :: edges and vertices where everything is
-      a relationship.
-
-* First Principles
-
-It From Bit
-
-  - information
-  - energy
-  - entropy
-
-  - time is (+ entropy (or energy energy))
-  - entropy and time are not reversible
-  - life is a self organizing information machine -- goes against entropy
-
-If it requires energy it is finite.
-
-  - computation is finite
-  - physical things are finite
-  - computation is work
-  - work expends energy
-  
-** Finite and Infinite Resources
-
-  If I can take something, and it deprives someone of that thing, it
-  is a finite resource.
-
-  If I can make a copy of something and it doesn't deprive others of
-  that thing than it is an infinite resource
-
+* Sections
+
+ - [[./prolog-holon.org][Holons]]
+ - [[./prolog-identity.org][Identity]]
+ - [[./prolog-pace.org][Pace Layers]]
+ - [[./prolog-scope.org][Scope]]
+ - [[./prolog-transactive.org][Transactive Species]]
+ - [[./prolog-process.org][Process]]
 
