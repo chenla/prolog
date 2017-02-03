@@ -401,7 +401,7 @@ order for people's online identities to accurately mirror their
 identities in life.
 
 *** Roles
-****** Introduction
+**** Introduction
 What is abundently clear is that there is no such thing as a single
 identity for any person.  An individuals or groups identity are broken
 into a variety of overlapping roles that define different aspects of a
@@ -412,7 +412,7 @@ also have any number of different roles including, vendor,
 customer, litigant, employer, developer, sponsor, signatory, aggressor,
 defender, contractor, vassel, colony, member.
 
-****** Types of roles
+**** Types of roles
 
 Most roles often are manifest in a couple of types of
 relationships.  This section is very much a work in progress and will
@@ -439,7 +439,7 @@ others.  For example, in a sports team, everyone on the team is a
 teammate even though one member might also be captain of the team with
 higher status and a leadership role.
 
-****** Persistent and temporary roles
+**** Persistent and temporary roles
 
 From the list of examples it's obvious that some roles are more
 important and extend for longer periods than others.  A neighbor role
@@ -460,7 +460,7 @@ provide in a particular context.  This can be done if the processing
 application understands that you are a customer when you buy toilet
 paper as well as a biological creature who needs to wipe their arse.
  
-****** Internal/projected roles
+**** Internal/projected roles
 
 Each role we have in our lives is made up of both an internal and
 projected identities which include different titles, access
@@ -476,7 +476,7 @@ roles can easily be represented as a list of hierarchical
 relationships and key/value pairs which define attributes that define
 each role.
 
-****** Roles cascade
+**** Roles cascade
 
 The most important thing about roles is that they overlap, which will
 not always the case when we begin talking about circles later on.
@@ -489,7 +489,7 @@ In order to reflect this, roles can be represented hierarchically in a
 cascading structure where roles can be defined that inherit or share
 aspects of other roles.
 
-****** Roles and state
+**** Roles and state
 
 In a markup language or data structure, a key/value pair can be seen
 as an attribute of what is being defined.  But that same key/value
@@ -522,12 +522,12 @@ places with other people, groups and devices that we have ties with.
 We all divide the people and groups we interact with into what Google
 calls Circles.
 
-****** Network of Devices 
+**** Network of Devices 
 
 You will have Circles for interacting with all of the network aware
 devices that you own or control.
 
-****** Proximity
+**** Proximity
 
 Proximity -- when I am in Hong Kong, my circles are going to be very
 different from when I am in Udon or in San Diego.  When you are on
