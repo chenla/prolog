@@ -1,0 +1,102 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Cosmology & Epistemology
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/prolog-cosmos.org
+  :Created: 2017-02-03T12:46@Prek Leap (11.642600N-104.919210W)
+  :ID: 378b6cb0-c220-4f6a-a15c-8262f36890e7
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+How many times have I tried to avoid writing this damn thing.  But
+without a stated cosmology you don't have a statement of the
+assumptions about the universe and the nature of reality that you are
+using to base everything else on.
+
+It's not enough to give /another/ overview of the standard model and
+be done with it.  Too much is changing -- and I suspect that ten years
+from now our understanding of the universe will not so much invalidate
+what we understand today as much as open a broader understanding that
+could well be as bizzare as Quantum mechanics.
+
+
+
+* It From Bit
+
+#+begin_quote
+every it—every particle, every field of force, even the space-time
+continuum itself—derives its function, its meaning, its very existence
+... from bits.
+
+-- John Archibald Wheeler, /It From Bit/
+#+end_quote
+
+
+  - John Wheeler and his paper It From Bit
+  - Bennett -- The Thermodynamics of Information
+  - Landauer -- Information is Physical
+  - reversable operations (flipping bits from one to zero) don't
+    generate heat -- irreversible operations (deleting) does.
+  - QM is all about information:
+
+#+begin_quote 
+Why does nature appear quantized? Because information is
+quantized. The bit is the ultimate unsplittable particle.
+
+-- The Information pp231
+#+end_quote
+
+#+begin_quote
+When a bit flips from zero to one, or vice-versa, the information is
+preserved. The process is reversible. Entropy is unchanged; no heat
+needs to be dissipated. Only an irreversible operation, he argued,
+increases entropy.
+
+-- The Information p233.
+#+end_quote
+  
+  - the universe is made from information that depends on the
+    universality of computation -- it can be created, destroyed or
+    copied.
+  - information is generated every time there is a quantum event
+  - the universe is structured hierachically

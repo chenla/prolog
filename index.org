@@ -60,6 +60,7 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Core Patterns
 
+ - [[./prolog-cosmos.org][Cosmos]]
  - [[./prolog-process.org][Process]]
  - [[./prolog-holon.org][Holons]]
  - [[./prolog-identity.org][Identity]]
