@@ -46,5 +46,496 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </ul>
 #+HTML: </div>
 
-* Introduction
+
+* An Identity Model
+** Introducion
+
+The identity model we develop for BMF has to be able to work not only
+today, but a hundred years from now.  This may sound impossible, but
+human beings change only very very slowly, and the way our brains are
+wired has not changed much over the last 10,000 years.
+
+We can get this right -- but it will take a lot of careful thought.
+
+---
+
+While @Padday's slide deck is brilliant -- he only really deals with
+social network spaces and not so much about roles and identity.
+
+Notes from:
+
+http://www.slideshare.net/padday/the-real-life-social-network-v2
+
+
+Personal Social Networks
+
+  - Different groups, based on different stages of your life,
+    permanent groups like family, friends based on activities,
+    interests and location.
+  - Within these groups are people with Strong Ties and Weak Ties.
+  - The number of Strong Ties is 4-6
+  - The number of Weak Ties within a group is 4-15
+  - Total Number of people the mind can keep track of is 150
+  - There is another catagory of relationship which are Temporary Ties
+    -- which are made up of people who you may only have one
+    interaction with.
+
+  Google+ Circles is designed to break up everyone into groups -- but
+  perhaps it would be better to have circles within circles -- so you
+  have an inner circle of people in a group with strong ties.
+
+  They should also have different types of circles -- a news circle,
+  social circles, and then circles for Temporary Ties.
+
+  In this way we can then design a system that makes it possible for
+  people to send status updates about what they eat to people with
+  strong ties, and then more general updates, announcements to the
+  broader circle.
+
+  - I would also like to see a more dynamic element to how we map our
+    circles -- this would freak people out today but will eventually
+    be accepted.  
+
+    You should be able to view your circles as:
+
+    - composed -- or defined by you
+    - relative to where you are and the context of that location --
+      eg. on a train, in a restaurant with your wife (very different
+      if you are in a restaurant with your mistress), at work, at your
+      desk at work, in a meeting at work -- in a bar with friends at
+      home, in a bar with strangers on holiday.
+    - relative to what role you're in at the moment.
+    - 
+
+Telephones need to deal with this especially -- your role when
+answering a call could/should trigger a bunch of different changes in
+settings automatically -- and this will be very big -- Apple, Google
+and Facebook will all try to corner this space and force people to use
+their Identity models and services for communications -- but what is
+needed is a general set of standards that everyone follows so that it
+is interoperable between networks, so that someone using Google can
+interact with the social graph of someone on Facebook.
+
+So an application needs to do different things -- like logging work
+related calls/messages to a work folder so that calls can be
+logged/recorded for legal, billing or project management.
+
+Identity -- is made up of how we want to be percieved
+
+Question: Profiles -- how to create profiles that show different
+things to different people depending on the context of that
+relationship?
+
+----
+
+References:
+
+*Buddy Brain Drain* 
+Robin Dunbar
+New York Post, 2010/01/25
+http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI
+
+*Networks Neolothic to Now*
+Elizabeth Gudrais
+Harvard Magazine, 2010/May-June
+http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all
+
+See also: *Networked* in same issue by the same Author
+http://harvardmagazine.com/2010/05/networked
+
+*The Dunbar Number as a Limit to Group Sizes*
+Christopher Allen
+Life With Alacrity (Blog), 2004/03/10
+http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html
+
+*Dunbar number*
+Wikipedia Article
+Accessed 2011/08/26
+http://en.wikipedia.org/wiki/Dunbar's_number
+
+*Interpersonal ties*
+Wikipedia Article
+Accessed 2011/08/26
+http://en.wikipedia.org/wiki/Interpersonal_ties
+
+*The Strength of Weak Ties*
+Granovetter, Mark S. (1973). 
+Amer. J. of Sociology, Vol. 78, Issue 6, May 1360-80.
+http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf
+
+*The Strength of the Weak Tie: Revisited*
+Granovetter, Mark S. (1983)
+Sociological Theory, Vol. 1, 201-33.
+http://www.si.umich.edu/~rfrost/courses/SI110/readings/In_Out_and_Beyond/Granovetter.pdf
+
+*Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives*
+Nicholas Christakis & James Fowler
+http://www.connectedthebook.com/ (official site)
+http://www.amazon.com/Connected-Surprising-Power-Social-Networks
+
+*Digital Future Report* (Annual report 2000-2011)
+Center for the Digital Future
+http://www.digitalcenter.org/pages/site_content.asp?intGlobalId=20
+
+*Rhythms of Social Interaction: Messaging within a Massive Online Network*
+Scott A. Golder, Dennis Wilkinson and Bernardo A. Huberman. 
+3rd International Conference on Communities and Technologies
+(CT2007). East Lansing, MI. June 28-30, 2007.
+http://www.hpl.hp.com/research/idl/papers/facebook/index.html (abstract)
+http://www.hpl.hp.com/research/idl/papers/facebook/facebook.pdf 
+
+*Social Network Activity and Social Well Being*
+Burke, M., Marlow, C., and Lento, T. (2010)
+ACM CHI 2010: Conference on Human Factors in Computing Systems, 1909-1912
+http://www.thoughtcrumbs.com/publications/burke_chi2010_sns_and_wellbeing.pdf
+
+Burke has a lot of other papers listed at http://www.thoughtcrumbs.com/
+
+*The problem of conflicting social spheres: effects of network structure on experienced tension in social network sites*
+Binder, Jens; Howes, Andrew; Sutcliffe
+AlistairIn: Boston, MA, USA. 2009. p. 965-974.
+https://www.escholar.manchester.ac.uk/uk-ac-man-scw:2g20 (abstract)
+
+*User Interactions in Social Networks and Their Implications*
+Christo Wilson, Bryce Boe, Alessandra Sala, Krishna P. N. Puttaswamy 
+Ben Y. Zhao
+ACM EuroSys, 2009
+http://www.cs.ucsb.edu/~ravenben/publications/pdf/interaction-eurosys09.pdf
+http://www.cs.ucsb.edu/~ravenben/publications/abstracts/interaction-eurosys09.html (abstract)
+
+*Stefana Broadbent: How the Internet enables intimacy*
+TED Global 2009, filmed Jul 2009, posted Nov 2009
+http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html
+
+
+*Teens, Cell Phones and Texting*
+Amanda Lenhart, Senior Research Specialist 
+Pew Internet & American Life Project, April 20, 2010
+http://pewresearch.org/pubs/1572/teens-cell-phones-text-messages (summary)
+http://pewinternet.org/Reports/2010/Teens-and-Mobile-Phones.aspx (full)
+
+*Social Isolation and New Technology*
+Keith Hampton, Lauren Sessions Goulet, Eun Ja Her, Lee Rainie
+Pew Internet & American Life Project, Nov 4, 2009
+http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Tech_and_Social_Isolation.pdf
+
+*Social Media & Mobile Internet Use Among Teens and Young Adults*
+Amanda Lenhart, Kristen Purcell, Aaron Smith and Kathryn Zickuhr, 
+Pew Internet & American Life Project, February 3, 2010
+http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teens-millennials-fewer-blog (summary)
+http://pewinternet.org/Reports/2010/Social-Media-and-Young-Adults.aspx (full)
+
+
+*Twitter and Status Updating, Fall 2009*
+Susannah Fox, Kathryn Zickuhr, Aaron Smith
+Pew Internet & American Life Project, Oct 21, 2009
+http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Twitter_Fall_2009web.pdf
+
+
+*Rethinking Friendship: Hidden Solidarities Today*
+Liz Spencer, Ray Pahl
+ Princeton University Press, August 21, 2006
+http://www.amazon.com/Rethinking-Friendship-Hidden-Solidarities-Today/dp/0691127425
+
+
+*Cognitive bias*
+Wikipedia Article
+Accessed 2011/08/26
+http://en.wikipedia.org/wiki/Cognitive_bias
+http://en.wikipedia.org/wiki/List_of_cognitive_biases
+http://en.wikipedia.org/wiki/Bounded_rationality
+http://en.wikipedia.org/wiki/The_Tipping_Point
+
+*Six Degrees: The Science of a Connected Age*
+Duncan J. Watts
+W. W. Norton & Company; 1st edition, February 2003
+http://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393041425/
+
+*The Role of Hubs in the Adoption Process*
+Jacob Goldenberg, Sangman Han, Donald R. Lehmann, & Jae Weon Hong 
+Journal of Marketing 3/1/2009 
+http://www.marketingpower.com/AboutAMA/Pages/AMA%20Publications/AMA%20Journals/Journal%20of%20Marketing/TOCs/SUM_2009.2/role_of_hubs_adoption_process.aspx (summary)
+http://bear.warrington.ufl.edu/weitz/mar7786/Articles/Goldenberg%20et%20al%202009%20hubs.pdf [PDF]
+
+
+*Opinion Leadership and Social Contagion in New Product Diffusion*
+Raghuram Iyengar, Christophe Van den Bulte, and Thomas Valente, 
+2008 [08-120]
+http://marketing.wharton.upenn.edu/documents/research/Npd.pdf
+
+Danah Boyd's Publications
+http://www.danah.org/papers/
+
+
+*Profiles as Conversation: Networked Identity Performance on Friendster* 
+Boyd, Danah & Jeffrey Heer
+
+In Proceedings of the Hawai'i International Conference on System
+Sciences (HICSS-39), 
+Persistent Conversation Track. Kauai, 
+HI: IEEE Computer Society. January 4 - 7, 2006.
+http://www.danah.org/papers/HICSS2006.pdf
+
+*Addressing Constraints: Multiple Usernames, Task Spillage and Notions of Identity*
+Gross, B.; Churchill, E.F.
+Source: CHI 2007, ACM Press, San Jose, CA, USA, p.2393-2398 (2007)
+http://research.yahoo.com/node/2171 (abstract)
+http://research.yahoo.com/files/p2393-gross.pdf [PDF]
+
+*Names of Our Lives* 
+Ben Gross
+CSE ’09. International Conference on Computational Science and Engineering, 
+volume 4, pages 747–752, Vancouver, Canada, August 29–31, 2009.
+http://bengross.com/pubs/ieee-sc09/ieee-sc09.pdf
+
+Ben Gross's Publications
+http://bengross.com/publications/
+
+*Trust and nuanced profile similarity in online social networks* (2006)
+Jennifer Golbeck
+http://dl.acm.org/citation.cfm?id=1594174 (abstract)
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.986&rep=rep1&type=pdf
+
+*I rate you. You rate me. Should we do so publicly?*
+Chun-Yuen Teng, Debra Lauterbach, and Lada A. Adamic
+http://www-personal.umich.edu/~ladamic/papers/trust/TengTrustWOSN2010.pdf
+
+*Information Revelation and Privacy in Online Social Networks* (The Facebook case)
+Pre-proceedings version. ACM Workshop on Privacy in the Electronic Society (WPES), 2005
+Ralph Gross, Alessandro Acquisti, H. John Heinz III
+http://www.heinz.cmu.edu/~acquisti/papers/privacy-facebook-gross-acquisti.pdf
+
+*Reputation Management and Social Media*
+Mary Madden, Aaron Smith
+Pew Internet & American Life Project, May 26, 2010
+http://www.pewinternet.org/~/media//Files/Reports/2010/PIP_Reputation_Management_with_topline.pdf
+
+*How Different are Young Adults from Older Adults When it Comes to Information Privacy Attitudes and Policies?*
+Hoofnagle, Chris Jay, King, Jennifer, Li, Su and Turow, Joseph, 
+(April 14, 2010). 
+Available at SSRN: http://ssrn.com/abstract=1589864
+http://www.google.com/url?sa=t&source=web&cd=2&ved=0CCEQFjAB&url=http%3A%2F%2Fwww.ftc.gov%2Fos%2Fcomments%2Fprivacyroundtable%2F544506-00125.pdf&ei=h5NXTpC3BIrrrQf989DBCg&usg=AFQjCNH2eJ1-6NOVMLuF6lERDSlruXjqwQ&sig2=sO_zfP6LlVdHRwVDbnZkBQ
+
+*Strategies and struggles with privacy in an online social networking community*
+Katherine Strater, Heather Richter Lipford
+Proceeding BCS-HCI '08 Proceedings of the 22nd British HCI Group 
+Annual Conference on People and Computers: Culture, Creativity, 
+Interaction - Volume 1
+http://www.bcs.org/upload/pdf/ewic_hc08_v1_paper11.pdf
+
+*Expandable grids for visualizing and authoring computer security policies*
+Robert W. Reeder, Lujo Bauer, Lorrie Faith Cranor, Michael K. Reiter, 
+Kelli Bacon, Keisha How, Heather Strong
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.7401&rep=rep1&type=pdf
+
+----
+
+Now that we have that out of the way, let's start thinking about what
+an identity model will look like.
+
+** Person
+*** Introduction
+Before we get into what an identity is, it's useful to consider
+entities that might have identities attatched to them.
+
+*** Identity
+
+Identity is the perception of the fact of being and what that person
+is.  This is different depending on an individual's the point of view
+relative to themselves and others. 
+
+People have a constantly evolving perception of what they believe
+they are (inner identity), which is different from how you try
+to shape the way that others see us (projected identity).  This will
+differ from how others percieve us which can vary wildly depending on
+the context that a person is in.
+
+From the perspective of a Police database, an identity includes
+information that identifies that person, id or drivers licence or
+social security numbers, physical description, gender, height, built,
+eye and hair color, scars or tattoos.  The other side is of course the
+record that the Police have on an individual.  This includes parking
+or speeding tickets, criminal, immigration or drug violations etc.
+From the perspective of a police database, a person's identity is the
+perception of that person as being dangerous, or prone to violating
+laws or not.  Unless a person is under investigation, the police
+are not generally concerned with any other aspects of that person.
+This is a fairly narrow and limited concept of an identity.
+
+There are any number of equally narrowly defined concepts of identity
+held by tax departments, banks, credit card companies, schools, the
+military or any other type of employers.
+
+In each case, each  are only interested in specific aspects of a
+person's identity.  A doctor or hospital is interested in your blood
+pressure, but not your love of LOL Cats.  A school is interested in
+your attendance record, your grades and your course-load, but not your
+hatred of Woody Allen films.  But these aspects of your life are of
+very real importance to your family and close friends.
+
+You present yourself differently depending on the context of the
+relationship that you have with other people or groups.
+
+And how you present yourself (your appearance and behavior) depends on
+the relationships we have others.  These relationships and how they
+are percieved are shaped by events and transactions between
+individuals and groups.  This could be anything from having a flat
+tire, to buying a house in a particular neighborhood, or going to a
+specific restaurant, a phone call, email, comment on a social media
+site.  But they also depend on events that are outside of an
+individual or groups control.  A typhoon, earthquake, a summer shower,
+a food poisoning scare, a flu epidemic, an accident that causes an
+injury.  It also depends on age, cultural beliefs, social or econmic
+class, education, intelligence, talent etc.
+
+In short, identities are fluid and really really complicated.
+
+Until the last few years, this has been all but ignored with online
+manifestations of people's identities.  There have been a few
+tentative steps towards addressing these issues, but we are still in
+very early days.
+
+What will eventually be needed is a general model for describing
+online identities and how software and services can be organized in
+order for people's online identities to accurately mirror their
+identities in life.
+
+*** Roles
+****** Introduction
+What is abundently clear is that there is no such thing as a single
+identity for any person.  An individuals or groups identity are broken
+into a variety of overlapping roles that define different aspects of a
+person's identity such as student, friend, girlfriend, daughter etc.
+
+Groups including corporations, goverments, religious organizations etc
+also have any number of different roles including, vendor,
+customer, litigant, employer, developer, sponsor, signatory, aggressor,
+defender, contractor, vassel, colony, member.
+
+****** Types of roles
+
+Most roles often are manifest in a couple of types of
+relationships.  This section is very much a work in progress and will
+likely change as the different types of roles are better understood.
+
+  - hierarchical :: One important relationship is hierarchial pairs
+  where the role is relative to someone who is higher or lower than
+  you in a hierarchy.  Examples of this include parent/child,
+  teacher/student, employer/employee, celebrity/fan.
+  - equivalence :: are equality pairings or groups where two or more
+  people in the same role are of equal status within a relationship.
+  These include coworker or colleague, spouse, team-mate, friend,
+  spectator, lover, alumni, retiree, citizen, voter, patron.
+  - generic :: a generic relationship describes a kind of class
+  membership role.  These include retiree, victim, patient, addict,
+  tourist, consumer.  There is a fine line between equivilant and
+  generic roles.  For example, a voter can be viewed in one context as
+  generic, but in another, where a voter is registered in a specific
+  voting district, the relationship can be described as more
+  equivilent.
+
+Members within groups may be dominant or have higher status than
+others.  For example, in a sports team, everyone on the team is a
+teammate even though one member might also be captain of the team with
+higher status and a leadership role.
+
+****** Persistent and temporary roles
+
+From the list of examples it's obvious that some roles are more
+important and extend for longer periods than others.  A neighbor role
+might last a lifetime if you live in the same place your whole life,
+or it might last a few hours when you are sitting next to someone on a
+plane, or get to know a family living in a bungalow next to yours when
+you are on holiday for a couple of days.
+
+While a temporary role may seem to be two brief to be defined in an
+Identity model (no one is going to define a role before they purchase
+a roll of toilet paper at Seven-Eleven) they are still important from
+a generic transactional perspective.  You're role as a customer at
+seven-eleven overlaps with your roles as Spouse, Father, Biological
+Creature.  But unlike those other roles, a customer takes part in a
+financial transaction, which carries with it certain responsibilities,
+liabilities and other consequences, which processing software can help
+provide in a particular context.  This can be done if the processing
+application understands that you are a customer when you buy toilet
+paper as well as a biological creature who needs to wipe their arse.
+ 
+****** Internal/projected roles
+
+Each role we have in our lives is made up of both an internal and
+projected identities which include different titles, access
+priviledges, responsibilities, modes of behavior and dress.
+
+For Persistent roles, internal/projected aspects of our roles are
+dynamic and constantly changing, using rule sets that dynamically
+generate a snapshot of how we see ourselves or how we wish others to
+see us.
+
+For temporary roles, a ruleset is overkill and internal/projected
+roles can easily be represented as a list of hierarchical
+relationships and key/value pairs which define attributes that define
+each role.
+
+****** Roles cascade
+
+The most important thing about roles is that they overlap, which will
+not always the case when we begin talking about circles later on.
+People get phone calls from their spouses when I work, requiring the
+person to switch roles momentarily.  You might, for instance buy
+Christmas presents for people who belong to circles in different roles
+at the same time.
+
+In order to reflect this, roles can be represented hierarchically in a
+cascading structure where roles can be defined that inherit or share
+aspects of other roles.
+
+****** Roles and state
+
+In a markup language or data structure, a key/value pair can be seen
+as an attribute of what is being defined.  But that same key/value
+pair when defined as a variable being executed in a software
+application can be a boolean (true or false) which determines if an
+action takes place or not.
+
+This is important to point out because in order for this to work, an
+application needs to determine which roles are active and which ones
+are not.  If a role is active then things can happen.
+
+If you are at work and recieve a call from your spouse, your phone
+should be able to switch off your work role which is logging your
+calls and time for billing purposes, and switch you into a privacy
+mode where others aren't privy to the conversation.
+
+If you are in a driver mode, your car computer system should tell your
+phone to route calls to the hands free phone system built into the
+car, adjust the seat for your height and weight and que up the podcast
+that you were listening to when you left your desk.
+
+
+
+*** Ties & Circles
+
+A core part of Identity which is just as important as Roles is how we
+map ourselves, in different roles at different times, in different
+places with other people, groups and devices that we have ties with.
+
+We all divide the people and groups we interact with into what Google
+calls Circles.
+
+****** Network of Devices 
+
+You will have Circles for interacting with all of the network aware
+devices that you own or control.
+
+****** Proximity
+
+Proximity -- when I am in Hong Kong, my circles are going to be very
+different from when I am in Udon or in San Diego.  When you are on
+holiday, you will have a very different set of temporary ties, and may
+even establish short term strong and weak ties as well which will fade
+and more often than not disappear as soon as you go back home.  The
+same is true with time -- you might end up talking with some people at
+different times of day because they are morning people, or because of
+working hours or time zones.
+
 

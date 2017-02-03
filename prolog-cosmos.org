@@ -59,8 +59,6 @@ from now our understanding of the universe will not so much invalidate
 what we understand today as much as open a broader understanding that
 could well be as bizzare as Quantum mechanics.
 
-
-
 * It From Bit
 
 #+begin_quote
