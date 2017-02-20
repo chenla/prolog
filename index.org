@@ -58,6 +58,46 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Why?
 
+This doesn't belong in the intro, but it is deserving of at least a
+full chapter because people keep coming back to it over and over.
+
+Why are people so scared of exploration today?  I don't understand --
+when the world was much bigger than it is today, and there were still
+large forgotten swaths of the earth that hadn't been explored in many
+millennia[fn:1], such expeditions were celebrated as being one of the most
+noble of pursuits that one could pursue.
+
+Now climbing Everest or reaching the South Pole are just items on
+bucket lists and called /extreme sports/.
+
+People scream bloody murder when spending even a tiny fraction of what
+is spent every year on arms, the military and surveillance.  In 2014
+Americans spent [[http://www.cbsnews.com/news/americans-spent-a-record-56-billion-on-pets-last-year/][$56 billion]] on pets.  In the same year the Defense
+budget was $3.64 Trillion.  Compare that to and NASA's budget was a
+little over $17 billion, less than a third of what was spent on cats,
+dogs and the odd goldfish or turtle.
+
+
+
+The argument I will make is that our species has only one way forward
+-- into and throughout the solar system or perish.  Mankind has never
+solved it's problems by staying home.  We tend to turn petty and short
+cited and squabble all the while fouling our bed.  In one respect, the
+image of Mankind polluting the entire solar system is distressing.
+It's not some noble pursuit, it's not in search of a Utopia, and it's
+not turning our backs on Earth -- far from it.  In fact this is the
+only way we can redeem our wretched behavior on this planet.
+
+Europeans left the Old World to establish themselves in the so called
+New World, which was certainly not new to the inhabitants that they
+displaced.  The Old World's carrying capacity was straining under the
+population, and there certainly wasn't much pleasant in the great
+cities of London or Paris -- they were fetid caldrons of filth,
+disease with a high incendinary index -- which is finally what cleaned
+them out.  But as European civilization established itself on the
+bones of two continents that had been all but wiped out by small pox
+in the Americas and inflicted
+
 
 ** Against
 
@@ -123,7 +163,7 @@ like human exploration and colonization.
   - [[https://www.youtube.com/watch?v=YH3c1QZzRK4][Wanderers]]  | YouTube
   - [[https://en.wikipedia.org/wiki/Pale_Blue_Dot][Pale Blue Dot]]  | Wikipedia
   - [[http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html][A Pale Blue Dot]] | The Planetary Society
-  - [[https://www.youtube.com/watch?v=p86BPM1GV8M][Carl Sagan - Pale Blue Dot]] | YouTube
+  - [[https://www.youtube.com/watch?v=p86BPM1GV8M][Pale Blue Dot]] | YouTube
   - [[http://www.teslarati.com/yes-deserve-colonize-mars-keep-light-consciousness/][Yes, we deserve to colonize Mars and keep our “light of
     consciousness”]] | Teslarati
   - [[https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa/][Why Explore Space? A 1970 Letter to a Nun in Africa]] 
@@ -148,4 +188,23 @@ like human exploration and colonization.
  - [[./prolog-pace.org][Pace Layers]]
  - [[./prolog-scope.org][Scope]]
  - [[./prolog-transactive.org][Transactive Nature]]
+
+* Footnotes
+
+[fn:1] Our ancestors managed to explore and settle the vast majority
+of the habitable regions of the planet in ages long past when
+Mammoths, Giant Sloths and the Saber Toothed Tiger roamed the
+grasslands of North America and Asia.  They interbred with close
+relatives, the Neandrthal and Cro Magnon.  Their astonishing
+achievement is manifest in the world we live in today, though they
+left little evidence of their passing except through the occasianal
+burial site or artifact and the mitochondrial DNA, a record passed
+from female to female throughout the generations that resides in each
+one of us.
+
+It's commonly claimed by so-called aboriginal people's from around the
+world that /they/ were first.  The nomads who first explored the
+planet predate any human culture by thousands of years.  They are the
+ancestors of all humans who came out of Africa and spread across the
+world in three successive stages.
 
