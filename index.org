@@ -120,21 +120,22 @@ like human exploration and colonization.
 
 
   - [[https://www.youtube.com/watch?v=ffUnNaQTfZE&t=1030][Supertasks]] | YouTube
-  
+  - [[https://www.youtube.com/watch?v=YH3c1QZzRK4][Wanderers]]  | YouTube
   - [[https://en.wikipedia.org/wiki/Pale_Blue_Dot][Pale Blue Dot]]  | Wikipedia
   - [[http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html][A Pale Blue Dot]] | The Planetary Society
   - [[https://www.youtube.com/watch?v=p86BPM1GV8M][Carl Sagan - Pale Blue Dot]] | YouTube
   - [[http://www.teslarati.com/yes-deserve-colonize-mars-keep-light-consciousness/][Yes, we deserve to colonize Mars and keep our “light of
     consciousness”]] | Teslarati
 
-
-*** Wanderers
+*** Carl Sagan Tribute Series
 
 [[http://www.industrytap.com/wanderers-tormented-everlasting-itch-things-remote/24997][Wanderers Tormented with an Everlasting Itch for Things Remote]] | Industry Tap
 
 - i [[https://www.youtube.com/watch?v=Qfm0GCvsIVA][  A Universe Not Made For Us]] | YouTube
 - ii  [[https://www.youtube.com/watch?v=E6kStH-LXgI][Consider Again That Pale Blue Dot]] | YouTube
-- iii [[https://www.youtube.com/watch?v=YH3c1QZzRK4][Wanderers]]  | YouTube
+- iii [[https://www.youtube.com/watch?v=sKtHR1eUubI][Wanderers]] | YouTube
+
+
 
 
 * Core Patterns
