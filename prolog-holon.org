@@ -105,6 +105,16 @@ No so fast.
 
 * Fnords
 
+#+begin_comment
+
+How does the fnord as outlined below compare to the /meme/ -- memes
+are not true or false in themselves but they have a life of their own.
+
+It would be good to be able to reconcile the two...
+
+#+end_comment
+
+
 For a simple model, this works quite well, but only when you stay at
 the same scale.
 
@@ -256,7 +266,34 @@ A holon is a philosophical concept that was coined by [[https://en.wikipedia.org
 in his 1967 book [[https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine][The Ghost in the Machine]].
 
 
+#+begin_quote
+A holon is a system (or phenomenon) that is an evolving
+self-organizing dissipative structure, composed of other holons, whose
+structures exist at a balance point between chaos and order. It is
+sometimes discussed in the context of self-organizing holarchic open
+systems (or, SOHO systems). A holon is maintained by the throughput
+of matter–energy and information–entropy connected to other holons and
+is simultaneously a whole in and itself at the same time being nested
+within another holon and so is a part of something much larger than
+itself. Holons range in size from the smallest subatomic particles and
+strings, all the way up to the multiverse, comprising many
+universes. Individual humans, their societies and their cultures are
+intermediate level holons, created by the interaction of forces
+working upon us both top-down and bottom-up. On a non-physical level,
+words, ideas, sounds, emotions—everything that can be identified—is
+simultaneously part of something, and can be viewed as having parts of
+its own, similar to sign in regard of semiotics. In 2013 Australian
+academic JT Velikovsky proposed the holon as the structure of the
+meme, the unit of culture, synthesizing the major theories on memes
+of Richard Dawkins, Mihaly Csikszentmihalyi, E. O. Wilson, Frederick
+Turner and Arthur Koestler. Defined in this way, holons are related to
+the concept of autopoiesis, especially as it was developed in the
+application of Stafford Beer to second-order cybernetics and the
+viable system model, but also Niklas Luhmann in his social systems
+theory.
 
+-- [[https://en.wikipedia.org/wiki/Holon_(philosophy)][Holon (philosophy)]] | Wikipedia
+#+end_quote
 
 
 
