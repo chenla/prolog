@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Holons
+#+TITLE: Holons & Fnords
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
@@ -47,4 +47,877 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </div>
 
 * Introduction
+
+Now that we have a model in place -- as I write this, we /don't/ have
+/anything/ in place, but this isn't a linear process now, is it -- we
+have to work out how to build the infrastructure needed to make the
+model possible.
+
+It all comes down to being able to move and manipulate /its/ and
+/bits/.  But the distinction between the physical world of bits and
+information is not what it seems at first.  In the early days of the
+Internet, people called the Internet /cyberspace/ which was virtual,
+and /meatspace/.  It felt, at the time that cyberspace was separate
+and apart from the world where we physically live in.  But this
+distinction is less and less common today.  In the early days most
+people have never used a computer in their lives, and those who used
+computers that were networked together were even more rare.  People on
+the networks tended to be spread very thinly (though not evenly)
+across the planet.  It was rare to have physically met more than one
+or two people in any online forum like Usenet or on a Listserv Mailing
+List.  In many cases you might talk to someone daily for years without
+ever knowing what they looked like, where they live or how old they
+were.
+
+
+ [  *IMAGE of No One Knows You Are A Dog Cartoon* ]
+
+The physical world is only possible because of the flow of information
+that it generates -- and if you follow the turtles all the way down
+you end up observing quantum events which are in essense, binary yes
+or no choices.  Thankfully we don't have to worry too much about
+managing information at the quantum event scales.  But even at human
+scales, managing information can not be separated from matter, energy,
+time and space.  The more our information systems reflect this reality
+the more effective they become. *Huh?*
+
+So what we need first is to establish what the atomic unit will be for
+the system.  Ultimately, all information is binary -- but that's not
+terribly useful, it's like measuring a cup of rice by how many atoms
+are in the cup.
+
+We propose that the system be reduced to two things, /assertions/ and
+/messages/.  An assertion is a statement that we can encode as a
+triple made up of a property list:
+
+#+begin_src emacs-lisp
+  (("name" . "Chasui") ("relationship" . "age") ("years old" . 6))
+#+end_src
+
+Assertations are then collected into mutually exclusive records which
+are messages.  It's important to think of all records to belonging to
+the set "messages".  Messages are created, sent, and recieved.  The
+only difference between a text message and a archival copy of a book
+in a library is that the copy is a message that has been cached
+without a specified recipient.  But at some point either someone will
+retrieve that copy and it will have been recieved or it will be
+destroyed or lost to world.  This is the fate of all information.
+
+That information is dependent on it's surrounding context.  It is
+context, which is made up of shared knowledge between the sender and
+recipient which determines if the recipient sees the message as
+something meaningful or is just noise.  That doesn't mean it is noise,
+it may in fact be structured, but still undecipherable -- so that for
+all intents and purposes it can be treated as noise.
+
+Information theory, as formulated by Claude Shannon and others does
+not include any concept of meaning.
+
+So our definition of a message is very broad and includes everything
+from a the temperature reading on a guage in a steam room, to an
+obtuse poem by Wallace Stevens, to a nasty comment on YouTube to a
+birthday card from your grandmother.
+
+As we mentioned before, messages, in our model are (in theory)
+mututally exclusive, and contain a complete thought, or represent a
+fact or concept, in that they can not be divided into two or more
+messages.  We can then combine multiple messages into linear and
+hierarchical or even rhizomatically linked groups to become other
+things.
+
+Essentially everything is a /holon/ -- which can be seen in one
+context as a self-contained whole, and from another perspective as a
+part of a larger whole.
+
+The message then is a holon and the holon becomes our atomic unit.  A
+message is made up of one or more assertions, statements or facts.  An
+assertion is not a message, but must be encoded in a message.  An
+assertion that is made, stored or sent and then eventually recieved or
+read is a message.  An assertion can be encoded in an infinite number
+of messages.
+
+We now have the basic building blocks from which the civilization that
+we have made in our model can be built.
+
+Messages and assertations need to checked to see if they are free of
+errors when being sent and then if the assertations in the message are
+reliable -- in otherwords true.
+
+** Corruption aka noise aka errors aka 4%t08^w*4e;j
+
+When you transmit something you are making a copy.  That copy may only
+need to go from a USB drive to a Hard disk on a laptop, or could be
+something like the Rosetta Stone which has managed to send a message
+in multiple languages -- one of which, Egyptian hieroglyphics that had
+been forgotten when it was unearthed.  The Rosetta Stone succeeded in
+sending it's message because it was encoded in multiple languages, by
+added redundancy that made it more resiliant.
+
+Everything from Morse Code to TCP/IP is all about dealing with
+transmission/copying errors and correcting for noise, for corruption.
+
+** Truth
+
+#+begin_quote
+There are trivial truths and there are great truths.  The opposite of a
+trivial truth is plainly false.  The opposite of a great truth is also
+true.
+
+-- Neils Bohr
+#+end_quote
+
+
+#+begin_verse
+The truth is hard.
+The truth is hidden.
+The truth must be pursued.
+The truth is harder to hear.
+The truth is rarely simple.
+The truth isn't so obvious.
+The truth is necessary.
+The truth can't be glossed over.
+The truth has no agenda.
+The truth can't be manufactured.
+The truth doesn't take sides.
+The truth isn't red or blue.
+The truth is hard to accept.
+The truth pulls no punches.
+The truth is powerful.
+The truth is under attack.
+The truth is worth defending.
+The truth requires taking a stand.
+The truth is more important now than ever.
+
+-- The New York Times Advertisment 2017
+   [[http://thehill.com/media/320787-new-york-times-launches-major-ad-campaign-the-truth][New York Times launches major ad campaign: 'The Truth']] | TheHill
+#+end_verse
+
+
+In many cases, truth somewhat falls short of being absolute.  This is
+the reality of complexity -- complex systems can be described but
+nevery absolutely defined.
+
+In Science there are Laws and Theorys -- a Law is absolute, a theory
+has not been yet proved to be absolute.  There are many theories which
+are accepted as being as absolute, such as the theory of evolution --
+but because evolution can never be defined as cleaning as say the
+Second Law of Thermodynamics, it will most certainly be a Law in the
+forseeable future.
+
+It is important that we make the effort to determine what assertions
+are more true than others because this is the only rational means of
+making decsions.  The act of taking in information about what has
+changed around you, determining what happened, if it is true or not
+before making a decision is how we survive from minute to minute.
+This is the process used to cross a busy street, to eat or not to eat
+the leftover curry that has been sitting forgotten in the fridge since
+the New Years party and has a number of things growing in it which may
+or may not be classifiable as a new form of intelligent life.
+
+So determining how reliable, or the confidence level we have that any
+particular assertation is true is important.  In fact that it is the
+single most important thing we do as living creatures.  This needs to
+be at the very core of all information system -- and sure enough, in
+human cognitive processes, pattern recognition is made using a
+hierarchical system of pattern matchers -- when a pattern matcher
+looks at something, it tells the matchers in the levels above and
+below if there is a match, or not a match and how certain it is of it
+being a match or not.
+
+Determining if something is true is broken down into two parts,
+/authentication/ and /authorization/, which most people associate with
+logging into online services, or withdrawing money from a bank
+account.  The principle is the same.  When you log into your account
+on Google, you must present the system with a means of identifying and
+demonstrating that you are who you say you are /authtication/, and
+then Google checks this information against it's records and grants or
+denies you access to your account.
+
+By applying this process to any assertation we can determine the level
+of confidence that we have in the truth of an assertation or not.
+
+Before we go any further we need to address another thorny issue --
+trust.
+
+Because authentication and authorization is difficult, in almost all
+mechanisms that determine truth, we use /trusted/ agents that used to
+authenticate and authorize on our behalf.  We use banks as go-betweens
+to transfer funds that are trusted by both parties.  Trusted libaries
+are used to compile databases of /authorities/ which are used to match
+authors to works that claim to be their works.  Wikipedia is quickly
+becoming one such /authority/.  In Western democracies, a Free Press'
+role is to provide information about what a government is using that
+is independent of what the government is telling people.  This only
+works when the Press is trusted.  When people are bombarded by
+propaganda, and dissinformation by governments or groups who are
+trying to promote an ideology or gain power, that trust breaks down
+and the role of the Press is undermined.  This is what has happened in
+the United States over a twenty year period by one political party
+which lead to the election of Donald Trump.  Once that trust has been
+destroyed, it creates a vacuum that threatens to destroy functional
+societies.  This is a poor strategy because the groups who undermine
+such trust historically don't stay in power for very long, because
+without a foundation of information that can be trusted they have lost
+all of their credibility and have hurt themselves as much as their
+opponents.
+
+This is why it's so interesting that BitCoin and its great innovation
+the /blockchain/ was invented during this period of large scale
+disinformation and errosion of trust in the truth of assertations that
+have been made.
+
+
+             *SECTION On How BitCoin Works*
+
+
+The blockchain provides us with a means of establishing certainty
+between two parties even if neither party trust the other.
+
+A bitcoin transaction is trusted because of the blockchain mechanism
+is not only trusted but transparent and verifiable.  This moves trust
+outside of human institutions which are, by definition, fallible.
+There is now an enormous amount of effort being made in a large number
+of fields and industries to apply blockchain concepts to things which
+have nothing to do with currencies, finance or transactions.
+
+
+** Provenance
+
+[[https://en.wikipedia.org/wiki/Provenance][Provenance]] - Wikipedia
+
+Provenance is the chain or chronoology of the ownership, custody or
+location of a historical object.
+
+The idea is simple -- and it works like the /duck/ principle.  If
+something looks like a duck, quaks like a duck and walks like a duck,
+it's probably a duck.
+
+The provenance of an object is something where a number of true
+statements have been collected that provide evidence that the object
+is what it is claimed to be.
+
+The more verifible facts that can be collected about the object the
+greater the confidence that one has in it's authenticity.
+
+This principle applies to many things in our lives, and is the primary
+method used to authenticate anything.  This is why it is common to
+demand that two forms of identification that includes a picture be
+produced to authenticate that a person is who they claim to be.
+
+Two factor authorization is a fairly new wrinkle but is no different
+-- the more verifible or trusted facts that can be presented, the
+higher the confidence level is that what is being claimed is true.
+
+** Primary Sources
+
+  - [[https://en.wikipedia.org/wiki/Primary_source][Primary source]] | Wikipedia
+
+Verification (authentication) of assertations can be made using a
+combination of /primary/ and /secondary/ sources.
+
+
+#+begin_quote
+A history, whose author draws conclusions from other than primary
+sources or secondary sources actually based on primary sources, is by
+definition fiction and not history at all.
+
+— Kameron Searle
+#+end_quote
+
+
+For verification of a name primary documents such as birth, death,
+baptism, marriage and death certificates, offical identification
+credentials such as passports and drivers licences may be used.
+
+-------
+
+
+Determining if something is a primary or secondary source is largely
+determined by context.
+
+A review of a book treats the text of the book as a primary source for
+the review, but the reviewed book in turn might be based on any number
+of other primary sources which are then based on other primary sources
+etc.
+
+For example, William Caxton used Sir Thomas Mallory's text as a
+primary source for /Le Morte Dr Arthur/ which was as much Caxton's
+work as it was Malory.  Malory's orginal text which survives in the
+Winchester Manuscript was in turn based on a great many different
+older texts by other, mostly unknown authors.
+
+In other words, as in so many other things, it's turtles all the way
+down.
+
+*** Wikipedia's Prime Directive
+
+ - [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][Wikipedia:No original research]] | Wikipedia
+
+Just as the crew of the Starship Enterprise was constrained by the
+[[https://en.wikipedia.org/wiki/Prime_Directive][Prime Directive]], Wikipedia is constrained by three core principles
+that apply to all content: a) [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][Neutral point of view]] of view, b) [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][No
+original research]] and c) [[https://en.wikipedia.org/wiki/Wikipedia:Verifiability][Verifiability]].
+
+We are concerned here with /no original research/ which disallows
+direct use of primary source material in articles.
+
+Their argument is that Wikipedia is an encyplopedia that is a summary
+of existing thought, not original thoughts or ideas. So all
+assertations in Wikipedia must point to secondary sources.
+
+#+begin_quote
+In general, the most reliable sources are:
+
+  - Peer-reviewed journals
+  - Books published by university presses
+  - University-level textbooks
+  - Magazines, journals, and books published by respected
+    publishing houses.
+  - Mainstream newspapers
+#+end_quote 
+
+This is how encyclopedias are supposed to be compiled.  But these
+limitations, that are critical to establishing an encyclopedia as
+being authoritative, does not always apply to other types of works.
+
+Authority records are one of them.
+
+
+
+** Chain of Custody
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+
+A chain of custody can be part of establishing provenance or any
+evidence that is used to establish the veracity of an assertation.
+
+#+begin_quote
+Establishing chain of custody is made of both a chronological and
+logical procedure, especially important when the evidence consists of
+fungible goods. In practice, this most often applies to illegal drugs
+which have been seized by law enforcement personnel. In such cases,
+the defendant at times disclaims any knowledge of possession of the
+controlled substance in question. Accordingly, the chain of custody
+documentation and testimony is presented by the prosecution to
+establish that the substance in evidence was in fact in the possession
+of the defendant.
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+#+end_quote
+
+Once a fact has been established -- with assertations that are linked
+to primary sources we need to established these as a chain of custody.
+Links to sources must include a hash of the source and recorded in the
+blockchain -- this ensure that records have not been tampered with.
+
+Actually it doesn't do that -- it is still possible to tamper with
+records, but to do so means going back and changing so many things
+that are dependent on each other that the cost of tampering exceeds
+the benefit or resrouces availble to do so.
+
+** LOC Authority Records
+
+ - [[https://www.loc.gov/marc/authority/][MARC 21 Format for Authority Data]] | MARC Standards, LOC
+
+
+#+begin_quote
+Traditionally, the purpose of authority control has been to bring
+consistency to library catalogs.  The authority control process is
+directed at the access points contained in catalog records i.e.,
+names, titles, and subjects.  It ensures that these access points are
+unique and consistent in in content and form, and provides a network
+of linkages for variant and related headings in the catalog.
+Reference to an authority file maintains consistency in controlled
+access points, while cross-references and the adjacent display of
+identical access points have been the primary methods used to
+accomplish the neccessary linkages in the catalog.
+
+-- [[bib:vellucci:2011metadata][Metadata and authority control]] | Sherry Vellucci
+#+end_quote
+
+
+#+begin_quote
+The MARC 21 Format for Authority Data is designed to be a carrier for
+information concerning the authorized forms of names, subjects, and
+subject subdivisions to be used in constructing access points in MARC
+records, the forms of these names, subjects, and subject subdivisions
+that should be used as references to the authorized forms, and the
+interrelationships among these forms. A name may be used as a main,
+added, series, or subject access entry.
+
+-- [[https://www.loc.gov/marc/authority/adintro.html][MARC 21 Format for Authority Data: Introduction]] | MARC, LOC
+#+end_quote
+
+The now ubiquitious hypertext link that makes the Web, the Web links
+everything to everything, but does not have any mechanism to determine
+what links relate to what persons, places, works or concepts.  An
+authority record is used to distinquish Apple (fruit) from Apple
+(Consumer Electronics Company)[fn:3]
+
+** Facts
+
+Assertations -- which are determined to have a high confidence level
+that they are true are called /facts/.
+
+That said, there are not facts in isolation -- a fact is a network of
+assertations that are by consenus, considered to be true within a
+given context.
+
+Let's take a simple assertation from a beloved piece of literature:
+
+#+begin_center
+"Marley was dead."
+#+end_center
+
+Most of us would think that such a simple assertation would be
+straight forward, but this is Charles Dickens, who was being paid by
+the word...
+
+#+begin_quote
+Marley was dead, to begin with. There is no doubt whatever about that.
+The register of his burial was signed by the clergyman, the clerk, the
+undertaker, and the chief mourner. Scrooge signed it. And Scrooge's
+name was good upon 'Change for anything he chose to put his hand
+to. Old Marley was as dead as a door-nail.
+
+Mind! I don't mean to say that I know, of my own knowledge, what there
+is particularly dead about a door-nail. I might have been inclined,
+myself, to regard a coffin-nail as the deadest piece of ironmongery in
+the trade. But the wisdom of our ancestors is in the simile; and my
+unhallowed hands shall not disturb it, or the Country's done for. You
+will, therefore, permit me to repeat, emphatically, that Marley was as
+dead as a door-nail.
+
+-- A Christmas Carol | Charles Dickens
+#+end_quote
+
+We have already, in two short paragraphs, established a formidible
+case for the establishment of the truth of Marley's death.
+
+The Death Register, which is a government document, as well as being a
+primary source declares Marley's demise.
+
+The Register entry includes evidence that a consensus was reached to
+this assertion.  The consensus was not made in comments on facebook or
+even a blizzard of Tweets, no, it was formed by a number of persons
+who are considered to be, because of their official position, to be
+trusted sources, including a Priest who would have seen Marley's body
+as part of his duties as clergyman and are often thought provide
+trustworthy testimony, a government Clerk whose job is to verify that
+records such as this are composed according to institutional rules,
+practices and perhaps even laws of the City of London.  It was signed
+by the undertaker, who also would be a reliable witness and who had
+extensive experience in knowing if someone was dead or not.  We don't
+really know the veractity of the chief mourner, as this was 19th
+century England and it was common practice to hire mourners,
+especially in the case as someone who was so universally unloved as
+Jacob Marley.  But again, unless the chief mourner had been paid to
+decieve us, it would also be logical to assume that the other
+witnesses would have to been part of some kind of conspiracy.  Such a
+hypothesis does not pass Occums Razor and can be safely discounted.
+And finally Marley's long time partner, E. Scrooge signed the
+document, who, as was mentioned was "good upon 'Change for anything he
+chose to put his hand to".
+
+You might think that it would have been enough to quote the first
+paragraph as being sufficient.  But it's interesting that Dicken's
+went on to state that not only was Marley was dead, but "dead as a
+door-nail" which, I suppose is not only making the statement that he
+is dead, but stating that he was "emphatially" dead, which is not so
+much providing the degree to which he was dead, after all dead is
+dead, just as you can't be a little bit pregnant, it is a binary
+statement -- one is either, dead, or alive.  In the case of Dicken's
+story, it was important to stress this assertation to the reader who
+would find themselves confronting Marley's ghost, in conversation with
+Scrooge only a few pages later.  It was important that the reader
+understood that Marley was dead when he entered Scrooge's bedroom who
+was now a manifestation of the living Marley, now turned into a
+miserable and tortured specter who had been tasked to forewarn his
+partner of old.
+
+Next we come to the interesting thing about irreversible single
+direction state changes -- they are bound by an event that tips the
+state from one to the other.  They are bound by time.  So /when/ the
+statement /Marley was dead/ was asserted, determines if the assertion
+is true or not.
+
+Dicken's used the word /was/ and not /is/ because the story was told
+using the third person, so everything in the story happened in the
+past.  The statement can only be judged true if it was made after he
+died, and would not be true if it was made while he was alive.  This
+is actually quite important, Paul McCartney of the Beatles found in
+1966.[fn:5] So, we would assume that the death register would record
+some other details, including the date and perhaps place and cause of
+his death.
+
+Next, Dickens assumed that we have a general consensus of what
+constitutes death as opposed to the more recent concept of [[https://en.wikipedia.org/wiki/Clinical_death][clinical
+death]].  Death is the point after which something can no longer be
+revived.  For humans, unless there is some breakthrough in cryogenic
+suspended animation, it is quite short.  However, some creatures such
+as the hardy little [[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to [[http://www.bbc.com/earth/story/20150313-the-toughest-animals-on-earth][revive]]
+after being frozen for hundreds of years.
+
+I mention this because when thinking about facts that are true over
+very long time frames, even the most rock-solid concepts like death
+might change quite radically in the distant future.  We can not take
+cultural assumptions of our time and apply them to others.
+
+    *Continue to talk about assumptions about Proper names, computer
+    understandable vs human understandable and then put it all
+    together into an example of all the information needed for the
+    statement Marley was Dead to be true.*
+
+    This section will need to be moved to the end -- as a means of
+    putting together everyhing -- from assertation to truth and
+    belief, chain of custody etc.
+
+** Consensus
+
+  - [[https://en.wikipedia.org/wiki/Wikipedia:Consensus][Wikipedia:Consensus]] | Wikipedia
+
+Consensus is a /process/ which is completed, it is not absolute, it
+will always be a snapshot -- consensus can change depending on how the
+surrounding context changes.
+
+
+#+begin_quote
+Consensus decision-making is a group decision-making process in which
+group members develop, and agree to support a decision in the best
+interest of the whole. Consensus may be defined professionally as an
+acceptable resolution, one that can be supported, even if not the
+"favourite" of each individual. Consensus is defined by
+Merriam-Webster as, first, general agreement, and second, group
+solidarity of belief or sentiment. It has its origin in the Latin word
+cōnsēnsus (agreement), which is from cōnsentiō meaning literally feel
+together. It is used to describe both the decision and the process
+of reaching a decision. Consensus decision-making is thus concerned
+with the process of deliberating and finalizing a decision, and the
+social, economic, legal, environmental and political effects of using
+this process.
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+Consensus is /not/ a /majority/, or /unanimity/
+
+
+#+begin_quote
+As a decision-making process, consensus decision-making aims to be:
+
+  - Agreement Seeking :: A consensus decision making process attempts to
+    generate as much agreement as possible.[2]
+  - Collaborative :: Participants contribute to a shared proposal and
+    shape it into a decision that meets the concerns of all group
+    members as much as possible.[3]
+  - Cooperative :: Participants in an effective consensus process should
+    strive to reach the best possible decision for the group and all
+    of its members, rather than competing for personal preferences.
+  - Egalitarian :: All members of a consensus decision-making body
+    should be afforded, as much as possible, equal input into the
+    process. All members have the opportunity to present, and amend
+    proposals.
+  - Inclusive :: As many stakeholders as possible should be involved in
+    the consensus decision-making process.
+  - Participatory :: The consensus process should actively solicit the
+    input and participation of all decision-makers.[4]
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+
+
+
+The term consensus has changed over time, and it is often wrongly used
+to indicate other things like 
+
+
+*** Truth by Consensus
+
+  - [[https://en.wikipedia.org/wiki/Truth_by_consensus][Truth by consensus]]  | Wikipedia
+
+Consensus is a poor way of arriving at truth in itself.
+
+
+** Belief
+
+:TL;DR: this section should paint belief as a tricky beast
+-- in one respect can seen as having confidence in a world
+model.  But when beliefs continue to be held that are
+contrary to newer models that have replaced them we become
+increasingly dysfunctional. This is important because
+determining if something is or is not a fact never has an
+end, change one thing, and everything else changes relative
+to it.  A fact in classical Athens might be very different
+from a fact in 19th Century Tokyo that could be very
+different from 21st Century Phnom Penh.  So it is just as
+important to establish facts as it is to establish what the
+context was for it to be a fact.  As contexts change, so is
+what is excepted as facts and our belief in them.
+
+
+
+
+
+#+begin_quote
+Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t believe
+impossible things.’
+
+‘I daresay you haven’t had much practice,’ said the Queen. ‘When I was
+your age, I always did it for half-an-hour a day. Why, sometimes I’ve
+believed as many as six impossible things before breakfast.”
+
+― Lewis Carroll
+#+end_quote
+
+If you don't, at any given time of the day, hold in your head any
+number of contradictory, foolish, incorrect, dangerous and even down
+right impossible things then you are not human.
+
+It's all we can do, to take in sensory information and construct a
+model of what's going on outside our heads that doesn't get us killed.
+That in itself is a remarkable achievement.  Human cognition is a
+messy business and we might as well accept that the best we can do is
+work around it those limitations, for our own sake and well as others.
+
+This does not give us licence to believe anything that pops into our
+heads.  Our survival as individuals and as a species depends on us
+getting it right more often than we get it wrong.  As soon as you
+willfully decide to believe in things which are empirically and
+obviously not true you start sliding down a water park ride with no
+water at the bottom to break your fall.
+
+Belief does not make a thing real or true.  But the further beliefs
+that contradict objective empirical reality, the more disfunctional we
+become as individuals and societies.
+
+What constitutes empircal reality is relative to the empirical
+evidence we have at any given time. Beliefs that are patently wrong
+today were at one time the best guess that the brightest people at the
+time could come up with.
+
+The earth was at the center of the universe, and then the solar
+system, and then of course it wasn't.  It's not that before Copernicus
+that the Sun actually revolved around the earth, but for all practical
+purposes, to the people who believed it, it was.  But once Copernicus
+improved the model of the world to better fit what was observed, it
+became true, until it wasn't and Galileo came along with his bloody
+telescopes that upset the Roman Catholic Church so much that he was
+not officially forgiven until the 20th century.
+
+You do the best to create a model of the world and how it works with
+what you have at hand.  It's perfectly fine to base beliefs and make
+descions based on those models.  But once that model has been replaced
+with a better model, then hanging on to those older beliefs is not
+sane and lowers your chance of survival.
+
+An outmoded belief that is being kept around is an ideoology --
+ideologies often start off as perfectly good models of the world.  But
+ideologies attempt to freeze a model and insist that it can not be
+improved or altered.  At this point, as one would say in a version
+control system, that the main branch had been forked and over time
+became increasingly out of sync with the main branch.
+
+We as individuals and as societies are constantly telling ourselves,
+our children and our neighbors all sorts of nonsense.  Newborn babies
+are delivered by storks, an archetypal minor diety comes into your
+bedroom in your sleep and replaces a fallen tooth with hard
+currency.[fn:4]
+
+If someone hears voices or believes that they are talking to a giant
+rabbit named Harvey is seen as evidence of a mental break with
+reality.  But going to a large building and praying to something that
+you have been told exists but hasn't left any material evidence of
+it's existence is considered perfectly sane.  But only if you don't
+act on those beliefs in similar ways that xxxxx acted when he talked
+to Harvey.  We are expected to pay lip service to our beliefs, but
+acting on them is another thing.
+
+These beliefs are vanquished as one grows up, but other preposterous
+beliefs are only reinforced, the world was created in 6 days less than
+ten thousand years ago.  A flood covered the entire planet for xx
+days, to a height of xxx feet, but there is no explanation for where
+the water came from or where it went afterwords.  And all species of
+animals that exist today survived the flood in a wooden boat that
+wouldn't even rate as a small cruise liner today.  The animals that
+didn't make it onto the boat, dinosaurs and the like, perished.
+Beliefs like these are expected to be believed literally, though
+people are not expected to actually live as if these things actually
+occured because they would die.
+
+Then there are lesser beliefs that persist though they have long been
+debunked.  Eating carrots gives you 20/20 eyesight, reading in poor
+lightings damages your eyesight,
+
+and pretty much anything good that people believe about
+Donald Trump.
+
+
+--- I remember reading a book on UFOs in the 1970's that had a
+wonderful comment to the effect, that "the interior of all alien space
+craft looked like the interior of a '57 Buick"
+
+
+** Importance
+
+the only way to establish a fact-based society is to be so deadly
+serious that no one will take you seriously
+
+it can only work with /no/ venture capital
+
+it can't be taken seriously until it hits that tipping point and then
+there is no turning back -- everyone will be stuck with it
+
+next -- everyone pays -- that currencies that are not based on
+something of value are instead based on belief for their value.  Gold
+and silver was a terrible thing to base value on because in the end
+it's just a shiny soft metal which has not intrinsic worth except for
+it's rarity.  The ancient greeks used olive oil at least as a time as
+a kind of currency -- which at least is a commodity.  We need
+something that is not reversible, and consumed completely.  You might
+be able to resell used oil, and oil comes in any numbers of different
+kinds of quality...  not good.
+
+But energy is something that could work -- you perform work to produce
+it (which indirectly is all nuclear -- or at least capture and store
+it - batteries, oil, gas, sugars etc.).  If you do useful work
+measured in the amount of energy used or generated -- that generates
+tokens.  If you consume energy or things or services that are created
+with energy, you destroy tokens.  There is no exchange, but it
+functions as if there is.
+
+This is how the fnord-chain will work -- a fnord is a verified fact
+that is recorded in the fnord-chain.  A fnord is a fact within the
+context that it is true -- if the context changes, then it may or may
+not be still true, but it was true in that previous context.  That's
+why we call it a fnord -- because a fnord is a conceptual probability
+cloud of all possible contexts where something could be true in any
+number (but not finite) of different ways.  In a fnord nothing and
+everything is both true and false.  But if you observe it, it will
+appear as either true or false according to the context that it was
+observed in.  In this way a fnord encompasses all /possible/ universes
+-- the possible part is important, which makes it a subset of all
+universes, because it requires a causal chain.  Causality is the only
+real thing that limits a fnord.  And tracing causal chains in a
+fnord-cloud is what the fnord-chain does in a way that doesn't require
+trusted third-parties as authorities.  The fnord-chain is a rhizomatic
+mesh of casual chains that estabish a sub-set of possible facts and
+lies.
+
+------
+
+the truth -- evidence-based truth is at the heart of criminal justice
+systems, science, and attempts at goverance that is not flat out
+trying to fuck you over.
+
+facts are the one thing we can agree on, because they are based on
+something that everyone can point to and see and hear and touch and
+scream at it and won't go away, doesn't fade or loose it's shine or
+that new car smell.  Facts are all we have. Facts are the only thing
+we have that allows us to get along without murdering each other, to
+death or worse.  There is no truth that is not based on facts, there
+is no truth in what you feel, or believe or hope or dream, imagine or
+halucinate.  If you step into an empty elevator shaft on the 36th
+floor or a building (and many other floors of higher and lower
+elevations) in a gravity well, you will fall to your death at the
+bottom of the shaft.
+
+
+----
+
+Bitcoin's blockchain made it possible for trustless transactions.
+The block chain has had impeccable timing -- the institutions that
+make civilization and functioning societies possible work can only
+work when the rate of change and flow of information is within
+thresholds which we don't yet know -- but it would seem that we are
+rapidly approaching them.
+
+This is crazy complicated -- and is closely tied to the maximum
+amounts of change and information that humans can process in any given
+period of time and still be able to function.
+
+We have relied on local, regional and global financial institutions to
+provide an infrastructure for trusted transactions.  But the speed
+that transactions can take place (measured now in millionths of a a
+second) has outpaced the ability for the governance layer to be able
+to police and act as a check on commerce.  All the power is shifting
+to the few that have access  to computational power and network speeds
+that are literally beyond human comprehension.
+
+This is only the beginning -- because, as we are all aware, money is
+nothing more than information.  So whatever happens with money and
+transactions will quickly spill over and encompass any and every kind
+of information.
+
+We, as individuals are grasping at smoke, that constantly shifts,
+defying solidity.  The basic information that we need to survive as
+individuals and as a civilization is increasingly in the hands of a
+tiny percentage of people.  We're all living in a Philip K. Dick novel
+where we don't know what is real, or even who or what we are.  It's
+telling that the idea that the universe is a simulation, like in the
+Matrix film Trilogy films, is actually so close to being plausible,
+that an increasing number of the brightest scientists on the planet
+feel the need to weigh in on the question, when the existence of God
+barely elicits a shrug anymore.... Even PKD didn't see that one
+coming.
+
+We need facts and truth to scale to global industrial scales -- so
+that no matter how many facts are asserted; not millions, or billions
+but trillions just for starters, that we have a trustless framework
+for determining what assertions are facts which we know within a range
+of certainty are true or not.
+
+   Ebola is scary as hell, but it will never wipe us all out because
+   it incubates too fast.  Trump is the Ebola of truth -- there are
+   groups around the world, over the past thirty years who have
+   quietly and systematically undermined the collective grasp of what
+   is true. There have always been people and groups who have tried to
+   do this, but technology as made it possible to refine and roll out
+   these techniques on a scale that few comprehend, even to those who
+   are doing it.  Trump is so inept and patently dimwitted that his
+   attempts to use these same techniques are seen for what they are.
+   It is hoped that this is the crack in the seawall that will
+   eventually bring it all down and level the playing field for
+   everyone.
+
+That sounds like a tall order, but it's not -- that's what our brains
+are doing constantly, looking for patterns and determining if they
+match or not and their level of certainty.  We just need to
+externalize, network and scale it so that the Web is no longer a
+semi-structured pile of steaming information, but a pillar of
+interconnected facts that weave all of that information into something
+that we can trust and rely on even though we don't trust anyone....
+
+----
+
+EVERYTHING depends on facts that people trust and believe in.
+
+The assertion spew:
+
+  - The Internet of Things
+  - Social Networks
+  - Transactions
+  - Business, Government etc
+  - Contracts, Laws
+
+* Footnotes
+
+[fn:5] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
+where people throughout history have claimed to be Kings and Popes who
+had previously died.  Coming back from the dead was actually a fairly
+common claim, which puts Biblical claims into an interesting context
+when people of later ages were told of the resurrection of Jesus as
+being a singular event, when in fact at least through medieval times,
+such a claim barely raised an eyebrow...  Today, such claims still are
+made in the guise of popular fiction and culture which are dim echos
+of common beliefs held to be true in past ages.
+
+[fn:4]  Which would become difficult if everyone used bitcoins.  It
+/would/ make for a very interesting blockchain.
+
+[fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a company
+producing general purpose computers to a consumer lifestyle
+electronics manufacturer.  Some products are still protected by a
+[[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word) and protective /wards/
+(copyright) that gives them the appearance of being computers.
 
