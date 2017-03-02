@@ -1,4 +1,4 @@
-#   -*- mode: org; fill-column: 60 -*-
+#   -*- mode: org; fill-column: 70 -*-
 #+TITLE: Holons & Fnords
 #+STARTUP: showall
 #+PROPERTY: filename
@@ -48,50 +48,17 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
-Now that we have a model in place -- as I write this, we /don't/ have
-/anything/ in place, but this isn't a linear process now, is it -- we
-have to work out how to build the infrastructure needed to make the
-model possible.
-
-It all comes down to being able to move and manipulate /its/ and
-/bits/.  But the distinction between the physical world of bits and
-information is not what it seems at first.  In the early days of the
-Internet, people called the Internet /cyberspace/ which was virtual,
-and /meatspace/.  It felt, at the time that cyberspace was separate
-and apart from the world where we physically live in.  But this
-distinction is less and less common today.  In the early days most
-people have never used a computer in their lives, and those who used
-computers that were networked together were even more rare.  People on
-the networks tended to be spread very thinly (though not evenly)
-across the planet.  It was rare to have physically met more than one
-or two people in any online forum like Usenet or on a Listserv Mailing
-List.  In many cases you might talk to someone daily for years without
-ever knowing what they looked like, where they live or how old they
-were.
-
-
- [  *IMAGE of No One Knows You Are A Dog Cartoon* ]
-
-The physical world is only possible because of the flow of information
-that it generates -- and if you follow the turtles all the way down
-you end up observing quantum events which are in essense, binary yes
-or no choices.  Thankfully we don't have to worry too much about
-managing information at the quantum event scales.  But even at human
-scales, managing information can not be separated from matter, energy,
-time and space.  The more our information systems reflect this reality
-the more effective they become. *Huh?*
-
-So what we need first is to establish what the atomic unit will be for
-the system.  Ultimately, all information is binary -- but that's not
+We first need to establish what the atomic unit will be for the
+system.  Ultimately, all information is binary -- but that's not
 terribly useful, it's like measuring a cup of rice by how many atoms
 are in the cup.
 
-We propose that the system be reduced to two things, /assertions/ and
-/messages/.  An assertion is a statement that we can encode as a
-triple made up of a property list:
+As a thought experiment, let's define a system that can be reduced to
+two things, /assertions/ and /messages/.  An assertion is a statement
+that we can encode as a triple made up of a list:
 
 #+begin_src emacs-lisp
-  (("name" . "Chasui") ("relationship" . "age") ("years old" . 6))
+  '("Chasui" "age" 6)
 #+end_src
 
 Assertations are then collected into mutually exclusive records which
@@ -125,6 +92,70 @@ messages.  We can then combine multiple messages into linear and
 hierarchical or even rhizomatically linked groups to become other
 things.
 
+Messages and assertations need to checked to see if they are free of
+errors when being sent and then if the assertations in the message are
+reliable -- in otherwords true.
+
+So we now have our model that gives us the basic building blocks from
+which the civilization that we have made in our model can be built?
+No so fast.
+
+
+
+
+* Fnords
+
+For a simple model, this works quite well, but only when you stay at
+the same scale.
+
+Our example above:  /Chasui's age is 6/ doesn't help us define
+what a Chasui is, or what is a year.  So let's turn our triple into a
+property list, that provides keys for each value in the triple:
+
+#+begin_src emacs-lisp
+  (("name" . "Chasui") ("relationship" . "age") ("years" . 6))
+#+end_src
+
+So now we know that Chasui is a name, that age is a relationship and
+the value 6 is in years.  This is better, and this kind of a property
+list can be used to create some very powerful data structures.  Graph
+databases are built using property triples.
+
+But the keys are just strings -- they may or may not meaning anything.
+What is a "name", "relationship", "age" or "year"?  In traditional
+key-value pairs, these keys are indeed no more than strings.  They are
+not required to be defined in a schema beyond the data structure that
+they are part of.
+
+This might not sound important at first, after all we all know what a
+"name" is.  Humans who are English speakers who live at this time in
+history will know what a name is, but will software that reads the
+statement see it as anything more than a string?  Or for that matter,
+what if it is read in the distant future by people who have never
+heard about English?
+
+The problem is that there is no way of knowing if this statement is
+true or not.  So we don't know if this statement is fact, fancy,
+fiction or a falsehood.  This is because the statement in itself is
+not enough to assertain if the statement is a fact.
+
+So let's first tackle the problem of definitions. Instead of letting
+something like "name" hanging in the air as if it means something, we
+can require that all keys be defined.  A definition is made up of a
+group of assertions that taken together explain what something is. A
+definition can be thought of as placing limitations on what something
+is.  And when we define something, it needs to be both human
+understandable as well as machine understandable.  We can do this by
+applying tests.  A test will take a pattern and compare the pattern to
+what you are trying to identify, if the pattern matches the thing your
+looking at, then that thing belongs to the set of things that has a
+label (which could be a word (string) or other id) that represents
+that set.
+
+
+
+* Holons
+
 Essentially everything is a /holon/ -- which can be seen in one
 context as a self-contained whole, and from another perspective as a
 part of a larger whole.
@@ -136,12 +167,21 @@ assertion that is made, stored or sent and then eventually recieved or
 read is a message.  An assertion can be encoded in an infinite number
 of messages.
 
-We now have the basic building blocks from which the civilization that
-we have made in our model can be built.
 
-Messages and assertations need to checked to see if they are free of
-errors when being sent and then if the assertations in the message are
-reliable -- in otherwords true.
+
+* Evaluating Assertations
+
+Requirements:
+
+  - trustless
+  - tamperproof, or at least highly tamper resistent
+  - scales, from very short to very very long time frames and physical
+    scales.
+  - not require expert training or knowledge to participate
+  - self-sustaining
+  - meet requirements for establishing facts and truth that would be
+    acceptable in most courts of law.
+
 
 ** Corruption aka noise aka errors aka 4%t08^w*4e;j
 
