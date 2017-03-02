@@ -237,10 +237,29 @@ one of each possible, probable or improbable states becomes true or
 false.  And before any [[https://en.wikipedia.org/wiki/Smart_aleck][smart aleck]] butts in with the obvious, if
 something true and false at the same time, then /that/ is true.
 
-
+It is now obvious that there is no such thing as a simple statement
+and that in fact when something is observed and something becomes true
+or false, it still can not be stated as a triple, but rather as a
+rhizomatic mesh of interconnected statements that are the result of
+dynamic processes that are executed that propagates through the mesh
+every time something changes.  Our fnord describes the range of
+posssible states that a mesh can be observed in, but we don't have a
+way of describing those network of assertions in themselves.  For this
+we need a new concept and thankfully we won't have to come up with a
+new word.  A perfectly good, though somewhat obscure, term already
+exists: the holon.
 
 
 * Holons
+
+A holon is a philosophical concept that was coined by [[https://en.wikipedia.org/wiki/Arthur_Koestler][Arthur Koestler]],
+in his 1967 book [[https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine][The Ghost in the Machine]].
+
+
+
+
+
+
 
 Essentially everything is a /holon/ -- which can be seen in one
 context as a self-contained whole, and from another perspective as a
