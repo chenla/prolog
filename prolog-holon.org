@@ -152,6 +152,92 @@ looking at, then that thing belongs to the set of things that has a
 label (which could be a word (string) or other id) that represents
 that set.
 
+So any assertion will be made up of many other assertions that define
+and create the context for any given statement.  This creates a highly
+complex mesh of interconnected and interdependent statements.  Change
+any one of these statements may result in changing any number of other
+statements -- changing anything in the system requires those changes
+to propagate out throughout the system so that all other statements
+that are effected can be corrected.
+
+Static data structures will not be able to accomplish this -- these
+have to be active dynamic processes.
+
+Even this is not enough because the truth of any statement depends on
+the surrounding context when the statement is observed (read).  When
+you hear a statement like Chasui is 6 years old, it might be true at
+the time that the statement is observed.  However, statements are
+recorded, so that if Chasui was born in the year 2000, she would be
+six years old if the statement was observed in 2006.  But if the
+statement was read in 2020, it would no longer true unless the
+statement was ammended to say that Chasui was 6 years old in 2006.  If
+the statement said that Chasui was 6 years old in 2001 that would be
+false because there is no scenario where she could have been born in
+2000 and then be 6 years old in 2001.  In otherwords, there is no
+possible causal-chain linking the statement and the observation.
+However, the statement that Chasui was 6 years old in 2006 will remain
+true no matter how far into the future that the statement is observed.
+
+We need a concept that we can use to include all of the different
+possibile combinations that can apply to a given assertion.  To my
+knowledge there isn't a word for this, so we will call it a /fnord/.
+You may or may not know what a fnord is, and in fact you may have
+heard the word and been told what it means and still have no real idea
+what it means.  And so fnord is a good choice.
+
+Our fnord is both true and false, ugly and beautiful, cruel and kind,
+shallow and deep, brilliant and stupid, and every shade of anything
+inbetween. A fnord is Borge's [[https://en.wikipedia.org/wiki/The_Library_of_Babel][Library of Babel]] that contains every
+possible book.
+
+#+begin_quote
+Borges' narrator describes how his universe consists of an enormous
+expanse of adjacent hexagonal rooms, each of which contains the bare
+necessities for human survival—and four walls of bookshelves. Though
+the order and content of the books is random and apparently completely
+meaningless, the inhabitants believe that the books contain every
+possible ordering of just 25 basic characters (22 letters, the period,
+the comma, and the space). Though the vast majority of the books in
+this universe are pure gibberish, the library also must contain,
+somewhere, every coherent book ever written, or that might ever be
+written, and every possible permutation or slightly erroneous version
+of every one of those books. The narrator notes that the library must
+contain all useful information, including predictions of the future,
+biographies of any person, and translations of every book in all
+languages. Conversely, for many of the texts some language could be
+devised that would make it readable with any of a vast number of
+different contents.
+
+Despite—indeed, because of—this glut of information, all books are
+totally useless to the reader, leaving the librarians in a state of
+suicidal despair.
+
+-- [[https://en.wikipedia.org/wiki/The_Library_of_Babel][The Library of Babel]] | Wikipedia
+#+end_quote
+
+The library is the wellspring of Eris; /ultima discordia/ or
+/discordia maximus/ if you well -- the opposite of certainty.
+
+And yet, our humble fnord is not unbound, it is a set of all
+/possible/ causal chains, making possible maps.  The library is not
+the territory and given that single gossamer strand of hope to dangle
+from we can step back from the abyss and use as the rock apon which we
+can build a rational universe.
+
+A fnord is a cloud of all possible causal chains stemming from any
+given assertion.  Like the Library of Babel is is unimaginable
+unweildy, so it must remain a concept, a /gedankenexperiment/
+(literally a thought experiment) from which we can contruct verifiable
+statements of facts. 
+
+Causal-chains are not all equal, they are either /possible/,
+/probable/ or /improbable/ as well as being either /true/ or /false/
+given the context when they are observed.  When a fnord is observed on
+one of each possible, probable or improbable states becomes true or
+false.  And before any [[https://en.wikipedia.org/wiki/Smart_aleck][smart aleck]] butts in with the obvious, if
+something true and false at the same time, then /that/ is true.
+
+
 
 
 * Holons
