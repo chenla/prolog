@@ -452,7 +452,7 @@ The now ubiquitious hypertext link that makes the Web, the Web links
 everything to everything, but does not have any mechanism to determine
 what links relate to what persons, places, works or concepts.  An
 authority record is used to distinquish Apple (fruit) from Apple
-(Consumer Electronics Company)[fn:3]
+(Consumer Electronics Company)[fn:1]
 
 ** Facts
 
@@ -546,7 +546,7 @@ using the third person, so everything in the story happened in the
 past.  The statement can only be judged true if it was made after he
 died, and would not be true if it was made while he was alive.  This
 is actually quite important, Paul McCartney of the Beatles found in
-1966.[fn:5] So, we would assume that the death register would record
+1966.[fn:2] So, we would assume that the death register would record
 some other details, including the date and perhaps place and cause of
 his death.
 
@@ -722,7 +722,7 @@ We as individuals and as societies are constantly telling ourselves,
 our children and our neighbors all sorts of nonsense.  Newborn babies
 are delivered by storks, an archetypal minor diety comes into your
 bedroom in your sleep and replaces a fallen tooth with hard
-currency.[fn:4]
+currency.[fn:3]
 
 If someone hears voices or believes that they are talking to a giant
 rabbit named Harvey is seen as evidence of a mental break with
@@ -902,7 +902,7 @@ The assertion spew:
 
 * Footnotes
 
-[fn:5] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
+[fn:2] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the opposite case
 where people throughout history have claimed to be Kings and Popes who
 had previously died.  Coming back from the dead was actually a fairly
 common claim, which puts Biblical claims into an interesting context
@@ -912,10 +912,10 @@ such a claim barely raised an eyebrow...  Today, such claims still are
 made in the guise of popular fiction and culture which are dim echos
 of common beliefs held to be true in past ages.
 
-[fn:4]  Which would become difficult if everyone used bitcoins.  It
+[fn:3]  Which would become difficult if everyone used bitcoins.  It
 /would/ make for a very interesting blockchain.
 
-[fn:3] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a company
+[fn:1] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a company
 producing general purpose computers to a consumer lifestyle
 electronics manufacturer.  Some products are still protected by a
 [[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word) and protective /wards/
