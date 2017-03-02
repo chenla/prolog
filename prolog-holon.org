@@ -247,6 +247,23 @@ one of each possible, probable or improbable states becomes true or
 false.  And before any [[https://en.wikipedia.org/wiki/Smart_aleck][smart aleck]] butts in with the obvious, if
 something true and false at the same time, then /that/ is true.
 
+
+So what can we take from all of this in order to build a real world
+system?
+
+  - Static data-structures can not be used to establish verifiable
+    facts that we can rely on to be true statements, they must be
+    dynamic systems that are dependent on an observer who is basically
+    opening the box with Schrodinger's unfortunate cat is both alive
+    and dead at the same time until we take a peak inside.
+
+  - There are no simple statements of fact without a whole lot of
+    other baggage that establishes it through definitions that work as
+    tests which are processes.
+
+  - Triples in the form of property values work, just not in isolation.
+
+
 It is now obvious that there is no such thing as a simple statement
 and that in fact when something is observed and something becomes true
 or false, it still can not be stated as a triple, but rather as a
