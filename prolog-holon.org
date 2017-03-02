@@ -262,9 +262,13 @@ exists: the holon.
 
 * Holons
 
+When we started we defined a simple model where everything could be
+reduced to /assertions/ and /messages/.  We have now replaced the
+assertion with the concept of the /fnord/.  In the same way, we need a
+more useful concept for a message than a collection of assertions.
+
 A holon is a philosophical concept that was coined by [[https://en.wikipedia.org/wiki/Arthur_Koestler][Arthur Koestler]],
 in his 1967 book [[https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine][The Ghost in the Machine]].
-
 
 #+begin_quote
 A holon is a system (or phenomenon) that is an evolving
@@ -293,6 +297,38 @@ viable system model, but also Niklas Luhmann in his social systems
 theory.
 
 -- [[https://en.wikipedia.org/wiki/Holon_(philosophy)][Holon (philosophy)]] | Wikipedia
+#+end_quote
+
+
+#+begin_quote
+No man is an island he is a holon. A Janus-faced entity who, looking
+inward, sees himself as a self-contained unique whole, looking outward
+as a dependent part. His self-assertive tendency is the dynamic
+manifestation of his unique, his autonomy and independence as a
+holon. Its equally universal antagonist, the integrative tendency,
+expresses his dependence on the larger whole to which he belongs: his
+'part-ness'.
+#+end_quote
+
+
+
+#+begin_quote
+the self-assertive tendency is the dynamic expression of the holon's
+wholeness, the integrative tendency, the dynamic expression of its
+partness.
+#+end_quote
+
+
+#+begin_quote
+A Holon is a node in a Holarchy. A Holon looks up for what it needs to
+cooperate with and integrate with. It looks sideways for what it needs
+to compete with. It looks down for what it wants to command. Each
+holon can not be fully explained by or predicted by a study of its
+parts. It is something more. A Holon is also part of something bigger
+that it is being affected by. But at the same time it has a high
+degree of autonomy, it has a life of its own.
+
+-- [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]], Flemming Funch, 4 Feb 95.
 #+end_quote
 
 
