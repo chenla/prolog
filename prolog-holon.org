@@ -371,6 +371,27 @@ sub-assemblies to more complex ones.
 #+end_quote
 
 
+#+begin_quote
+The first universal characteristic of hierarchies is the
+relativity, and indeed ambiguity, of the terms 'part' and
+whole' when applied to any of the sub-assemblies.  Again it
+is the very obviousness of this feature which makes us
+overlook its implications.  A 'part', as we generally use
+the word, means something fragmentary and incomplete, which
+by itself would have no legitimate existence.  On the other
+hand, a 'whole' is considered as something complete in
+itself which needs no further explanation.  But /'wholes'
+and 'parts' in this absolute sensejust do not exist
+anywhere/, either in the domain of living organisms or of
+social organizations.  What we find are intermediary
+structures on a series of levels in an ascending order of
+complexity: sub-wholes which display, according to the way
+you look at them, some of the characteristics commonly
+attributed to parts.
+
+-- Ghost in the Machine pg.48
+#+end_quote
+
 
 
 
