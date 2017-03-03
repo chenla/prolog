@@ -422,7 +422,7 @@ prot/on/ or neutr/on/, suggests a particle or part.
 
 #+begin_quote
 ...it is essential for the stability and efficient
-functioning of the body social taht each of its
+functioning of the body social that each of its
 sub-divisions should operate as an autonomous, self-reliant
 unit which, though subject to control from above, must have
 a degree of independence and take routine contingencies in
