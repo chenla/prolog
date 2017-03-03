@@ -406,6 +406,21 @@ sub-wholes in all types of hierarchies.
 -- Ghost in the Machine pg 48.
 #+end_quote
 
+#+begin_quote
+But there is no satisfactory word in our vocabulary to refer
+to these Janus-faced entities: to talk of sub-wholes (or
+sub-assemblies, sub-structures, sub-skills, sub-systems) us
+awkward and tedious.  It seem preferable to coin a new term
+to designate these nodes on the hierarchic tree which behave
+partly as wholes or wholly as parts, according to the way
+you look at them.  The term I would propose is 'holon', from
+the Greek /holos/ = whole, with the suffix /on/ which, as in
+prot/on/ or neutr/on/, suggests a particle or part.
+
+-- Ghost in the Machine pg 48.
+#+end_quote
+
+
 
 
 #+begin_quote
