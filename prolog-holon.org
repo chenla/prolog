@@ -1,4 +1,4 @@
-#   -*- mode: org; fill-column: 70 -*-
+#   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Holons & Fnords
 #+STARTUP: showall
 #+PROPERTY: filename
@@ -315,6 +315,63 @@ theory.
 
 -- [[https://en.wikipedia.org/wiki/Holon_(philosophy)][Holon (philosophy)]] | Wikipedia
 #+end_quote
+
+
+#+begin_quote
+There were once two Swiss watchmakers names Bios and Mekhos, who
+made very fine and expensive watches.  There names may sound a
+little strange, but their fathers had a smattering of Greek and
+were fond of riddles.  Although their watches were in equal
+demand, Bios propspered, while Mekhos just struggled along; in
+the end he had to close his shop and take a job as a mechanic
+with Bios.  The people in the town argued for a long time over
+the reasons for this development and each had a different theory
+to offer, until the true explanation leaked out and proved to be
+both simple and surprising.
+
+The watches they made consisted of about one thousand parts each,
+but the two rivals had used different methods to put them
+together.  Mekhos had assembled his watches bit by bit --
+rather like making a mosaic floor out of small coloured
+stones.  Thus each time when he was disturbed in his work
+and had to put down a partly assembled watch, it fell to
+pieces and he had to start again from scratch.
+
+Bios, on the other hand, had designed a method of making
+watches by constructing, for a start, sub-assemblies of
+about ten components, each of which held together as a an
+independent unit.  Ten of these sub-assemblies could then be
+fitted together into a sub-system of a higher order; and ten
+of these sub-systems constituted a whole watch.  This method
+proved to have two immense advantages.
+
+In the first place, each time there was an interruption or a
+disturbance, and Bios had to put down, or even drop, the
+watch he was working on, it did not decompose into its
+elementary bits; instead of starting all over again, he
+merely had to reassemble that particular sub-assembly on
+which he was working at the time; so that at worst (if the
+disturbance cam when he had nearly finished the sub-assembly
+in hand) he had to repeat nine assumbling operations, and at
+best none at all.  Now it is easy to show mathematically
+that if a watch consists of a thousand bits, and if some
+disturbance occurs on an average of once in every hundred
+assembling operations -- then Mekhos will take four thousand
+times longer to assemble a watch than Bios.  Instead of a
+single day it will take him eleven years.  And of for
+mechanical bits, we substitute amino scids, protien
+molecules, organelles, and so on, the ration between the
+time-scales becomes astronomical; some calculations indicate
+that the whole lifetime of the earth would be insufficient
+for producing even an amoeba -- unless he becomes converted
+to Bios' mthod and proceeds hierarchically, from simple
+sub-assemblies to more complex ones.
+
+-- Ghost in the Machine pg 46-47.
+#+end_quote
+
+
+
 
 
 #+begin_quote
