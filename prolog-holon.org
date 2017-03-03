@@ -393,6 +393,19 @@ attributed to parts.
 #+end_quote
 
 
+#+begin_quote
+The members of a hierarchy, like the Roman god Janus, all
+have two faces looking in opposite directions: the face
+turned towards the subordinate levels is that of a
+self-contained whole; the face turned upward towards
+towards the apex, that of a dependent part.  One is the face
+of the master, the other the face of the survant.  This
+'/Janus effect/' is a fundemental characteristic of
+sub-wholes in all types of hierarchies.
+
+-- Ghost in the Machine pg 48.
+#+end_quote
+
 
 
 #+begin_quote
