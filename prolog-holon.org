@@ -420,7 +420,20 @@ prot/on/ or neutr/on/, suggests a particle or part.
 -- Ghost in the Machine pg 48.
 #+end_quote
 
+#+begin_quote
+...it is essential for the stability and efficient
+functioning of the body social taht each of its
+sub-divisions should operate as an autonomous, self-reliant
+unit which, though subject to control from above, must have
+a degree of independence and take routine contingencies in
+its stride, without asking higher authority for
+instructions.  Otherwuse the communication channels would
+become overloaded, the whole system clogged up, the higher
+echelons would be kept occupied with petter detail and
+unable to concentrate on more important factors.
 
+-- Ghost in the Machine pg 55.
+#+end_quote
 
 
 #+begin_quote
