@@ -424,13 +424,21 @@ prot/on/ or neutr/on/, suggests a particle or part.
 
 
 #+begin_quote
-No man is an island he is a holon. A Janus-faced entity who, looking
-inward, sees himself as a self-contained unique whole, looking outward
-as a dependent part. His self-assertive tendency is the dynamic
-manifestation of his unique, his autonomy and independence as a
-holon. Its equally universal antagonist, the integrative tendency,
-expresses his dependence on the larger whole to which he belongs: his
-'part-ness'.
+No man is an island he is a holon. A Janus-faced entity who,
+looking inward, sees himself as a self-contained unique
+whole, looking outward as a dependent part. His
+/self-assertive tendency/ is the dynamic manifestation of
+his unique /wholeness./, his autonomy and independence as a
+holon. Its equally universal antagonist, the /integrative
+tendency/, expresses his dependence on the larger whole to
+which he belongs: his '/part-ness/'.  The polarity of these
+two tendencies, or potentials, is one of the /leitmotivs/ of
+the present theory.  Empirically, it can be traced in all
+phenomena of life; theoretically, it is derived from the
+part-whole dichotomy inherent in the concept of the
+multi-layered hierarchy...
+
+-- Ghost in the Machine pg 56.
 #+end_quote
 
 
