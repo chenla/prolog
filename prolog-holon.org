@@ -310,9 +310,10 @@ as each timezone passes from day into night.
 
 ** Text and Code
 
- - [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]] | Wikipedia
- - [[http://www.winestockwebdesign.com/Essays/Lisp_Curse.html][The Lisp Curse]]
+ - [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]]     | Wikipedia
+ - [[http://www.winestockwebdesign.com/Essays/Lisp_Curse.html][The Lisp Curse]]    | Rudolf Winestock
  - [[http://picolisp.com/wiki/?EquivalenceCodeData][Equivalence of Code and Data]] | PicoLisp Wiki
+ - [[http://stackoverflow.com/questions/4140727/why-code-as-data][Why code-as-data?]] | Stack Overflow
 
 #+begin_quote
 In computer programming, homoiconicity (from the Greek words
@@ -331,7 +332,50 @@ representation.
 #+end_quote
 
 I think we can make the argument that in nature there is no
-distinction between code and data -- and 
+distinction between code and data --
+
+The distinction can be seen in the difference between the
+Harvard Architecture and the Von Neumann Architecture:
+
+   - Harvard architecture has physically separate pathways
+     for instructions and data.
+   - Von Neumann architecture uses same physical pathways
+     for instructions and data .
+
+
+ - [[https://en.wikipedia.org/wiki/Harvard_architecture][Harvard architecture]]     | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Von_Neumann_architecture][Von Neumann architecture]] | Wikipedia
+ - [[https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture][Von Neumann architecture and Harvard architecture?]] | Quora
+
+But VN also separates memory from processor, which was done
+for practical reasons.  For a while, Memristors looked like
+they could bridge the two worlds:
+
+#+begin_quote
+As an example, let's consider the movie Avatar, a completely
+digital movie which reportedly requires over 1 petabyte of
+storage. I don't know if a movie of this type is still
+chunked up in frames, maybe it's just one time varying
+equation these days, but let's say it's still a series of a
+certain number of frames per second. Processing that amount
+of data would take a good size cluster. Now let's imagine
+laying each frame in one long array. Interestingly, the
+preferred data structure for scientific data is the
+array. Each of the array cells is effectively
+parallelized. Now lets place transforms for each frame in
+series for each array cell. The first transform would
+operate on the frame and transform it in place, or maybe
+write it someplace new, then the next transform operates,
+and so on. You've just transformed the entire petabyte of
+movie frames in the snap of a finger. All those frames can
+be processed in parallel because you effectively have a
+dedicated CPU per frame and the CPU is colocated with the
+data.
+
+-- [[http://highscalability.com/blog/2010/5/5/how-will-memristors-change-everything.html][How will memristors change everything?]] | High Scalability
+#+end_quote
+
+
 
 
 ---
