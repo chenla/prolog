@@ -310,6 +310,32 @@ as each timezone passes from day into night.
 
 ** Text and Code
 
+ - [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]] | Wikipedia
+ - [[http://www.winestockwebdesign.com/Essays/Lisp_Curse.html][The Lisp Curse]]
+ - [[http://picolisp.com/wiki/?EquivalenceCodeData][Equivalence of Code and Data]] | PicoLisp Wiki
+
+#+begin_quote
+In computer programming, homoiconicity (from the Greek words
+homo meaning the same and icon meaning representation) is a
+property of some programming languages in which the program
+structure is similar to its syntax, and therefore the
+program's internal representation can be inferred by reading
+the text's layout.[1] If a language is homoiconic, it means
+that the language text has the same structure as its
+abstract syntax tree (AST) (i.e. the AST and the syntax are
+isomorphic). This allows all code in the language to be
+accessed and transformed as data, using the same
+representation.
+
+-- [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]] | Wikipedia
+#+end_quote
+
+I think we can make the argument that in nature there is no
+distinction between code and data -- and 
+
+
+---
+
 Everything in Lisp is a list. There is no useful distinction
 in Lisp between the code and the data it is processing.9
 
