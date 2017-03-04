@@ -100,8 +100,265 @@ So we now have our model that gives us the basic building blocks from
 which the civilization that we have made in our model can be built?
 No so fast.
 
+* Dual Nature of Information
 
+Physical media comes with a lot of baggage. In many
+respects, since Caxton, mankind has increasingly based whole
+civilizations on this baggage.
 
+Digitization and networking have all but removed the
+limitations that physical media impose though most people
+haven't realized this yet. Centuries of living within those
+confines have led us to believe that they are universal laws
+which can't be challenged.
+
+The limits of physical media are physical — you can only fit
+so many words on a page, only bind so many pages into a book
+before it gets too big to handle.
+
+Once you have divided words into volumes you need a means of
+organizing the information in each volume. It's practically
+impossible for a library to create a single index for every
+keyword in every book in the collection, or to create a
+single table of contents, so these navigational devices were
+created only at the level of single volumes. Library
+catalogs could practically only seek to treat each volume as
+an item, so the catalogs stopped at the covers of the books.
+
+Significant physical resources are required to duplicate and
+distribute physical media and economics favors larger
+volumes which contained a lot of information rather than
+smaller publications. So smaller texts were collected into
+larger volumes, individual songs were collected into LP's
+(long playing record albums) etc.
+
+After you strip away the paper from a text, the vinyl from a
+record album, or the film from an image, one of the first
+things that starts to become apparent is that those
+divisions are indeed artificial and that when they are
+removed information begins to behave as if it has a dual
+nature like the dual particle-wave nature of light.
+
+BMF is based on five general principles for how this dual
+nature applies to information.
+
+   - There is no useful difference between data and metadata
+     which describes it.
+   - There is no useful difference between a single book and
+     the library it is collected in.
+   - There is no useful difference between the parts of a
+     work (which can stand on their own) and the work
+     itself.
+   - There is no useful difference between a document and
+     commentary made about that document.
+   - There is no useful difference between text and code
+     (computer software code).
+
+** Data and Metadata
+
+The idea that data and metadata are interchangeable is both
+natural and astonishing at the same time.
+
+We think of metadata as a description of something else, in
+the way that a card in a library catalog is an external
+description of a resource in a library.
+
+But a collection of bibliographic data on a particular
+subject becomes a bibliography which is a work in it's own
+right. The title page in a book, the liner notes in an album
+or a telephone directory all can be thought of as data in
+one context or metadata in another.
+
+If metadata and data are indeed interchangeable, then
+metadata is not inherently external. This leads us to a very
+different concept of metadata.
+
+Metadata is not simply a description of data, but a less
+detailed view of that data. Metadata is data seen at a
+distance.
+
+** Library and Book
+
+For our purposes, the document and the library are
+essentially the same. In other words, the traditional
+library-document dichotomy can be viewed as a smooth
+spectrum, which we consider as a whole.
+
+#+begin_quote
+Towards one end of the spectrum, the number of authors
+decreases and the topics under discussion become more
+integrated, and the information artifacts look more
+document-like. Towards the other end, the number of authors
+grows and the semantic gaps between topics increase, and the
+information artifacts become more library-like.
+
+—A Scholia-based Document Model for Commons-based Peer
+Production, Joseph Corneli and Aaron Krowne [CORNELI]
+#+end_quote
+
+The illusion of the distinction between document and library
+is in large part a by-product of the limits of physical
+media and Caxton's printing press.
+
+Before Caxton, the distinction between a work and library
+was far less clear as was authorial ownership of documents
+and all sorts of other assumptions that we take for granted
+today. We'll come back to this point again later.
+
+Once you have digitized all the works in a library and
+placed them within a single framework, the distinction is
+far less clear.
+
+For example, in a digital library you can have one index
+rather than a different index at the end of every
+document. The table of contents, which is a tree, can be
+merged together with all of the other table of contents of
+all works in the library into a single tree.
+
+The library catalog can be merged with all of the works they
+describe so that a bibliographic record is a description of
+a work at a distance.
+
+Links between documents can lead directly to any part of any
+other document without the reader having to open the
+document like the cover of a book, work out the organization
+of the work and only then find the passage that was being
+referenced.
+
+** Work and Part
+
+Many books and sound recordings are not mutually exclusive,
+but are collections of a number of smaller documents or
+songs which could easily stand on their own.
+
+In some cases, the collection itself has value as a work in
+it's own right, but this does not take away from the fact
+that the parts could stand on their own.
+
+Encyclopedia articles, main entries in dictionaries,
+newspaper stories and even chapters in many books could
+stand on their own without the reader needing to see any
+other part of the collection.
+
+Many collections are for the sole purpose of making the
+amount of content that is sold on physical media viable as a
+commercial product. Sound recordings are well known for
+including songs of dubious quality to make a album with a
+few popular singles long enough to sell as an album and
+justify a themed concert tour.
+
+But the MP3 revolution and more recently iTunes and the iPod
+have brought back a new age of singles. iTunes are the
+digital equivalent of old 45rpm records which were the
+backbone of the recording industry during the 50's and 60's
+when radio was the chief marketing vehicle for music.
+
+The first decade of the World Wide Web was based in large
+part on the idea of a Web Site being a mutually exclusive
+collection of information. In effect, Web Sites were treated
+as self-contained works like a physical book. Imposing the
+limits of physical media on electronic media is a theme
+which has been repeated over and over.
+
+For the Web, RSS [Rich Site Syndication Format] blew this
+idea out of the water by breaking up content so that
+individual articles on the Web could stand on their own,
+irrespective of the Web Site which published it.
+
+** Text and Commentary
+
+The relationship between text and commentary is probably as
+old as texts themselves.
+
+Commentary can take all sorts of forms, such as foot-notes,
+glosses scribbled in the margins of a book, or notes made
+while reading a book for a class. Commentary can be as small
+as a single word or a multi-volume work composed by an army
+of scholars.
+
+The commentary made by an authoritative person with lots of
+letters tagged on the end of their name and published along
+with a document, are not functionally or practically any
+different than notes scribbled by a high school student
+doing their homework on the kitchen table.
+
+Such commentary is often a marketing function for a
+publisher, who is trying to add value to a work (which might
+be in the public domain) to try to coax readers to purchase
+their edition over another.
+
+This is not to say that such commentary is not useful or
+important. It is enormously important to provide context and
+insight into texts which were based on common knowledge used
+within a narrow discipline or general knowledge from a past
+age.
+
+Once commentary is understood to be simply a text, which has
+as a subject another text, irrespective of who wrote it or
+how it is published, then all commentary becomes an
+extension of and part of a work and by extension, the
+collective content of a library.
+
+It could be said that the Internet itself is all
+commentary. Email between friends, or in a discussion group
+on Usenet or on a list-server, threaded comments on
+Slashdot8, tags and comments about images on Flickr,
+bookmarks on del.icio.us, reviews on Amazon Books, and of
+course the entire blogsphere is all a relentless tidal
+current of commentary that ebbs and flows across the planet
+as each timezone passes from day into night.
+
+** Text and Code
+
+Everything in Lisp is a list. There is no useful distinction
+in Lisp between the code and the data it is processing.9
+
+The expression (+ 2 2) which is the way you write "2 + 2" in
+Lisp is a list with three elements where the first item is a
+symbol which represents a function ("+" is the name of a
+function which adds numbers together) and the second and
+third items are the numbers "2" and "2".
+
+Documents which are marked up as Lisp data structures can be
+thought of in one context as a document, and in another as a
+program which can be evaluated (or invoked) to get a result.
+
+To understand this, think of Harry Potter who lives in a
+world where magic is real. In Harry Potter's world, a device
+like a wand, is used to invoke spells which are spoken. This
+results in some kind of action which can be anything from
+levitating a chair, to erasing someone's memories.
+
+Among other things, magic is based on the premise that human
+language, when used by someone with the appropriate skill
+and innate ability, has the power to effect the physical
+world around us. Speaking, or incanting a spell invokes
+unseen powers which can move and manipulate physical
+objects.
+
+This belief is as old as humanity. Written texts in some
+contexts are believed to have magical powers in their own
+right. Sacred texts like the Bible are thought by believers
+to have the power to protect them from evil, and invoke
+supernatural powers.
+
+I am writing this paper using Emacs, a text editor written
+in Lisp. I can move my cursor next to the expression (+ 2 2)
+on the screen and invoke the expression with a tap of my
+wand (by holding down the Control key and typing "x e"). The
+number "4" is returned in a window at the bottom of the
+frame.
+
+A hypertext link on a Web page behaves in a similar
+way. When you click on a link and the browser opens up
+another page, you are invoking the link made between two
+documents.
+
+The distinction between text and code will gradually
+fade. Twenty years from now, we could well have a generation
+of children who will have a difficult time thinking of a
+text as being an inert chunk of information permanently
+stamped on physical media.10
 
 * Fnords
 
