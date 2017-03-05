@@ -1726,12 +1726,17 @@ popular, so the fnord you are looking for may well be
 buried 10 or more screens down at the plank scale of
 findability..
 
+Google and other search engines now deliver a narrow number
+of facts, but other than calculations and conversions they
+don't really deliver much in the way of facts.  It's just
+not what they were set up to do.
 
+However, Wolfram Alpha:
 
-
-
-
-
+ - [[https://en.wikipedia.org/wiki/Wolfram_Alpha][Wolfram Alpha]] | Wikipedia
+ - [[http://www.wolframalpha.com/][Wolfram|Alpha: Computational Knowledge Engine]] 
+ 
+has been set up to be an /answer engine/.
 
 ** IOT
 
