@@ -1767,7 +1767,7 @@ win is not to play at all.
 
 that was a throw-away in the movie Arrival as well -- that
 the Chinese approach to communicating with the Aliens was
-around Games....  and the bias that results from the
+around games....  and the bias that results from the
 perception of the resulting relationship that comes from two
 parties playing a game with each other.  It assumes that
 each side's motivation is to gain an advantage over the
@@ -1775,6 +1775,23 @@ other -- a dangerous, anthropic assumption that we tend to
 project on everything around us -- even nature itself.
 
 fuck -- /we are/ just stupid hairless primates
+
+So how does this relate back to IOT?  Not sure -- I suppose
+it depends on where we put IOT devices relative to
+ourselves.  If we see them as fleets of devices that are
+owned by individuals or groups for making a profit on their
+behalf -- think printers and ink cartridges -- then yes, it
+will make things a fuck of a lot worse -- I'm thinking of
+Cory Doctorrow's dishwashing machines that only will wash
+plates that came with the machine.  But IOT could be more
+like butterflies in a field.  Doing useful pollination that
+will help produce crops that we eat, and ecosystems that we
+depend on for our survival -- indirect infrastructure that
+is part of the commons.
+
+There should be an incentive to create such infrastructure,
+but as soon as it's released into the wild it should be
+beyond our control -- a bit like children :)
 
 
 * Footnotes
