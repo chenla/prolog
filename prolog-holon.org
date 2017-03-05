@@ -1799,7 +1799,7 @@ released they maintain themselves, paying for repairs from
 their own profits, and then saving up for their own
 upgrades, decomissioning, recycling and replacement --
 perhaps even caching their data and state so that it is
-tranfered to the replacement unit.  Which would be a sort of
+transfered to the replacement unit.  Which would be a sort of
 weird kind of immortality that would scare the crap out of
 many people.  But then why not?  It would be a sort of
 directed evolution -- devices don't reproduce, but
