@@ -1685,11 +1685,44 @@ EVERYTHING depends on facts that people trust and believe in.
 
 The assertion spew:
 
-  - The Internet of Things
+  - The Internet of Things -- actually this is a big deal we
+    need to know if our devices are telling the truth, or if
+    they have been compromised and are now part of a bot
+    network.
   - Social Networks
   - Transactions
   - Business, Government etc
   - Contracts, Laws
+
+We need a revenue model for fnord.ltd and it will have to be the shop
+model --  a distributed, federated system.
+
+We can structure this as a fact-guild -- 
+
+In each case you take something, a news story, a contract, a map etc
+and index all assertions in each --
+
+If there is a fact associated with assertion then it is checked, If
+there isn't, then it is flagged as a fnord and it is cloud-sourced.
+
+Each fnord will be a combination of assertions and duck tests.
+
+The process is basically due dilligence -- and people who create
+documents, contracts etc are responsible for doing a lot of this work,
+but over time the fact-base will make it easier and easier.
+
+So that you'll be able to feed docs into the system and the service
+will try to match fnords to facts.  and each instance of the same fact
+will strengthen the fact and increase certainty.
+
+** IOT
+
+Would it be better if all devices were required to be
+their own keepers?
+
+If a device is doing useful work -- it generates tokens, if
+it uses resources is spends them.  It only becomes tricky 
+
 
 * Footnotes
 
