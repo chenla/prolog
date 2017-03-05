@@ -1747,16 +1747,18 @@ verifiable and except for things such as numerical
 computation, can not be used as authoritative sources of
 facts.
 
-
-
-
 ** IOT
 
 Would it be better if all devices were required to be
 their own keepers?
 
 If a device is doing useful work -- it generates tokens, if
-it uses resources is spends them.  It only becomes tricky 
+it uses resources it spends them.  It only becomes tricky if
+those tokens can then be transfered to someone else -- so
+that the device is being used to make money.  That's where
+things fall apart.  That's where things get hacked and
+exploited.  
+
 
 
 * Footnotes
