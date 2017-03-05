@@ -1715,6 +1715,24 @@ So that you'll be able to feed docs into the system and the service
 will try to match fnords to facts.  and each instance of the same fact
 will strengthen the fact and increase certainty.
 
+** Wolfram Alpha (as a fnord engine)
+
+Google search delivers fnords -- it's often difficult to
+know if what you are seeing is true, false, possible or even
+probable.  Google has never said that they were anything but
+finders of popular fnords.  The facts, falsehoods and
+scenarios that reside in those fnords are not neccessarily
+popular, so the fnord you are looking for may well be
+buried 10 or more screens down at the plank scale of
+findability..
+
+
+
+
+
+
+
+
 ** IOT
 
 Would it be better if all devices were required to be
