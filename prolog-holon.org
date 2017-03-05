@@ -1736,7 +1736,19 @@ However, Wolfram Alpha:
  - [[https://en.wikipedia.org/wiki/Wolfram_Alpha][Wolfram Alpha]] | Wikipedia
  - [[http://www.wolframalpha.com/][Wolfram|Alpha: Computational Knowledge Engine]] 
  
-has been set up to be an /answer engine/.
+has been set up to be an /answer engine/.  WA is a remrkable
+achievement, despite the proprietary approach that has been
+taken and the limitations places on the public service.
+
+The problem is that answers are based on over a hundred
+databases of /facts/ from a variety of sources.  These facts
+must be accepted on face value -- they are not documented or
+verifiable and except for things such as numerical
+computation, can not be used as authoritative sources of
+facts.
+
+
+
 
 ** IOT
 
