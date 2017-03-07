@@ -1024,16 +1024,60 @@ wonderful, it's great to be alive, or whatnot.
 So in the Left Hand column, you can see a list of some of
 the basic types of /subjective/ or /interior awareness/ that
 go with these variopus /objective/ or /exterior forms/
-listed in the right column.
+listed in the Right Column.  "Irritability"--the capacity to
+actively respond to environmental stimuli--begins with
+cells.  Sensations emerge with neuronal organisms, and
+perceptions emerge with the neural cord.  Impulses emerge
+with a brain stem, and basic emotions with a limbic system.
+And so on.
 
+This is also a holarchy, but a subjective or interior
+holarchy.  Each level also transcends and includes it[s]
+predecessor, each follows the twenty tenents, and so on.
+And this Left Hand holarchy, like the Right Hand, is based
+on extensive evidence already available, which we can
+discuss if you want.
 
--- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73- | Ken Wilbur
+But the main point is that this Left Hand dimension refers
+to the inside, to the /interior depth/ that is
+/conciousness/ itself.
+
+.... The Left Hand is what the holon looks like from within;
+the Right Hand is what the same holon looks like from
+without.  Interior and exterior.  Consciousness and form.
+Subjective and objective.
+
+.... We don't have to agree with the exact placement of
+everything in figure 5-3, but most people would agree that
+/something/ like that is occurring.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73-76 | Ken Wilbur
 #+end_quote
 
 #+CAPTION: Details of Four Holarchy Quadrants
 [[./img/holon/wilber--quadrant-details.png]]
 
 
+Now about the lower half, the collective.....
+
+#+begin_quote
+... Individual holons exist exist /only in compunities/ of
+simular-depth holons.  So we beed to go through both of the
+columns in figure 5-3 and find the types of /communal/
+holons that are always associated with the /individual/
+holons.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77- | Ken Wilbur
+#+end_quote
+
+And the Lower Left and Lower Right are "cultural" and
+"social" holarchies.
+
+#+begin_quote
+
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77- | Ken Wilbur
+#+end_quote
 
 * Evaluating Assertations
 
