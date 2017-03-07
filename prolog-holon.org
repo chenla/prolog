@@ -970,6 +970,8 @@ on the various maps around the world.
 -- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73- | Ken Wilbur
 #+end_quote
 
+#+CAPTION: Details of Four Holarchy Quadrants
+[[./img/holon/wilber--quadrant-details.png]]
 
 
 
