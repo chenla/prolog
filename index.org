@@ -54,5 +54,16 @@ githubchart -u deerpig ./img/contrib.svg
 #+HTML:  <span>More</span>
 #+HTML: </div>
 
-* Introduction
+* Table of Contents
+
+ - [[prolog-cosmos.org][Cosmos]]
+ - [[prolog-fifty-year-window.org][Fifty Year]]
+ - [[prolog-holon.org][Holon]]
+ - [[prolog-identity.org][Identity]]
+ - [[prolog-pace.org][Pace Layers]]
+ - [[prolog-process.org][Process]]
+ - [[prolog-scope.org][Scope]]
+ - [[prolog-transactive.org][Transactive Species]]
+ - [[prolog-why.org][Why]]
+
 
