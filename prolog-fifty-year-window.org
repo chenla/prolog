@@ -48,3 +48,25 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Elon Musk has said on several occasions that we have a very short
+window to become a multi-planet species, if we don't do it soon, we
+may never be able to do it.  
+
+  - Peak Cheap Non-Renewable Energy --> which made the industrial
+    revolution and the information revolution possible -- if the
+    present level of civilization collapses, these resources will
+    not be available to rebuild.
+
+  - Population Collapse --> below MV for technological civilization
+    to continue to innovate at same level, which is needed to solve:
+
+  - Constant Battles --> man tends to self-destruct
+
+  - climate change   :: spend too much time on survival
+
+  - low hanging fruit picked :: resources will be more expensive
+
+We have to have our shit together within 50 years, to begin making
+substantial change or we may not have the time, resources, or number
+of people needed to solve the big problems
+
