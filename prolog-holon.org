@@ -1095,8 +1095,34 @@ structures of villages, states, world federation, and so
 on.  These are all examples of the exterior forms of the
 collective, as you can see in figure 5-2.
 
--- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77- | Ken Wilbur
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77-78 | Ken Wilbur
 #+end_quote
+
+Now non-human holons....
+
+
+#+begin_quote
+If consciousness is depth, and depth goes all the way down,
+then shared depth or common depth also goes all the way
+down--culture goes all the way down... In other words, if
+holons share outsides, they share insides....
+
+By the culture or worldspace of holons, I simply mean a
+shared space of what they /can/ respond to: quarks do not
+respond to all stimuli in the environment, because they
+/register/ a very narrow range of what will have meaning to
+them, what will /affect/ them.  Quarks (and all holons)
+respond only to that which /fits their worldspace/:
+everything else is a foreign language, and they are
+outsiders.  The study of what holons /can/ respond to is the
+study of shared worldspaces.  It's the common world that all
+holons of a similar depth will respond to.  That is their
+shared culture.
+
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p78- | Ken Wilbur
+#+end_quote
+
 
 * Evaluating Assertations
 
