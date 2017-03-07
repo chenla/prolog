@@ -56,8 +56,12 @@ what we are, and have enabled the cozy comfortable lives that give
 people the free time to look at endless cat pictures on Facebook.  And
 when I say cozy I'm not talking about the rich middle classes in
 developed countries, but even the people on the lower level of
-Maslav's Hierarchy who have 3G and access to potable water, and food
-every day.
+[[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Maslow's hierarchy of needs]] who have 3G and access to potable water, and food
+every day.  Compared to our ancestors living on the savannah, with few
+tools and no fire, yes, even a favela[fn:2] in the dingy part of Phnom
+Penh is pretty cozy.
+
+   [ rant continues more a bit ]
 
 
 
@@ -190,6 +194,16 @@ like human exploration and colonization.
  - [[./prolog-transactive.org][Transactive Nature]]
 
 * Footnotes
+
+[fn:2] A favela is a portuguese word for an urban area that is
+predominately poor and only semi-regulated.  A favela, or barrio is
+not slum, though some people confuse favela's for slums.  But they are
+deperately crowded.  A favela has electricity, running water and
+sewage, and there are many permenant structures, whereas slums
+typically do not have any of these things, or if they do they are
+disfunctional and not maintained.
+
+See: [[https://en.wikipedia.org/wiki/Favela][Favela]] | Wikipedia
 
 [fn:1] Our ancestors managed to explore and settle the vast majority
 of the habitable regions of the planet in ages long past when
