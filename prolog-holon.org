@@ -672,6 +672,18 @@ also Niklas Luhmann in his social systems theory.
 -- [[https://en.wikipedia.org/wiki/Holon_(philosophy)][Holon (philosophy)]] | Wikipedia
 #+end_quote
 
+Essentially everything is a /holon/ -- which can be seen in
+one context as a self-contained whole, and from another
+perspective as a part of a larger whole.
+
+The message then is a holon and the holon becomes our atomic
+unit.  A message is made up of one or more assertions,
+statements or facts.  An assertion is not a message, but
+must be encoded in a message.  An assertion that is made,
+stored or sent and then eventually recieved or read is a
+message.  An assertion can be encoded in an infinite number
+of messages.
+
 
 #+begin_quote
 There were once two Swiss watchmakers names Bios and Mekhos,
@@ -837,6 +849,14 @@ high degree of autonomy, it has a life of its own.
 #+end_quote
 
 
+
+** Holarchies
+
+
+
+
+** Four Types of Holarchies
+
 #+begin_quote
 Well, if you look at the variuous "new paradign"
 theorists--from holists to ecofeminists to deep ecologists
@@ -924,17 +944,7 @@ speak.
 [[./img/holon/wilber--four-quadrants.png]]
 
 
-Essentially everything is a /holon/ -- which can be seen in
-one context as a self-contained whole, and from another
-perspective as a part of a larger whole.
 
-The message then is a holon and the holon becomes our atomic
-unit.  A message is made up of one or more assertions,
-statements or facts.  An assertion is not a message, but
-must be encoded in a message.  An assertion that is made,
-stored or sent and then eventually recieved or read is a
-message.  An assertion can be encoded in an infinite number
-of messages.
 
 
 
