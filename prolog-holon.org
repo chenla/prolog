@@ -917,9 +917,11 @@ holarchy in each group was indeed dealing with the same
 territory, but overall had four different territories, so to
 speak.
 
--- [[bib:wilbur:1996wilbur][A Brief History of Everything]] | Ken Wilbur
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p72-73 | Ken Wilbur
 #+end_quote
 
+#+CAPTION: Wilbur's Four Holarchy Quadrants
+[[./img/holon/wilber--four-quadrants.png]]
 
 
 Essentially everything is a /holon/ -- which can be seen in
