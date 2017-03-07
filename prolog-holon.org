@@ -943,7 +943,32 @@ speak.
 #+CAPTION: Wilbur's Four Holarchy Quadrants
 [[./img/holon/wilber--four-quadrants.png]]
 
+#+begin_quote
+So the question then became, how did these four types of
+holarchies relate to each other?  They couldn't just be
+radically different holistic sequences.  They had to touch
+each other somehow.
 
+Eventually it dawned on me that these four quadrants have an
+incredibly simple foundation.  These four types of
+holarchies are actually dealing with the /inside/ and
+/outside/ of a holon, in both its /individual/ and
+/collective/ forms--and that gives us four quadrants.
+
+Inside and outside, singular and plural--some of the
+simplest distinctions we can make, and these very simple
+features, which are present in all holons, generate these
+generate these very simple features, which are present in
+all holons, generate these four quadrants, or so I
+maintain.  All four of these holarchies are dealing with
+real aspects of real holons--which is why these four types
+of holarchies keep aggressively and insistently showing up
+on the various maps around the world.
+
+
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73- | Ken Wilbur
+#+end_quote
 
 
 
