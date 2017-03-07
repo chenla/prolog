@@ -809,7 +809,7 @@ part-whole dichotomy inherent in the concept of the
 multi-layered hierarchy.... For the time being let me repeat
 that the /self-assertive tendency is the dynamic expression
 of the holon's wholeness, the integrative tendancy, the
-dynamic expression of it's partness." 
+dynamic expression of it's partness."
 
 -- Ghost in the Machine pg 56.
 #+end_quote
@@ -817,36 +817,72 @@ dynamic expression of it's partness."
 
 
 #+begin_quote
-the self-assertive tendency is the dynamic expression of the holon's
-wholeness, the integrative tendency, the dynamic expression of its
-partness.
+the self-assertive tendency is the dynamic expression of the
+holon's wholeness, the integrative tendency, the dynamic
+expression of its partness.
 #+end_quote
 
 
 #+begin_quote
-A Holon is a node in a Holarchy. A Holon looks up for what it needs to
-cooperate with and integrate with. It looks sideways for what it needs
-to compete with. It looks down for what it wants to command. Each
-holon can not be fully explained by or predicted by a study of its
-parts. It is something more. A Holon is also part of something bigger
-that it is being affected by. But at the same time it has a high
-degree of autonomy, it has a life of its own.
+A Holon is a node in a Holarchy. A Holon looks up for what
+it needs to cooperate with and integrate with. It looks
+sideways for what it needs to compete with. It looks down
+for what it wants to command. Each holon can not be fully
+explained by or predicted by a study of its parts. It is
+something more. A Holon is also part of something bigger
+that it is being affected by. But at the same time it has a
+high degree of autonomy, it has a life of its own.
 
 -- [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]], Flemming Funch, 4 Feb 95.
 #+end_quote
 
 
+#+begin_quote
+Well, if you look at the variuous "new paradign"
+theorists--from holists to ecofeminists to deep ecologists
+to systems thinkers--you find that all of them are offering
+various types of holarchies, of hierarchies.  Eaven the
+anti-hierarchy ecophilosophers offer their own hierarchy,
+which is usually something like: atoms are parts of
+molecules which are parts of cells, which are parts
+individual organisms, which are parts of families, which are
+parsts of cultures, which are parts of the total biosphere.
+That is their defining hierarchy, their defining holarchy,
+and except for some confusion about what "biosphere" means,
+that is a fairly accurate holarchy.
+
+And likewise, orthodox researchers offer their own
+hierarchies.  We find hierarchies in moral development, in
+ego development, in cognitive development, in self needs, in
+defense mechanisms, and so on.  And these, too, see to be
+largely accurate.  We also find developmental holarchies in
+everything from Marxism to strucuralism to linguistics to
+computer programming--it's simply endless.
+
+In other words, whether it's realized or not, most of the
+maps of the world that have been offered are in fact
+holarchical, for the simple reason that holarchies are
+impossible to avoid (because holons are impossible to
+avoid).  We have literally hundreds and hundreds of these
+holoarchical maps from around the world--East and West,
+North and South, ancient and modern--many of these maps
+included the mapmaker as well.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] | Ken Wilbur
+#+end_quote
 
 
-Essentially everything is a /holon/ -- which can be seen in one
-context as a self-contained whole, and from another perspective as a
-part of a larger whole.
 
-The message then is a holon and the holon becomes our atomic unit.  A
-message is made up of one or more assertions, statements or facts.  An
-assertion is not a message, but must be encoded in a message.  An
-assertion that is made, stored or sent and then eventually recieved or
-read is a message.  An assertion can be encoded in an infinite number
+Essentially everything is a /holon/ -- which can be seen in
+one context as a self-contained whole, and from another
+perspective as a part of a larger whole.
+
+The message then is a holon and the holon becomes our atomic
+unit.  A message is made up of one or more assertions,
+statements or facts.  An assertion is not a message, but
+must be encoded in a message.  An assertion that is made,
+stored or sent and then eventually recieved or read is a
+message.  An assertion can be encoded in an infinite number
 of messages.
 
 
