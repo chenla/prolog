@@ -47,10 +47,19 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </div>
 
 * Introduction
-* Why?
 
-This doesn't belong in the intro, but it is deserving of at least a
-full chapter because people keep coming back to it over and over.
+I don't believe that this belongs in the prolog.  The reasons for
+building a distributed civilization and spreading that civilization
+throughout the solar system is self-evident.  The reasons people give
+against it goes against every fucking gene on our dna that make us
+what we are, and have enabled the cozy comfortable lives that give
+people the free time to look at endless cat pictures on Facebook.  And
+when I say cozy I'm not talking about the rich middle classes in
+developed countries, but even the people on the lower level of
+Maslav's Hierarchy who have 3G and access to potable water, and food
+every day.
+
+
 
 Why are people so scared of exploration today?  I don't understand --
 when the world was much bigger than it is today, and there were still
