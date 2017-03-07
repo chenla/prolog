@@ -1074,7 +1074,26 @@ And the Lower Left and Lower Right are "cultural" and
 "social" holarchies.
 
 #+begin_quote
+... "cultural" refers to all of the /interior/ meanings and
+values and identities that we share with those of similar
+communities, whether it is a tribal community or a national
+community or a world community.  And "social" refers to all
+of the exterior, material, institutional /forms/ of the
+community, from its techno-economic base to its
+architectural styles to its written codes to its population
+size, to name a few.
 
+So in a very general sense, "cultural" refers to the shared
+collective /worldview/ and "social" refers to the /material
+base/ of that worldview.  (Of course, right now I'm just
+talking about how these appear in human holons; we'll
+discuss nonhuman in a moment.)  Social means any objective,
+concrete, material components, and especially the
+techno-economic base, so you see these listed as foraging,
+horticultural, agrarian, industriall; and the geopolitical
+structures of villages, states, world federation, and so
+on.  These are all examples of the exterior forms of the
+collective, as you can see in figure 5-2.
 
 -- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77- | Ken Wilbur
 #+end_quote
