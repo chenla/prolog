@@ -970,8 +970,24 @@ The four quadrants are the /interior/ and /exterior/ of the
 
 We can start with the individual holon, in both its interior
 and exterior aspects.  In  other words, with the Upper Left
-quadrant and the Upper Right quadrant....
+quadrant and the Upper Right quadrant.  Figure 5-3 is a
+little more detailed map of these two quadrants.
 
+
+   #+CAPTION: figure 5-3
+
+   | *UPPER LEFT*          | *UPPER RIGHT*                           |
+   |-----------------------+-----------------------------------------|
+   | prehension            | atoms                                   |
+   | irritability          | cells (genetic)                         |
+   | rudimentary sensation | metabolic organisms (e.g. coelenterata) |
+   | perception            | neuronal organisms (e.g. annelids)      |
+   | perception/impulse    | neural cord (fish/amphibians)           |
+   | impulse/emotion       | brain stem (reptiles)                   |
+   | emotion/image         | limbic system (paleomammals)            |
+   | symbols               | neocortex (primates)                    |
+   | concepts              | complex neocortex (humans)              |
+ 
 If you look at the Right Hand column first, you can see the
 typical holarchy presented in any standard biology
 textbook.  Each level transcends and includes its
@@ -989,10 +1005,26 @@ evolved, how it relates to other parts of the organism, and
 so on.  And you will probably find it mentioned that the
 limbic system is the home of very certain very fundemental
 /emotions/, certain basic types of sex and aggression and
-fear and desire, whetherthat limbic systemappears in horses
+fear and desire, whetherthat limbic system appears in horses
 or humans or apes.
 
+But if those emotions, of course, you will not find much
+dfescription, because emotions pertain to the /interior
+experience/ of the limbic system.  And /objective/
+scientific descriptions are not much interested in that
+interior consciousness, because that interior space cannot
+be accessed in an objective, empirical fashion.  You can
+only /feel/ these feelings from within.  When you experience
+a sort of primal joy, for example, even if you are a brain
+physiologist, you do not say to yourself, Waw, what a limbic
+dat.  Rather, you describe these feelings in intimate,
+personal, emortional terms, /subjective/ terms: I feel
+wonderful, it's great to be alive, or whatnot.
 
+So in the Left Hand column, you can see a list of some of
+the basic types of /subjective/ or /interior awareness/ that
+go with these variopus /objective/ or /exterior forms/
+listed in the right column.
 
 
 -- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73- | Ken Wilbur
