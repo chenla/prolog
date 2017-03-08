@@ -941,6 +941,7 @@ speak.
 #+end_quote
 
 #+CAPTION: Wilbur's Four Holarchy Quadrants
+#+ATTR_ORG: width="600px"
 [[./img/holon/wilber--four-quadrants.png]]
 
 #+begin_quote
@@ -1055,6 +1056,7 @@ everything in figure 5-3, but most people would agree that
 #+end_quote
 
 #+CAPTION: Details of Four Holarchy Quadrants
+#+ATTR_ORG: width="600px"
 [[./img/holon/wilber--quadrant-details.png]]
 
 
