@@ -115,9 +115,11 @@ Every is at the center of the universe from it's point of view.
 
 ** The Middle
 
-- [[https://www.youtube.com/watch?v=JV7K8CvA26I][The Astonishing Simplicity of Everything]] | Neil Turok - YouTube
 - [[https://en.wikipedia.org/wiki/Observable_universe][Observable universe]] | Wikipedia
 - [[https://en.wikipedia.org/wiki/Planck_length][Planck length]] | Wikipedia
+- [[https://www.youtube.com/watch?v=JV7K8CvA26I][The Astonishing Simplicity of Everything]]    | Neil Turok - YouTube
+- [[bib:turok:2021within][The Universe Within: from Quantum to Cosmos]] | Neil Turok
+
 
 
 Humans are about in the middle (geometric mean) in terms of scale:
