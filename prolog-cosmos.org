@@ -101,20 +101,25 @@ increases entropy.
 
 * Scale
 
+
+#+CAPTION: The Observable Universe (logarithmic illustration)
+[[./img/cosmos/Observable_universe_logarithmic_illustration-480x480.png]]
+
+#+begin_comment
+Source: [[https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png][https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png]]
+#+end_comment
+
 ** Holons are isotropic
 
 ** The Middle
-
-Humans are about in the middle 
-
 
 - [[https://www.youtube.com/watch?v=JV7K8CvA26I][The Astonishing Simplicity of Everything]] | Neil Turok - YouTube
 - [[https://en.wikipedia.org/wiki/Observable_universe][Observable universe]] | Wikipedia
 - [[https://en.wikipedia.org/wiki/Planck_length][Planck length]] | Wikipedia
 
 
-the observable universe  8.8×10^26m
+Humans are about in the middle in terms of scale
 
-cell 
-
-plank 1.616229(38)×10^−35m
+  - the size of the observable universe 10^25m
+  - living cell 10^-5 --> about half way
+  - plank length 10^−35m
