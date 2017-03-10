@@ -98,3 +98,23 @@ increases entropy.
     copied.
   - information is generated every time there is a quantum event
   - the universe is structured hierachically
+
+* Scale
+
+** Holons are isotropic
+
+** The Middle
+
+Humans are about in the middle 
+
+
+- [[https://www.youtube.com/watch?v=JV7K8CvA26I][The Astonishing Simplicity of Everything]] | Neil Turok - YouTube
+- [[https://en.wikipedia.org/wiki/Observable_universe][Observable universe]] | Wikipedia
+- [[https://en.wikipedia.org/wiki/Planck_length][Planck length]] | Wikipedia
+
+
+the observable universe  8.8×10^26m
+
+cell 
+
+plank 1.616229(38)×10^−35m
