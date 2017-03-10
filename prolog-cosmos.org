@@ -106,10 +106,12 @@ increases entropy.
 [[./img/cosmos/Observable_universe_logarithmic_illustration-480x480.png]]
 
 #+begin_comment
-Source: [[https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png][https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png]]
+src: [[https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png][https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_illustration.png]]
 #+end_comment
 
 ** Holons are isotropic
+
+Every is at the center of the universe from it's point of view.
 
 ** The Middle
 
@@ -118,8 +120,8 @@ Source: [[https://en.wikipedia.org/wiki/File:Observable_universe_logarithmic_ill
 - [[https://en.wikipedia.org/wiki/Planck_length][Planck length]] | Wikipedia
 
 
-Humans are about in the middle in terms of scale
+Humans are about in the middle (geometric mean) in terms of scale:
 
   - the size of the observable universe 10^25m
   - living cell 10^-5 --> about half way
-  - plank length 10^−35m
+  - planck length 10^−35m
