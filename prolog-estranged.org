@@ -116,8 +116,10 @@ hand, and a denial or justification.
 
 * Footnotes
 
-[fn:2] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were 'Shepherds of the
-Forest' or 'Tree-Herders' in Tolkien's fictional Middle Earth.
+[fn:2] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were long lived
+(living up to tens of thousands of years) tree-like race who were the
+'Shepherds of the Forest' or 'Tree-Herders' in Tolkien's fictional
+Middle Earth.
 
 [fn:1]  A character in the American TV sitcom [[https://en.wikipedia.org/wiki/Malcolm_in_the_Middle][Malcolm in the Middle]]
 2000-2006.
