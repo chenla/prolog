@@ -63,6 +63,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[prolog-pace.org][Pace Layers]]
  - [[prolog-process.org][Process]]
  - [[prolog-scope.org][Scope]]
+ - [[./prolog-estranged.org][Estranged]]
  - [[prolog-transactive.org][Transactive Species]]
  - [[prolog-why.org][Why]]
 
