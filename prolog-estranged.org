@@ -63,7 +63,15 @@ Man is estranged from that with which he is most familiar.
  - [[bib:scott:1999state][Seeing Like a State]] | James Scott
 
 
+Christopher Alexander dedicated his life's work to healing this
+estrangement but he was never very good at articulating it.  You could
+almost viscerally feel Alexander's anguish bleeding from every
+character of every page of every book he wrote.  But the estrangement
+was so at odds with every fiber of his being that perhaps it was
+beyond him to understand why and how it happened. 
 
+In a sense, the following quote encapsulates the estrangement
+perfectly:
 
 #+begin_quote
 Scott starts with the story of “scientific forestry” in 18th century
@@ -87,3 +95,5 @@ promoted, and “scientific forestry” spread across Europe and theworld.
 
 -- Scott Alexander | Review of Seeing Like a State
 #+end_quote
+
+
