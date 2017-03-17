@@ -53,3 +53,37 @@ Man is estranged from that with which he is most familiar.
 
 -- Hericlitus, quoted by Charles Olson.
 #+end_quote
+
+
+
+
+* Seeing like a State
+
+ - [[https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/][Book Review: Seeing Like A State]] | Slate Star Codex
+ - [[bib:scott:1999state][Seeing Like a State]] | James Scott
+
+
+
+
+#+begin_quote
+Scott starts with the story of “scientific forestry” in 18th century
+Prussia. Enlightenment rationalists noticed that peasants were just
+cutting down whatever trees happened to grow in the forests, like a
+chump. They came up with a better idea: clear all the forests and
+replace them by planting identical copies of Norway spruce (the
+highest-lumber-yield-per-unit-time tree) in an evenly-spaced
+rectangular grid. Then you could just walk in with an axe one day and
+chop down like a zillion trees an hour and have more timber than you
+could possibly ever want.
+
+This went poorly. The impoverished ecosystem couldn’t support the game
+animals and medicinal herbs that sustained the surrounding peasant
+villages, and they suffered an economic collapse. The endless rows of
+identical trees were a perfect breeding ground for plant diseases and
+forest fires. And the complex ecological processes that sustained the
+soil stopped working, so after a generation the Norway spruces grew
+stunted and malnourished. Yet for some reason, everyone involved got
+promoted, and “scientific forestry” spread across Europe and theworld.
+
+-- Scott Alexander | Review of Seeing Like a State
+#+end_quote
