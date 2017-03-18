@@ -246,6 +246,20 @@ central problem in statecraft.
 -- Scott -- Seeing like a State
 #+end_quote
 
+#+begin_quote
+The premodern state was, in many critical respects, partially blind;
+it knew precious little about its subjects, their wealth, their
+landholdings and yeilds, their location, their very identity.  It
+lacked anything like a detailed "map" of its terrain and its people.
+It lacked, for the most part, a measure, a metric, that would allow it
+to "translate" what it knew into a common standard necessary for
+synoptic view.  As a result its interventions were often crude and
+self-defeating.
+
+-- Scott -- Seeing like a State
+#+end_quote
+
+
 when we move beyond earth being a wanderer will again be viable -- you
 might be able to carve out states from planets like mars after a long
 while, but the Belt will never be fully sedentararized beyond the big
