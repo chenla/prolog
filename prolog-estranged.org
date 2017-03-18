@@ -46,6 +46,48 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </ul>
 #+HTML: </div>
 
+
+* A Cautionary Preface
+
+#+begin_quote
+If you are interested in stories with happy endings, you would be
+better off reading some other book. In this book, not only is there no
+happy ending, there is no happy beginning and very few happy things in
+the middle.
+
+-- Lemony Snicket, The Bad Beginning
+#+end_quote
+
+There is always a danger in any premise that begins with denouncing
+the present and offering some (insert your favorite adjective here:
+noble, heroic, pastorial, gentle, harmonious, wise..) romanticized and
+dry-cleaned picture of how the past was better.  There are /so/ many
+ways this is wrong that it would require a multi-volume work to even
+give an adequate summary of how wrong it is.
+
+Every present in every past age has enormous problems, and every
+present in every age to come in the future will well.  That's just the
+way it is.  However, in most cases, it's not all bad.  There are some
+things which, seemingly by accident, every age has gotten right.
+Sadly it's usually the case that whenever we get something right, it
+never lasts and we manage to screw it up for the next generation, who
+look back nostalgically at that those few things that were better in
+the past which no longer work in the present.
+
+It is also true that none of the good things in the past, present or
+future emerged whole an perfect like Venus from the sea-foam[fn:1].
+
+Some of the good stuff has survived, preserved because people have
+seen value in it, be it beauty, utility or intrinsic monetary value.
+We look to these artifacts from the past mostly in the form of art and
+architecture as a sign that the past is worth remembering, both the
+good and the bad as well.
+
+The dreary monotonous horrors that were part of everyone's day to day
+existence were so pervassive that no one thought to leave a record of
+them unless they had grown into a plague or precipitated a collapse.
+
+
 * Introduction
 
 #+begin_quote
@@ -103,33 +145,37 @@ turned modernism into the monster it became.  But it wasn't
 rationalism or the scientific method per se, but man's tendency to
 never do anything in half measures -- if one spoon of sugar in one's
 coffee was good, then a cup or two of sugar must be better!  We're
-like Malcom[fn:1] who we had just watched jump off the roof of his
+like Malcom[fn:2] who we had just watched jump off the roof of his
 house on a dare from his brother, his older self, narrating the voice
 over saying "it seemed like a good idea at the time..."
 
-Treebeard[fn:2] was right in calling Man a 'hasty folk'.  We're all too
+Treebeard[fn:3] was right in calling Man a 'hasty folk'.  We're all too
 wrapped up in the moment to think things through and become
 righteously indignant when it is pointed out and rather than modify
 our behavior we double-down and make things worse with a wave of a
-hand, and a denial or justification.
+hand, a denial, a justification.
 
 In another sense, it's a bit like the ancient saying that when your
 only tool is a hammer, everything begins to look like a nail.  And by
 extension, the Japanese proverb, nail that sticks out gets hammered
 down.  We know our own shortcomings, but can be relied on not to
 overcome them time and time again.
-
+U
 
 
 
 * Footnotes
 
-[fn:2] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were long lived
+[fn:1] I never understood the sea-shell thing, used in numerous
+depictions, most famously Botticelli but also in painting unearthed in
+Pompeii....
+
+[fn:3] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were long lived
 (living up to tens of thousands of years) tree-like race who were the
 'Shepherds of the Forest' or 'Tree-Herders' in Tolkien's fictional
 Middle Earth.
 
-[fn:1]  A character in the American TV sitcom [[https://en.wikipedia.org/wiki/Malcolm_in_the_Middle][Malcolm in the Middle]]
+[fn:2]  A character in the American TV sitcom [[https://en.wikipedia.org/wiki/Malcolm_in_the_Middle][Malcolm in the Middle]]
 2000-2006.
 
 
