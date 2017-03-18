@@ -274,6 +274,10 @@ to put people and give them at least a chance at building a new life.
 that will be the harder part -- that will require an 100% automated
 self-replicating industrial infrastructure.
 
+you don't need an industrial civilization to build an industrial
+civilization, you just need a fuck of a lot of computational power and
+a shitload of robots and a place to let them both loose...
+
 * Footnotes
 
 [fn:1] I never understood the sea-shell thing, used in numerous
