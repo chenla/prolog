@@ -66,7 +66,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-estranged.org][Estranged]]
  - [[prolog-transactive.org][Transactive Species]]
  - [[prolog-why.org][Why]]
- - [[./prolog-philosopy][Philosophy]]
- - [[./prolog-movemet][Movement]]
+ - [[./prolog-philosopy.org][Philosophy]]
+ - [[./prolog-movement.org][Movement]]
 
 
