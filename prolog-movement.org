@@ -51,7 +51,56 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
   - rules for radicals
   - stupid tedtalk video
   - methodist movement
-  - what we can learn from religion
+
+* What we can learn from religion
+
+TEDTalk: Alain de Bottom: Atheism 2.0
+:url: http://www.ted.com/talks/alain_de_botton_atheism_2_0.html
+
+Notes:
+
+  - culture can replace religion
+  - sermons -- proactive lectures
+  - repetition -- without repetition, people forget
+  - structure time -- calendars
+  - rituals -- eg. moon festival
+  - speak well 
+  - physical actions back up ideas
+  - art -- art for art's sake is wrong, and artists shouldn't explain
+    themselves is wrong. religion uses are as a reminder what there is
+    to love, fear and hate. Art should be didactic
+  - religions form institutions -- bring in money, are branded,
+    organized.
+  - pilgramage
+  - connection with something bigger than yourself
+
+
+----
+
+    - Religion for Atheists & Sacred Stacks & Anathem
+    - Education -- and trivium -- learning to think first
+    - catholic monastic orders are based on Epicurean
+      communities.  in fact modern religion is in most
+      respects providing what in ancient times, was what
+      philosophy used to provide -- frameworks for living
+      life.
+    - liturgy --tightly choreographed ritual-agenda
+    - collective meals -- the /agape feast/
+    - culture of repetition
+    - arrange time -- calendars of events
+    - oratory --
+    - physically manifest ideas -- eg. baptism
+    - art must didactic -- manifest emotions, ideas and stories
+    - form institutions -- collaborative, branded,
+      disciplined.
+    - pilgramage
+    - connect to something bigger than ourselves
+    - build on top of existing culture and religions --
+      christmas was a pagan holiday
+
+
+
+
 
 * Overton Window
 
