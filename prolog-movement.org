@@ -48,3 +48,31 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+  - rules for radicals
+  - stupid tedtalk video
+  - methodist movement
+  - what we can learn from religion
+
+* Overton Window
+
+  - [[https://en.wikipedia.org/wiki/Overton_window][Overton window]] | Wikipedia
+
+#+begin_quote
+"Many who before regarded legislation on the subject as chimerical,
+will now fancy that it is only dangerous, or perhaps not more than
+difficult. And so in time it will come to be looked on as among the
+things possible, then among the things probable;–and so at last it
+will be ranged in the list of those few measures which the country
+requires as being absolutely needed. That is the way in which public
+opinion is made."
+
+"It is no loss of time," said Phineas, "to have taken the first great
+step in making it."
+
+"The first great step was taken long ago," said Mr. Monk,–"taken by
+men who were looked upon as revolutionary demagogues, almost as
+traitors, because they took it. But it is a great thing to take any
+step that leads us onwards."
+
+-- [[https://en.wikipedia.org/wiki/Phineas_Finn][Phineas Finn]] | [[https://en.wikipedia.org/wiki/Anthony_Trollope][Anthony Trollope]]
+#+end_quote
