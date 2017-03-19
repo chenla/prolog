@@ -49,8 +49,12 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 * Introduction
 
   - rules for radicals
-  - stupid tedtalk video
   - methodist movement
+
+* Stupid TedTalk Video
+
+  - [[http://www.ted.com/talks/derek_sivers_how_to_start_a_movement][Derek Sivers: How to start a movement]] | TED Talk
+
 
 * What we can learn from religion
 
@@ -74,31 +78,30 @@ Notes:
   - pilgramage
   - connection with something bigger than yourself
 
-
 ----
 
-    - Religion for Atheists & Sacred Stacks & Anathem
-    - Education -- and trivium -- learning to think first
-    - catholic monastic orders are based on Epicurean
-      communities.  in fact modern religion is in most
-      respects providing what in ancient times, was what
-      philosophy used to provide -- frameworks for living
-      life.
-    - liturgy --tightly choreographed ritual-agenda
-    - collective meals -- the /agape feast/
-    - culture of repetition
-    - arrange time -- calendars of events
-    - oratory --
-    - physically manifest ideas -- eg. baptism
-    - art must didactic -- manifest emotions, ideas and stories
-    - form institutions -- collaborative, branded,
-      disciplined.
-    - pilgramage
-    - connect to something bigger than ourselves
-    - build on top of existing culture and religions --
-      christmas was a pagan holiday
+  - Religion for Atheists & Sacred Stacks & Anathem
+  - Education -- and trivium -- learning to think first
+  - catholic monastic orders are based on Epicurean
+    communities.  in fact modern religion is in most
+    respects providing what in ancient times, was what
+    philosophy used to provide -- frameworks for living
+    life.
+  - liturgy --tightly choreographed ritual-agenda
+  - collective meals -- the /agape feast/
+  - culture of repetition
+  - arrange time -- calendars of events
+  - oratory --
+  - physically manifest ideas -- eg. baptism
+  - art must didactic -- manifest emotions, ideas and stories
+  - form institutions -- collaborative, branded,
+    disciplined.
+  - pilgramage
+  - connect to something bigger than ourselves
+  - build on top of existing culture and religions --
+    christmas was a pagan holiday
 
-* Methodism
+* The Methodic Movement
 
 #+begin_quote
 Have you ever wondered, for example, how religious movements
