@@ -48,3 +48,102 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+
+* Introduction
+The Epicurean Saddle on the Stoic Horse
+- Title is a paraphrase from William Bradford "The Pilgram
+  Saddle on the Puritan Horse".
+
+* Cosmology
+
+this section was it's own [[./prolog-cosmology.org][file]].
+
+  - It is impossible to construct a philosophy without first
+    setting down the model of the world that it is based
+    on.
+  - At present this means that we are living in a universe
+    that had a beginning (the big bang) and that the
+    preconditions (14 parameters) determined, spatial
+    dimensions, physical laws eg. gravity, entropy,
+    thermodynamics etc.  Everything is information, space,
+    matter or energy.  Relativity and inertial frames of
+    reference.  Speed of light.
+  - Time is an illusion -- there is only the present that is
+    constantly changing -- and it's a non-reversible
+    process, you can't unstir something.
+  - Causal chains determine what is possible, that propagate
+    uniformly at the speed of light relative to an inertial
+    frame of reference.
+  - Matter is atomic in nature, as was first proposed by
+    Democritus, but atoms are made of sub particles.
+* Principles
+  - there is only us, living in an interdependent ecosystem
+  - Based on concept of enlightened self interest
+    :url: https://en.wikipedia.org/wiki/Enlightened_self-interest
+  - we are a group species that is dependent on each other
+    for survival -- objectivism, rational self-interest,
+    trickle down anything, which make up the bulk of
+    Libertarian belief system is ultimately a justification
+    for selfishness and greed -- and treats benefits to the
+    group as a side-effect, not as a goal.
+  - Based on Epicurian idea of the social contract based on
+    mutual agreement.
+  - Must be practical as in something that is put into
+    practice, not an exercise in theoretical knowledge.
+* Ethics
+  - Identity & Scope
+  - On Mind & Soul
+  - On Fear & Pain
+  - On Death
+  - Happiness, Satisfaction, Pleasure, 
+  - Virtues & Vices
+    - honesty 反  
+    - courage
+    - charity
+    - justice 反 
+    - temperance 
+    - generosity
+    - gentleness
+    - honor
+    - charm 
+  - On Love & Friendship
+  - Duty
+  - On Work & Purpose
+* Epistemology
+  - We must start with the brain -- a primitive core, that
+    deals with primal fear and pleasure -- surrounded by a
+    neo-cortex which is a hierarchical pattern matching
+    machine.
+  - Our conscious perception of the world is an illusion --
+    we know the world only indirectly through sensory organs
+    that pass information to the brain.  Our brain then
+    constructs a "world-view" a map that is a mixture of
+    direct experience, pattern matching, and derived
+    assumptions that is often wrong because we only
+    understand the world and how it works at our physical
+    scale.  The world works differently at scales that are
+    vastly smaller or bigger than ourselves.  
+
+    Our world view is a dymanically changing model of the
+    world that we use to direct our actions and interactions
+    with the world around us.
+  - An anthropological concept of a "world view"
+  - Empirical in nature: belief is based on reproducible
+    empirical observation
+  - Our understanding of the universe is constantly
+    evolving, so that beliefs must not be dogmatic in
+    nature, but flexible so that when a better understanding
+    of the world is found.
+
+* Tetrapharmakos
+
+The Four-Part Cure
+
+#+begin_verse
+Don't fear god,
+Don't worry about death;
+What is good is easy to get, and
+What is terrible is easy to endure.
+—Philodemus, Herculaneum Papyrus, 1005, 4.9–14
+#+end_verse
+
