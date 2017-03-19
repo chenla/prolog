@@ -68,5 +68,5 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[prolog-why.org][Why]]
  - [[./prolog-philosopy.org][Philosophy]]
  - [[./prolog-movement.org][Movement]]
-
+ - [[./prolog-calendar.org][Calendar]]
 
