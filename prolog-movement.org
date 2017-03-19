@@ -98,9 +98,54 @@ Notes:
     - build on top of existing culture and religions --
       christmas was a pagan holiday
 
+* Methodism
 
+#+begin_quote
+Have you ever wondered, for example, how religious movements
+get started? Usually, we think of them as a product of
+highly charismatic evangelists, people like the Apostle Paul
+or Billy Graham or Brigham Young. But the spread of any new
+and contagious ideology also has a lot to do with the
+skillful use of group power. In the late eighteenth and
+early nineteenth centuries, for example, the Methodist
+movement became epidemic in England and North America,
+tipping from 20,000 to 90,000 followers in the U.S. in the
+space of five or six years in the 1780s. But Methodism’s
+founder, John Wesley, was by no means the most charismatic
+preacher of his era. That honor belonged to George
+Whitfield, an orator of such power and charisma that, it was
+said, he once charmed a five pound contribution out of
+Benjamin Franklin—who was, of course, the furthest thing
+from a churchgoer. Nor was Wesley a great theologian, in the
+tradition of, say, John Calvin or Martin Luther. His genius
+was organizational. Wesley would travel around England and
+North America delivering open air sermons to thousands of
+people. But he didn’t just preach. He also stayed long
+enough in each town to form the most enthusiastic of his
+converts into religious societies, which in turn he
+subdivided into smaller classes of a dozen or so
+people. Converts were required to attend weekly meetings and
+to adhere to a strict code of conduct. If they failed to
+live up to Methodist standards, they were expelled from the
+group. This was a group, in other words, that stood for
+something. Over the course of his life, Wesley traveled
+ceaselessly among these groups, covering as much as four
+thousand miles a year by horseback, reinforcing the tenets
+of Methodist belief. He was a classic Connector. He was a
+super Paul Revere. The difference is, though, that he wasn’t
+one person with ties to many other people. He was one person
+with ties to many groups, which is a small but critical
+distinction. Wesley realized that if you wanted to bring
+about a fundamental change in people’s belief and behavior,
+a change that would persist and serve as an example to
+others, you needed to create a community around them, where
+those new beliefs could be practiced and expressed and
+nurtured.
 
+-- Malcom Gladwell | The Tipping Point
+#+end_quote
 
+- [[https://en.wikipedia.org/wiki/George_Whitefield][George Whitefield]] | Wikipedia
 
 * Overton Window
 
@@ -125,3 +170,9 @@ step that leads us onwards."
 
 -- [[https://en.wikipedia.org/wiki/Phineas_Finn][Phineas Finn]] | [[https://en.wikipedia.org/wiki/Anthony_Trollope][Anthony Trollope]]
 #+end_quote
+
+* Creeping Normality
+
+Creeping normality if the Overton Window's evil twin.
+
+  - [[https://en.wikipedia.org/wiki/Creeping_normality][Creeping normality - Wikipedia]]

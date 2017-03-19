@@ -60,7 +60,7 @@ arc.
     - Decade
     - Century
     - Millenia
-    - Special  
+    - Special (founding for one)  
   - Elections
     - Abbot  
     - 
@@ -72,7 +72,9 @@ arc.
     - journeyman
     - master
     - marriage
-    - divorce
+    - divorce :: divorce needs a cermiony -- that helps all parties
+                 com to terms with what is happening and pull
+                 community behind them to start a new life...
     - death : preparation of the body, wake, funeral,
       cremation, three month, one year.
   - Seasons & Microseasons
@@ -85,7 +87,7 @@ arc.
     - Saunts
   - Symbols
 
-
 Microseasons!
+
 The Chinese 1-day per page -- almanack-calendar is where we
 want to go with this...
