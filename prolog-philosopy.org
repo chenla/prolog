@@ -123,7 +123,7 @@ few meters of their front door unsupervised.
   - On Fear & Pain
   - On Death
   - Happiness, Satisfaction, Pleasure, 
-  - Virtues & Vices
+  - Virtues
     - honesty 反  
     - courage
     - charity
@@ -132,7 +132,12 @@ few meters of their front door unsupervised.
     - generosity
     - gentleness
     - honor
-    - charm 
+    - charm
+  - Vices :: do we really need to be explicit?  Capital
+             crimes & cardinal sins... defining absolute 
+             limits of action, behavior and thought.  This
+             then links to law and punishment -- what
+             punishments, detention, fines, banishment? 
   - On Love & Friendship
   - Duty
   - On Work & Purpose
