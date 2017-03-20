@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: The Fifty Year Window
+#+TITLE: Windows
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
@@ -52,6 +52,25 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </div>
 
 * Introduction
+
+I had called this whole file the fifty-year-window, when in
+fact it's not just one window -- each of items below are
+different windows with very different parameters.
+
+When you aggragate them and average them out I believe it
+will be roughly 50 years -- depending on a bunch of
+variables
+
+That's why this has to be data driven more than almost any
+other part of the project -- it will generate models that we
+can constantly test -- generate scenarios and tweak -- it
+will never end.
+
+And as if that isn't depressing -- the window is a horizon,
+that will always recede into the future just beyond our
+grasp.
+
+---
 
 Elon Musk has said on several occasions that we have a very short
 window to become a multi-planet species, if we don't do it soon, we
