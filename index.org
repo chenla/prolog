@@ -68,9 +68,3 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[prolog-transactive.org][Transactive Species]]
  - [[prolog-why.org][Why]]
 
-
- - [[./prolog-movement.org][Movement]]
- - Mythos
- - Community
- - [[./prolog-calendar.org][Calendar]]
- - Infrastructure
