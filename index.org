@@ -58,7 +58,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - [[prolog-cosmos.org][Cosmos]]
  - [[./prolog-philosopy.org][Philosophy]]
- - [[prolog-fifty-year-window.org][Fifty Year]]
+ - [[prolog-window.org][Windows]]
  - [[prolog-holon.org][Holon]]
  - [[prolog-identity.org][Identity]]
  - [[prolog-pace.org][Pace Layers]]
