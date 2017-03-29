@@ -62,12 +62,41 @@ this section was it's own [[./prolog-cosmology.org][file]].
   - Must be practical as in something that is put into
     practice, not an exercise in theoretical knowledge.
 * Ethics
+
+I like the idea that ethics is a job that everyone teaches
+to the young both explicitly and by example.
+
+The [[https://en.wikipedia.org/wiki/Nanny_state][Nanny state]] cedes the teaching of morals and ethics,
+replacing them with codified rules, regulations and
+laws. This makes us lazy and sends the wrong message to our
+children because rules are only as good as the exceptions
+that they allow.  No one can anticipate all scenarios, and
+over time context changes to the point where laws on the
+books are hopelessly outdated and counter-productive.  It
+also encourages people to look for loopholes -- if you are
+only accountable to what has been put into rule and law
+books then all sorts of immoral behavior is possible that
+has not been included in the books.
+
+The overworn saying, 'it takes a village to raise a child'
+holds true -- but only if everyone in the village takes
+responsibility for all children in the village.  This
+tradition is still alive and well in my home in Cambodia,
+but has vanished in most developed countries.  A latch-key
+kid is only a bad thing, in what Brian Eno called the /small
+here/.  If you lived in a /big here/ children would drift
+into neighbor's homes and hang out with friends until their
+parents came home.  In the England and America, for example,
+it is now rare for a child to be allowed to go more than a
+few meters of their front door unsupervised.
+
+
   - Identity & Scope
   - On Mind & Soul
   - On Fear & Pain
   - On Death
   - Happiness, Satisfaction, Pleasure, 
-  - Virtues & Vices
+  - Virtues
     - honesty 反  
     - courage
     - charity
@@ -76,7 +105,12 @@ this section was it's own [[./prolog-cosmology.org][file]].
     - generosity
     - gentleness
     - honor
-    - charm 
+    - charm
+  - Vices :: do we really need to be explicit?  Capital
+             crimes & cardinal sins... defining absolute 
+             limits of action, behavior and thought.  This
+             then links to law and punishment -- what
+             punishments, detention, fines, banishment? 
   - On Love & Friendship
   - Duty
   - On Work & Purpose
