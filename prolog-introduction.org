@@ -133,7 +133,7 @@ We can then organize LOLR thus:
   - Keep things in Living Memory
   - MVP, MVS
   - Restoration Archive
-  - Multi-Planet Species
+  - Multi-Planet Species (solar civilization)
   - Functional Requirements
 
 *** TOC II
