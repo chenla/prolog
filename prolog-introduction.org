@@ -23,7 +23,7 @@
 * Introduction
 
 The introduction to the prolog will be called /The Yellow Brick Road/
-and will either a major section of the prolog or an entire book that
+and will either be a /part/ of the prolog or an entire book that
 can stand on it's own.
 
   - Backups & Moonshots
@@ -35,8 +35,212 @@ can stand on it's own.
     - Isabella of Spain
     - New English Dictionary
   - A Primer as Process
+    - REPL
     - Define
     - Test
     - Beta & Release
   - Shticks
     - The Long Boat
+
+* Plan of the Work
+
+** The Yellow Brick Road
+  - Prolegomenon
+  - Trivium
+    - grammer
+    - logic
+    - rhetoric
+  - Quadrivium
+    - mimesis
+    - rhizomata
+    - systema
+    - transacta
+** Cyclical Natures of Things
+- Cosmic    :: Big Bang, inflation, formation of galaxies 
+- Galactic  :: galactic year, birth and death of stars
+- Solar     :: 
+- Planetary :: hot house, ice-house, vulcanism, impacts, solar
+               and cosmic radiation, evolutionary, extinctions
+- Human     :: rise, decline, fall, collapse
+** The Library of Last Resort
+- Concepts
+  - to forget and repeat
+  - living memory vs. reinvention
+  - context keeps stuff understandable
+  - everything is either text, list or blob
+  - everything is a narrative
+  - no context, no meaning
+  - data, information & knowledge
+- Loss
+  - disaster :: fire, flood, quake, electromagnetic, chemical
+  - media migration
+    - oral to written
+    - scroll to codex
+    - analog to digital
+    - encoding to encoding
+  - temporary insanity
+    - ideological   :: purges causes by belief systems
+    - political     :: hoarding of power and information
+    - economic      :: similar to benign neglect, but deliberate
+  - human error     :: accident, incompetance
+  - benign neglect 
+  - loss of context
+  - extinction
+- Context
+  - communication is shared meaning
+  - class vs individual
+  - context is the sum of relationships within a finite set
+  - level of detail
+  - point of view
+  - relationships
+  - value and context
+- Organization
+  - organization is linguistic
+    - symbols, words, sentences
+  - organization reflects power
+  - five ways to sort
+   - sequence
+   - magnitude
+   - topic
+   - time
+   - place
+  - data structures
+    - tree
+    - rhizome
+    - directed graph
+    - lists
+    - maps
+- Data Models
+- Encoding
+- Markup Strategies
+  - serialization vs markup
+  - written markup :: symbols, words, sentences, punctuation,
+                      whitespace, indentation. paragraphs, sections,
+                      divisions, documents. 
+- Static vs Dynamic
+  - machine readable vs machine understandable
+  - executable text
+  - pattern matching
+  - recursion
+- Strategies for Survival
+  - lots of copies keep stuff safe
+  - document and define everything
+    - definitions set limits and boundries
+    - 
+  - staggered overlapping change :: 
+    the idea being to keep long term archives in archival formats, 
+    and languages which change slowly over very long time frames 
+    form a bridge between short term linguistic drift happening 
+    in the short term -- long time frames are 1,000 years.
+  - copies beyond reach :: that can't be destroyed - like on the
+         moon
+  - archival copies :: lossless formats that preserve and are
+         human readable, but not for consumption. Kept in a safe 
+         place.
+  - public copies :: in human consumable formats, that are subject
+         to censorship, and access limits due to ideogies, politics,
+         taboo and law.
+  - staggered retention assesment :: don't save everything 
+  - 
+- Storage media
+  - rock, clay, 
+  - papryus, parchment, paper
+  - analog audio, video
+  - magnetic, 
+  - binary
+  - micro-etching
+  - dna
+- Functional Requirements for a Library of Last Resort
+** The Plan of Arc Nong Pao
+A study of the architecture & economy of, & life in a paradigmatic
+Scopic Arc.
+
+ - Background :: living knowledge, continuity, memory, knowledge,
+                 drift, 2-planet species, backup & restore, graceful
+                 degredation, minimum viable backup (MVB)
+   - Restoration Stack :: 
+     - causes :: global killers, societal collapse, natural disaster,
+                 temporary insanity
+     - strategies for survival :: decline, sack, collapse, dark ages, 
+                 extinction.
+     - technological fallback :: bunker, edwardian, electronic.
+ - Arc Nong Pao
+   - Location :: champasek
+   - Regional & Local context :: 
+     - culture
+     - language
+     - secular authority
+     - Climate & Geography
+   - Buildings
+     - The Cows Layed Out Boston
+     - Cooling
+     - First Draft :: Bamboo, Ramed Earth
+     - Permanent Structures :: Stone & Wood
+ - The Scopic Polity
+   - Familia Intus
+     - Issues :: town/gown iconographies
+     - The Scopic Rule :: mill, cent, dec, year, day
+     - governance :: abbot, dean, librarian, forrester
+     - monks :: master, jack, prentice, novices & oblates
+     - routine, ritual
+   - Familia Foris
+     - charter, trust & cooperative
+     - governance
+     - Tambon & Village :: elements, zoning, services, school
+     - Buildings :: family, brewery, drying sheds, cheesery, bakery,
+                    granary, village hub, canning house, foundry &
+                    metal shops, ceramic & kiln, guesthouse, shophouse,
+                    school house, library
+     - Services :: electricity, water, fuel, roads, safety, fire,
+                   health, sanitation
+ - The Plan  :: broken into hords, arcs and libs
+   - Hord :: secret hidden archive -- 
+   - Arc  :: living archive and memory, not publically accessable,
+             feeding public libs
+     - distrib :: group of distributed tambons that collectively 
+                  represent a complete MVB
+     - tambon  :: group of villages 1,000 people supporting a scopic arc.
+     - village :: 150-300 people
+   - Lib :: Public libraries controlled by secular authorities, may or
+            may not be censored.
+ - Scopic Buildings
+   - Great Hall, Chalk Hall, Study Hall, Karol
+   - Great Clock, tile well, root-to-shoot, library, servers,
+     seed-bank, observatory
+   - Housing :: abbot, visitors, masters, jacks, prentices, novices
+   - Service Buildings
+ - Tambon Self-Sufficiency
+   - Concepts :: key patterns, permaculture,
+   - Energy
+   - Water
+   - Soil
+   - Climate
+   - Forest & Savannah
+   - forage, herbivores, omnivores & predators
+   - Zones :: woodlot, palm-fruit, cow-forage, pig-forage, palm-row
+              crops
+   - Plants ::
+   - Animals ::
+ - The Production of Material Life
+   - Constructor Kit
+     - Farm ::
+     - Industrial ::
+     - Domestic :: 
+     - Tools
+       - hand    :: pounding, twisting, turning, cutting, collecting
+       - powered :: electric, pnuematic (air & oil)
+   - Goods Production
+     - Electronic :: IC, circuit boards, ccd, leds, lasers, batteries
+     - Motors, generators, turbines, fans & screws
+     - Info-Net :: processor, ram, storage, display, sequencers
+     - Healthcare :: surgical, monitoring, syringes,
+     - fasteners :: nails, staples, nuts bolts, screws
+     - hinges, locksets, handles
+     - chains, ropes & strings, wires, fencing, netting 
+     - inks & dyes, paints, stains, adhesives, sealants, solvents,
+     - textiles
+     - glass :: plate, fiber, glassware
+     - optics :: lenses, prisms
+     - paper :: 
+     - filters :: 
+  - Materials :: metals, plastics, oils, concrete, stone, wood, gases
