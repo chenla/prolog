@@ -101,6 +101,9 @@ planetary biological systems.
 ** The Library of Last Resort
 *** TOC I
 
+  - Turing Unversal Machine -- no distinction between
+    hardware, software and storage.
+
 We can then organize LOLR thus:
 
 **** I Scenarios
@@ -125,7 +128,13 @@ We can then organize LOLR thus:
   - Etched Metals
   - DNA
   - Archives, Repositories, Caches & Libraries
-  - 
+**** IV Strategies
+  - LOCKSS
+  - Keep things in Living Memory
+  - MVP, MVS
+  - Restoration Archive
+  - Multi-Planet Species
+  - Functional Requirements
 
 *** TOC II
 
