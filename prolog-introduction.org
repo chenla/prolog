@@ -22,3 +22,21 @@
 
 * Introduction
 
+The introduction to the prolog will be called /The Yellow Brick Road/
+and will either a major section of the prolog or an entire book that
+can stand on it's own.
+
+  - Backups & Moonshots
+  - What We Don't Know
+  - All The Way Down
+    - context, meaning and metaphors
+    - 
+  - It's the Adventure Stupid
+    - Isabella of Spain
+    - New English Dictionary
+  - A Primer as Process
+    - Define
+    - Test
+    - Beta & Release
+  - Shticks
+    - The Long Boat
