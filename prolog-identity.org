@@ -108,15 +108,9 @@ relationship?
 
 References:
 
-*Buddy Brain Drain* 
-Robin Dunbar
-New York Post, 2010/01/25
-http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI
+- [[http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI][Buddy Brain Drain]] | Robin Dunbar, New York Post, 2010/01/25
+- [[http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all][Networks Neolothic to Now]] | Elizabeth Gudrais, Harvard Magazine, 2010/May-June
 
-*Networks Neolothic to Now*
-Elizabeth Gudrais
-Harvard Magazine, 2010/May-June
-http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all
 
 See also: *Networked* in same issue by the same Author
 http://harvardmagazine.com/2010/05/networked
@@ -126,15 +120,9 @@ Christopher Allen
 Life With Alacrity (Blog), 2004/03/10
 http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html
 
-*Dunbar number*
-Wikipedia Article
-Accessed 2011/08/26
-http://en.wikipedia.org/wiki/Dunbar's_number
+- [[http://en.wikipedia.org/wiki/Dunbar's_number][Dunbar number]] | Wikipedia (accessed 2011/08/26)
+- [[http://en.wikipedia.org/wiki/Interpersonal_ties][Interpersonal ties]] | Wikipedia (accessed 2011/08/26)
 
-*Interpersonal ties*
-Wikipedia Article
-Accessed 2011/08/26
-http://en.wikipedia.org/wiki/Interpersonal_ties
 
 *The Strength of Weak Ties*
 Granovetter, Mark S. (1973). 
