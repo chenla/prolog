@@ -519,7 +519,7 @@ working hours or time zones.
 
 ** Horcrux
 
-=Ghosst= (as in the ghost in the machine) are digital cognitive
+=Ghost= (as in the ghost in the machine) are digital cognitive
 extensions of a biological, legal or corporate entity.  Ghosts are
 made up of =Horcruxes= which are quasi-independent shards of ghost which
 provide different contextual roles that a Ghost must operate in.  A
