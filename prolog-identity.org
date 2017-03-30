@@ -20,6 +20,11 @@
 
 #+TOC: headlines 4
 
+Refs
+
+   - [[http://www.slideshare.net/padday/bridging-the-gap-between-our-online-and-offline-social-network][Bridging the gap between our online and offline social network]]
+   - [[http://www.sitepoint.com/an-introduction-to-google-plus/][An Introduction to Google]]
+
 * An Identity Model
 ** Introducion
 
@@ -512,3 +517,68 @@ different times of day because they are morning people, or because of
 working hours or time zones.
 
 
+** Horcrux
+
+=Ghosst= (as in the ghost in the machine) are digital cognitive
+extensions of a biological, legal or corporate entity.  Ghosts are
+made up of =Horcruxes= which are quasi-independent shards of ghost which
+provide different contextual roles that a Ghost must operate in.  A
+Ghost is a composite of it's horcruxes.  And like in Harry Potter, a
+Ghost can not die unless all of it's Horcruxes have been destroyed.
+
+  - Ghost
+    - horcrux
+    - horcrux 
+    - horcrux
+    - horcrux
+
+A horcrux is a shard (contextual role) of a Ghost.  A ghost is an
+individual cognitive entity, or a corporate (group entity).
+
+Corporate Ghosts can be anything from a friendship between two people,
+a workgroup a scopic shop, a guild, a government etc.
+
+Our identities are the whole that only we can see -- it is inside our
+heads.  We only show overlapping aspects of that whole -- it is
+impossible for anyone to know the whole except the ghost in the
+machine.
+
+Incoming information needs to be identified, put into context and
+become part of the world-view/map of the ghost.
+
+Horcruxes define permissions; what is visable to other horcruxes, what
+is visable to other ghosts and what is visable publically.  Incoming
+information can be owned by multiple horcruxes, which can write and
+execute -- or only be visable to some and only can be executable to
+others.
+
+A ghost is a composite distributed entity that is spread over many
+instances -- and requires a consensus between a majority of instances
+to make a decision.
+
+A corporate ghost has members that also must reach a collective
+consensus by voting.  Voting rights may be weighted so that some
+members votes count for more than others.
+
+A lot of what makes up Ghosts and their component horcruxes is by
+looking for patterns in incoming information and figuring out what
+they are, and how they fit into the meta-world-map that makes up the
+Ghost's understanding of the external world.
+
+This is done through an external service -- sort of a cognitive
+indexing service -- you send incoming information to the service and
+it will figure out what it is, (pattern recognition) and then a much
+smaller local cognitive stack will find where it belongs in the
+ghost's =meta-world-map= (MWM).  Once that happens, every query to the
+MWM triggers another cascade of pattern recognition, and hopefully a
+best =guess= -- which is the closest thing the system can come to an
+answer.  A guess has associated values of match/no-match, degree of
+certainty, and magnitude.  The higher these values, the more the ghost
+can trust the match and broader, narrower, related and equiv links to
+other concepts.  If there is no matching concept to a guess, a new
+concept is established and given a place within the MWM that can
+change over time as new information comes in.
+
+The Ghost daemon determines what role a ghost is in at any given
+moment -- which determines who sees what, and the context of what the
+ghost is doing at at any one time.
