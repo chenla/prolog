@@ -523,8 +523,8 @@ working hours or time zones.
 extensions of a biological, legal or corporate entity.  Ghosts are
 made up of =Horcruxes= which are quasi-independent shards of ghost which
 provide different contextual roles that a Ghost must operate in.  A
-Ghost is a composite of it's horcruxes.  And like in Harry Potter, a
-Ghost can not die unless all of it's Horcruxes have been destroyed.
+Ghost is a composite of its horcruxes.  And like in Harry Potter, a
+Ghost can not die unless all of its Horcruxes have been destroyed.
 
   - Ghost
     - horcrux
