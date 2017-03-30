@@ -50,27 +50,34 @@ the TOC is based on:
   - NOTES <2014-06-26 Thu 13:35> What the hell is this about?
 #+end_comment
 
-Okay, /The Yellow Brick Road/ prepares you for the journey and starts
-you down the road.
+The Meta title for the work is /The Nature of Things/
 
-The /Library of Last Resort/ lays the groundwork for very long term
-scopic archives.
+It still hasn't quite gelled.  In a sense it's going on to
+cover everything that the quadrivium didn't.  
 
-The /Plan of Arc Nong Pao/ is a detailed plan to put the library of
-last resort into action.
+In Neal Stephenson's The Diamond Age, when a girl completed
+the /Young Lady's Illustrated Primer/ it unlocked a library
+of advanced books and areas of specific study in different
+subjects and disciplines.  We don't see in any of these
+books but they are not the same as the Primer.
 
-But the /Nature of Things/ still hasn't gelled.  In a sense it's going
-on to cover everything that the quadrivium didn't.  But since these
-are lifetime study plans, perhaps that's what should be put into the
-work -- so the base physics and even philosophy that I have now in NOT
-could be put into the quadrivium, and then the scenarios that we need
-to consider before planning the library of last resort are actually
-the first part of LOLR, since having completed the quadrivium, the
-reader will have a good grasp of cosmology, physics, evolution,
-extinction events, climate change and planetary biological systems.
+But then, this isn't that either.  Rather this is meant to
+be more like lifetime study plans, perhaps that's what
+should be put into the work.  The base physics and even
+philosophy included here will NOT be included in the
+quadrivium.  If so then the scenarios that we need to
+consider before planning the library of last resort are
+actually the first part of LOLR, since having completed the
+quadrivium, the reader will have a good grasp of cosmology,
+physics, evolution, extinction events, climate change and
+planetary biological systems.
 
-----
-
+  - The /The Yellow Brick Road/ prepares you for the journey and starts
+    you down the road.
+  - The /Library of Last Resort/ lays the groundwork for very long term
+    scopic archives.
+  - The /Plan of Arc Nong Pao/ is a detailed plan to put the library of
+    last resort into action.
 
 
 ** The Yellow Brick Road
