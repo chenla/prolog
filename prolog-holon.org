@@ -505,6 +505,33 @@ However, the statement that Chasui was 6 years old in 2006
 will remain true no matter how far into the future that the
 statement is observed.
 
+
+  - [[http://reason.com/archives/2012/12/24/half-the-facts-you-know-are-probably-wro][Half the Facts You Know Are Probably Wrong]] | Reason.com
+  - [[bib:arbesman:2012half-life][The Half-Life of Facts]] | Samuel Arbesman, 2012
+
+#+begin_quote
+Ordering our surroundings is the rule of how we as humans
+operate. In childhood we give names to our toys, and in
+adulthood we give names to our species, chemical elements,
+asteroids, and cities. By naming, or, more broadly, by
+categorizing, we are creating an order to an otherwise
+chaotic and frightening world.  
+
+And when we learn facts, we are doing the same
+thing. Facts—whether about our surroundings, the current
+state of knowledge, or even ourselves—provide us with a
+sense of control and a sense of comfort. When we see
+something out of the corners of our eyes around dusk, we
+needn’t view it as a creepy bird of the night: We call that
+a bat, which is a winged nocturnal mammal that “sees”
+through the use of echolocation and is probably afraid of
+the bipedal mammals around it. Only half as scary, right?
+
+-- The Half-Life of Facts
+#+end_quote
+
+
+
 We need a concept that we can use to include all of the
 different possibile combinations that can apply to a given
 assertion.  To my knowledge there isn't a word for this, so
