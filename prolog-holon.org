@@ -505,6 +505,9 @@ However, the statement that Chasui was 6 years old in 2006
 will remain true no matter how far into the future that the
 statement is observed.
 
+----
+
+Establishing facts is related to naming things
 
   - [[http://reason.com/archives/2012/12/24/half-the-facts-you-know-are-probably-wro][Half the Facts You Know Are Probably Wrong]] | Reason.com
   - [[bib:arbesman:2012half-life][The Half-Life of Facts]] | Samuel Arbesman, 2012
@@ -529,6 +532,46 @@ the bipedal mammals around it. Only half as scary, right?
 
 -- The Half-Life of Facts
 #+end_quote
+
+
+#+begin_quote
+And there’s one simple way to organize facts, even before we
+understand all the math and science behind how knowledge
+changes. We can organize what we know by the rate at which
+it changes.
+
+Imagine we have all the facts in the world—those pieces of
+knowledge that contain all that we know—lined up according
+to how often they change. On the far left we have the
+fast-changing facts, the ones that are constantly in
+flux. These are things such as what the weather will be
+tomorrow or what the stock market close was yesterday. And
+on the far right we have the very slow-changing facts, the
+ones that for all practical purposes are constant. These are
+facts such as the number of continents on the planet or the
+number of fingers on a human hand.
+
+In between we have the facts that change, but not too
+quickly—and are therefore that much more maddening to deal
+with. These facts might change over the course of years or
+decades or a single lifetime. How many billions of people
+are on the planet is one of these. I learned five billion in
+school, and we just recently crossed seven billion, as
+of 2012. My grandfather, who was born in 1917, learned there
+were fewer than two billion. The number of planets outside
+the solar system that have been discovered, or, for that
+matter, the number of planets in our own solar system, is
+also in this category. What we know about dinosaurs is in
+this group of facts, as is the average speed of a
+computer. The vast majority of what we know seems to fall
+into this category, which I call mesofacts—facts that change
+at the meso-, or middle, timescale.
+
+-- The Half-Life of Facts
+#+end_quote
+
+
+
 
 
 
