@@ -23,73 +23,82 @@
 * A Cautionary Preface
 
 #+begin_quote
-If you are interested in stories with happy endings, you would be
-better off reading some other book. In this book, not only is there no
-happy ending, there is no happy beginning and very few happy things in
-the middle.
+If you are interested in stories with happy endings, you
+would be better off reading some other book. In this book,
+not only is there no happy ending, there is no happy
+beginning and very few happy things in the middle.
 
 -- Lemony Snicket, The Bad Beginning
 #+end_quote
 
-There is always a danger in any premise that begins with denouncing
-the present and offering some (insert your favorite adjective here:
-noble, heroic, pastorial, gentle, harmonious, wise..) romanticized and
-dry-cleaned picture of how the past was better.  There are /so/ many
-ways this is wrong that it would require a multi-volume work to even
-give an adequate summary of how wrong it is.
+There is always a danger in any premise that begins with
+denouncing the present and offering some (insert your
+favorite adjective here: noble, heroic, pastorial, gentle,
+harmonious, wise..) romanticized and dry-cleaned picture of
+how the past was better.  There are /so/ many ways this is
+wrong that it would require a multi-volume work to even give
+an adequate summary of how wrong it is.
 
-Every present in every past age has enormous problems, and every
-present in every age to come in the future will well.  That's just the
-way it is.  However, in most cases, it's not all bad.  There are some
-things which, seemingly by accident, every age has gotten right.
-Sadly it's usually the case that whenever we get something right, it
-never lasts and we manage to screw it up for the next generation, who
-look back nostalgically at that those few things that were better in
-the past which no longer work in the present.
+Every present in every past age has enormous problems, and
+every present in every age to come in the future will well.
+That's just the way it is.  However, in most cases, it's not
+all bad.  There are some things which, seemingly by
+accident, every age has gotten right.  Sadly it's usually
+the case that whenever we get something right, it never
+lasts and we manage to screw it up for the next generation,
+who look back nostalgically at that those few things that
+were better in the past which no longer work in the present.
 
-It is also true that none of the good things in the past, present or
-future emerged whole an perfect like Venus from the sea-foam[fn:1].
-The good evolved by trial and error, with many false starts, and many
-imperfect iterations before it first, didn't suck, and then was okay
-before (long after that process had been forgotten) it became good.
-And it was good for a while, and then it wasn't.  And after it was no
-longer good, it became reviled, and the memory of when it was good
-romanticized.
+It is also true that none of the good things in the past,
+present or future emerged whole an perfect like Venus from
+the sea-foam[fn:1].  The good evolved by trial and error,
+with many false starts, and many imperfect iterations before
+it first, didn't suck, and then was okay before (long after
+that process had been forgotten) it became good.  And it was
+good for a while, and then it wasn't.  And after it was no
+longer good, it became reviled, and the memory of when it
+was good romanticized.
 
-Some of the good stuff has survived, preserved because people have
-seen value in it, be it beauty, utility or intrinsic monetary value.
-We look to these artifacts from the past mostly in the form of art and
-architecture as a sign that the past is worth remembering, both the
-good and the bad as well.
+Some of the good stuff has survived, preserved because
+people have seen value in it, be it beauty, utility or
+intrinsic monetary value.  We look to these artifacts from
+the past mostly in the form of art and architecture as a
+sign that the past is worth remembering, both the good and
+the bad as well.
 
-The dreary monotonous horrors that were part of everyone's day to day
-existence were so pervassive that no one thought to leave a record of
-them unless they had grown into a plague or precipitated a collapse.
+The dreary monotonous horrors that were part of everyone's
+day to day existence were so pervassive that no one thought
+to leave a record of them unless they had grown into a
+plague or precipitated a collapse.
 
-There never was, can or could have or be a garden of paradise.
-Innocence, perfection or purity of mind and body are little more than
-fleeting moments, snapshots frozen in time, out of context that don't
-include the becoming that came before, or the becoming of what they
-turn into later.  The six year old, knelling before bed with hands
-clasped, eyes shut in fervent prayer that "the puppy will stay a puppy
-forever" is never far from our hearts and prayers.  That the perfect
-seaside holiday with friends could go on forever and no one would have
-to go home, or go back to school or work, or be subjected to the
-mindless pointlessness of the process of maintanence, which is 90% of
-everything. Though even the six year old, knows in her own way, that
-her wish can never be granted.
+There never was, can or could have or be a garden of
+paradise.  Innocence, perfection or purity of mind and body
+are little more than fleeting moments, snapshots frozen in
+time, out of context that don't include the becoming that
+came before, or the becoming of what they turn into later.
+The six year old, knelling before bed with hands clasped,
+eyes shut in fervent prayer that "the puppy will stay a
+puppy forever" is never far from our hearts and prayers.
+That the perfect seaside holiday with friends could go on
+forever and no one would have to go home, or go back to
+school or work, or be subjected to the mindless
+pointlessness of the process of maintanence, which is 90% of
+everything. Though even the six year old, knows in her own
+way, that her wish can never be granted.
 
-Those moments are important to keep us sane, to comfort us through
-hard times.  But they can not be resurrected, they can not be
-preserved, and they can not endure.  They can only be used as
-guideposts in building new futures, that have not surrendered to
-despair.  There will be puppies in our future as well as bright
-sunny days on the beach, and that is okay.  This is the essense of
-what hope, the last to escape from the bottom of Pandora's Box is all
-about.  And as Philip K. Dick once said in defense of the accusation
-that all of his stories had bleak endings.  No, he said, at the
-end of most of his stories there is always hope, but just as in real
-life, not a lot.  How much hope, he asked, do you need? 
+Those moments are important to keep us sane, to comfort us
+through hard times.  But they can not be resurrected, they
+can not be preserved, and they can not endure.  They can
+only be used as guideposts in building new futures, that
+have not surrendered to despair.  There will be puppies in
+our future as well as bright sunny days on the beach, and
+that is okay.  This is the essense of what hope, the last to
+escape from the bottom of Pandora's Box is all about.  And
+as Philip K. Dick once said in defense of the accusation
+that all of his stories had bleak endings.  No, he said, at
+the end of most of his stories there is always hope, but
+just as in real life, not a lot.  How much hope, he asked,
+do you need?
 
 
 * Introduction
@@ -100,7 +109,73 @@ Man is estranged from that with which he is most familiar.
 -- Hericlitus, quoted by Charles Olson.
 #+end_quote
 
+Olson saw man's estrangement steming from, of all things,
+taxonomy.  That as soon as man went beyond naming things and
+started classifying them the rift opened and has been
+growing ever since.  Specifically, when Aristotle introduced
+his classification system.
 
+I can see his point -- taxonomy is a level of cognitive
+abstraction that was only possible because of the invention
+of written languages which extended human and memory and
+cognition beyond the limits of our miserable primate brains
+and senses.  Man had reached an existential threshold, that
+allowed the species to continue to grow and expand in ways
+that no species on the planet had been able to do before.
+
+A native american myth told the story of how the earth began
+to open up with man on one side, and all of the other
+animals on the other.  As the chasm widened, at the very
+last minute, dog jumped over to stand with man.
+
+Writing systems moved us outside of our heads and separated
+us from other creatures except for a handful of creatures
+like dog, who had thrown their lot in with man and was one
+of man's first externalizations, extensioning our hearing
+and sense of smell far beyond our own.  Dog, in a very real
+sense became part of mankind as a kind of cyborg extension.
+There was no going back for dog, as there was no going back
+for man.
+
+We now demarcated ourselves, believing that we were apart
+from the world, from nature.  We weren't and aren't.  But we
+were loosing our ability to see ourselves as a part of the
+world.  This is the real reason for the backlash against
+Darwin's theory.  How could we be related to monkeys?  The
+rift convinced us that we were the center of the universe,
+and not part of it.  We went to absurd lengths to convince
+ourselves of this fiction.  The structures we built
+increasingly became more and more estranged and disconnected
+from the world -- ignoring the fact that we were dependent
+on the ecosystems and climate that gave us life and allowed
+us to live.
+
+This reached it's apex in modernism, which manifested itself
+most profoundly in modernist art and architecture which
+sought to so thoroughly divorce itself from the world that
+there were no longer any colors beyond stark black and white
+and shining bits of metal.  Everything was sharp geometric
+shapes and edges and lines -- furniture was designed to fit
+the aesthetic rather than be a comfortable fit to the human
+bodies that were supposed to be sitting, eating or sleeping
+in it.  Modernism was a negation of any connection of man to
+Nature or the Universe -- there was no time, no life or
+death, no pain or joy -- just sterile emptiness desperately
+trying to convince itself that this was a true reflection of
+man's true self, of pure rationality.  When in fact it was
+delusional fantasy.
+
+Olson believed that the estrangement was coming to an end,
+back in the 1950's.  And in a sense he might have been
+right, but got the dates wrong.  The beat and black mountain
+folks were the faintest of hairline cracks in modernism,
+that grew into the counter-cultural movement in the 1960's
+and 1970's which still have a very long way to go.  So
+perhaps it's better to say that Olson saw the beginning of
+the beginning of an end that we still can't see.  We are so
+broken, that we have forgotten what the world is, or how we
+once were part of it and are only now waking up to the
+reality of how much damage our estrangement has resulted in.
 
 
 * Seeing like a State
@@ -109,160 +184,178 @@ Man is estranged from that with which he is most familiar.
  - [[bib:scott:1999state][Seeing Like a State]] | James Scott
 
 
-Christopher Alexander dedicated his life's work to healing this
-estrangement but he was never very good at articulating it.  You could
-almost viscerally feel Alexander's anguish bleeding from every
-character of every page of every book he wrote.  But what had happened
-to the modern world was so at odds with every fiber of his being that
-perhaps it was beyond him to understand why and how it happened.
+Christopher Alexander dedicated his life's work to healing
+this estrangement but he was never very good at articulating
+it.  You could almost viscerally feel Alexander's anguish
+bleeding from every character of every page of every book he
+wrote.  But what had happened to the modern world was so at
+odds with every fiber of his being that perhaps it was
+beyond him to understand why and how it happened.
 
-In a sense, the following quote encapsulates the estrangement
-perfectly:
+In a sense, the following quote encapsulates the
+estrangement perfectly:
 
 #+begin_quote
-Scott starts with the story of “scientific forestry” in 18th century
-Prussia. Enlightenment rationalists noticed that peasants were just
-cutting down whatever trees happened to grow in the forests, like a
-chump. They came up with a better idea: clear all the forests and
-replace them by planting identical copies of Norway spruce (the
+Scott starts with the story of “scientific forestry” in 18th
+century Prussia. Enlightenment rationalists noticed that
+peasants were just cutting down whatever trees happened to
+grow in the forests, like a chump. They came up with a
+better idea: clear all the forests and replace them by
+planting identical copies of Norway spruce (the
 highest-lumber-yield-per-unit-time tree) in an evenly-spaced
-rectangular grid. Then you could just walk in with an axe one day and
-chop down like a zillion trees an hour and have more timber than you
-could possibly ever want.
+rectangular grid. Then you could just walk in with an axe
+one day and chop down like a zillion trees an hour and have
+more timber than you could possibly ever want.
 
-This went poorly. The impoverished ecosystem couldn’t support the game
-animals and medicinal herbs that sustained the surrounding peasant
-villages, and they suffered an economic collapse. The endless rows of
-identical trees were a perfect breeding ground for plant diseases and
-forest fires. And the complex ecological processes that sustained the
-soil stopped working, so after a generation the Norway spruces grew
-stunted and malnourished. Yet for some reason, everyone involved got
-promoted, and “scientific forestry” spread across Europe and the
-world.
+This went poorly. The impoverished ecosystem couldn’t
+support the game animals and medicinal herbs that sustained
+the surrounding peasant villages, and they suffered an
+economic collapse. The endless rows of identical trees were
+a perfect breeding ground for plant diseases and forest
+fires. And the complex ecological processes that sustained
+the soil stopped working, so after a generation the Norway
+spruces grew stunted and malnourished. Yet for some reason,
+everyone involved got promoted, and “scientific forestry”
+spread across Europe and the world.
 
 -- Scott Alexander | Review of Seeing Like a State
 #+end_quote
 
 
-In effect, it was rationalism and the scientific method run amok, that
-turned modernism into the monster it became.  But it wasn't
-rationalism or the scientific method per se, but man's tendency to
-never do anything in half measures -- if one spoon of sugar in one's
-coffee was good, then a cup or two of sugar must be better!  We're
-like Malcom[fn:2] who we had just watched jump off the roof of his
-house on a dare from his brother, his older self, narrating the voice
-over saying "it seemed like a good idea at the time..."
+In effect, it was rationalism and the scientific method run
+amok, that turned modernism into the monster it became.  But
+it wasn't rationalism or the scientific method per se, but
+man's tendency to never do anything in half measures -- if
+one spoon of sugar in one's coffee was good, then a cup or
+two of sugar must be better!  We're like Malcom[fn:2] who we
+had just watched jump off the roof of his house on a dare
+from his brother, his older self, narrating the voice over
+saying "it seemed like a good idea at the time..."
 
-Treebeard[fn:3] was right in calling Man a 'hasty folk'.  We're all too
-wrapped up in the moment to think things through and become
-righteously indignant when it is pointed out and rather than modify
-our behavior we double-down and make things worse with a wave of a
-hand, a denial, a justification.
+Treebeard[fn:3] was right in calling Man a 'hasty folk'.
+We're all too wrapped up in the moment to think things
+through and become righteously indignant when it is pointed
+out and rather than modify our behavior we double-down and
+make things worse with a wave of a hand, a denial, a
+justification.
 
-In another sense, it's a bit like the ancient saying that when your
-only tool is a hammer, everything begins to look like a nail.  And by
-extension, the Japanese proverb, nail that sticks out gets hammered
-down.  We know our own shortcomings, but can be relied on not to
-overcome them time and time again.
+In another sense, it's a bit like the ancient saying that
+when your only tool is a hammer, everything begins to look
+like a nail.  And by extension, the Japanese proverb, nail
+that sticks out gets hammered down.  We know our own
+shortcomings, but can be relied on not to overcome them time
+and time again.
 
 * The people who move around vs those who stay put
 
 Clash between stages of stages of economic and sociological
 development.
 
-  hunter-gatherer people vs the hoedad people vs the plow people
+  hunter-gatherer people vs the hoedad people vs the plow
+  people
 
-the trappers vs the farmers, the herders vs the ceral growers who gave
-us alcohol which finally allowed the wanders who couldn't wander any
-more because of all of the fences, to hole up and drink themselves to
-death.
+the trappers vs the farmers, the herders vs the ceral
+growers who gave us alcohol which finally allowed the
+wanders who couldn't wander any more because of all of the
+fences, to hole up and drink themselves to death.
 
-it's the plot of nearly every god-fucking-knows-how-many western
-b-movies that gave people like John Wayne respectibility, when in a
-later age he would have just been another Steven Seigal.
+it's the plot of nearly every god-fucking-knows-how-many
+western b-movies that gave people like John Wayne
+respectibility, when in a later age he would have just been
+another Steven Seigal.
 
-it's little house on the prairie -- with dad a wanderer who keeps
-trying to stay put, but can't and keeps moving further and further
-west until there isn't any more west left
+it's little house on the prairie -- with dad a wanderer who
+keeps trying to stay put, but can't and keeps moving further
+and further west until there isn't any more west left
 
-it's ME always moving to places that are on the cusp of hitting the
-tipping point and then moving on when it does -- usually around the
-time that Seven-Eleven, McDonald's and Starbucks have established
-themselves and are starting to take off -- I move on.
+it's ME always moving to places that are on the cusp of
+hitting the tipping point and then moving on when it does --
+usually around the time that Seven-Eleven, McDonald's and
+Starbucks have established themselves and are starting to
+take off -- I move on.
 
-states hate wanderers because they can't tax them, control them or
-even know what they are doing -- the folks living in north america and
-austrailia before the europeans arrives -- the gypsies in the old
-world who were equally targeted by both hitler /and/ stalin.
+states hate wanderers because they can't tax them, control
+them or even know what they are doing -- the folks living in
+north america and austrailia before the europeans arrives --
+the gypsies in the old world who were equally targeted by
+both hitler /and/ stalin.
 
-the mongols were almost the exception -- the wanderers who won.  but
-ended up having to create a forbidden city in the heart of their
-chinese empire where they could live like wanderers without their
-subjects knowing.  the arabs, wandering the deserts like whale boats
-plying the oceans, always at the brink of being cast adrift....
+the mongols were almost the exception -- the wanderers who
+won.  but ended up having to create a forbidden city in the
+heart of their chinese empire where they could live like
+wanderers without their subjects knowing.  the arabs,
+wandering the deserts like whale boats plying the oceans,
+always at the brink of being cast adrift....
 
 ---
 
-the agricultural revolution did this -- which led to the nation-state
--- which is now so successful that there is not only no longer any
-place to wander, but no place for anyone to migrate creating massive
-pressures that will tear the global system apart. 
+the agricultural revolution did this -- which led to the
+nation-state -- which is now so successful that there is not
+only no longer any place to wander, but no place for anyone
+to migrate creating massive pressures that will tear the
+global system apart.
 
 #+begin_quote
-The more  I examined these efforts at sedentarization, the more I came
-to see them as a state's attempt to make a society legible, the
-arrange the population in ways that simplified the classic state
-functions of taxation, conscription, and prevention of rebellion.
-Having begun to think in these terms, I began to see legibility as a
-central problem in statecraft.
+The more I examined these efforts at sedentarization, the
+more I came to see them as a state's attempt to make a
+society legible, the arrange the population in ways that
+simplified the classic state functions of taxation,
+conscription, and prevention of rebellion.  Having begun to
+think in these terms, I began to see legibility as a central
+problem in statecraft.
 
 -- Scott -- Seeing like a State
 #+end_quote
 
 #+begin_quote
-The premodern state was, in many critical respects, partially blind;
-it knew precious little about its subjects, their wealth, their
-landholdings and yeilds, their location, their very identity.  It
-lacked anything like a detailed "map" of its terrain and its people.
-It lacked, for the most part, a measure, a metric, that would allow it
-to "translate" what it knew into a common standard necessary for
-synoptic view.  As a result its interventions were often crude and
-self-defeating.
+The premodern state was, in many critical respects,
+partially blind; it knew precious little about its subjects,
+their wealth, their landholdings and yeilds, their location,
+their very identity.  It lacked anything like a detailed
+"map" of its terrain and its people.  It lacked, for the
+most part, a measure, a metric, that would allow it to
+"translate" what it knew into a common standard necessary
+for synoptic view.  As a result its interventions were often
+crude and self-defeating.
 
 -- Scott -- Seeing like a State
 #+end_quote
 
 
-when we move beyond earth being a wanderer will again be viable -- you
-might be able to carve out states from planets like mars after a long
-while, but the Belt will never be fully sedentararized beyond the big
-rocks.  we need to start thinking this way -- we need to be able to
-make migration as cheap and easy as those who left europe and were
-barely filtered through ellis island.  musk's $200K ain't gonna cut it.
+when we move beyond earth being a wanderer will again be
+viable -- you might be able to carve out states from planets
+like mars after a long while, but the Belt will never be
+fully sedentararized beyond the big rocks.  we need to start
+thinking this way -- we need to be able to make migration as
+cheap and easy as those who left europe and were barely
+filtered through ellis island.  musk's $200K ain't gonna cut
+it.
 
-perhaps we instead need a price point that england reached for sending
-people to Australia -- cheaper to ship them out than to keep them at
-home.  that number could well be $20-50K -- but would require places
-to put people and give them at least a chance at building a new life.
-that will be the harder part -- that will require an 100% automated
+perhaps we instead need a price point that england reached
+for sending people to Australia -- cheaper to ship them out
+than to keep them at home.  that number could well be
+$20-50K -- but would require places to put people and give
+them at least a chance at building a new life.  that will be
+the harder part -- that will require an 100% automated
 self-replicating industrial infrastructure.
 
-you don't need an industrial civilization to build an industrial
-civilization, you just need a fuck of a lot of computational power and
-a shitload of robots and a place to let them both loose...
+you don't need an industrial civilization to build an
+industrial civilization, you just need a fuck of a lot of
+computational power and a shitload of robots and a place to
+let them both loose...
 
 * Footnotes
 
-[fn:1] I never understood the sea-shell thing, used in numerous
-depictions, most famously Botticelli but also in painting unearthed in
-Pompeii....
+[fn:1] I never understood the sea-shell thing, used in
+numerous depictions, most famously Botticelli but also in
+painting unearthed in Pompeii....
 
-[fn:3] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were long lived
-(living up to tens of thousands of years) tree-like race who were the
-'Shepherds of the Forest' or 'Tree-Herders' in Tolkien's fictional
-Middle Earth.
+[fn:3] [[https://en.wikipedia.org/wiki/Treebeard][Treebeard]], the eldest living Ent.  Ent's were long
+lived (living up to tens of thousands of years) tree-like
+race who were the 'Shepherds of the Forest' or
+'Tree-Herders' in Tolkien's fictional Middle Earth.
 
-[fn:2]  A character in the American TV sitcom [[https://en.wikipedia.org/wiki/Malcolm_in_the_Middle][Malcolm in the Middle]]
-2000-2006.
+[fn:2]  A character in the American TV sitcom [[https://en.wikipedia.org/wiki/Malcolm_in_the_Middle][Malcolm in the
+Middle]] 2000-2006.
 
 
