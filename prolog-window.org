@@ -8,10 +8,6 @@
   :ID: b58326b5-3b0f-4a2f-97c2-57293ad68ec7
   :URL:
   :END:
-
-
-
-
 #+INCLUDE: ./inc/head.org
 #+INCLUDE: ./inc/macros.org
 
@@ -45,26 +41,28 @@ grasp.
 
 ---
 
-Elon Musk has said on several occasions that we have a very short
-window to become a multi-planet species, if we don't do it soon, we
-may never be able to do it.  
+Elon Musk has said on several occasions that we have a very
+short window to become a multi-planet species, if we don't
+do it soon, we may never be able to do it.
 
-  - low hanging fruit picked :: Peak Cheap Non-Renewable Energy, which
-       made the industrial revolution and the information revolution
-       possible -- if the present level of civilization collapses,
-       these resources will not be available to rebuild.
+  - low hanging fruit picked :: Peak Cheap Non-Renewable
+       Energy, which made the industrial revolution and the
+       information revolution possible -- if the present
+       level of civilization collapses, these resources will
+       not be available to rebuild.
 
-  - Population Collapse :: if we fall below MV for technological
-       civilization to continue to innovate at same level, which is
-       needed to solve:
+  - Population Collapse :: if we fall below MV for
+       technological civilization to continue to innovate at
+       same level, which is needed to solve:
 
   - Constant Battles :: man's tendency to to self-destruct
 
   - Climate change   :: spend too much time on survival
 
-We have to have our shit together within 50 years, to begin making
-substantial change or we may not have the time, resources, or number
-of people needed to solve the big problems
+We have to have our shit together within 50 years, to begin
+making substantial change or we may not have the time,
+resources, or number of people needed to solve the big
+problems
 
 
 
@@ -103,3 +101,4 @@ anywhere near finished.
 
 -- The Half-Life of Facts
 #+end_quote
+
