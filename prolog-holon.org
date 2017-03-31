@@ -1925,6 +1925,331 @@ a wonderful comment to the effect, that "the interior of all
 alien space craft looked like the interior of a '57 Buick"
 
 
+** Meaning
+
+#+begin_comment
+NOTES <2013-03-24 Sun 08:29> meaning and the observer
+NOTES <2013-03-25 Mon 22:03> More musings on meaning
+#+end_comment
+
+In the prologue to The Information, Gleick made a wonderful ==== of
+how fuzzy archaic words were adopted by Newton, Einstein and Shannon
+and given concrete scientific definitions which have meanings that can
+be mathematically defined. 
+
+
+#+BEGIN_QUOTE
+For the purposes of science, /information/ had to mean something
+special. Three centuries earlier, the new discipline of physics could
+not proceed until Isaac Newton appropriated words that were ancient
+and vague—/force/, /mass/, /motion/, and even /time/—and gave them new
+meanings. Newton made these terms into quantities, suitable for use in
+mathematical formulas. Until then, /motion/ (for example) had been
+just as soft and inclusive a term as /information/. For Aristotelians,
+motion covered a far-flung family of phenomena: a peach ripening, a
+stone falling, a child growing, a body decaying.  That was too
+rich. Most varieties of motion had to be tossed out before Newton’s
+laws could apply and the Scientific Revolution could succeed. In the
+nineteenth century, /energy/ began to undergo a similar transformation:
+natural philosophers adapted a word meaning vigor or intensity. They
+mathematicized it, giving energy its fundamental place in the
+physicists’ view of nature.
+
+It was the same with information. A rite of purification became
+necessary.
+
+-- The Information
+   James Gleick (Prologue)
+#+END_QUOTE
+
+I think we need a more concrete idea of what meaning is.  Wheeler used
+Fø11esdal's definition:
+
+   "Meaning is the joint product of all the evidence that is
+    available to those who communicate."
+
+That doesn't quite cut it -- I think it would be better to define
+meaning along the lines of:
+
+   "context of something that is observed."
+   "context fixed by the act of observation."
+
+I almost wrote that as "associative context" but that would place
+meaning into the realm of being an cognitive function of the observer.
+We need a non-anthropic definition here.
+
+Observeration, like meaning, is also something that is both relative
+and often subjective.
+
+Separating meaning from the human cognitive process is difficult.  To
+be able to do so we must discard the concept of subjectivity from
+meaning.  Subjectivity is a result of our very imperfect cognitive
+process, false conclusions drawn from misinterpreted patterns
+recognized by the brain.  
+
+So meaning is not subjective so much as relative in that it is
+determined by the POV and LOD of the observation.
+
+If state is determined by observation, and state is, in effect, a
+binary on or off state, then any context is determined by the act of
+observation. This works well with Shannon's divorce of information
+from meaning -- a binary state has no meaning, but the observed
+context of that state gives it meaning.
+
+My definition deprives 'meaning' of a number of different meanings of
+meaning in that it strips meaning of any sense of being absolute,
+eternal, spiritual or even terribly important.
+
+So what do we get from our newly minted definition that we didn't have
+before?
+
+Rereading the Epilogue of Glieck's /The Information/ I'm reminded at
+how disappointed I was.  After all, the subtitle for the chapter was
+"The Return of Meaning," and after having read hundreds of pages
+hammering home the point that in a post-Shannon world, information has
+no meaning, that in the final pages he would bring back some of the
+hope taken from us in previous chapters.  I suppose he did... after a
+fashion.
+
+What he gave us was Google and Big Data folksen, that the Internet is
+unstructured chaos and that there is only meaning in the aggregate.
+That is not because of anything fundamental about Shannon's lack of
+meaning in information, it's because meaning depends on context, and
+most unstructured data on the Internet lacks the context to be
+meaningful.  So you need need to pull together a lot of unstructured
+data and then do some very heavy processing to get meaning out of it.
+
+Big Data works like a gold mine that needs to process several tons of
+rock and soil to distill even a single ounce of gold.  It's messy,
+requires massive brute force machinery and sophisticated techniques.
+The approach is only cost effective if the cost of gold is
+prohibitively high.  For Big Data, the rock crushing and sifting is
+done by a process called Map-Reduce that works something like this:
+
+   Collect information from any number of sources in any format, do
+   some minimal processing to it, like indexing keywords, and then
+   break it into chunks.  Each chunk is sent to a different computer
+   which strains the chunk through algorithmic sieves that identify
+   patterns.  When each computer (there might be tens or even hundreds
+   of thousands of computers employed) finishes, it sends it's answer
+   to another computer which merges all of the answers together by
+   running them through another algorithm and spit out a result.
+
+It's a lot of work to distill a small amount of meaning.  This is not
+to say that the approach is not useful.  In fact it is so useful that
+it is triggering a revolution that will recast how information is
+processed in a fundemental way.  But it's not very fine-grained.  It's
+like using a Tomahawk missle to kill a mouse.
+
+Part of the problem is with data structures.  Most information on the
+Internet is structured as documents, blobs (binary objects like
+images, audio and video) and tabular data (spreadsheets, databases
+etc).  Computers are designed to store these data structures verbatim,
+as if they were physical media.  And in many respects the way we
+structure and store data is still a close digital analog to physical
+media formats of the past.  These formats have evolved over centuries
+to be effective means of communicating information on paper across
+time between people.  This is very different from how the Brain stores
+and processes information.
+
+The brain doesn't store visual information in memory like a camera.
+First it spatially identifies and maps objects within it's visual
+field.  This is why the vast number of creatures on our planet have at
+least two eyes, stereoscopic vision makes it easier to differentiate
+objects at close distances where most immediate threats to survival
+are located.  Next, objects are evaluated and prioritized according to
+what appears to be important or of interest and details are noted and
+stored about those objects as associative memories of those objects.
+If an object is recognized, (this is a chair) an association is made
+to that concept rather than making a new concept and then specific
+details about that object are made as new memories.  When we remember
+something we have seen, we don't retrieve an image, we recreate that
+image from the shards of associations and memories we have about
+something.  This is not readily apparent when you live in a single
+place all your life.  We start chunking associations about the world
+from birth.  And since most people live within a single culture within
+a rather small geographical compass, the vast majority of things we
+encounter every day are familiar.  So even if you enter a building
+that you have never been in before, most of the objects within the
+building are familiar, so the brain is able to focus on many small
+details of what is different in a room, often in a great detail.  So
+when a memory of that room is recalled, the brain is able to assemble
+a very detailed model of what was seen in that room.  This is very
+different from when you travel to a foreign country where the culture
+and material life is very different from what you are accustomed to.
+If you have only visited the country for a short time, the culture
+shock is exhausting because your brain is working overtime trying to
+assimilate so many new classes of objects and try to make sense of
+them.  It is also remarkable how little detail you can remember as
+well.  Memories of a small number of specific types of objects might
+be quite vivid and detailed while others may not be recalled at all.
+
+The contrast between how information is stored by humans on physical
+media (or on the Internet), and how the brain organizes and stores
+information could not be more different.  Documents and images are an
+attempt at capturing and recording our brain's attempts at assembling
+and recreating memories.  This is the brain's version of Map-Reduce.
+We think we are remembering a camera-like image, when we are really
+creating those images from many different parts.  This is an important
+point because all of those parts, to one degree or another, have
+meaning.  The assembled memory is the ounce of gold after crushing and
+sifting tons of raw material, but is only the tip of the iceberg in
+terms of all of the meaning that makes up the constituent parts.
+Google and Big Data are at a tremendous disadvantage because all they
+have to work with are those assembled memories in the form of
+documents, images, tabular data etc. which contain relatively little
+or no meaning because they are out of context.
+
+What is needed is a clear understanding of what is meant by meaning
+and how to use it in capturing, storing and processing information.
+In Shannon's definition of information there is no meaning.  A single
+binary /on/ or /off/ has no meaning, because it has no context.  If
+someone shouted out to you the word "down" for no apparent reason, it
+has no meaning.  But if they said "the Internet is down again," the
+statement has meaning, even to an English speaking time traveler from
+the 19th century who knows nothing about 21st century technology.
+Because even the time travler will know that something called the
+"Internet" is "down" and that this has happened before.  In
+otherwords, meaning doesn't exist at the bit level but at the byte
+level.  This is similar to how things work differently at quantum
+scales than they do at human observable scales.  Meaning requires a
+minimum amount of complexity.  That complexity is made of causal
+relationships between the bits.  Flip one bit from on to off and the
+equilibrium will be broken triggering a cascade that will effect other
+bits that depend on it to maintain state.  Some bits will also flip to
+another state, others will not.  Such relationships cluster and
+recursively nest, so you get a classic /butterfly effect/ rippling
+through the system until it once more reaches a state of equilibrium.
+This happens at the quantum information level, as quantum states
+change which cascade and amplify until it can be seen as aggregate
+change at human or even cosmic scales.
+
+Context is tricky.  Meaning requires complexity which is a system with
+a high level of order, or low entropy.  But complexity is not enough
+to constitute context, it requires /contextual/ complexity.  Context
+is not just a mapping of what surrounds something, but a map of the
+relationships that surrounds something as well.  Relationships can run
+the gamut of things as simple as proximity, to dependencies,
+associations as well as thesaurus style broader, narrower, related and
+equivilent relationships.  It includes complex social realtionships
+like father, mother, child, sibling, friend, spouse, mentor, customer,
+teacher etc.  Some relationships are explicitly established and
+recorded, others might be inferred or implicit.  But it is that
+contextual map of relationships that are the foundational building
+blocks of meaning.
+
+A related manifestation of meaning is a /pattern/. A pattern is a
+thread of relationships which weaves through a data set as Ariadne's
+thread wound through the Minotaur's labrynth.  And just as Theseus's
+thread inextricably lead to the heart of the Minotaur, /patterns/ lead
+to an ephiphany, (albeit not necessarily divine or transcendent in
+nature) that reveal a in part, some deeper understanding of the inner
+or broader workings and machinations and processes that make up our
+world..  The ability to discern such complex patterns is one of the
+fundamental things that sets Homo Sapiens apart from our other close
+primate relatives.
+
+A Pattern is a discernible regularity that repeats in a predictable
+manner.  Recognition of patterns goes to the heart of meaning, both in
+human cognition as well as for Google the Big Data applications.  A
+pattern is different from other kinds of meaning in that it is
+meaningful typically is derived after the fact, from models built up
+from information that has already been observed, recorded and
+processed.  In other words, patterns are meaning that is derived from
+meaning.
+
+Just as the bizzare world of quantum entanglement requires an
+/observer/ to determine state, /meaning/ requires an observer as well,
+and for the same reasons.  Does a falling tree in the forest make a
+sound if there is no one to hear it?  If the tree has not been
+observed by /anything/ directly or indirectly (which theoretically is
+possible but only slightly less probable than an ice cube existing at
+the core of the star), the answer is both yes and no at the same time.
+That is, until the evidence of the fallen tree has been observed after
+the fact.  At which time all of the necessary intermediate
+consequences of a falling tree /must have/ occured in order for it to
+have fallen, including sound.  You can't take the observer out of the
+equation.  Moreover, because the observer must observe within
+/contextual boundries/, every observation must be relative to its
+/PoV/ (Point of View) and the /LoD/ (Level of Detail) of the
+observation.
+
+A PoV is the position and orientation, and observational limitations
+of an observer relative to what is being observed.  A LoD is the
+amount of detail that can can be observed from a given distance.
+Tecnically LoD is a subset of PoV, but it is useful as a metric in its
+own right because it determines the granuality of what is being
+observed.  LoD is a term that comes from computer 3D modeling, which
+saves on computer processing time when rendering complex objects by
+only rendering a subset of an objects polygons if it is being viewed
+from far away.  The reasoning is that if you have a very large model
+with tens of thousands of polygons, and you are rendering an image of
+it from very faw away, the observer will not be able to view more then
+a very small subset of those polygons.  So to save time and money,
+only render a small number of polygons for objects that are far away.
+LoD turns out to be a very good way of understanding both the scope
+and distance that an observer has relative to what is being observed.
+It's a /you can't see a forest for the trees/ problem.  You can not
+observe a mouse if you are looking at one of it's toes under an
+electron microscope, the LOD determines the scope and scale of what is
+being observed, the PoV determines the perspective.  Both PoV and LoD
+are so important that they have their own chapters in the /Primer/, so
+please refer to those chapters for a longer treatment on those
+subjects.
+
+So now that we have a foundation for a definition of meaning, we
+should consider what other shades of meaning we are excluding or
+discarding.  Meaning is often thought to be inseparable from human
+subjectivity.  We have discussed how meaning is relative to an
+observers PoV and LoD.  But human subjectivity is often viewed as
+being both highly personal as well as highly unreliable.  Both of
+these limitations are have more to do with the limitations of human
+cognition than that of meaning.  The human brain can be thought of as
+a relentless pattern recognition system on top of a branching
+associative data store.  Because the system has evolved to favor those
+who physically survive to reproduce and to see their offspring survive
+long enough to reproduce, survival depends more on recognizing lots
+and lots of patterns quickly with lots of false positives than slower
+identifion of more accurate or precise patterns.  The brain is
+designed for a high level of redundancy to help weed out the more
+serious false positives that are life threatening, but we aren't so
+good at weeding out false positives that don't pose an immediate
+threat to survival.  Your chances of survival are far higher if you
+mistake the sound of a breaking branch in the jungle to be a tiger
+stalking you, than if you don't.  Human cognition is a messy business.
+A lot of these false positives are not recognized as such and are
+internalized as all sorts of things from folk beliefs, urban legands,
+seeing demons and spirits, lottery numbers coming to you in dreams,
+mystical visions, bong-hit ephiphanies and the like.  The result is
+that meaning from a human cognitive point of view is highly subjective
+and more often simply wrong than we would care to admit.  In other
+words it is important to allow for our very human cognitive failings
+and weaknesses in our definition of meaning.  Meaning is not a measure
+of right or wrong, it is not a truth statement.
+
+Another important limitation is that meaning is not ultimate.
+Ultimate meanings like "the meaning of life" are, well, meaningless.
+Such a meaning would require an omniscient observer who could see
+everything everywhere, at even the quantum level, simultaneously; /God
+as observer/.  Such an observer would violate quantum causality, as it
+would be the god-observer that would decide the fate of the poor cat
+in Schrödinger's famous thought experiment.  It would be the
+god-observer who would always make an observation before anyone opened
+the box.  Any number of theistic belief systems would have no problem
+with such a scenario, but it would likely invalidate all sorts of
+things like /quantum entaglement/.  Since quantum entanglement is
+backed up by substantial experimental evidence, it would seem that
+even omniscient god-observers are blind at quantum scales.  Even if a
+God observer were possible, any meaning it could observe, would still
+could not be ultimate, because that omniscient meaning would not be
+any more valid than any other subjective meaning from a narrower
+perspectives.
+
+Putting this all together, our working definition is that /meaning is
+the context of something fixed by the act of observation/.
+
+
+
 ** Importance
 
 the only way to establish a fact-based society is to be so
