@@ -108,120 +108,66 @@ relationship?
 
 References:
 
-- [[http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI][Buddy Brain Drain]] | Robin Dunbar, New York Post, 2010/01/25
-- [[http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all][Networks Neolothic to Now]] | Elizabeth Gudrais, Harvard Magazine, 2010/May-June
-
-
-See also: *Networked* in same issue by the same Author
-http://harvardmagazine.com/2010/05/networked
-
-*The Dunbar Number as a Limit to Group Sizes*
-Christopher Allen
-Life With Alacrity (Blog), 2004/03/10
-http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html
-
-- [[http://en.wikipedia.org/wiki/Dunbar's_number][Dunbar number]] | Wikipedia (accessed 2011/08/26)
-- [[http://en.wikipedia.org/wiki/Interpersonal_ties][Interpersonal ties]] | Wikipedia (accessed 2011/08/26)
-
-
-*The Strength of Weak Ties*
-Granovetter, Mark S. (1973). 
-Amer. J. of Sociology, Vol. 78, Issue 6, May 1360-80.
-http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf
-
-*The Strength of the Weak Tie: Revisited*
-Granovetter, Mark S. (1983)
-Sociological Theory, Vol. 1, 201-33.
-http://www.si.umich.edu/~rfrost/courses/SI110/readings/In_Out_and_Beyond/Granovetter.pdf
-
-*Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives*
-Nicholas Christakis & James Fowler
-http://www.connectedthebook.com/ (official site)
-http://www.amazon.com/Connected-Surprising-Power-Social-Networks
-
-*Digital Future Report* (Annual report 2000-2011)
-Center for the Digital Future
-http://www.digitalcenter.org/pages/site_content.asp?intGlobalId=20
-
-*Rhythms of Social Interaction: Messaging within a Massive Online Network*
-Scott A. Golder, Dennis Wilkinson and Bernardo A. Huberman. 
-3rd International Conference on Communities and Technologies
-(CT2007). East Lansing, MI. June 28-30, 2007.
-http://www.hpl.hp.com/research/idl/papers/facebook/index.html (abstract)
-http://www.hpl.hp.com/research/idl/papers/facebook/facebook.pdf 
-
-*Social Network Activity and Social Well Being*
-Burke, M., Marlow, C., and Lento, T. (2010)
-ACM CHI 2010: Conference on Human Factors in Computing Systems, 1909-1912
-http://www.thoughtcrumbs.com/publications/burke_chi2010_sns_and_wellbeing.pdf
-
-Burke has a lot of other papers listed at http://www.thoughtcrumbs.com/
-
-*The problem of conflicting social spheres: effects of network structure on experienced tension in social network sites*
-Binder, Jens; Howes, Andrew; Sutcliffe
-AlistairIn: Boston, MA, USA. 2009. p. 965-974.
-https://www.escholar.manchester.ac.uk/uk-ac-man-scw:2g20 (abstract)
-
-*User Interactions in Social Networks and Their Implications*
-Christo Wilson, Bryce Boe, Alessandra Sala, Krishna P. N. Puttaswamy 
-Ben Y. Zhao
-ACM EuroSys, 2009
-http://www.cs.ucsb.edu/~ravenben/publications/pdf/interaction-eurosys09.pdf
-http://www.cs.ucsb.edu/~ravenben/publications/abstracts/interaction-eurosys09.html (abstract)
-
-*Stefana Broadbent: How the Internet enables intimacy*
-TED Global 2009, filmed Jul 2009, posted Nov 2009
-http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html
-
-
-*Teens, Cell Phones and Texting*
-Amanda Lenhart, Senior Research Specialist 
-Pew Internet & American Life Project, April 20, 2010
-http://pewresearch.org/pubs/1572/teens-cell-phones-text-messages (summary)
-http://pewinternet.org/Reports/2010/Teens-and-Mobile-Phones.aspx (full)
-
-*Social Isolation and New Technology*
-Keith Hampton, Lauren Sessions Goulet, Eun Ja Her, Lee Rainie
-Pew Internet & American Life Project, Nov 4, 2009
-http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Tech_and_Social_Isolation.pdf
-
-*Social Media & Mobile Internet Use Among Teens and Young Adults*
-Amanda Lenhart, Kristen Purcell, Aaron Smith and Kathryn Zickuhr, 
-Pew Internet & American Life Project, February 3, 2010
-http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teens-millennials-fewer-blog (summary)
-http://pewinternet.org/Reports/2010/Social-Media-and-Young-Adults.aspx (full)
-
-
-*Twitter and Status Updating, Fall 2009*
-Susannah Fox, Kathryn Zickuhr, Aaron Smith
-Pew Internet & American Life Project, Oct 21, 2009
-http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Twitter_Fall_2009web.pdf
-
-
-*Rethinking Friendship: Hidden Solidarities Today*
-Liz Spencer, Ray Pahl
- Princeton University Press, August 21, 2006
-http://www.amazon.com/Rethinking-Friendship-Hidden-Solidarities-Today/dp/0691127425
-
-
-*Cognitive bias*
-Wikipedia Article
-Accessed 2011/08/26
-http://en.wikipedia.org/wiki/Cognitive_bias
-http://en.wikipedia.org/wiki/List_of_cognitive_biases
-http://en.wikipedia.org/wiki/Bounded_rationality
-http://en.wikipedia.org/wiki/The_Tipping_Point
-
-*Six Degrees: The Science of a Connected Age*
-Duncan J. Watts
-W. W. Norton & Company; 1st edition, February 2003
-http://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393041425/
-
-*The Role of Hubs in the Adoption Process*
-Jacob Goldenberg, Sangman Han, Donald R. Lehmann, & Jae Weon Hong 
-Journal of Marketing 3/1/2009 
-http://www.marketingpower.com/AboutAMA/Pages/AMA%20Publications/AMA%20Journals/Journal%20of%20Marketing/TOCs/SUM_2009.2/role_of_hubs_adoption_process.aspx (summary)
-http://bear.warrington.ufl.edu/weitz/mar7786/Articles/Goldenberg%20et%20al%202009%20hubs.pdf [PDF]
+ - [[http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI][Buddy Brain Drain]] | Robin Dunbar, New York Post, 2010/01/25
+ - [[http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all][Networks Neolothic to Now]] | Elizabeth Gudrais, Harvard Magazine, 2010/May-June
+ - [[http://harvardmagazine.com/2010/05/networked][Networked]] | Robin Dunbar
+ - [[http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html][The Dunbar Number as a Limit to Group Sizes]] | Christopher Allen
+   Life With Alacrity (Blog), 2004/03/10
+ - [[http://en.wikipedia.org/wiki/Dunbar's_number][Dunbar number]] | Wikipedia (accessed 2011/08/26)
+ - [[http://en.wikipedia.org/wiki/Interpersonal_ties][Interpersonal ties]] | Wikipedia (accessed 2011/08/26)
+ - [[http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf][The Strength of Weak Ties]] | Granovetter, Mark S. (1973). 
+   Amer. J. of Sociology, Vol. 78, Issue 6, May 1360-80.
+ - [[http://www.si.umich.edu/~rfrost/courses/SI110/readings/In_Out_and_Beyond/Granovetter.pdf][The Strength of the Weak Tie: Revisited]] | Granovetter, Mark S. (1983)
+   Sociological Theory, Vol. 1, 201-33.
+ - [[http://www.connectedthebook.com/][Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives]] |
+   Nicholas Christakis & James Fowler
+   http://www.amazon.com/Connected-Surprising-Power-Social-Networks
+ - [[http://www.digitalcenter.org/pages/site_content.asp?intGlobalId=20][Digital Future Report]] | Annual report 2000-2011
+   Center for the Digital Future
+ - [[http://www.hpl.hp.com/research/idl/papers/facebook/facebook.pdf][Rhythms of Social Interaction: Messaging within a Massive Online Network]] |
+   Scott A. Golder, Dennis Wilkinson and Bernardo A. Huberman. 
+   3rd International Conference on Communities and Technologies
+   (CT2007). East Lansing, MI. June 28-30, 2007.
+   http://www.hpl.hp.com/research/idl/papers/facebook/index.html (abstract)
+ - [[http://www.thoughtcrumbs.com/publications/burke_chi2010_sns_and_wellbeing.pdf][Social Network Activity and Social Well Being]] | Burke, M.,
+   Marlow, C., and Lento, T. (2010)
+   ACM CHI 2010: Conference on Human Factors in Computing Systems, 1909-1912
+ - Burke has a lot of other papers listed at http://www.thoughtcrumbs.com/
+ - [[https://www.escholar.manchester.ac.uk/uk-ac-man-scw:2g20][The problem of conflicting social spheres]]
+   Binder, Jens; Howes, Andrew; Sutcliffe
+   AlistairIn: Boston, MA, USA. 2009. p. 965-974.
+ - [[http://www.cs.ucsb.edu/~ravenben/publications/pdf/interaction-eurosys09.pdf][User Interactions in Social Networks and Their Implications]]
+   Christo Wilson, Bryce Boe, Alessandra Sala, Krishna P. N. Puttaswamy 
+   Ben Y. Zhao, ACM EuroSys, 2009
+   http://www.cs.ucsb.edu/~ravenben/publications/abstracts/interaction-eurosys09.html (abstract)
+ - [[http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html][Stefana Broadbent: How the Internet enables intimacy]] | TED
+   Global 2009, filmed Jul 2009, posted Nov 2009
+ - [[http://pewinternet.org/Reports/2010/Teens-and-Mobile-Phones.aspx][Teens, Cell Phones and Texting]] 
+   Amanda Lenhart, Senior Research Specialist 
+   Pew Internet & American Life Project, April 20, 2010
+   http://pewresearch.org/pubs/1572/teens-cell-phones-text-messages (summary)
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Tech_and_Social_Isolation.pdf][Social Isolation and New Technology]] | 
+   Keith Hampton, Lauren Sessions Goulet, Eun Ja Her, Lee Rainie
+   Pew Internet & American Life Project, Nov 4, 2009
+ - [[http://pewinternet.org/Reports/2010/Social-Media-and-Young-Adults.aspx][Social Media & Mobile Internet Use Among Teens and Young Adults]]
+   Amanda Lenhart, Kristen Purcell, Aaron Smith and Kathryn Zickuhr, 
+   Pew Internet & American Life Project, February 3, 2010
+   http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teens-millennials-fewer-blog (summary)
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Twitter_Fall_2009web.pdf][Twitter and Status Updating]], Fall 2009 | Susannah Fox, Kathryn Zickuhr, Aaron Smith,
+   Pew Internet & American Life Project, Oct 21, 2009.
+ - [[http://www.amazon.com/Rethinking-Friendship-Hidden-Solidarities-Today/dp/0691127425][Rethinking Friendship: Hidden Solidarities Today]] | Liz Spencer, Ray Pahl
+   Princeton University Press, August 21, 2006
+ - [[http://en.wikipedia.org/wiki/Cognitive_bias][Cognitive bias]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/List_of_cognitive_biases][List of cognitive biases]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/Bounded_rationality][Bounded rationality]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/The_Tipping_Point][The Tipping point]] | Wikipedia
+ - [[tp://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393041425/][Six Degrees: The Science of a Connected Age]] | Duncan J. Watts, 
+   W. W. Norton & Company; 1st edition, February 2003
+ - [[http://bear.warrington.ufl.edu/weitz/mar7786/Articles/Goldenberg%20et%20al%202009%20hubs.pdf][The Role of Hubs in the Adoption Process]]
+   Jacob Goldenberg, Sangman Han, Donald R. Lehmann, & Jae Weon Hong 
+   Journal of Marketing 3/1/2009 
+   http://www.marketingpower.com/AboutAMA/Pages/AMA%20Publications/AMA%20Journals/Journal%20of%20Marketing/TOCs/SUM_2009.2/role_of_hubs_adoption_process.aspx (summary)
+ 
 
 
 *Opinion Leadership and Social Contagion in New Product Diffusion*
