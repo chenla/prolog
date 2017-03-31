@@ -66,3 +66,40 @@ We have to have our shit together within 50 years, to begin making
 substantial change or we may not have the time, resources, or number
 of people needed to solve the big problems
 
+
+
+#+begin_quote
+But science as a whole proceeds apace. We pour in more
+effort, more manpower, and greater ingenuity into further
+discovery and knowledge. A simple example is one of the
+first quantities to be studied in the field of
+scientometrics: the number of scientists over time. The
+first U.S. PhDs were granted by Yale University
+in 1861. Since that time the number of scientists in the
+United States and throughout the world has increased
+rapidly. For example, the membership of scientists in the
+Federation of American Societies for Experimental Biology
+increased from fewer than five hundred in the year 1920 to
+well over fifty thousand by the late 1990s. This hundredfold
+increase is extremely rapid in a period of less than eighty
+years and is indicative of the increase in scientific power
+through sheer numbers of scientists.
+
+In fact, if you uttered the statement “Eighty percent of all
+the scientists who have ever lived are alive today” nearly
+anytime in the past three hundred years, you’d be
+right. This has allowed more research to be done by larger
+scientific teams. Not only that, but higher-impact research
+is done by teams with many more scientists. Of course,
+growth like this is not sustainable—a long exponential
+increase in the number of scientists means that at some
+point the number of scientists would need to exceed the
+number of humans on Earth. While this may almost be the case
+on Krypton, Superman’s home planet, where the whole
+population seems to consist entirely of scientists, I don’t
+see this happening on Earth anytime soon. But this rapid
+growth demonstrates that scientific discovery is by no means
+anywhere near finished.
+
+-- The Half-Life of Facts
+#+end_quote
