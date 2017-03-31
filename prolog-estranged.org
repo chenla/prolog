@@ -222,8 +222,39 @@ possible, improbably difficult to accomplish.  We might know
 statistical outcomes, but were seemingly bared from being
 able to make specific predictions or control.
 
+#+BEGIN_QUOTE
+The rockets are distributing about London just as Poisson’s equation
+in the textbooks predicts. As the data keep coming in, Roger looks
+more and more like a prophet. Psi Section people stare after him in
+the hallways. It’s not precognition, he wants to make an announcement
+in the cafeteria or something . . . have I ever pretended to be
+anything I’m not? all I’m doing is plugging numbers into a well-known
+equation, you can look it up in the book and do it yourself. . . .
 
+His little bureau is dominated now by a glimmering map, a window into
+another landscape than winter Sussex, written names and spidering
+streets, an ink ghost of London, ruled off into 576 squares, a quarter
+square kilometer each. Rocket strikes are represented by red
+circles. The Poisson equation will tell, for a number of total hits
+arbitrarily chosen, how many squares will get none, how many one, two,
+three, and so on. 
 
+[....]
+
+If there is nothing to link the rocket strikes—no reflex arc, no Law
+of Negative Induction . . . then . . . He goes in to Mexico each
+morning as to painful surgery. Spooked more and more by the choirboy
+look, the college pleasantries. But it’s a visit he must make. How can
+Mexico play, so at his ease, with these symbols of randomness and
+fright? Innocent as a child, perhaps unaware—perhaps—that in his play
+he wrecks the elegant rooms of history, threatens the idea of cause
+and effect itself. What if Mexico’s whole generation have turned out
+like this?  Will Postwar be nothing but “events,” newly created one
+moment to the next? No links? Is it the end of history?  “The Romans,”
+Roger and the Reverend Dr. Paul de la Nuit were drunk
+
+-- Thomas Pynchon, /Gravity's Rainbow/ pg.54-56
+#+END_QUOTE
 
 Olson believed that the estrangement was coming to an end,
 back in the 1950's.  And in a sense he might have been
