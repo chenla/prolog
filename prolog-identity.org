@@ -167,78 +167,47 @@ References:
    Jacob Goldenberg, Sangman Han, Donald R. Lehmann, & Jae Weon Hong 
    Journal of Marketing 3/1/2009 
    http://www.marketingpower.com/AboutAMA/Pages/AMA%20Publications/AMA%20Journals/Journal%20of%20Marketing/TOCs/SUM_2009.2/role_of_hubs_adoption_process.aspx (summary)
- 
+ - [[http://marketing.wharton.upenn.edu/documents/research/Npd.pdf][Opinion Leadership and Social Contagion in New Product Diffusion]] 
+   Raghuram Iyengar, Christophe Van den Bulte, and Thomas Valente, 
+   2008 [08-120]
+ - [[http://www.danah.org/papers/][Danah Boyd's]] Publications
+ - [[http://ieeexplore.ieee.org/abstract/document/1579411/][Profiles as Conversation: Networked Identity Performance on Friendster]] 
+   Boyd, Danah & Jeffrey Heer
+ - [[http://www.danah.org/papers/HICSS2006.pdf][In Proceedings of the Hawai'i International Conference on System]]
+   Sciences (HICSS-39), Persistent Conversation Track. Kauai, 
+   HI: IEEE Computer Society. January 4 - 7, 2006.
+ - [[http://research.yahoo.com/files/p2393-gross.pdf][Addressing Constraints: Multiple Usernames, Task Spillage and Notions of Identity]]
+   Gross, B.; Churchill, E.F.
+   Source: CHI 2007, ACM Press, San Jose, CA, USA, p.2393-2398 (2007)
+   http://research.yahoo.com/node/2171 (abstract)
+ - [[http://bengross.com/pubs/ieee-sc09/ieee-sc09.pdf][Names of Our Lives]] | Ben Gross
+   CSE ’09. International Conference on Computational Science and Engineering, 
+   volume 4, pages 747–752, Vancouver, Canada, August 29–31, 2009.
+ - [[http://bengross.com/publications/][Ben Gross]]'s Publications
+ - [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.986&rep=rep1&type=pdf][Trust and nuanced profile similarity in online social networks]] | 2006
+   Jennifer Golbeck
+   http://dl.acm.org/citation.cfm?id=1594174 (abstract)
+ - [[http://www-personal.umich.edu/~ladamic/papers/trust/TengTrustWOSN2010.pdf][I rate you. You rate me. Should we do so publicly?]]
+   Chun-Yuen Teng, Debra Lauterbach, and Lada A. Adamic
+ - [[http://www.heinz.cmu.edu/~acquisti/papers/privacy-facebook-gross-acquisti.pdf][Information Revelation and Privacy in Online Social Networks]] (The Facebook case)
+   Pre-proceedings version. ACM Workshop on Privacy in the Electronic Society (WPES), 2005
+   Ralph Gross, Alessandro Acquisti, H. John Heinz III
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2010/PIP_Reputation_Management_with_topline.pdf][Reputation Management and Social Media]]
+   Mary Madden, Aaron Smith
+   Pew Internet & American Life Project, May 26, 2010
+ - [[hoofnagle:2010different][How Different are Young Adults from Older Adults When it Comes to Information Privacy Attitudes and Policies?]]
+   Hoofnagle, Chris Jay, King, Jennifer, Li, Su and Turow,
+   Joseph, (April 14, 2010). 
+   Available at SSRN: http://ssrn.com/abstract=1589864
+ - [[http://www.bcs.org/upload/pdf/ewic_hc08_v1_paper11.pdf][Strategies and struggles with privacy in an online social networking community]]
+   Katherine Strater, Heather Richter Lipford
+   Proceeding BCS-HCI '08 Proceedings of the 22nd British HCI Group 
+   Annual Conference on People and Computers: Culture, Creativity, 
+   Interaction - Volume 1
+ - [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.7401&rep=rep1&type=pdf][Expandable grids for visualizing and authoring computer security policies]]
+   Robert W. Reeder, Lujo Bauer, Lorrie Faith Cranor, Michael K. Reiter, 
+   Kelli Bacon, Keisha How, Heather Strong
 
-
-*Opinion Leadership and Social Contagion in New Product Diffusion*
-Raghuram Iyengar, Christophe Van den Bulte, and Thomas Valente, 
-2008 [08-120]
-http://marketing.wharton.upenn.edu/documents/research/Npd.pdf
-
-Danah Boyd's Publications
-http://www.danah.org/papers/
-
-
-*Profiles as Conversation: Networked Identity Performance on Friendster* 
-Boyd, Danah & Jeffrey Heer
-
-In Proceedings of the Hawai'i International Conference on System
-Sciences (HICSS-39), 
-Persistent Conversation Track. Kauai, 
-HI: IEEE Computer Society. January 4 - 7, 2006.
-http://www.danah.org/papers/HICSS2006.pdf
-
-*Addressing Constraints: Multiple Usernames, Task Spillage and Notions of Identity*
-Gross, B.; Churchill, E.F.
-Source: CHI 2007, ACM Press, San Jose, CA, USA, p.2393-2398 (2007)
-http://research.yahoo.com/node/2171 (abstract)
-http://research.yahoo.com/files/p2393-gross.pdf [PDF]
-
-*Names of Our Lives* 
-Ben Gross
-CSE ’09. International Conference on Computational Science and Engineering, 
-volume 4, pages 747–752, Vancouver, Canada, August 29–31, 2009.
-http://bengross.com/pubs/ieee-sc09/ieee-sc09.pdf
-
-Ben Gross's Publications
-http://bengross.com/publications/
-
-*Trust and nuanced profile similarity in online social networks* (2006)
-Jennifer Golbeck
-http://dl.acm.org/citation.cfm?id=1594174 (abstract)
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.986&rep=rep1&type=pdf
-
-*I rate you. You rate me. Should we do so publicly?*
-Chun-Yuen Teng, Debra Lauterbach, and Lada A. Adamic
-http://www-personal.umich.edu/~ladamic/papers/trust/TengTrustWOSN2010.pdf
-
-*Information Revelation and Privacy in Online Social Networks* (The Facebook case)
-Pre-proceedings version. ACM Workshop on Privacy in the Electronic Society (WPES), 2005
-Ralph Gross, Alessandro Acquisti, H. John Heinz III
-http://www.heinz.cmu.edu/~acquisti/papers/privacy-facebook-gross-acquisti.pdf
-
-*Reputation Management and Social Media*
-Mary Madden, Aaron Smith
-Pew Internet & American Life Project, May 26, 2010
-http://www.pewinternet.org/~/media//Files/Reports/2010/PIP_Reputation_Management_with_topline.pdf
-
-*How Different are Young Adults from Older Adults When it Comes to Information Privacy Attitudes and Policies?*
-Hoofnagle, Chris Jay, King, Jennifer, Li, Su and Turow, Joseph, 
-(April 14, 2010). 
-Available at SSRN: http://ssrn.com/abstract=1589864
-http://www.google.com/url?sa=t&source=web&cd=2&ved=0CCEQFjAB&url=http%3A%2F%2Fwww.ftc.gov%2Fos%2Fcomments%2Fprivacyroundtable%2F544506-00125.pdf&ei=h5NXTpC3BIrrrQf989DBCg&usg=AFQjCNH2eJ1-6NOVMLuF6lERDSlruXjqwQ&sig2=sO_zfP6LlVdHRwVDbnZkBQ
-
-*Strategies and struggles with privacy in an online social networking community*
-Katherine Strater, Heather Richter Lipford
-Proceeding BCS-HCI '08 Proceedings of the 22nd British HCI Group 
-Annual Conference on People and Computers: Culture, Creativity, 
-Interaction - Volume 1
-http://www.bcs.org/upload/pdf/ewic_hc08_v1_paper11.pdf
-
-*Expandable grids for visualizing and authoring computer security policies*
-Robert W. Reeder, Lujo Bauer, Lorrie Faith Cranor, Michael K. Reiter, 
-Kelli Bacon, Keisha How, Heather Strong
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.7401&rep=rep1&type=pdf
 
 ----
 
