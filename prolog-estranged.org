@@ -165,6 +165,34 @@ trying to convince itself that this was a true reflection of
 man's true self, of pure rationality.  When in fact it was
 delusional fantasy.
 
+#+BEGIN_QUOTE
+The [Library of Congress] actually is made up of three different
+structures: the Jefferson Building, constructed in the 1890s; the
+Adams Building, from the 1930s; and the Madison Building, from the
+1970s. If a visitor from another planet who knew nothing of the United
+States were asked to extrapolate the country’s history from these
+three government buildings, the alien likely would hypothesize a sad
+story of national decline. The Jefferson Building is a magnificent
+edifice, with dazzling décor and a dome to rival the Capitol’s. The
+mosaics and paintings that adorn the interior, mostly allegories on
+the progress of knowledge and world culture, seem to be the product of
+a strong, prosperous, and confident civilization. The Adams Building,
+plainer and more functional, suggests a nation reduced in
+circumstances yet retaining some style and spirit, evident in the
+structure’s jazzy Art Deco flourishes. But the hideous and windowless
+slab of the Madison Building, with its drab rooms and bleak,
+undecorated corridors, could only be the work of an impoverished
+society fallen under the yoke of a mindless and brutal dictatorship.
+
+-- Geoffrey Kabaservice, /Rule and Ruin: The Downfall of Moderation and
+the Destruction of the Republican Party From Eisenhower to the Tea
+Party/, Oxford U Press, 2012. (preface)
+
+#+END_QUOTE
+
+
+
+
 As a child my family visited [[https://en.wikipedia.org/wiki/Colonial_Williamsburg][Colonial Williamsburg]] -- and I
 remember in one house the guide was talking about how
 stencils were used to create repeating decorative patterns
@@ -240,9 +268,7 @@ off into 576 squares, a quarter square kilometer
 each. Rocket strikes are represented by red circles. The
 Poisson equation will tell, for a number of total hits
 arbitrarily chosen, how many squares will get none, how many
-one, two, three, and so on.
-
-[....]
+one, two, three, and so on.  [....]
 
 If there is nothing to link the rocket strikes—no reflex
 arc, no Law of Negative Induction ... then ... He goes in to
