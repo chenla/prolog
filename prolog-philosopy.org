@@ -63,6 +63,19 @@ this section was it's own [[./prolog-cosmology.org][file]].
     practice, not an exercise in theoretical knowledge.
 * Ethics
 
+Ethics is ususally divided today, into three areas:
+
+  - metaethics
+  - normative ethics
+  - applied ethics
+
+----
+
+  - [[https://en.wikipedia.org/wiki/Golden_rule][Golden Rule]] - Wikipedia
+
+
+** ---
+
 I like the idea that ethics is a job that everyone teaches
 to the young both explicitly and by example.
 
