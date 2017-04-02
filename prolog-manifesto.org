@@ -20,3 +20,594 @@
 
 #+TOC: headlines 4
 
+
+
+#+begin_comment
+from: NOTES <2014-11-27 Thu 12:15>  Manifesto
+Heavily edited: <2015-12-07 Mon 06:30>
+#+end_comment
+
+#+begin_quote
+Man is estranged from that with which he is most familiar.
+
+-- Heraclitus
+#+end_quote
+
+
+#+begin_quote
+Brown & Dilke walked with me & back from the Christmas pantomine.  I
+had not a dispute but a disquisition with Dilke, on various subjects;
+several things dovetailed in my mind, & at once it struck me, what
+quality went to form a Man of Achievement especially in Literature &
+which Shakespeare possessed so enormously -- I mean Negative
+Capability, that is, when man is capable of being in uncertainties,
+Mysteries, doubts, without any irritable reaching after fact and
+reason -- Coleridge, for instance, would let go by a fine
+verisimilitude caught from the Penetralium of mystery, from being
+incapable of remaining content with half knowledge.
+
+-- Keats
+#+end_quote
+
+#+begin_quote
+I would be an historian as Herodotus was, looking\\
+for oneself for the evidence of\\
+what is said.\\
+
+-- Charles Olson /Letter 23 Maximus broke it/
+#+end_quote
+
+* Manifesto
+
+#+begin_quote
+The idea is in the shortest compass, to get down a schema to cover
+everything, as it presents itself inside and out at this juncture of
+man and the world.  The assumption is that everything's been turned
+about, and yet that that is true is not as known as anyone of us might
+think it is; indeed, I don't know that any one of us is caught up and
+going at the speed and depth of the reality itself, especially as that
+reality is busy inside anyone of us.  Except as none of us will ever
+be satisfied, we are quite making it, except for that I am persuaded
+that at this point of the 20th century it might be possible for man to
+cease to be estranged, as Heraclitus said he was in 500 B.C., from
+that with which he is most familiar.  At least I take Heraclitus'
+dictum as the epigraph of this book.  For all this I know increased my
+impression that man lost something just about 500 B.C. and only got it
+back just about 1905 A.D.
+
+-- Charles Olson /The Special View of History/
+   circa 1956 (published 1970) 
+#+end_quote
+
+
+The brain is an unconscious /internal/ conductor and /external/ sieve;
+orchestrating internal processes, all the while collecting evidence of
+what is happening outside through an array of sensory organs and then
+filtering, tagging and squirreling away the input as it looks for
+patterns and builds a best-guess mental model which we consciously
+percieve as the World.  This complex cognitive dance lies at the core,
+at least to some degree, in all complex organisms with a brain.
+
+We like to think we are unique, we like to think we are alone, we like
+to think that we are apart and distinct from the World.  But that lie
+is an illusion created by the mental model that our consciousness
+percieves as reality.  It is the illusion of the individual, that we
+conflate with our sense of the Self, when in fact, /The World is the
+Self/.  Our conscious awareness of the World was once profound but is
+now fleeting and tenuous.  
+
+Heraclitus' dictum in 500 B.C. that Man had taken a detour, was
+actually the second dislocation, not the first.  It's unclear when the
+first estrangement took place, the dearth of empirical evidence leaves
+little hope for more than conjecture, prompting the Linguistic Society
+of Paris to ban the subject in 1866.  But the estangement would have
+been congruent with Man achieving /behavioral modernity/ which,
+depending on who you listen to might have happened anywhere from 25-50
+kya.
+
+   :url: https://en.wikipedia.org/wiki/Behavioral_modernity
+
+Behavioral modernity requires, more than anything else, a shared
+spoken language that made it possible to communicate complex ideas
+with other members of a group.  Language was the first universal
+general purpose tool that was capable of describing everything in the
+world and every possible interaction with the world.  And because
+language is a symbol system that uses sounds as symbols, it made
+possible the foundations for rational thought and logic.  In
+otherwords, language was more than a tool for communication, it was a
+tool for organizing and understanding cognitive processes through a
+symbol system.  
+
+Language made it possible to externalize and create a collective
+mental model and pool of knowledge held by the entire group.  This
+dramatically increased the amount of knowledge that Man could maintain
+and pass on to new generations.  It made transactive memory and
+cognition, into a general purpose tool.  Specialization of knowledge
+within a group could be finely and precisely managed which gave these
+groups an enormous competitive advantage.
+
+Complex social systems, religion, art, and development of technology
+to improve tools, and techniques for food, shelter and security were
+almost the inevitable biproducts of spoken language.
+
+But at the same time, it came at a cost.  Before language, there was
+little in the way of cognitive abstractions in the mind's mental model
+of the world.  Spoken language created layers of abstraction which
+enabled man to create far more complex models which improved his
+ability to survive, reproduce and provided the free time needed to
+think abstractly.  Abstraction buried the primitive cognitive mental
+model that was deeply rooted in the recognition that you were a part
+of much larger and profound concept of Self, which we now call the
+World.
+
+By the time of Heraclitus and Plato, a number of human civilizations
+has independently come close to reaching the limit of abstraction,
+social complexity, culture and technology that could be achieved
+within an oral tradition.  Writing had already been invented and
+within a small literate elite the transition from the oral to a
+written tradition was well underway.
+
+In /Preface to Plato/, the British classicist Eric Havelock made a
+persuasive argument that, Homer's /Iliad/ and /The Odyssey/ are not
+stories in the modern sense of the word, but a kind of highly refined
+social encyclopedia that was used to preserve and pass down the
+collective knowledge of Greek Civilization through an oral tradition.
+
+  :url: https://en.wikipedia.org/wiki/Eric_A._Havelock
+
+Havelock believed that this is what explains Plato's rejection of
+poetry in /The Republic/ in which Socrates argues that poetic mimesis
+is bad for the soul.  Plato lived at a time when the oral tradition
+was giving way to an emerging written tradition which no longer
+required precise memorization of epic poems in order to preserve
+knowledge.  Within a written tradition, individuals were free to
+explore new ideas and investigations without having to worry about how
+that knowledge could be comminicated to other people or how it would
+be passed on to future generations.  Rationality (as we think of it
+today), logic and mathematics are only possible within a written
+tradition.  This is possible because without a written tradition,
+insights and discoveries and observations would be lost as individuals
+died and societies collapsed.  Writing makes it possible to
+externalize memory, preserve it, duplicate it and distribute it to
+many people across space and through time.
+
+Monothesism, and the great monotheistic religions we have today;
+Islam, Judaism and Christianity and the nontheistic Buddhist religion
+all emerged from and are dependent on a written tradition that centers
+around a small collection of sacred texts which are passed down from
+generation to generation with little or no change.  But as Havelock
+pointed out, there was no religion in the modern sense of the word
+within an oral tradition.  There was no concept of belief in the
+modern sense either.  Homer's poetry demonstrate that a handful of
+oral stories can be preserved and passed down intact from generation
+to generation, but that this was only possible for a handful of
+texts.  Homer's works were memorized and recited, not studied and
+contemplated.  There was no comentary, no exegesis, no interpretation
+in any way that they would have been able to understand it.
+
+A written tradition made all of this possible.  It not only
+dramatically increased the amount of knowledge that a group could
+maintain, it made it possible to free up memory and time that had been
+devoted to incessant memorization and recitation for contemplation and
+abstract thought.  The classical Greek revolution that gave us what we
+think of today as religion, philosophy, mathematics, literature,
+science and engineering were only possible within a written tradition.
+
+There was one, not insignificant caveat with the written tradition --
+it was limited for nearly a thousand years to a very small ruling and
+intellectual elite.  In 1450 this changed with Gutenberg's Press which
+made mass literacy, exact duplication of texts, global distribution
+and communication possible.  In a few decades european book production
+grew into the millions, and by 1800 it had grown to nearly a billion
+copies,  Printing set the stage for both the industrial and scientific
+revolution that would lead to the third great dislocation.
+
+Charles Olson believed that the invention of logic and classification
+in the 5th Century that caused "man became estranged from that which
+he is most familiar."  Rationality made it possible to work with ideas
+abstractly through symbol systems (eg. language and numbers) at a
+distance from the world.  But over time, the abstractions become so
+complex that they seemed to became more real than the World they were
+originally meant to represent.
+
+The development of language and then writing made it possible for Man
+to externalize thoughts and preserve them over time and space.  At the
+same time that this was taking place Man was also developing tools.
+Tools and later machines would make it possible to externalize the
+body.
+
+Tools are used to manipulate matter, by leveraging and harnessing
+energy to perform a task.  Tools made it possible to amplify and
+extend the power and accuracy of physical force.  At first tools were
+used to extend the human body; the knife, the hammer, the bow, the hoe.
+
+Later tools like the yoke, and saddle and reins made it possible
+control the energy of domesticated animals.  But it wasn't long before
+tools were used to harness and control all types of external potential
+or kinetic energy.  The sail that propels a boat over water, the water
+wheel, a kiln, or the bellows in a blacksmith's forge; all harness
+external forms of energy to perform tasks that would be impossible for
+the human body to accomplish unaided.
+
+Eventually, individual tools were combined and became increasingly
+complex machines that employed multiple parts that worked in concert
+to perform multi-step processes.  
+
+Machines would eventually displace almost all human muscle, making it
+possible to manipulate matter and shape Man's environment on scales
+far larger than the species was capable of unaided.  Mass production,
+construction of earth and water works and buildings so tall that it
+without other machines, to travel up and down the building they would
+not, for all practical purposes, be habitable.
+
+The environment was so controlled and mediated that it became possible
+for individuals to live their entire lives without seeing how food was
+grown, or how animals were raised, slaughtered and prepared for
+cooking.  The air in buildings could be warmed or cooled to always be
+comfortable.  Even exposure to death was mediated to the point where
+most people never saw a dead body unless it had first been cleaned,
+dressed and embalmed so that it would not perceptibly decay while
+being seen by the living before cremation or burial.  Man increasingly
+lived in ever larger urban environments where there was nothing people
+would come into contact with which wasn't dominated by artifical
+structures and machines.
+
+
+It was inevitable that machines would be constructed to perform not
+only physical but cognitive functions as well.  Machines were invented
+to perform numerical calculations with great speed and accuracy.  The
+printing press, which in it's simplest form is a tool, but gradually
+morphed into a complex machine, mechanized the duplication of written
+information for mass distribution.  Recorded sound and images, sound
+require machines or complex technological processes.
+
+Electronics made it possible to replace a great deal of mechanical
+components with electronic circuits that were smaller and cheaper to
+produce.  And electronics morphed into semiconductors which could pack
+millions or even billions of electronic circuits on to tiny chips as
+big as a thumb nail.  These chips were standardized so that anyone
+could program them to perform a wide variety of cognitive functions.
+Man now had the ability to externalize general purpose cognition as
+well as memory.
+
+We are still in the early stages of this revolution -- but it will,
+without doubt transform the way Man thinks as fundamentally as 
+when man moved from the oral to the written tradition.
+
+At the heart of our ability to externalize memory and cognition in
+order to develop rational and logical thinking to create models of how
+the world works.  This revolves around the manipulation of symbol
+systems, and more speficially, symbols for representing human speech
+and symbols for representing numbers.  Symbols represent finite
+concepts, such as a phonetic sound, or a number, that can be combined
+into an infinte number of complex sequences that represent ideas and
+create models of different processes observed in the world.
+
+The world is not made up of discreet parts that fit together in the
+same way that we construct machines, but it has proved to be a very
+useful way of constructing models using our symbol systems that
+predict how many different aspects of the world work.  These models
+are still approximations, crude generalizations of what they are
+attempting to represent.
+
+Over the past 300 years, the idea that the world was the manifestion
+of the will of a supernatural being has been replaced by the idea that
+the world is fundamentally mechanistic and causal in nature.  This is
+independent of belief, the assumptions that we make about how the
+world works are essentially mechanistic, cause and effect, no matter
+how deeply a belief in a diety is.  Rain is the condensation of water
+vapour in the atmosphere that precipitates into drops of water that
+fall to the ground -- not the tears of an unseen god somewhere in the
+heavens.  When Homer wrote of storms at sea being the manifestation of
+the wrath of Neptune, it was no metaphor, this was meant to be
+understood literally.
+
+The theistic metaphor was poor at explaining how the world worked in
+almost every but one respect.  The theistic worldview centered around
+the concept of the world as a whole that one was a part of and was
+greater than the individual.  The mechanisitic worldview is based on a
+piecemeal hodgepodge of scientific theory and rational thought that is
+always in a constant state of change and flux.  Theistic belief
+systems might be vague and fuzzy, but they are complete systems that
+explain everything.  But that completeness comes at a price.  If you
+are standing on the top of a hill brandishing a sword in a
+thunderstorm, when you are hit by lightning there is no causal link
+between electricity being attracted to the conductivity of the metal
+in the sword and you standing out there alone holding up a big ass
+conductor.  The reason for being struck would be attributed to
+whatever you had been doing that displeased the diety that hit you
+with that thunderbolt of lightning.
+
+The problem is that science was never meant to do anything more than
+state what has been observed and can be repeated in a reliable manner
+and make models that explain how something works.  By its very
+definition science is incomplete, it doesn't explain anything close to
+everything.  But there is a very real human need to have a mental
+model that can be used to either explain everything in human
+experience, or at the least put it in a place in the model that
+handles uncertainty, like the inscrutibility of God's plan or will.  A
+mechanistic model has no room for inscrutibility, everything is a
+deterministic causal chain of action and reaction; cause and effect.
+
+It /should/ be absurd to have to say that Man /is/ a part of the
+world.  Man is not apart from the world in any way.  /All living
+things/ on our planet use the same DNA to encode and reproduce.  Our
+sun, our planet, the rock in the walls, the water we drink, the air we
+breath, the food we eat and ourselves are all made up of the same same
+/star stuff/ that came from the explosion that ended the life of some
+long dead star in our galaxy in the remote past.
+
+There is nothing terribly special about our Galaxy, except that it
+isn't subject to repeated massive gamma bursts that would make life
+impossible to evolve.  We live in a sparsely populated spiral arm of
+the Galaxy.  Our star is both common, and of a type which is stable.
+We now know that planetary formation is at the least the rule rather
+than the exeception in the process of star formation.  We live on a
+rocky planet, with a magnetic field generated by a molten iron core 
+with a large moon.  Our planet's orbit lies is within the habitable
+/goldilocks zone/ which is not too hot or cold.  Based on what we
+already can observe and deduce, there are at probably at least
+millions of planets like earth in our Galaxy alone.  The only reason
+we haven't found others like us is because of the unimaginably
+enormous distances that separate us.
+
+We are not alone in the universe, because /we are a part of the
+universe/.  The ghost is a byproduct of cognitive processes in the
+machine -- not some parasitic immortal specter that possesses our
+bodies during the time we are alive on earth.  It's ironic to use the
+ghost-in-the-machine metaphor to help explain the shortcomings of a
+mechanistic model of the world.  But that is because the mechanistic
+mode is actually quite a good way of understanding how things work at
+certain scales and in specific contexts.  But mechanistic models are
+incomplete and we are still far from knowing what the model will look
+like when it is complete.  The problem with the model is not
+scientific or even that it is intrinsic to the model itself, but how
+it has been misapplied by human societies.
+
+Scientific concepts that have been developed to explain one type of
+process are commonly used to explain completely different phenomena
+that have nothing in common.  Even a cursory examination of the
+history of biology turns up any number of misuses of genetics and
+evolutionary theory to justify power, inequality, slavery,
+colonialism, rape, obesity or the superiority of one class or group
+over another.  A particularly nasty example of this is the idea of
+/social darwinism/ which sought to apply biological concepts of
+natural selection to sociology.  Other well known thought experiments
+like /Schrödinger's Cat/ or the /Butterfly Effect/ which have no
+physical relationto or effect or relevance to anything at human scales
+have become metaphors used to understand a wide range of phenomena.
+Metaphors are powerful and useful cognitive devices, but they should
+not be confused with empirical observations and descriptions of how
+the world works.
+
+It is the incompleteness of understanding that haunts and confuses us.
+In evolutionary terms, we are still designed for life on the
+Savannah's of northern Africa.  And this has not been helped by the
+fact that we now know that many things are unknowable and can not be
+predicted in any way that one would intuitively think that a
+mechanistic universe would and should behave.  Relatively was strange,
+but made sense, Quantum theory is so out of wack with Human scales and
+our cognitive models of the world that it is just plain disturbing.
+It is a slap in the face, that forces us to understand that we are not
+the center of the Universe, and aren't even terribly well designed to
+understand how it works.  Making peace with this reality might well
+require evolutionary scales of time for us as a species to
+internalize.
+
+But it's even more complex than this, survival on the savannah
+required a level of perception of the world around us which we have
+not been able to quantify abstractly.  This should come as no suprise.
+We are a species of biological creatures that evolved together with
+the rest of life on the planet.  We're all made of the same stuff.
+And because of this we have the ability to experience the world at a
+far deeper intuitive level than our present cognitive or scientific
+models can now explain.  This deeper awareness of the world has often
+manifested in mystical and supernatural explanations that provide us
+with the means of communicating something that we can feel, but not
+understand or articulate.  And because we know that the supernatural
+explanations are most certainly not credible, we tend to ignore these
+feelings and intuitions because we can't fit them into our mechanistic
+world view.  These have nothing to do with ghosts, or past lives or
+magical powers.  They are both more mundane and far more profound.
+They have to do with a deeper understanding of the nature of order in
+the universe that manifests itself as things we percieve as beauty,
+harmony and connectiveness.  If anything, the mystical, spiritual and
+mythological explanations of these concepts, when properly understood,
+won't do justice to what they are trying to explain.
+
+That said, it is true that Religion once provided a means of
+connecting to this larger understanding of ourselves and our
+connection to the world, but that seems to have been lost over the
+last 300 years.  Religion today, and especially fundamentalist
+movements are shallow, escapist shadows of what belief was before it
+was supplanted by mechanistic models.
+
+Modern mysticism and spiritually in general is little more than
+consumerist lifestyle choices.  There is no depth or substance, no
+attempt at deep introspection or lifelong study and contemplation to
+gain any original insight.  There are only handsome yoga instructors
+who sign you up for weekly lessons after selling you a foam rubber
+mat. There are mega churches that resemble entertainment complexes and
+carefully correographed services that are designed to pump people up
+emotionally to just the right pitch so that a group gestalt kicks in
+and people are motivated to give more when the collection plate is
+passed around.
+
+Modern religion and mysticism provide no path forward, only fear,
+intolerance and isolation which they counter during sermons when you
+get just enough hope to make it through the week so that you have to
+return for another hit.  And at the base of even the most fundemental
+of fundemental belief systems is still the mechanistic model that you
+are bombarded with every day saying that everything is relative, there
+is no meaning, nothing is more valuable than anything else except what
+makes you happy.
+
+Value is /not/ relative in any absolute sense.  The principle of
+relativity has nothing to say on the matter of value and meaning.
+Relativity determines what can be observed relative to an inertial
+frame of reference.  It only changes your perception of what is
+observed, it does not mean that all things are of equal value.  The
+universe as a clockwork has nothing to say on the subject.
+
+The British architect Christopher Alexandar believes that the
+mechanisitic model has done as much harm as good.  It has suppressed
+our ability to connect ourselves to our awareness of aspects of the
+world that science has not yet been able to articulate.  And I believe
+that this was what Olson was trying to get at.
+
+In the process of externalizing cognition and memory -- first through
+spoken language with other people as is our nature as a transactive
+species, and second through written language and symbol systems like
+mathematical notation, we have become greater than what we were
+before, but became increasingly alienated from what we are.
+
+So where does that leave us?  How, as Olson said, "might
+[it be] be possible for man to cease to be estranged?"
+
+I think the key here is that we can't see that yet because we are still
+in the middle of a process that has yet to come full circle.  Before
+we were alone, but whole.  Now we are not alone, but we are estranged.
+
+We are a transactive speices which distribute skills and memories with
+each other and within groups.  As we learned to cultivate plants and
+domesticate animals we stopped hunting and gathering and became
+sedentary making it possible to increase the number of individuals
+that a group could support.  This is only possible because we were
+able to improve and expand the capacity of our transactive abilities.
+
+When the first small mammals evolved, beneath the feet of the
+dinosaurs, with the beginnings of a neocortex, it triggered a process
+began that is still playing out today.  The neocortex found in all
+mammals is a general purpose cognitive extension of our largely
+hardwired core primal brain.  Many advanced species of mammals are
+transactive to some extent or other.  Dogs are a strongly transactive
+specicies that resonnates deeply with our own transactive nature.
+Over time man and dog evolved together to become ever more
+symbiotically complementary.  There are a number of current theories
+that postulate that man's ability to develop complex spoken languages
+is the result of the olfactory centers, located at the front of the
+human brain getting smaller over time, made spoken language possible.
+And that the reason for the olfactory centers to decrease in size is
+that we lived and hunted with dogs which had a very highly developed
+sense of smell and hearing.  So dogs took over the job of hearing and
+smelling for us, letting our neocortexes to grow larger than our other
+primate cousins.
+
+There is a beautiful myth from a native culture in North America which
+I was never able to find the source of that told this same story.  At
+one time Man was one with all of the animals of the planet.  But one
+day, a great divide opened in the earth, with man on one side and all
+of the other animals on the other.  And at the very last moment, Dog,
+jumped over the widening gap in the earth to stand beside Man.
+
+Spoken lanuage made it possible for man to communicate and specialize,
+with different members of a group remembering different things and
+mastering different skills, this became known as the oral tradition.
+According to Havelock, the limits of the oral tradition was reached
+during the time of Homer.  Homeric Greek culture was the Cutty Sark of
+oral transactive memory and cognition.  
+
+It was only with the development of written language during the time
+of the pre-socratics that transactive limits were able to leapfrog
+again.  While spoken language expanded transactive memory and
+cognition, written lanugage and symbol systems did much more.
+
+Humans can only keep seven items, give or take two, in working memory
+that can be manipulated without external aides.  Spoken language did
+not extend this limitation, but writing systems could.  By writing
+something down, or using a placeholder counting device like an abacus,
+it is possible to quickly swap information in and out of working
+memory and effectively extend it.  This had profound consequences for
+the expansion of human cognitive capacity.  It made complex
+mathematics, logic, and rational thought possible.
+
+The second great advance that writing systems made possible was to
+create a persistent memory store that could survive outside of a
+living brain.  This is an astonishing achievement because it not only
+extended the stored memory within a living group it extended memory
+across both time and space.  Multiple copies could be made of the same
+memory, and stored for access any time in the future, be it minutes or
+millennia.  This meant that the collective knowledge of a group could
+be passed on directly to future generations, without the intervention
+and transmission of intermediate generations, so long as the written
+copy could survive. The other side of this is that it massively
+reduced transmission and copying errors which has always been the bane
+of all communications.  And with the invention of the printing press,
+that made possible the production of mass numbers of identical copies,
+copying errors were reduced by an additional order of magnitude.
+It also meant that copies could be sent anywhere.  This extended the
+potential size of human societies from the number of people who lived
+within the distance that could be traveled within a given time.
+
+The medium that written messages were made on, should not be
+overlooked.  Earliest known recording media were small clay tablets,
+which were used for accounting purposes.  Eventually the invention of
+writing material made from the pith of papyrus plants.  These could be
+joined together into scrolls that made possible long form written
+records.  In India palm leaves served the same purpose.  This made
+written messages both portable and easy to be stored in relatively
+small spaces.
+
+Parchment, which was made from stretched, scraped preserved animal
+skins were more difficult and more expensive to produce, but (and this
+was a big but) if they were kept dry, they could survive without much
+degeneration for centuries.  Paper, which was made from pulped plant
+fibers, eventually replaced parchment and made up for it's lack of
+durability with the fact that is was relatively easy and inexpensive
+to manufacture in large quantities.
+
+Somewhere between Parchment and Paper, the scroll gave way to the
+codex.  Scrolls were long single pieces of written material, that were
+rolled up, and then unrolled on one end and then rerolled on the other
+to access any give part of the scroll.
+
+The codex was a vast improvement on this.  A codex is a collection of
+pieces of parchment or paper cut into pages of the same size, and
+bound together on one side, so that the order of pages was preserved,
+and creating a single object for storage.  Codexes were far easier to
+use than scrolls to find specific information within a given text.
+It also gave rise to a number of techniques that made organization,
+management and reference of information far easier.  These innovations
+included alphabetical and numerical ordering, page numbers, table of
+contents and back of book indexes.
+
+The next great leap, as previously touched on, was the invention of
+the printing press and moveable type which was well suited to the
+production of codexes.  Before the printing press, reading and writing
+was limited to a relatively small portion of any given population.
+This limited the scope of how much information was being recorded
+within a group to a select few.  This was important to maintaining
+power in the hands of those who had access to and the ability to
+produce written materials.  But it also had a dampening effect that
+limited the amount of innovation that was possible and then number of
+different specialties that a society was able to maintain. 
+
+The printing press turned this on its head.  It eliminated copying
+errors between individual copies of the same printed edition.  It also
+made it cheap to create mass numbers of individual copies of texts.
+This made mass education and literacy possible which increased the
+rate innovation.  It moved power from the center of societies out to
+the edge, which was initially seen as a threat to both governments and
+organized religions until they realized that if they could control
+those presses, then they could control the message that was reaching
+people.  Copyright and other social and legal conventions arose to
+keep control of the production and distribution of information in the
+hands of a small group of people in power.  But even with these
+control in place, printing was responsible for making the transactive
+memory and cognitive advances of writing systems available to most
+people within a society.  This in turn lead the beginning of what
+would become an expontial positive feedback loop of innovation,
+technological and economic change that we are still part of today.
+
+
+
+This is what I believe the
+Singularity is, the moment when we have come full circle and become
+something that can not be predicted.
+
+Your opinion is realative to the knowledge you have on a subject.  A
+first-hand witness has a memory of an event has a higher value than a
+second or third hand story.
+
+Even the most literal mechanistic aspects don't even remotely say
+that.
