@@ -1,0 +1,22 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Manifesto
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/prolog-manifesto.org
+  :Created: 2017-04-02T18:19@Prek Leap (11.642600N-104.919210W)
+  :ID: 337ed620-c82d-4449-9668-631be7188426
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
