@@ -20,6 +20,14 @@
 
 #+TOC: headlines 4
 
+#+BEGIN_QUOTE
+An experience of seeing things in their separateness, but
+experiencing them as a unity, accompanied by ecstasy .... I
+call it the Big Picture Effect.
+
+-- Edgar Mitchell,  quoted in /Philosophy for Life/ pg106
+#+END_QUOTE
+
 * Introduction
 
 We first need to establish what the atomic unit will be for
