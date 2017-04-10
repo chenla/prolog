@@ -255,18 +255,25 @@ our scope significantly.
 We can use the base structure that Solari used in Arcology,
 with one after another examples of what he was proposing.
 
-The Arc of Nong Pao would be one:
 
+We need a new title -- The Plan for a Scopic Civilization
 
-   - a scopic arc in Laos
-   - a network of villages in NE Cambodia
-   - a major city in a bioregion
-   - a moon base
-   - a village on mars
-   - a 'bioregion' on mars (perhaps built in the trench)
+   - scopic arc in Laos (Arc Non Pao)
+   - network of villages in NE Cambodia
+   - major city in a bioregion
+   - moon base in volcanic vent near pole & darkside
+   - village on mars
+   - 'bioregion' on mars (perhaps built in the trench)
    - O'Neil Cylinder
    - Eros -- spinning potato
    - Gamymede/Titan
+
+We're using the same basic building blocks to build all of
+it -- Network, Robots, SNOT -- but each will be in a
+different place in the Habitable Matrix and require
+different solutions.
+
+
 
 -----
 
