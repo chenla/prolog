@@ -120,7 +120,7 @@ planetary biological systems.
 ** The Library of Last Resort
 *** TOC I
 
-  - Turing Unversal Machine -- no distinction between
+  - Turing Universal Machine -- no distinction between
     hardware, software and storage.
 
 We can then organize LOLR thus:
