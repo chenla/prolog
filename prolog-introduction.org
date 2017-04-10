@@ -264,8 +264,8 @@ The Arc of Nong Pao would be one:
    - a moon base
    - a village on mars
    - a 'bioregion' on mars (perhaps built in the trench)
-   - an O'Neil Cylinder
-   - Ceres
+   - O'Neil Cylinder
+   - Eros -- spinning potato
    - Gamymede/Titan
 
 -----
