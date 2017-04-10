@@ -246,6 +246,30 @@ We can then organize LOLR thus:
   - dna
 - Functional Requirements for a Library of Last Resort
 ** The Plan of Arc Nong Pao
+
+Now that we are moving away from the concept of this only
+being a monastic-style community and actually a generative
+grammar for an entire solar-civilization we need to broaden
+our scope significantly.
+
+We can use the base structure that Solari used in Arcology,
+with one after another examples of what he was proposing.
+
+The Arc of Nong Pao would be one:
+
+
+   - a scopic arc in Laos
+   - a network of villages in NE Cambodia
+   - a major city in a bioregion
+   - a moon base
+   - a village on mars
+   - a 'bioregion' on mars (perhaps built in the trench)
+   - an O'Neil Cylinder
+   - Ceres
+   - Gamymede/Titan
+
+-----
+
 A study of the architecture & economy of, & life in a paradigmatic
 Scopic Arc.
 
@@ -274,7 +298,7 @@ Scopic Arc.
    - Familia Intus
      - Issues :: town/gown iconographies
      - The Scopic Rule :: mill, cent, dec, year, day
-     - governance :: abbot, dean, librarian, forrester
+     - governance :: abbot, dean, librarian, forester
      - monks :: master, jack, prentice, novices & oblates
      - routine, ritual
    - Familia Foris
