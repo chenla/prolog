@@ -38,7 +38,25 @@ plain wrong memories with you.
 
 * A Maps Is Not the Territory
 
- - [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] - Wikipedia
+ - [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
+
+#+begin_quote
+The expression first appeared in print in a paper that
+Alfred Korzybski gave at a meeting of the American
+Association for the Advancement of Science in New Orleans,
+Louisiana in 1931:[1] In Science and Sanity, Korzybski
+acknowledges his debt to mathematician Eric Temple Bell,
+whose epigram "the map is not the thing mapped" was
+published in Numerology.
+
+    A map is not the territory it represents, but, if
+    correct, it has a similar structure to the territory,
+    which accounts for its usefulness.
+
+    — Alfred Korzybski, Science and Sanity (1933, p. 58)[3]
+
+-- [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
+#+end_quote
 
 
 Even in theology, it could be asked if the concept of a
@@ -52,7 +70,7 @@ mythologies don't have this same problem, there are many of
 them, and they are acting on the world, therefore they exist
 separate from the world.  But an all knowing, all seeing,
 god is only possible if it is as complete a map of the
-territory as as the territory and so, is pefectly useless
+territory as the territory and so, is pefectly useless
 and powerless.
 
 This same argument can be used when posulating a god-like
