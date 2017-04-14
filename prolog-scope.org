@@ -94,7 +94,7 @@ territory, and thus would be perfectly accurate and
 perfectly useless. The tale is the map that is the
 territory.
 
--- [[https://en.wikipedia.org/wiki/Neil_Gaiman][Neil Gaiman]]
+-- [[https://en.wikipedia.org/wiki/Neil_Gaiman][Neil Gaiman]] | American Gods
 #+end_quote
 
 
