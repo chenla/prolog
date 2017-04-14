@@ -47,13 +47,13 @@ Association for the Advancement of Science in New Orleans,
 Louisiana in 1931:[1] In Science and Sanity, Korzybski
 acknowledges his debt to mathematician Eric Temple Bell,
 whose epigram "the map is not the thing mapped" was
-published in Numerology.
+published in Numerology.[fn:1]
 
     A map is not the territory it represents, but, if
     correct, it has a similar structure to the territory,
     which accounts for its usefulness.
 
-    — Alfred Korzybski, Science and Sanity (1933, p. 58)[3]
+    — Alfred Korzybski, Science and Sanity (1933, p. 58)[fn:2]
 
 -- [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
 #+end_quote
@@ -99,3 +99,17 @@ ALL your deliberations ...".
 
 -- [[https://en.wikipedia.org/wiki/Seven_generation_sustainability][Seven generation sustainability]] - Wikipedia
 #+end_quote
+
+* Footnotes
+
+[fn:2]  Korzybski, Alfred (1996) [1st ed. 1933]. "Chapter
+IV: On Structure" (PDF). In Schuchardt Read,
+Charlotte. Science and Sanity: An Introduction to
+Non-Aristotelian Systems and General Semantics (CD-ROM
+ed.). p. 58. "A map is not the territory it represents, but,
+if correct, it has a similar structure to the territory,
+which accounts for its usefulness."
+
+[fn:1] Numerology: The Magic of Numbers (Baltimore: Williams
+and Wilkins, 1933).
+
