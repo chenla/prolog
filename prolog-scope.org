@@ -38,6 +38,31 @@ plain wrong memories with you.
 
 * A Maps Is Not the Territory
 
+#+CAPTION: This Is Not A Pipe
+[[./img/scope/MagrittePipe.jpg]]
+
+#+begin_quote
+The famous pipe. How people reproached me for it! And yet,
+could you stuff my pipe? No, it's just a representation, is
+it not? So if I had written on my picture 'This is a pipe',
+I'd have been lying!
+
+-- [[https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte][René Magritte]] 
+#+end_quote
+
+
+#+begin_comment
+Magritte's "La Trahison des Images" ("The Treachery of
+Images") (1928-9) or "Ceci n'est pas une pipe" ("This is not
+a pipe").  Sometimes translated as "The Betrayal of Images"
+By René Magritte, 1898-1967.  The work is now owned by and
+exhibited at LACMA.
+
+[[https://en.wikipedia.org/wiki/File:MagrittePipe.jpg][ - File:MagrittePipe.jpg]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/The_Treachery_of_Images][The Treachery of Images]] | Wikipedia
+#+end_comment
+
+
  - [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
 
 #+begin_quote
