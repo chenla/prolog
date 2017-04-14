@@ -22,6 +22,31 @@
 
 * Introduction
 
+The original concept behind scope was for it to be
+methodology for people to be able to think, plan and act in
+different scales of time and space that were smaller or
+greater than the human.
+
+But it soon became clear that scope was perhaps the single
+most important component that made up context.
+
+Scope includes /Point of View/, /Level of Detail/, /Rate of
+Change/ and an /observer/.
+
+The idea is that if you can define these things, and treat
+any given scope as if it were a human scale, then you could
+set priorities, assign tasks and goals as if it were
+something that fit comfortably into human scales of time and
+space.
+
+I still have no idea if this is a viable approach or not,
+but it does not negate the need of defining scope in all the
+things we do.  Scope keeps coming back to inform /every/
+thing from establishing truth, or context, to long term memory, 
+and many aspects of cognition etc.
+
+----
+
 Need to put in the quote about 50 years being a good
 
 * Cognitive Future Bias
