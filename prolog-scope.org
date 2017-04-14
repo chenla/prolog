@@ -115,6 +115,30 @@ Geography.
 #+end_quote
 
 
+#+begin_quote
+The inventions of philosophy are no less fantastic than
+those of art: Josiah Royce, in the first volume of his work
+The World and the Individual (1899), has formulated the
+following: 'Let us imagine that a portion of the soil of
+England has been levelled off perfectly and that on it a
+cartographer traces a map of England. The job is perfect;
+there is no detail of the soil of England, no matter how
+minute, that is not registered on the map; everything has
+there its correspondence. This map, in such a case, should
+contain a map of the map, which should contain a map of the
+map of the map, and so on to infinity.' Why does it disturb
+us that the map be included in the map and the thousand and
+one nights in the book of the Thousand and One Nights? Why
+does it disturb us that Don Quixote be a reader of the
+Quixote and Hamlet a spectator of Hamlet? I believe I have
+found the reason: these inversions suggest that if the
+characters of a fictional work can be readers or spectators,
+we, its readers or spectators, can be fictions.
+
+— Jorge Luis Borges, Partial Enchantments of the Quixote (1964)
+#+end_quote
+
+
 Even in theology, it could be asked if the concept of a
 single all powerful God, an infinite being, is a map or
 territory?
