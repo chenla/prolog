@@ -97,6 +97,24 @@ territory.
 -- [[https://en.wikipedia.org/wiki/Neil_Gaiman][Neil Gaiman]]
 #+end_quote
 
+
+#+begin_quote
+In time, those Unconscionable Maps no longer satisfied, and
+the Cartographers Guild drew a Map of the Empire whose size
+was that of the Empire, coinciding point for point with
+it. The following Generations, who were not so fond of the
+Study of Cartography saw the vast Map to be Useless and
+permitted it to decay and fray under the Sun and winters.
+
+In the Deserts of the West, still today, there are Tattered
+Ruins of the Map, inhabited by Animals and Beggars; and in
+all the Land there is no other Relic of the Disciplines of
+Geography.
+
+-- [[https://en.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]] | [[https://en.wikipedia.org/wiki/On_Exactitude_in_Science][On Exactitude in Science]]
+#+end_quote
+
+
 Even in theology, it could be asked if the concept of a
 single all powerful God, an infinite being, is a map or
 territory?
