@@ -36,7 +36,7 @@ but a stranger who will have share some fuzzy and often just
 plain wrong memories with you.
 
 
-* A Maps Is Not the Territory
+* A Map Is Not the Territory
 
 #+CAPTION: This Is Not A Pipe
 [[./img/scope/MagrittePipe.jpg]]
