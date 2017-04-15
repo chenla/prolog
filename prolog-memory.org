@@ -22,3 +22,23 @@
 
 * Introduction
 
+
+Memory takes many forms, but we will break it down into:
+
+  - Genetic
+  - Internal (Human)
+    - short, medium, long term
+    - muscle memory
+  - External
+    - Human (group)
+    - Animal (domesticated animals)
+    - Analog Media (clay, stone, paper)
+    - Digital (binary electronic)
+
+Time
+
+  - immediate
+  - cyclical (day/night, seasonal, yearly etc)
+  - generational
+  - institutional (individuals can't remember long term,
+    institutions do that for us)
