@@ -84,19 +84,26 @@ Time
 
 * Transactive Memory
 
+ - [[https://en.wikipedia.org/wiki/Transactive_memory][Transactive memory]] | Wikipedia
+ - 
+
 All pack animals have varying amounts of transactive
 memory.  But there is not much in the way of specialization
 beyond an alpha leader, and biological specialization
 
 Hunter & Gather are specializations that grew from
 biological specializations.  The domestication of the dog
-was a transactive relationship -- dogs weren't kept for
+formed a transactive relationship -- dogs weren't kept for
 meet, they helped with hunts, and their senses extended
 man's allowing man to develop parts of the brain for tasks
 that were now dog's job.
 
 agriculture and domestication of key animals made possible
 an explosion of specialization which made civilization possible.
+
+Transactive memory is now being extended beyond dog's and
+other people and include recorded media, and cognitive
+machines.
 
 
 * Cognitive Future Bias
