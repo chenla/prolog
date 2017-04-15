@@ -42,3 +42,28 @@ Time
   - generational
   - institutional (individuals can't remember long term,
     institutions do that for us)
+  
+
+
+* Seven generation sustainability
+
+
+ - [[https://en.wikipedia.org/wiki/Seven_generation_sustainability][Seven generation sustainability]] - Wikipedia
+
+
+#+begin_quote
+Seven generation stewardship is a concept that urges the
+current generation of humans to live and work for the
+benefit of the seventh generation into the future.[citation
+needed] It originated[citation needed] with the Iroquois -
+Great Law of the Iroquois - which holds appropriate to think
+seven generations ahead (about 140 years into the future)
+and decide whether the decisions they make today would
+benefit their children seven generations into the future. It
+is frequently associated with the modern, popular concept of
+environmental stewardship or 'sustainability' but it is much
+broader in context (see the quotation below relative to "in
+ALL your deliberations ...".
+
+-- [[https://en.wikipedia.org/wiki/Seven_generation_sustainability][Seven generation sustainability]] - Wikipedia
+#+end_quote
