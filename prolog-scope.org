@@ -22,7 +22,7 @@
 
 * Introduction
 
-The original concept behind scope was for it to be
+The original concept behind scope was for it to be a 
 methodology for people to be able to think, plan and act in
 different scales of time and space that were smaller or
 greater than the human.
