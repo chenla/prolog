@@ -22,6 +22,43 @@
 
 * Introduction
 
+We will argue that what set humans apart from everything
+else was the development of a large neo-cortex which can be
+seen as a general purpose computer that wrapped around and
+extended the older layers of brain at the center.
+
+The neo-cortex was able to reprogram itself, it wasn't
+hardwired and programed by evolutionary processes.
+
+The neo-cortex is connected to the world through senses, and
+it is able act on the world through muscle.  Tools likely
+came first and extended man's muscles.  Spoken language
+became the first means of extending the neo-cortex by
+linking to other neo-cortexes in a group, which resulted in
+a revolution in transactive memory.
+
+Written symbol systems extended memory through time and
+space, and moveable type and the printing press made it a
+reliable form for duplication for transmission.
+
+Recorded media -- that could sample, record, store and play
+back what was seen and heard made possible to create
+reliable records of what our senses tell our brain, creating
+an entirely new kind of memory from human biological
+memories.
+
+The forerunner to this was of course painting and sculpture,
+but are completely different in many respects because fine
+art never records a moment, but consolidates any number of
+moments into a single image.  This is something that
+recorded memory does not do.
+
+Computers are cognitive extensions to the neo-cortex --
+programs are cognitive processes.
+
+Tools, plus a power source became machines, machines plus a
+cognitive or memory device become robots.
+
 
 Memory takes many forms, but we will break it down into:
 
@@ -32,6 +69,8 @@ Memory takes many forms, but we will break it down into:
   - External
     - Human (group)
     - Animal (domesticated animals)
+    - Sound & Sight
+    - Recordings & Symbols
     - Analog Media (clay, stone, paper)
     - Digital (binary electronic)
 
