@@ -60,6 +60,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-introduction.org][Introduction]]
  - [[prolog-cosmos.org][Cosmos]]
  - [[./prolog-philosopy.org][Philosophy]]
+ 
  - [[prolog-window.org][Windows]]
  - [[prolog-holon.org][Holon]]
  - [[prolog-identity.org][Identity]]
@@ -69,4 +70,12 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-estranged.org][Estranged]]
  - [[prolog-transactive.org][Transactive Species]]
  - [[prolog-why.org][Why]]
+
+ - [[./prolog-cognition.org][Cognition]]
+ - [[./prolog-memory.org][Memory]]
+ - [[./prolog-muscle.org][Muscle]]
+
+
+
+
 
