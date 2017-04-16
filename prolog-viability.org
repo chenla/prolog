@@ -52,6 +52,36 @@ the weather, the number of variables and interactions is beyond
 meaningful prediction beyond very short term, and crude projects that
 even then are not always accurate.
 
+----
+
+These thresholds include minimum viable:
+
+  - Population :: to maintain enough genetic diversity to maintain a
+                  healthy population.
+  - Ecosystem  :: made up of plants, animals, micro-organisms, energy
+                  and chemical processes that provide mankind with a
+                  livable habitat to live in.
+  - Tools & Processes :: which include the designs for tools, machines,
+       vehicles and structures, together with the proscriptive
+       recipes needed to use them.
+  - Specializations :: that break down the different tasks and
+       categories of work required to maintain a given level of
+       complexity.
+  - Resources   ::  energy, chemical compounds, minerals and materials
+                    needed and how to produce them.
+  - Communities ::  that can maintain these backups over very long
+                    time frames which can then restore knowledge when
+                    it has been lost.
+
+Our goal over the next decade is to learn and develop what these
+minimum viable thresholds and requirements are and to integrate them
+into a body of knowledge that constitutes a backup of civilization
+which will be used to establish bootstrap communities who are
+responsible for maintaining these backups both here on earth and
+eventually throughout the solar system.
+
+
+
 * Minimum Viable Thresholds
 
 
