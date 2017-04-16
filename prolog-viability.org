@@ -22,3 +22,33 @@
 
 * Introduction
 
+Once we have accepted the wisdom of the LOCKSS model and that this
+provides Mankind with it's best chance of maximizing it's long term
+survival and sustained level of properity we face the rather daunting
+task of determining what is the minimum size in terms of population,
+technology, tools and skills required that constitute a sustainable
+technological civilization.  That would give us a baseline for how
+many instances of civilization that we can theoretically maintain
+given any given population.
+
+As anyone who is familiar with maintaining computer backups, it is not
+as simple a creating a bunch of copies.  There are many different
+statistical models that can be used to determine how many copies can
+be maintained in such a way that X number of copies can be destroyed
+and still reconstitute anything that has been lost.  This means that
+we don't have to use the same brute force duplication that DNA
+employess to achieve the same results.  But before we can get into any
+of that we need to determine a number of minimal viability parameters
+that taken together constitute a sustainable civilization.
+
+In one respect, this could be the single most important reason to go
+to Mars other than Mars as a backup of Earth.  It may be impossible to
+know for certain what real minimum viability is unless we can build
+and demonstrate it in the real world, or at least on another, real
+world like Mars.
+
+Civilization is such a large, dynamic, complex system that it is like
+the weather, the number of variables and interactions is beyond
+meaningful prediction beyond very short term, and crude projects that
+even then are not always accurate.
+
