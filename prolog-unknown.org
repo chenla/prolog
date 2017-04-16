@@ -22,3 +22,10 @@
 
 * Introduction
 
+#+begin_comment
+I had originally put this in the trivium repo, but that is the wrong
+place for it.  This file is about building up a philosophy of uncertainty
+and how to deal with.  In the Trivium, learning to understand and
+accept uncertainty will be one of the core goals of the entire
+program.
+#+end_comment
