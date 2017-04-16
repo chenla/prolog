@@ -127,6 +127,33 @@ complexity at different times in the past.  The goal is to achieve the
 best possible quality of life for a minimum and maximum population
 size at a given level of complexity.
 
+* Minimum Viable Community
+
+What is the minimal viable size of a community to maintain our present
+civilization? 
+
+** Minimum Genetic Pool
+*** Minnumber of skill sets
+*** Minumum-Maximum Environmental Range
+**** Min-Max temperature range
+**** Min-Max potable water
+**** Min-Max sunlight
+**** Min arable land
+*** Minimum Biodiversity
+**** Domestic
+***** Min number of plants
+***** Min number species
+**** Wild
+***** plants and animals
+
+In the case of animals and plants in the wild, we must look at this in
+terms of extinction events.  What will crash food chains and
+eco-systems.
+
+Eco-systems are a crucial part of maintaining weather cycles -- the
+ecology of the planet drives a lot of weather -- 
+
+
 
 * Carrying Capacity 
 
