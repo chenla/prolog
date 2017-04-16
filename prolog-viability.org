@@ -1,0 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Minimum & Maximum Viability
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/prolog-viability.org
+  :Created: 2017-04-16T19:21@Prek Leap (11.642600N-104.919210W)
+  :ID: 44a4538c-72b0-4ff3-a919-c75c1e67f08b
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
