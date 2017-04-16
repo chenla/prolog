@@ -161,47 +161,57 @@ like human exploration and colonization.
 From: NOTES <2015-11-20 Fri 10:41> It's THE Adventure
 #+end_comment
 
-Back in the 1970's I remember reading, in the introduction to a
-collection of Science Fiction short stories that I can not locate, an
-interesting analogy and argument for space exploration, or for any
-/moonshot/ or big long term or large scale undertaking.
+Back in the 1970's I remember reading, in the introduction
+to a collection of Science Fiction short stories that I can
+not locate, an interesting analogy and argument for space
+exploration, or for any /moonshot/ or big long term or large
+scale undertaking.
 
-He talked of Isabella of Spain and Christopher Columbus.  At the time,
-it was universally acknowledged that who ever could find a short-cut
-for trading with India that could bipass the middlemen that took their
-cut on the trading routes between India and Europe, would be insanely
-rich.
+He talked of Isabella of Spain and Christopher Columbus.  At
+the time, it was universally acknowledged that who ever
+could find a short-cut for trading with India that could
+bipass the middlemen that took their cut on the trading
+routes between India and Europe, would be insanely rich.
 
-Columbus was a known crackpot.  His math was unsound and his theories
-were barking mad.  But when he approached Isabella for the venture
-capital he needed to fund his voyage, she did a quick cost-risk
-analysis and understood two things.  First, the amount of money
-Columbus was asking for was nothing for her.  The amount she spent,
-supposedly by selling some jewels, was about the same as the cost of a
+Columbus was a known crackpot.  His math was unsound and his
+theories were barking mad.  But when he approached Isabella
+for the venture capital he needed to fund his voyage, she
+did a quick cost-risk analysis and understood two things.
+First, the amount of money Columbus was asking for was
+nothing for her.  The amount she spent, supposedly by
+selling some jewels, was about the same as the cost of a
 weekend party.
 
-And even though Columbus was an obvious nut, in the extreme unlikely
-chance that he succeeded to find a new route to India, the rewards
-would be fantastic.  And the whole thing, funding an exploration into
-the unknown, was a bit of an adventure.  So putting it all together,
-the chances were low, but the cost was cheap and it was all in all
-something fun to do.  
+And even though Columbus was an obvious nut, in the extreme
+unlikely chance that he succeeded to find a new route to
+India, the rewards would be fantastic.  And the whole thing,
+funding an exploration into the unknown, was a bit of an
+adventure.  So putting it all together, the chances were
+low, but the cost was cheap and it was all in all something
+fun to do.
 
-This is a good way of approaching very long term projects.  The cost,
-at any given time, is actually very cheap, since costs are spread over
-very long time frames.  And the chances of success are very low as
-well.  But if, in the unlikely event, as did Columbus, that the
-project was successful, the payoff would be enormous.
+This is a good way of approaching very long term projects.
+The cost, at any given time, is actually very cheap, since
+costs are spread over very long time frames.  And the
+chances of success are very low as well.  But if, in the
+unlikely event, as did Columbus, that the project was
+successful, the payoff would be enormous.
 
-This is one way that we would like to frame our work.  Making human
-civilization into a distributed, federated, multi-planet civilization
-will take a long time.  At least in the early stages, the costs are
-very low, and the likelyhood of success (surviving planet killers,
-super volcanos, pandemics or gray goo) is very small.  But if we do
-succeed the payoff is enormous -- we survive.  And the whole project
-is an adventure of sorts, but not in the same way as Isabella.
+This is one way that we would like to frame our work.
+Making human civilization into a distributed, federated,
+multi-planet civilization will take a long time.  At least
+in the early stages, the costs are very low, and the
+likelyhood of success (surviving planet killers, super
+volcanos, pandemics or gray goo) is very small.  But if we
+do succeed the payoff is enormous -- we survive.  And the
+whole project is an adventure of sorts, but not in the same
+way as Isabella.
 
 * Bread Cast Upon The Waters
+
+#+begin_comment
+From : BLOG <2010-09-26 Sun 10:45> Casting Bread Upon the Waters
+#+end_comment
 
 I have been thinking a great deal about how to build
 organizations and institutions which can survive very long
