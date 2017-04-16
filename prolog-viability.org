@@ -52,6 +52,82 @@ the weather, the number of variables and interactions is beyond
 meaningful prediction beyond very short term, and crude projects that
 even then are not always accurate.
 
+* Minimum Viable Thresholds
+
+
+- Minimum Viable Population
+- Minimum Viable Biodiversity
+  - wild
+  - cultivated
+- Minimum Viable Specialties
+- Minimum Viable Toolset
+- Minimum Viable Materials
+  list of raw materials
+- Minimum Viable Elements
+  list of metals, chemicals, gases etc
+- Minimum Viable Compounds
+  chemical compounds
+
+* Minimum Viable Complexity
+
+Minimum Viable Complexity it made up of:
+
+  - Min Viable Population (MVP)
+  - Min Viable Tools (MVT)
+  - Min Viable Specialties (MVS)
+  - Min Viable Processes (MVP)
+
+Start with MVP, then divide that number into backup or jumpstart
+communities of 1,500 to 2,500 individuals.  At the core of those
+communities will be a cloistered community at or smaller than the
+Dunbar number, whose sole job is the collection, preservation, and
+distribution of information, and to keep all MVS in living memory
+within the community.
+
+When at minimum, one of these communities has been established on an
+planet or moon other than earth, man will have become a multi-planet
+species.
+
+These communities will also become the center of new very long term
+institutions that are independent of religious or secular
+organizations.  The group that controls the territory surrounding
+each enclave will maintain a treaty that they will not interfere or
+participate in any way, but will act as a long term repository and
+information broker for that territory if they desire it.  Neutrality,
+and silence will be maintained -- and the enclave will remain
+isolated. 
+
+We will establish MVC for three different levels of complexity:
+
+  - 18th century :: peak of agracultural, mechanisms, advanced 
+                    tools -- it would be cool to include bio-
+                    engineered things like page trees, biolumin
+                    lighting, and synthetic photosynthesis for
+                    very small scale electricty,
+  - 19th century :: peak of mechanical + electricity, 
+                    internal combustion, thorium & hydrogen
+                    power sources.
+  - 21st century :: computer controlled matter fabrication
+                    and compiling, robotics, DNA sequencing 
+                    and manipulation, advanced networks, 
+                    storage and computation, thorium & 
+                    hydrogen power sources.
+
+This will have to be done for several different climates and parts of
+the world:
+
+  - tropical
+  - desert
+  - temperate
+  - arctic
+
+These levels will not meant to be historically accurate, that's not
+the intention.  But each of these eras represent a base-line for
+complexity at different times in the past.  The goal is to achieve the
+best possible quality of life for a minimum and maximum population
+size at a given level of complexity.
+
+
 * Carrying Capacity 
 
   - [[https://en.wikipedia.org/wiki/Carrying_capacity][Carrying capacity]] | Wikipedia
