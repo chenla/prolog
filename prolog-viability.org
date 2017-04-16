@@ -29,7 +29,7 @@ task of determining what is the minimum size in terms of population,
 technology, tools and skills required that constitute a sustainable
 technological civilization.  That would give us a baseline for how
 many instances of civilization that we can theoretically maintain
-given any given population.
+any given population.
 
 As anyone who is familiar with maintaining computer backups, it is not
 as simple a creating a bunch of copies.  There are many different
@@ -57,17 +57,16 @@ even then are not always accurate.
   - [[https://en.wikipedia.org/wiki/Carrying_capacity][Carrying capacity]] | Wikipedia
 
 A more common term for the maximum viability of an ecosystem is of
-course it's /carrying capacity/.
+course its /carrying capacity/.
 
 This is certainly not limited to humans -- when locust swarm they
 quickly exhaust the carrying capacity of a region which results in a
 collapse and die-off of the population.
 
 Human civilization is an almost cyclical progression of successful
-populations exceeding the carrying capacity of their ecosystem, at
+populations exceeding the carrying capacity of their ecosystems, at
 which time there is collapse and a die-off.
-
 
 The carrying capacity is not a hard number, it depends on a number of
 different parameters that can be leveraged to increase or decrease
-that capacity.
+that capacity.  
