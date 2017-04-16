@@ -69,7 +69,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[prolog-scope.org][Scope]]
  - [[./prolog-estranged.org][Estranged]]
  - [[prolog-transactive.org][Transactive Species]]
- - [[prolog-why.org][Why]]
+ - [[./prolog-why.org][Why]]
 
  - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
 
