@@ -157,6 +157,11 @@ like human exploration and colonization.
 
 * Explorer Quotes
 
+#+begin_comment
+all of these quotes were from Pale Blue Dot pg213  Need to
+track them down independently.
+#+end_comment
+
 #+begin_quote
 I ... had ambition not only to go farther than anyone had
 done before, but as far as it was possible for man to go.
