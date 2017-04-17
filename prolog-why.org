@@ -155,6 +155,17 @@ like human exploration and colonization.
 - iii [[https://www.youtube.com/watch?v=sKtHR1eUubI][Wanderers]] | YouTube
 
 
+* Explorer Quotes
+
+#+begin_quote
+I ... had ambition not only to go farther than anyone had
+done before, but as far as it was possible for man to go.
+
+-- Captain James Cook
+#+end_quote
+
+
+
 * Isabella Argument
 
 #+begin_comment
