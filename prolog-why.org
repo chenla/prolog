@@ -208,7 +208,7 @@ The idea of rockets that could be reused much the same as a
 747, which takes off, lands, is refueled and takes off again
 was not really on anyone's radar.
 
-* Dead-end Arguments
+* Dead-end Benifits
 
 Sagan does a brilliant job of going through all of the
 traditional justifications for Nation-States spending large
@@ -268,6 +268,27 @@ days of exploration and the establishment of permanent
 settlements, that they are tragic, but not existential
 threats to manned space exploration.
 
+
+* Many Baskets
+
+
+#+begin_quote
+Wernher von Braun... who more than anyone, actually took us
+into space. His 1952 book /Das Marsprojekt/ envisioned a
+first mission with 10 interplanetary spacecraft, 70 crew
+members, and 3 "landing boats".  Redundancy was uppermost in
+his mind.  The logistical requirements, he wrote, "are no
+greater than those for a minor military operation extending
+over a limited theater of war."  He meant to "explode once
+and for all the theory of the solitary space rocket and its
+little band of bold interplanetary adventurers," and
+appealed to Columbus' three ships without which "history
+tends to prove that he might never have returned to Spanish
+shores."
+
+
+
+#+end_quote
 
 * Isabella Argument
 
