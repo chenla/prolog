@@ -171,6 +171,19 @@ can think of is how to get back.
 -- Yuri Romanenko
 #+end_quote
 
+#+begin_quote
+The future posibilities of space-travel, which are now left
+mainly to unfound fantasy, could be more soberly treated
+without ceasing to be interesting and could show to even the
+most adventurous of the youn that a world without way need
+not be a world without adventures and hazardous glory.  To
+this kind of contest there is no limit.  Each victory is
+only a prelude to another, an no boundries can be set to
+rational hope.
+
+-- Bertrand Russell | 1959
+#+end_quote
+
 
 
 
