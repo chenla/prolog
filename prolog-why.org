@@ -199,6 +199,45 @@ where there is not a sure and certain hope of profit.
 -- Gome Eanes de Zurara quoting Prince Henry the Navigator
 #+end_quote
 
+When Sagan quoted Prince Henry in Pale Blue Dot, SpaceX was
+nowhere near the horizon.  Not surprisingly, Sagan saw space
+exploration as only within the realm of the Nation State or
+multiple Nation States in partnership.
+
+The idea of rockets that could be reused much the same as a
+747, which takes off, lands, is refueled and takes off again
+was not really on anyone's radar.
+
+* Dead-end Arguments
+
+Sagan does a brilliant job of going through all of the
+traditional justifications for Nation-States spending large
+amounts of money on manned space-exploration.
+
+  - spinoffs
+
+
+
+They didn't hold up then and they don't hold up now except
+that the profit motive will justify the expense, but not
+within today's very short investment time frames.  We will
+come back to that later.
+
+
+* Extreme Risk Adversion
+
+In the recent National Geographic Mini-Series, Mars, the big
+existential crises for the nascent colony was when a
+scientist, having become delusional after prolonged power
+shortages killed off all of the botanical experiments, and
+depressurized a compartment resulting in the death of
+several people.  This triggered a backlash back on earth
+that nearly caused the expedition to be canceled, with the
+understanding that if it was canceled, it would be unlikely
+man would ever return to Mars in the forseeable future.
+
+This is the problem when too few eggs are placed in a single
+basket.  If there are a lot of eggs
 
 
 * Isabella Argument
