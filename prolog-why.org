@@ -164,6 +164,14 @@ done before, but as far as it was possible for man to go.
 -- Captain James Cook
 #+end_quote
 
+#+begin_quote
+The Cosmos is a magnet ... Once you've been there, all you
+can think of is how to get back.
+
+-- Yuri Romanenko
+#+end_quote
+
+
 
 
 * Isabella Argument
