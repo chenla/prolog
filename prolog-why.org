@@ -555,7 +555,8 @@ Bread cast upon the waters indeed.
 
 * Footnotes
 
-[fn:4] Despite common belief, Tang was not invented for NASA:
+[fn:4] Despite common belief, Tang, [[https://en.wikipedia.org/wiki/Polytetrafluoroethylene][Teflon]], and [[https://en.wikipedia.org/wiki/Writing_in_space][The Fisher
+Space Pen]] were not invented for specifically for NASA:
 
 #+begin_quote
 Tang was used by early NASA manned space flights. 
