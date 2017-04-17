@@ -210,6 +210,16 @@ was not really on anyone's radar.
 
 * Dead-end Benifits
 
+#+begin_comment
+this is just an outline -- will expand it out in more detail
+as Sagan did.  It's interesting to see how much hasn't
+changed since Sagan wrote Pale Blue Dot, and how, in subtle
+ways everything has changed.  It's becoming very clear that
+SpaceX turns pretty much every assumption we had before on
+it's head.
+#+end_comment
+
+
 Sagan does a brilliant job of going through all of the
 traditional justifications for Nation-States spending large
 amounts of money on manned space-exploration.
@@ -217,9 +227,28 @@ amounts of money on manned space-exploration.
   - knowledge :: is the benifit, but isn't immediate enough
        for the hampster-like attention spans of
        politicans, businessmen and the public.
+
+Knowledge is why we do anything and everything -- it
+shouldn't be dimissed because it is seen as seeking
+knowledge for knowledge's sake.
+
+
+
   - spinoffs :: is a real benefit but have been exagerated
        far more than their real impact.  Teflon,
        [[https://en.wikipedia.org/wiki/Tang_(drink)][Tang]][fn:4]  and Pens that can write in zero-G[fn:3]
+
+Spinoffs are a terrible justification for doing small-crewed
+space exploration -- but when we're talking about putting a
+million people on Mars, permanent settlements on the Moon
+and mining the Belt -- well, the spinoffs then fold in
+together with the profit benifit.  When spinoffs scale, the
+economics completely change.
+
+This is Jeff Bezos' argument -- that expanding into space
+will result in hundreds of Amazon's and Googles that we
+can't imagine at the moment.
+
   - population control :: there is no way that Mars or any
        where space will be a viable means of reducing the
        population on earth.  The flip side of this is that
@@ -228,15 +257,19 @@ amounts of money on manned space-exploration.
        population.  Space will be a back-up of civilization,
        not the next Austrailia or Americas.
 
-
-
-
-
-They didn't hold up then and they don't hold up now except
-that the profit motive will justify the expense, but not
-within today's very short investment time frames.  We will
-come back to that later.
-
+This won't change -- if for no other reason than the human
+population is so large, that for emmigration to have any
+real impact on population on earth the economics will have
+to be similar to that of a 19th century trans-atlantic ticket
+in steerage.  We need to come up with those numbers because
+they would be interesting.  But global population is set to
+shrink dramatically in the next 50-100 years, and this is
+the time frame for Musk's BFR to really come into its own
+economically.  So even if the economics work, unless global
+warming makes Earth essentially uninhabitable, there likely
+won't be large parts of the population wanting to move to
+mars to find work or a better life.  Life will be very hard
+in space for a very long time.
 
 * Extreme Risk Adversion
 
