@@ -184,6 +184,15 @@ rational hope.
 -- Bertrand Russell | 1959
 #+end_quote
 
+#+begin_quote
+It seemed to have Lord Infante that if he or some other lord
+did not endevor to gain that knowledge, no mariners nor
+merchants would ever dar to attempt it, for it is clear that
+none of them ever trouble themselves to sail to a place
+where there is not a sure and certain hope of profit.
+
+-- Gome Eanes de Zurara quoting Prince Henry the Navigator
+#+end_quote
 
 
 
