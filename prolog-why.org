@@ -574,8 +574,15 @@ Aldrin said: "Tang sucks."
 #+end_quote
 
 
-[fn:3] The Soviets had solved the pen problem decades before
-with the invention of the pencil.
+[fn:3] The Soviets had solved the Zero-G writing problem
+before through the use of pencils.  Paul C. Fisher of Fisher
+Pen Company recounts that pencils were 'too dangerous to use
+in space'.  To be fair, after the Apollo 1 fire killed the
+entire crew on the launchpad because of an atmosphere that
+was too rich in Oxygen, every potential threat and
+contaminant taken aboard were carefully scrutinized.
+
+And Apollo Astronauts also used felt-tip pens.
 
 [fn:2] A favela is a portuguese word for an urban area that
 is predominately poor and only semi-regulated.  A favela, or
