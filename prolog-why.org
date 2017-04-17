@@ -215,11 +215,21 @@ traditional justifications for Nation-States spending large
 amounts of money on manned space-exploration.
 
   - knowledge :: is the benifit, but isn't immediate enough
-                 for the hampster-like attention spans of
-                 politicans, businessmen and the public.
+       for the hampster-like attention spans of
+       politicans, businessmen and the public.
   - spinoffs :: is a real benefit but have been exagerated
-                far more than their real impact.  Teflon,
-                Tang and Pens that can write in zero-G[fn:3]
+       far more than their real impact.  Teflon,
+       [[https://en.wikipedia.org/wiki/Tang_(drink)][Tang]][fn:4]  and Pens that can write in zero-G[fn:3]
+  - population control :: there is no way that Mars or any
+       where space will be a viable means of reducing the
+       population on earth.  The flip side of this is that
+       if earth faces an existential threat, then space will
+       not be a viable evacuation option for most of the
+       population.  Space will be a back-up of civilization,
+       not the next Austrailia or Americas.
+
+
+
 
 
 They didn't hold up then and they don't hold up now except
@@ -290,8 +300,7 @@ appealed to Columbus' three ships without which "history
 tends to prove that he might never have returned to Spanish
 shores."
 
-
-
+-- Carl Sagan | Pale Blue Dot
 #+end_quote
 
 * Isabella Argument
@@ -505,6 +514,8 @@ citizenry can compel the proper meshing of the huge
 industrial and military machinery of defense with our
 peaceful methods and goals, so that security and liberty may
 prosper together.
+
+-- Carl Sagan | Pale Blue Dot
 #+end_quote
 
 The purpose of the *Long Range Foundation* seems, on the
@@ -543,6 +554,24 @@ Bread cast upon the waters indeed.
  - [[./prolog-transactive.org][Transactive Nature]]
 
 * Footnotes
+
+[fn:4] Despite common belief, Tang was not invented for NASA:
+
+#+begin_quote
+Tang was used by early NASA manned space flights. 
+In 1962, when Mercury astronaut John Glenn conducted eating
+experiments in orbit, Tang was selected for the menu; it
+was also used during some Gemini flights. In 2013 Buzz
+Aldrin said: "Tang sucks."
+
+-- [[https://en.wikipedia.org/wiki/Tang_(drink)][Tang (drink)]] | Wikipedia
+
+-- "Now He Tells Us: 'Tang Sucks,' Says Apollo 11's Buzz
+   Aldrin". The Two-Way. NPR.
+
+    - [[http://www.npr.org/sections/thetwo-way/2013/06/13/191271824/now-he-tells-us-tang-sucks-says-apollo-11s-buzz-aldrin][Now He Tells Us]] | NPR
+#+end_quote
+
 
 [fn:3] The Soviets had solved the pen problem decades before
 with the invention of the pencil.
