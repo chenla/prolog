@@ -588,8 +588,7 @@ Musk's argument is two-fold:
 
   - Backup mankind and civilization to become a multi-planet
     species
-  - Adventure!
-
+  - Adventure!  Space, the Final Frontier -- yadda yadda
 
 Adventure is a strong motivator, but it's the wrong way to
 look at the problem.  Yes, it will generate some revenue in
@@ -613,8 +612,23 @@ means for populations to migrate any longer -- when things
 get bad in one place, people move to new places.  There
 aren't any places left, and the people who have set up
 borders around the place they are in, have a low tolerance
-for newcomers who aren't like themselves.  This is very
-dangerous.
+for newcomers who aren't like themselves.  
+
+When people say "not in my backyard" they are playing with
+fire.  Everything is in someone's backyard, by pushing
+things away that have potential negative side effects we are
+passing the buck.  Rather, we need, as a civilization to use
+the clout that comes from having something in your backyard
+to change it for the better so it does not become a
+problem.  We need to give people the ability to change what
+is in their backyard for the better, but not 100% block
+anything they don't like from moving into the neighborhood.
+This is a balance that has been lost.  The fear is
+understandable, because corporation and governments often
+will do things without transparency or accountability.  If
+you have those two things -- so that you say, okay, you can
+move in, but we will want voting seats on your board and in
+return we will work with you and not against you.
 
 Space will not provide a place for existing populations to
 migrate to, but it will allow man to expand into new places
@@ -628,8 +642,8 @@ We literally need to go into space, to save the earth.
 
 * Footnotes
 
-[fn:4] Despite common belief, Tang, [[https://en.wikipedia.org/wiki/Polytetrafluoroethylene][Teflon]], and [[https://en.wikipedia.org/wiki/Writing_in_space][The Fisher
-Space Pen]] were not invented for specifically for NASA:
+[fn:4] Despite popular belief, [[https://en.wikipedia.org/wiki/Tang_(drink)][Tang]], [[https://en.wikipedia.org/wiki/Polytetrafluoroethylene][Teflon]], and [[https://en.wikipedia.org/wiki/Writing_in_space][The Fisher
+Space Pen]] were not invented specifically for NASA:
 
 #+begin_quote
 Tang was used by early NASA manned space flights. 
