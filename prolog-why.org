@@ -240,6 +240,12 @@ come back to that later.
 
 * Extreme Risk Adversion
 
+#+begin_comment
+I want to expand this section out a lot more, perhaps into a
+chapter of its own, risk-aversion is a topic that touches a
+great many aspects of our big picture and objectives....
+#+end_comment
+
 In the recent National Geographic Mini-Series, Mars, the big
 existential crises for the nascent colony was when a
 scientist, having become delusional after prolonged power
