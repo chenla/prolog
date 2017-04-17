@@ -582,15 +582,6 @@ after we as individuals have passed out of living memory.
 Bread cast upon the waters indeed.
 
 
-* Core Patterns
-
- - [[./prolog-cosmos.org][Cosmos]]
- - [[./prolog-process.org][Process]]
- - [[./prolog-holon.org][Holons]]
- - [[./prolog-identity.org][Identity]]
- - [[./prolog-pace.org][Pace Layers]]
- - [[./prolog-scope.org][Scope]]
- - [[./prolog-transactive.org][Transactive Nature]]
 
 * Footnotes
 
