@@ -214,8 +214,12 @@ Sagan does a brilliant job of going through all of the
 traditional justifications for Nation-States spending large
 amounts of money on manned space-exploration.
 
-  - spinoffs
-
+  - knowledge :: is the benifit, but isn't immediate enough
+                 for the hampster-like attention spans of
+                 politicans, businessmen and the public.
+  - spinoffs :: is a real benefit but have been exagerated
+                far more than their real impact.  Teflon,
+                Tang and Pens that can write in zero-G[fn:3]
 
 
 They didn't hold up then and they don't hold up now except
@@ -539,6 +543,9 @@ Bread cast upon the waters indeed.
  - [[./prolog-transactive.org][Transactive Nature]]
 
 * Footnotes
+
+[fn:3] The Soviets had solved the pen problem decades before
+with the invention of the pencil.
 
 [fn:2] A favela is a portuguese word for an urban area that
 is predominately poor and only semi-regulated.  A favela, or
