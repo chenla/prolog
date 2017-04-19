@@ -23,6 +23,25 @@
 * Introduction
 
 
+* The Burning of Books and Burying of the Scholars (焚書坑儒)
+
+ - [[https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars][Burning of books and burying of scholars]] | Wikipedia
+
+#+CAPTION: Killing the Scholars and Burning the Books (18th C.)
+[[./img/insanity/Killing_the_Scholars,_Burning_the_Books.jpg]]
+
+#+begin_comment
+[[https://en.wikipedia.org/wiki/File:Killing_the_Scholars,_Burning_the_Books.jpg][File:Killing the Scholars, Burning the Books.jpg]] | Wikipedia
+
+There are several other images in the img directory we can use.
+#+end_comment
+
+
+#+begin_quote
+The supposed burning of texts in 213 BC and live burial of 460
+Confucian scholars in 210 BC by the First Emperor of the Qin dynasty
+of ancient China.
+#+end_quote
 
 
 
