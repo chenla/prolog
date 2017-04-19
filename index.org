@@ -59,20 +59,43 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-manifesto.org][Manifesto]]
  - [[./prolog-introduction.org][Introduction]]
  - [[prolog-cosmos.org][Cosmos]]
+
  - [[./prolog-philosopy.org][Philosophy]]
- 
- - [[prolog-window.org][Windows]]
- - [[prolog-holon.org][Holon]]
- - [[prolog-identity.org][Identity]]
+   - Cosmology
+   - Ethics
+   - Epistemology
+
+- Structures
+   - [[prolog-holon.org][Holon]]
+   - Rhizome
+   - Fnord
+   - Tree
+
+ - [[prolog-identity.org][Identity]] & Roles
  - [[prolog-pace.org][Pace Layers]]
  - [[prolog-process.org][Process]]
- - [[prolog-scope.org][Scope]]
+
+ - Context
+   - [[prolog-scope.org][Scope]]
+   - Level of Detail (LOD)
+   - Rate of Change  (ROC)
+   - Point of View   (POV)
+
+
  - [[./prolog-estranged.org][Estranged]]
- - [[prolog-transactive.org][Transactive Species]]
  - [[./prolog-why.org][Why]]
+
+
+ - Collapse :: prefix 'collapse-'
+   - insanity :: esp /year one man/
+   - cataclysm
+   - benign neglect
+   - accident
+ - [[prolog-window.org][Windows]]
 
  - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
 
+ - [[prolog-transactive.org][Transactive]]
  - [[./prolog-cognition.org][Cognition]]
  - [[./prolog-memory.org][Memory]]
  - [[./prolog-muscle.org][Muscle]]
