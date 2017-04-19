@@ -85,21 +85,25 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-estranged.org][Estranged]]
  - [[./prolog-why.org][Why]]
 
-
+ - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
  - Collapse :: prefix 'collapse-'
+   - carrying capacity
+   - cataclysm
+   - balance
+
+ - Loss :: prefix 'loss-'
    - insanity :: esp /year one man/
    - cataclysm
    - benign neglect
    - accident
+
  - [[prolog-window.org][Windows]]
 
- - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
-
  - [[prolog-transactive.org][Transactive]]
- - [[./prolog-cognition.org][Cognition]]
- - [[./prolog-memory.org][Memory]]
- - [[./prolog-muscle.org][Muscle]]
- - [[./prolog-unknown.org][What We Don't Know]]
+   - [[./prolog-cognition.org][Cognition]]
+   - [[./prolog-memory.org][Memory]]
+   - [[./prolog-muscle.org][Muscle]]
+   - [[./prolog-unknown.org][What We Don't Know]]
 
 
 
