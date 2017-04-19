@@ -86,13 +86,11 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./prolog-why.org][Why]]
 
  - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
- - Collapse :: prefix 'collapse-'
+ - Collapse & Loss :: prefix 'collapse-' & 'loss-'
    - carrying capacity
    - cataclysm
    - balance
-
- - Loss :: prefix 'loss-'
-   - insanity :: esp /year one man/
+   - [[./collapse-insanity.org][insanity]] 
    - cataclysm
    - benign neglect
    - accident
