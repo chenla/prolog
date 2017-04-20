@@ -25,6 +25,14 @@ Refs
    - [[http://www.slideshare.net/padday/bridging-the-gap-between-our-online-and-offline-social-network][Bridging the gap between our online and offline social network]]
    - [[http://www.sitepoint.com/an-introduction-to-google-plus/][An Introduction to Google]]
 
+   - [[http://nautil.us/issue/9/Time/why-we-procrastinate][Why We Procrastinate]] | Issue 9: Time - Nautilus
+
+   - [[bib:parfit:1984reasons][Reasons and Persons]] | Derek Parfit
+   - [[https://en.wikipedia.org/wiki/Derek_Parfit][Derek Parfit]] | Wikipedia
+   - [[https://en.wikipedia.org/wiki/Reasons_and_Persons][Reasons and Persons]] | Wikipedia
+   
+
+
 * An Identity Model
 ** Introducion
 
