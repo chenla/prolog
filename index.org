@@ -67,14 +67,14 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - Structures :: prefix 'structure-'
    - Sets
-   - [[./structure-triple.org][Triples]]
    - Property-Value
    - Vectors/Arrays/Heaps
+   - Graphs
+   - Dictionary
+   - [[./structure-triple.org][Triples]]
    - [[./structure-fnord.org][Fnord]]
    - [[./structure-tree.org][Tree]]
-   - Graphs
    - [[./structure-rhizome.org][Rhizome]]
-   - Dictionary
    - [[./structure-holon.org][Holon]]
 
  - [[prolog-identity.org][Identity]] & Roles
