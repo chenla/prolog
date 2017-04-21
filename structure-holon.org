@@ -22,3 +22,2538 @@
 
 * Introduction
 
+#+BEGIN_QUOTE
+An experience of seeing things in their separateness, but
+experiencing them as a unity, accompanied by ecstasy .... I
+call it the Big Picture Effect.
+
+-- Edgar Mitchell,  quoted in /Philosophy for Life/ pg106
+#+END_QUOTE
+
+* Introduction
+
+We first need to establish what the atomic unit will be for
+the system.  Ultimately, all information is binary -- but
+that's not terribly useful, it's like measuring a cup of
+rice by how many atoms are in the cup.
+
+As a thought experiment, let's define a system that can be
+reduced to two things, /assertions/ and /messages/.  An
+assertion is a statement that we can encode as a triple made
+up of a list:
+
+#+begin_src emacs-lisp
+  '("Chasui" "age" 6)
+#+end_src
+
+Assertations are then collected into mutually exclusive
+records which are messages.  It's important to think of all
+records to belonging to the set "messages".  Messages are
+created, sent, and recieved.  The only difference between a
+text message and a archival copy of a book in a library is
+that the copy is a message that has been cached without a
+specified recipient.  But at some point either someone will
+retrieve that copy and it will have been recieved or it will
+be destroyed or lost to world.  This is the fate of all
+information.
+
+That information is dependent on it's surrounding context.
+It is context, which is made up of shared knowledge between
+the sender and recipient which determines if the recipient
+sees the message as something meaningful or is just noise.
+That doesn't mean it is noise, it may in fact be structured,
+but still undecipherable -- so that for all intents and
+purposes it can be treated as noise.
+
+Information theory, as formulated by Claude Shannon and
+others does not include any concept of meaning.
+
+So our definition of a message is very broad and includes
+everything from a the temperature reading on a guage in a
+steam room, to an obtuse poem by Wallace Stevens, to a nasty
+comment on YouTube to a birthday card from your grandmother.
+
+As we mentioned before, messages, in our model are (in
+theory) mututally exclusive, and contain a complete thought,
+or represent a fact or concept, in that they can not be
+divided into two or more messages.  We can then combine
+multiple messages into linear and hierarchical or even
+rhizomatically linked groups to become other things.
+
+Messages and assertations need to checked to see if they are
+free of errors when being sent and then if the assertations
+in the message are reliable -- in otherwords true.
+
+So we now have our model that gives us the basic building
+blocks from which the civilization that we have made in our
+model can be built?  No so fast.
+
+* Dual Nature of Information
+
+Physical media comes with a lot of baggage. In many
+respects, since Caxton, mankind has increasingly based whole
+civilizations on this baggage.
+
+Digitization and networking have all but removed the
+limitations that physical media impose though most people
+haven't realized this yet. Centuries of living within those
+confines have led us to believe that they are universal laws
+which can't be challenged.
+
+The limits of physical media are physical — you can only fit
+so many words on a page, only bind so many pages into a book
+before it gets too big to handle.
+
+Once you have divided words into volumes you need a means of
+organizing the information in each volume. It's practically
+impossible for a library to create a single index for every
+keyword in every book in the collection, or to create a
+single table of contents, so these navigational devices were
+created only at the level of single volumes. Library
+catalogs could practically only seek to treat each volume as
+an item, so the catalogs stopped at the covers of the books.
+
+Significant physical resources are required to duplicate and
+distribute physical media and economics favors larger
+volumes which contained a lot of information rather than
+smaller publications. So smaller texts were collected into
+larger volumes, individual songs were collected into LP's
+(long playing record albums) etc.
+
+After you strip away the paper from a text, the vinyl from a
+record album, or the film from an image, one of the first
+things that starts to become apparent is that those
+divisions are indeed artificial and that when they are
+removed information begins to behave as if it has a dual
+nature like the dual particle-wave nature of light.
+
+BMF is based on five general principles for how this dual
+nature applies to information.
+
+   - There is no useful difference between data and metadata
+     which describes it.
+   - There is no useful difference between a single book and
+     the library it is collected in.
+   - There is no useful difference between the parts of a
+     work (which can stand on their own) and the work
+     itself.
+   - There is no useful difference between a document and
+     commentary made about that document.
+   - There is no useful difference between text and code
+     (computer software code).
+
+** Data and Metadata
+
+The idea that data and metadata are interchangeable is both
+natural and astonishing at the same time.
+
+We think of metadata as a description of something else, in
+the way that a card in a library catalog is an external
+description of a resource in a library.
+
+But a collection of bibliographic data on a particular
+subject becomes a bibliography which is a work in it's own
+right. The title page in a book, the liner notes in an album
+or a telephone directory all can be thought of as data in
+one context or metadata in another.
+
+If metadata and data are indeed interchangeable, then
+metadata is not inherently external. This leads us to a very
+different concept of metadata.
+
+Metadata is not simply a description of data, but a less
+detailed view of that data. Metadata is data seen at a
+distance.
+
+** Library and Book
+
+For our purposes, the document and the library are
+essentially the same. In other words, the traditional
+library-document dichotomy can be viewed as a smooth
+spectrum, which we consider as a whole.
+
+#+begin_quote
+Towards one end of the spectrum, the number of authors
+decreases and the topics under discussion become more
+integrated, and the information artifacts look more
+document-like. Towards the other end, the number of authors
+grows and the semantic gaps between topics increase, and the
+information artifacts become more library-like.
+
+—A Scholia-based Document Model for Commons-based Peer
+Production, Joseph Corneli and Aaron Krowne [CORNELI]
+#+end_quote
+
+The illusion of the distinction between document and library
+is in large part a by-product of the limits of physical
+media and Caxton's printing press.
+
+Before Caxton, the distinction between a work and library
+was far less clear as was authorial ownership of documents
+and all sorts of other assumptions that we take for granted
+today. We'll come back to this point again later.
+
+Once you have digitized all the works in a library and
+placed them within a single framework, the distinction is
+far less clear.
+
+For example, in a digital library you can have one index
+rather than a different index at the end of every
+document. The table of contents, which is a tree, can be
+merged together with all of the other table of contents of
+all works in the library into a single tree.
+
+The library catalog can be merged with all of the works they
+describe so that a bibliographic record is a description of
+a work at a distance.
+
+Links between documents can lead directly to any part of any
+other document without the reader having to open the
+document like the cover of a book, work out the organization
+of the work and only then find the passage that was being
+referenced.
+
+** Work and Part
+
+Many books and sound recordings are not mutually exclusive,
+but are collections of a number of smaller documents or
+songs which could easily stand on their own.
+
+In some cases, the collection itself has value as a work in
+it's own right, but this does not take away from the fact
+that the parts could stand on their own.
+
+Encyclopedia articles, main entries in dictionaries,
+newspaper stories and even chapters in many books could
+stand on their own without the reader needing to see any
+other part of the collection.
+
+Many collections are for the sole purpose of making the
+amount of content that is sold on physical media viable as a
+commercial product. Sound recordings are well known for
+including songs of dubious quality to make a album with a
+few popular singles long enough to sell as an album and
+justify a themed concert tour.
+
+But the MP3 revolution and more recently iTunes and the iPod
+have brought back a new age of singles. iTunes are the
+digital equivalent of old 45rpm records which were the
+backbone of the recording industry during the 50's and 60's
+when radio was the chief marketing vehicle for music.
+
+The first decade of the World Wide Web was based in large
+part on the idea of a Web Site being a mutually exclusive
+collection of information. In effect, Web Sites were treated
+as self-contained works like a physical book. Imposing the
+limits of physical media on electronic media is a theme
+which has been repeated over and over.
+
+For the Web, RSS [Rich Site Syndication Format] blew this
+idea out of the water by breaking up content so that
+individual articles on the Web could stand on their own,
+irrespective of the Web Site which published it.
+
+** Text and Commentary
+
+The relationship between text and commentary is probably as
+old as texts themselves.
+
+Commentary can take all sorts of forms, such as foot-notes,
+glosses scribbled in the margins of a book, or notes made
+while reading a book for a class. Commentary can be as small
+as a single word or a multi-volume work composed by an army
+of scholars.
+
+The commentary made by an authoritative person with lots of
+letters tagged on the end of their name and published along
+with a document, are not functionally or practically any
+different than notes scribbled by a high school student
+doing their homework on the kitchen table.
+
+Such commentary is often a marketing function for a
+publisher, who is trying to add value to a work (which might
+be in the public domain) to try to coax readers to purchase
+their edition over another.
+
+This is not to say that such commentary is not useful or
+important. It is enormously important to provide context and
+insight into texts which were based on common knowledge used
+within a narrow discipline or general knowledge from a past
+age.
+
+Once commentary is understood to be simply a text, which has
+as a subject another text, irrespective of who wrote it or
+how it is published, then all commentary becomes an
+extension of and part of a work and by extension, the
+collective content of a library.
+
+It could be said that the Internet itself is all
+commentary. Email between friends, or in a discussion group
+on Usenet or on a list-server, threaded comments on
+Slashdot8, tags and comments about images on Flickr,
+bookmarks on del.icio.us, reviews on Amazon Books, and of
+course the entire blogsphere is all a relentless tidal
+current of commentary that ebbs and flows across the planet
+as each timezone passes from day into night.
+
+** Text and Code
+
+ - [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]]     | Wikipedia
+ - [[http://www.winestockwebdesign.com/Essays/Lisp_Curse.html][The Lisp Curse]]    | Rudolf Winestock
+ - [[http://picolisp.com/wiki/?EquivalenceCodeData][Equivalence of Code and Data]] | PicoLisp Wiki
+ - [[http://stackoverflow.com/questions/4140727/why-code-as-data][Why code-as-data?]] | Stack Overflow
+
+#+begin_quote
+In computer programming, homoiconicity (from the Greek words
+homo meaning the same and icon meaning representation) is a
+property of some programming languages in which the program
+structure is similar to its syntax, and therefore the
+program's internal representation can be inferred by reading
+the text's layout. If a language is homoiconic, it means
+that the language text has the same structure as its
+abstract syntax tree (AST) (i.e. the AST and the syntax are
+isomorphic). This allows all code in the language to be
+accessed and transformed as data, using the same
+representation.
+
+-- [[https://en.wikipedia.org/wiki/Homoiconicity][Homoiconicity]] | Wikipedia
+#+end_quote
+
+I think we can make the argument that in nature there is no
+distinction between code and data --
+
+The distinction can be seen in the difference between the
+Harvard Architecture and the Von Neumann Architecture:
+
+   - Harvard architecture has physically separate pathways
+     for instructions and data.
+   - Von Neumann architecture uses same physical pathways
+     for instructions and data .
+
+
+ - [[https://en.wikipedia.org/wiki/Harvard_architecture][Harvard architecture]]     | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Von_Neumann_architecture][Von Neumann architecture]] | Wikipedia
+ - [[https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture][Von Neumann architecture and Harvard architecture?]] | Quora
+
+But VN also separates memory from processor, which was done
+for practical reasons.  For a while, Memristors looked like
+they could bridge the two worlds:
+
+#+begin_quote
+As an example, let's consider the movie Avatar, a completely
+digital movie which reportedly requires over 1 petabyte of
+storage. I don't know if a movie of this type is still
+chunked up in frames, maybe it's just one time varying
+equation these days, but let's say it's still a series of a
+certain number of frames per second. Processing that amount
+of data would take a good size cluster. Now let's imagine
+laying each frame in one long array. Interestingly, the
+preferred data structure for scientific data is the
+array. Each of the array cells is effectively
+parallelized. Now lets place transforms for each frame in
+series for each array cell. The first transform would
+operate on the frame and transform it in place, or maybe
+write it someplace new, then the next transform operates,
+and so on. You've just transformed the entire petabyte of
+movie frames in the snap of a finger. All those frames can
+be processed in parallel because you effectively have a
+dedicated CPU per frame and the CPU is colocated with the
+data.
+
+-- [[http://highscalability.com/blog/2010/5/5/how-will-memristors-change-everything.html][How will memristors change everything?]] | High Scalability
+#+end_quote
+
+
+
+
+---
+
+Everything in Lisp is a list. There is no useful distinction
+in Lisp between the code and the data it is processing.9
+
+The expression (+ 2 2) which is the way you write "2 + 2" in
+Lisp is a list with three elements where the first item is a
+symbol which represents a function ("+" is the name of a
+function which adds numbers together) and the second and
+third items are the numbers "2" and "2".
+
+Documents which are marked up as Lisp data structures can be
+thought of in one context as a document, and in another as a
+program which can be evaluated (or invoked) to get a result.
+
+To understand this, think of Harry Potter who lives in a
+world where magic is real. In Harry Potter's world, a device
+like a wand, is used to invoke spells which are spoken. This
+results in some kind of action which can be anything from
+levitating a chair, to erasing someone's memories.
+
+Among other things, magic is based on the premise that human
+language, when used by someone with the appropriate skill
+and innate ability, has the power to effect the physical
+world around us. Speaking, or incanting a spell invokes
+unseen powers which can move and manipulate physical
+objects.
+
+This belief is as old as humanity. Written texts in some
+contexts are believed to have magical powers in their own
+right. Sacred texts like the Bible are thought by believers
+to have the power to protect them from evil, and invoke
+supernatural powers.
+
+I am writing this paper using Emacs, a text editor written
+in Lisp. I can move my cursor next to the expression (+ 2 2)
+on the screen and invoke the expression with a tap of my
+wand (by holding down the Control key and typing "x e"). The
+number "4" is returned in a window at the bottom of the
+frame.
+
+A hypertext link on a Web page behaves in a similar
+way. When you click on a link and the browser opens up
+another page, you are invoking the link made between two
+documents.
+
+The distinction between text and code will gradually
+fade. Twenty years from now, we could well have a generation
+of children who will have a difficult time thinking of a
+text as being an inert chunk of information permanently
+stamped on physical media.10
+
+* Fnords
+
+#+begin_comment
+
+How does the fnord as outlined below compare to the /meme/
+-- memes are not true or false in themselves but they have a
+life of their own.
+
+It would be good to be able to reconcile the two...
+
+#+end_comment
+
+
+For a simple model, this works quite well, but only when you
+stay at the same scale.
+
+Our example above: /Chasui's age is 6/ doesn't help us
+define what a Chasui is, or what is a year.  So let's turn
+our triple into a property list, that provides keys for each
+value in the triple:
+
+#+begin_src emacs-lisp
+  (("name" . "Chasui") ("relationship" . "age") ("years" . 6))
+#+end_src
+
+So now we know that Chasui is a name, that age is a
+relationship and the value 6 is in years.  This is better,
+and this kind of a property list can be used to create some
+very powerful data structures.  Graph databases are built
+using property triples.
+
+But the keys are just strings -- they may or may not meaning
+anything.  What is a "name", "relationship", "age" or
+"year"?  In traditional key-value pairs, these keys are
+indeed no more than strings.  They are not required to be
+defined in a schema beyond the data structure that they are
+part of.
+
+This might not sound important at first, after all we all
+know what a "name" is.  Humans who are English speakers who
+live at this time in history will know what a name is, but
+will software that reads the statement see it as anything
+more than a string?  Or for that matter, what if it is read
+in the distant future by people who have never heard about
+English?
+
+The problem is that there is no way of knowing if this
+statement is true or not.  So we don't know if this
+statement is fact, fancy, fiction or a falsehood.  This is
+because the statement in itself is not enough to assertain
+if the statement is a fact.
+
+So let's first tackle the problem of definitions. Instead of
+letting something like "name" hanging in the air as if it
+means something, we can require that all keys be defined.  A
+definition is made up of a group of assertions that taken
+together explain what something is. A definition can be
+thought of as placing limitations on what something is.  And
+when we define something, it needs to be both human
+understandable as well as machine understandable.  We can do
+this by applying tests.  A test will take a pattern and
+compare the pattern to what you are trying to identify, if
+the pattern matches the thing your looking at, then that
+thing belongs to the set of things that has a label (which
+could be a word (string) or other id) that represents that
+set.
+
+So any assertion will be made up of many other assertions
+that define and create the context for any given statement.
+This creates a highly complex mesh of interconnected and
+interdependent statements.  Change any one of these
+statements may result in changing any number of other
+statements -- changing anything in the system requires those
+changes to propagate out throughout the system so that all
+other statements that are effected can be corrected.
+
+Static data structures will not be able to accomplish this
+-- these have to be active dynamic processes.
+
+Even this is not enough because the truth of any statement
+depends on the surrounding context when the statement is
+observed (read).  When you hear a statement like Chasui is 6
+years old, it might be true at the time that the statement
+is observed.  However, statements are recorded, so that if
+Chasui was born in the year 2000, she would be six years old
+if the statement was observed in 2006.  But if the statement
+was read in 2020, it would no longer true unless the
+statement was ammended to say that Chasui was 6 years old
+in 2006.  If the statement said that Chasui was 6 years old
+in 2001 that would be false because there is no scenario
+where she could have been born in 2000 and then be 6 years
+old in 2001.  In otherwords, there is no possible
+causal-chain linking the statement and the observation.
+However, the statement that Chasui was 6 years old in 2006
+will remain true no matter how far into the future that the
+statement is observed.
+
+----
+
+Establishing facts is related to naming things
+
+  - [[http://reason.com/archives/2012/12/24/half-the-facts-you-know-are-probably-wro][Half the Facts You Know Are Probably Wrong]] | Reason.com
+  - [[bib:arbesman:2012half-life][The Half-Life of Facts]] | Samuel Arbesman, 2012
+
+#+begin_quote
+Ordering our surroundings is the rule of how we as humans
+operate. In childhood we give names to our toys, and in
+adulthood we give names to our species, chemical elements,
+asteroids, and cities. By naming, or, more broadly, by
+categorizing, we are creating an order to an otherwise
+chaotic and frightening world.  
+
+And when we learn facts, we are doing the same
+thing. Facts—whether about our surroundings, the current
+state of knowledge, or even ourselves—provide us with a
+sense of control and a sense of comfort. When we see
+something out of the corners of our eyes around dusk, we
+needn’t view it as a creepy bird of the night: We call that
+a bat, which is a winged nocturnal mammal that “sees”
+through the use of echolocation and is probably afraid of
+the bipedal mammals around it. Only half as scary, right?
+
+-- The Half-Life of Facts
+#+end_quote
+
+
+#+begin_quote
+And there’s one simple way to organize facts, even before we
+understand all the math and science behind how knowledge
+changes. We can organize what we know by the rate at which
+it changes.
+
+Imagine we have all the facts in the world—those pieces of
+knowledge that contain all that we know—lined up according
+to how often they change. On the far left we have the
+fast-changing facts, the ones that are constantly in
+flux. These are things such as what the weather will be
+tomorrow or what the stock market close was yesterday. And
+on the far right we have the very slow-changing facts, the
+ones that for all practical purposes are constant. These are
+facts such as the number of continents on the planet or the
+number of fingers on a human hand.
+
+In between we have the facts that change, but not too
+quickly—and are therefore that much more maddening to deal
+with. These facts might change over the course of years or
+decades or a single lifetime. How many billions of people
+are on the planet is one of these. I learned five billion in
+school, and we just recently crossed seven billion, as
+of 2012. My grandfather, who was born in 1917, learned there
+were fewer than two billion. The number of planets outside
+the solar system that have been discovered, or, for that
+matter, the number of planets in our own solar system, is
+also in this category. What we know about dinosaurs is in
+this group of facts, as is the average speed of a
+computer. The vast majority of what we know seems to fall
+into this category, which I call mesofacts—facts that change
+at the meso-, or middle, timescale.
+
+-- The Half-Life of Facts
+#+end_quote
+
+
+
+
+
+
+We need a concept that we can use to include all of the
+different possibile combinations that can apply to a given
+assertion.  To my knowledge there isn't a word for this, so
+we will call it a /fnord/.  You may or may not know what a
+fnord is, and in fact you may have heard the word and been
+told what it means and still have no real idea what it
+means.  And so fnord is a good choice.
+
+Our fnord is both true and false, ugly and beautiful, cruel
+and kind, shallow and deep, brilliant and stupid, and every
+shade of anything inbetween. A fnord is Borge's [[https://en.wikipedia.org/wiki/The_Library_of_Babel][Library of
+Babel]] that contains every possible book.
+
+#+begin_quote
+Borges' narrator describes how his universe consists of an
+enormous expanse of adjacent hexagonal rooms, each of which
+contains the bare necessities for human survival—and four
+walls of bookshelves. Though the order and content of the
+books is random and apparently completely meaningless, the
+inhabitants believe that the books contain every possible
+ordering of just 25 basic characters (22 letters, the
+period, the comma, and the space). Though the vast majority
+of the books in this universe are pure gibberish, the
+library also must contain, somewhere, every coherent book
+ever written, or that might ever be written, and every
+possible permutation or slightly erroneous version of every
+one of those books. The narrator notes that the library must
+contain all useful information, including predictions of the
+future, biographies of any person, and translations of every
+book in all languages. Conversely, for many of the texts
+some language could be devised that would make it readable
+with any of a vast number of different contents.
+
+Despite—indeed, because of—this glut of information, all
+books are totally useless to the reader, leaving the
+librarians in a state of suicidal despair.
+
+-- [[https://en.wikipedia.org/wiki/The_Library_of_Babel][The Library of Babel]] | Wikipedia
+#+end_quote
+
+The library is the wellspring of Eris; /ultima discordia/ or
+/discordia maximus/ if you well -- the opposite of
+certainty.
+
+And yet, our humble fnord is not unbound, it is a set of all
+/possible/ causal chains, making possible maps.  The library
+is not the territory and given that single gossamer strand
+of hope to dangle from we can step back from the abyss and
+use as the rock apon which we can build a rational universe.
+
+A fnord is a cloud of all possible causal chains stemming
+from any given assertion.  Like the Library of Babel is is
+unimaginable unweildy, so it must remain a concept, a
+/gedankenexperiment/ (literally a thought experiment) from
+which we can contruct verifiable statements of facts.
+
+Causal-chains are not all equal, they are either /possible/,
+/probable/ or /improbable/ as well as being either /true/ or
+/false/ given the context when they are observed.  When a
+fnord is observed on one of each possible, probable or
+improbable states becomes true or false.  And before any
+[[https://en.wikipedia.org/wiki/Smart_aleck][smart aleck]] butts in with the obvious, if something true and
+false at the same time, then /that/ is true.
+
+
+So what can we take from all of this in order to build a real world
+system?
+
+  - Static data-structures can not be used to establish
+    verifiable facts that we can rely on to be true
+    statements, they must be dynamic systems that are
+    dependent on an observer who is basically opening the
+    box with Schrodinger's unfortunate cat is both alive and
+    dead at the same time until we take a peak inside.
+
+  - There are no simple statements of fact without a whole
+    lot of other baggage that establishes it through
+    definitions that work as tests which are processes.
+
+  - Triples in the form of property values work, just not in
+    isolation.
+
+
+It is now obvious that there is no such thing as a simple
+statement and that in fact when something is observed and
+something becomes true or false, it still can not be stated
+as a triple, but rather as a rhizomatic mesh of
+interconnected statements that are the result of dynamic
+processes that are executed that propagates through the mesh
+every time something changes.  Our fnord describes the range
+of posssible states that a mesh can be observed in, but we
+don't have a way of describing those network of assertions
+in themselves.  For this we need a new concept and
+thankfully we won't have to come up with a new word.  A
+perfectly good, though somewhat obscure, term already
+exists: the holon.
+
+
+* Holons
+
+When we started we defined a simple model where everything
+could be reduced to /assertions/ and /messages/.  We have
+now replaced the assertion with the concept of the /fnord/.
+In the same way, we need a more useful concept for a message
+than a collection of assertions.
+
+A holon is a philosophical concept that was coined by [[https://en.wikipedia.org/wiki/Arthur_Koestler][Arthur
+Koestler]], in his 1967 book [[https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine][The Ghost in the Machine]].
+
+#+begin_quote
+A holon is a system (or phenomenon) that is an evolving
+self-organizing dissipative structure, composed of other
+holons, whose structures exist at a balance point between
+chaos and order. It is sometimes discussed in the context of
+self-organizing holarchic open systems (or, SOHO systems). A
+holon is maintained by the throughput of matter–energy and
+information–entropy connected to other holons and is
+simultaneously a whole in and itself at the same time being
+nested within another holon and so is a part of something
+much larger than itself. Holons range in size from the
+smallest subatomic particles and strings, all the way up to
+the multiverse, comprising many universes. Individual
+humans, their societies and their cultures are intermediate
+level holons, created by the interaction of forces working
+upon us both top-down and bottom-up. On a non-physical
+level, words, ideas, sounds, emotions—everything that can be
+identified—is simultaneously part of something, and can be
+viewed as having parts of its own, similar to sign in regard
+of semiotics. In 2013 Australian academic JT Velikovsky
+proposed the holon as the structure of the meme, the unit of
+culture, synthesizing the major theories on memes of Richard
+Dawkins, Mihaly Csikszentmihalyi, E. O. Wilson, Frederick
+Turner and Arthur Koestler. Defined in this way, holons are
+related to the concept of autopoiesis, especially as it was
+developed in the application of Stafford Beer to
+second-order cybernetics and the viable system model, but
+also Niklas Luhmann in his social systems theory.
+
+-- [[https://en.wikipedia.org/wiki/Holon_(philosophy)][Holon (philosophy)]] | Wikipedia
+#+end_quote
+
+Essentially everything is a /holon/ -- which can be seen in
+one context as a self-contained whole, and from another
+perspective as a part of a larger whole.
+
+The message then is a holon and the holon becomes our atomic
+unit.  A message is made up of one or more assertions,
+statements or facts.  An assertion is not a message, but
+must be encoded in a message.  An assertion that is made,
+stored or sent and then eventually recieved or read is a
+message.  An assertion can be encoded in an infinite number
+of messages.
+
+
+#+begin_quote
+There were once two Swiss watchmakers names Bios and Mekhos,
+who made very fine and expensive watches.  There names may
+sound a little strange, but their fathers had a smattering
+of Greek and were fond of riddles.  Although their watches
+were in equal demand, Bios propspered, while Mekhos just
+struggled along; in the end he had to close his shop and
+take a job as a mechanic with Bios.  The people in the town
+argued for a long time over the reasons for this development
+and each had a different theory to offer, until the true
+explanation leaked out and proved to be both simple and
+surprising.
+
+The watches they made consisted of about one thousand parts
+each, but the two rivals had used different methods to put
+them together.  Mekhos had assembled his watches bit by bit
+-- rather like making a mosaic floor out of small coloured
+stones.  Thus each time when he was disturbed in his work
+and had to put down a partly assembled watch, it fell to
+pieces and he had to start again from scratch.
+
+Bios, on the other hand, had designed a method of making
+watches by constructing, for a start, sub-assemblies of
+about ten components, each of which held together as a an
+independent unit.  Ten of these sub-assemblies could then be
+fitted together into a sub-system of a higher order; and ten
+of these sub-systems constituted a whole watch.  This method
+proved to have two immense advantages.
+
+In the first place, each time there was an interruption or a
+disturbance, and Bios had to put down, or even drop, the
+watch he was working on, it did not decompose into its
+elementary bits; instead of starting all over again, he
+merely had to reassemble that particular sub-assembly on
+which he was working at the time; so that at worst (if the
+disturbance cam when he had nearly finished the sub-assembly
+in hand) he had to repeat nine assumbling operations, and at
+best none at all.  Now it is easy to show mathematically
+that if a watch consists of a thousand bits, and if some
+disturbance occurs on an average of once in every hundred
+assembling operations -- then Mekhos will take four thousand
+times longer to assemble a watch than Bios.  Instead of a
+single day it will take him eleven years.  And of for
+mechanical bits, we substitute amino scids, protien
+molecules, organelles, and so on, the ration between the
+time-scales becomes astronomical; some calculations indicate
+that the whole lifetime of the earth would be insufficient
+for producing even an amoeba -- unless he becomes converted
+to Bios' mthod and proceeds hierarchically, from simple
+sub-assemblies to more complex ones.
+
+-- Ghost in the Machine pg 46-47.
+#+end_quote
+
+
+#+begin_quote
+The first universal characteristic of hierarchies is the
+relativity, and indeed ambiguity, of the terms 'part' and
+whole' when applied to any of the sub-assemblies.  Again it
+is the very obviousness of this feature which makes us
+overlook its implications.  A 'part', as we generally use
+the word, means something fragmentary and incomplete, which
+by itself would have no legitimate existence.  On the other
+hand, a 'whole' is considered as something complete in
+itself which needs no further explanation.  But /'wholes'
+and 'parts' in this absolute sensejust do not exist
+anywhere/, either in the domain of living organisms or of
+social organizations.  What we find are intermediary
+structures on a series of levels in an ascending order of
+complexity: sub-wholes which display, according to the way
+you look at them, some of the characteristics commonly
+attributed to parts.
+
+-- Ghost in the Machine pg.48
+#+end_quote
+
+
+#+begin_quote
+The members of a hierarchy, like the Roman god Janus, all
+have two faces looking in opposite directions: the face
+turned towards the subordinate levels is that of a
+self-contained whole; the face turned upward towards
+towards the apex, that of a dependent part.  One is the face
+of the master, the other the face of the survant.  This
+'/Janus effect/' is a fundemental characteristic of
+sub-wholes in all types of hierarchies.
+
+-- Ghost in the Machine pg 48.
+#+end_quote
+
+#+begin_quote
+But there is no satisfactory word in our vocabulary to refer
+to these Janus-faced entities: to talk of sub-wholes (or
+sub-assemblies, sub-structures, sub-skills, sub-systems) us
+awkward and tedious.  It seem preferable to coin a new term
+to designate these nodes on the hierarchic tree which behave
+partly as wholes or wholly as parts, according to the way
+you look at them.  The term I would propose is 'holon', from
+the Greek /holos/ = whole, with the suffix /on/ which, as in
+prot/on/ or neutr/on/, suggests a particle or part.
+
+-- Ghost in the Machine pg 48.
+#+end_quote
+
+#+begin_quote
+...it is essential for the stability and efficient
+functioning of the body social that each of its
+sub-divisions should operate as an autonomous, self-reliant
+unit which, though subject to control from above, must have
+a degree of independence and take routine contingencies in
+its stride, without asking higher authority for
+instructions.  Otherwuse the communication channels would
+become overloaded, the whole system clogged up, the higher
+echelons would be kept occupied with petter detail and
+unable to concentrate on more important factors.
+
+-- Ghost in the Machine pg 55.
+#+end_quote
+
+
+#+begin_quote
+No man is an island he is a holon. A Janus-faced entity who,
+looking inward, sees himself as a self-contained unique
+whole, looking outward as a dependent part. His
+/self-assertive tendency/ is the dynamic manifestation of
+his unique /wholeness./, his autonomy and independence as a
+holon. Its equally universal antagonist, the /integrative
+tendency/, expresses his dependence on the larger whole to
+which he belongs: his '/part-ness/'.  The polarity of these
+two tendencies, or potentials, is one of the /leitmotivs/ of
+the present theory.  Empirically, it can be traced in all
+phenomena of life; theoretically, it is derived from the
+part-whole dichotomy inherent in the concept of the
+multi-layered hierarchy.... For the time being let me repeat
+that the /self-assertive tendency is the dynamic expression
+of the holon's wholeness, the integrative tendancy, the
+dynamic expression of it's partness."
+
+-- Ghost in the Machine pg 56.
+#+end_quote
+
+
+
+#+begin_quote
+the self-assertive tendency is the dynamic expression of the
+holon's wholeness, the integrative tendency, the dynamic
+expression of its partness.
+#+end_quote
+
+
+#+begin_quote
+A Holon is a node in a Holarchy. A Holon looks up for what
+it needs to cooperate with and integrate with. It looks
+sideways for what it needs to compete with. It looks down
+for what it wants to command. Each holon can not be fully
+explained by or predicted by a study of its parts. It is
+something more. A Holon is also part of something bigger
+that it is being affected by. But at the same time it has a
+high degree of autonomy, it has a life of its own.
+
+-- [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]], Flemming Funch, 4 Feb 95.
+#+end_quote
+
+
+
+** Holarchies
+
+
+
+
+** Four Types of Holarchies
+
+#+begin_quote
+Well, if you look at the variuous "new paradign"
+theorists--from holists to ecofeminists to deep ecologists
+to systems thinkers--you find that all of them are offering
+various types of holarchies, of hierarchies.  Eaven the
+anti-hierarchy ecophilosophers offer their own hierarchy,
+which is usually something like: atoms are parts of
+molecules which are parts of cells, which are parts
+individual organisms, which are parts of families, which are
+parsts of cultures, which are parts of the total biosphere.
+That is their defining hierarchy, their defining holarchy,
+and except for some confusion about what "biosphere" means,
+that is a fairly accurate holarchy.
+
+And likewise, orthodox researchers offer their own
+hierarchies.  We find hierarchies in moral development, in
+ego development, in cognitive development, in self needs, in
+defense mechanisms, and so on.  And these, too, see to be
+largely accurate.  We also find developmental holarchies in
+everything from Marxism to strucuralism to linguistics to
+computer programming--it's simply endless.
+
+In other words, whether it's realized or not, most of the
+maps of the world that have been offered are in fact
+holarchical, for the simple reason that holarchies are
+impossible to avoid (because holons are impossible to
+avoid).  We have literally hundreds and hundreds of these
+holoarchical maps from around the world--East and West,
+North and South, ancient and modern--many of these maps
+included the mapmaker as well.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p72 | Ken Wilbur
+#+end_quote
+
+
+But then Wilbur goes further by comparing as many different
+holarchies as he could to see if they all fit together.
+
+#+begin_quote
+So at one point I simply started making lists all of these
+holarchical maps--conventional and new age, Eastern and
+Western, premodern and postmodern--everything from systems
+theory to the Great Chain of Being, from the Buddhist
+vijnanas to Piaget, Marx, Kholberg, and the Vedantic koshas,
+Loevinger, Maslow, Linski, Kabbalah, and so on.  I had
+literally hundreds of thesethigs, these maps, spread out on
+legal pads all over the floor.
+
+At first I thought these maps were all referring to the same
+territory, so to speak.  I thought they were all different
+versions of an essentially similar holarchy.  There were
+just too many similarities and overlaps in all of them.  So
+by comparing and contrasting them all, I thought I might be
+able to find the single abd basc holarchy that they were all
+trying to represent in their own ways.
+
+The more I tried this, the more it became obvious that it
+wouldn't work.  These various holarchies had some undeniable
+similarities, but they differed in certain profound ways,
+and the exact nature of these differences was not obvious at
+all.  And most confusing of all, in some of these
+holorchical maps, the holons got /bigger/ as development
+progressed, and in others, they became /smaller/ (I didn't
+yet understand that evolution produces greater depth, less
+span).  It was a real mess, and at several points I decided
+to just chuck it, forget it, because nothing was coming of
+this research.
+
+But the more I looked at these various holarchies, the more
+it dawned on me that there were actually /four very
+different types/ of holarchies, four very different types of
+holistic sequences.  As you say, I don't think this had been
+spotted before--perhaps because it was so stupidly simple;
+at any event it was news to me.  But once I put all of these
+holarchies into these four groups--they instantly fell into
+place at that point--then it was very obvious that each
+holarchy in each group was indeed dealing with the same
+territory, but overall had four different territories, so to
+speak.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p72-73 | Ken Wilbur
+#+end_quote
+
+#+CAPTION: Wilbur's Four Holarchy Quadrants
+#+ATTR_ORG: :width 500px
+[[./img/holon/wilber--four-quadrants.png]]
+
+#+begin_quote
+So the question then became, how did these four types of
+holarchies relate to each other?  They couldn't just be
+radically different holistic sequences.  They had to touch
+each other somehow.
+
+Eventually it dawned on me that these four quadrants have an
+incredibly simple foundation.  These four types of
+holarchies are actually dealing with the /inside/ and
+/outside/ of a holon, in both its /individual/ and
+/collective/ forms--and that gives us four quadrants.
+
+Inside and outside, singular and plural--some of the
+simplest distinctions we can make, and these very simple
+features, which are present in all holons, generate these
+generate these very simple features, which are present in
+all holons, generate these four quadrants, or so I
+maintain.  All four of these holarchies are dealing with
+real aspects of real holons--which is why these four types
+of holarchies keep aggressively and insistently showing up
+on the various maps around the world.....
+
+The four quadrants are the /interior/ and /exterior/ of the
+/individual/ and the /collective/....
+
+We can start with the individual holon, in both its interior
+and exterior aspects.  In  other words, with the Upper Left
+quadrant and the Upper Right quadrant.  Figure 5-3 is a
+little more detailed map of these two quadrants.
+
+
+   #+CAPTION: figure 5-3
+
+   | *UPPER LEFT*          | *UPPER RIGHT*                           |
+   |-----------------------+-----------------------------------------|
+   | prehension            | atoms                                   |
+   | irritability          | cells (genetic)                         |
+   | rudimentary sensation | metabolic organisms (e.g. coelenterata) |
+   | perception            | neuronal organisms (e.g. annelids)      |
+   | perception/impulse    | neural cord (fish/amphibians)           |
+   | impulse/emotion       | brain stem (reptiles)                   |
+   | emotion/image         | limbic system (paleomammals)            |
+   | symbols               | neocortex (primates)                    |
+   | concepts              | complex neocortex (humans)              |
+ 
+If you look at the Right Hand column first, you can see the
+typical holarchy presented in any standard biology
+textbook.  Each level transcends and includes its
+predecessor.  Each level includes the basics of the previous
+level and then adds its own distincting and defining
+characteristics, it's own emergents.  Each of these follow
+the twenty tenents and so on.
+
+But notice that these are all exterior descriptions--it's
+what these holons look like from the outside, in an
+objective and empirical manner.  Thus, in a scientific text,
+you will find the limbic system, for example, described in
+detail--its components, its biochemistry, when and how it
+evolved, how it relates to other parts of the organism, and
+so on.  And you will probably find it mentioned that the
+limbic system is the home of very certain very fundemental
+/emotions/, certain basic types of sex and aggression and
+fear and desire, whetherthat limbic system appears in horses
+or humans or apes.
+
+But if those emotions, of course, you will not find much
+dfescription, because emotions pertain to the /interior
+experience/ of the limbic system.  And /objective/
+scientific descriptions are not much interested in that
+interior consciousness, because that interior space cannot
+be accessed in an objective, empirical fashion.  You can
+only /feel/ these feelings from within.  When you experience
+a sort of primal joy, for example, even if you are a brain
+physiologist, you do not say to yourself, Waw, what a limbic
+dat.  Rather, you describe these feelings in intimate,
+personal, emortional terms, /subjective/ terms: I feel
+wonderful, it's great to be alive, or whatnot.
+
+So in the Left Hand column, you can see a list of some of
+the basic types of /subjective/ or /interior awareness/ that
+go with these variopus /objective/ or /exterior forms/
+listed in the Right Column.  "Irritability"--the capacity to
+actively respond to environmental stimuli--begins with
+cells.  Sensations emerge with neuronal organisms, and
+perceptions emerge with the neural cord.  Impulses emerge
+with a brain stem, and basic emotions with a limbic system.
+And so on.
+
+This is also a holarchy, but a subjective or interior
+holarchy.  Each level also transcends and includes it[s]
+predecessor, each follows the twenty tenents, and so on.
+And this Left Hand holarchy, like the Right Hand, is based
+on extensive evidence already available, which we can
+discuss if you want.
+
+But the main point is that this Left Hand dimension refers
+to the inside, to the /interior depth/ that is
+/conciousness/ itself.
+
+.... The Left Hand is what the holon looks like from within;
+the Right Hand is what the same holon looks like from
+without.  Interior and exterior.  Consciousness and form.
+Subjective and objective.
+
+.... We don't have to agree with the exact placement of
+everything in figure 5-3, but most people would agree that
+/something/ like that is occurring.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p73-76 | Ken Wilbur
+#+end_quote
+
+#+CAPTION: Details of Four Holarchy Quadrants
+#+ATTR_ORG: :width 500px
+[[./img/holon/wilber--quadrant-details.png]]
+
+
+Now about the lower half, the collective.....
+
+#+begin_quote
+... Individual holons exist exist /only in compunities/ of
+simular-depth holons.  So we beed to go through both of the
+columns in figure 5-3 and find the types of /communal/
+holons that are always associated with the /individual/
+holons.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77- | Ken Wilbur
+#+end_quote
+
+And the Lower Left and Lower Right are "cultural" and
+"social" holarchies.
+
+#+begin_quote
+... "cultural" refers to all of the /interior/ meanings and
+values and identities that we share with those of similar
+communities, whether it is a tribal community or a national
+community or a world community.  And "social" refers to all
+of the exterior, material, institutional /forms/ of the
+community, from its techno-economic base to its
+architectural styles to its written codes to its population
+size, to name a few.
+
+So in a very general sense, "cultural" refers to the shared
+collective /worldview/ and "social" refers to the /material
+base/ of that worldview.  (Of course, right now I'm just
+talking about how these appear in human holons; we'll
+discuss nonhuman in a moment.)  Social means any objective,
+concrete, material components, and especially the
+techno-economic base, so you see these listed as foraging,
+horticultural, agrarian, industriall; and the geopolitical
+structures of villages, states, world federation, and so
+on.  These are all examples of the exterior forms of the
+collective, as you can see in figure 5-2.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p77-78 | Ken Wilbur
+#+end_quote
+
+Now non-human holons....
+
+
+#+begin_quote
+If consciousness is depth, and depth goes all the way down,
+then shared depth or common depth also goes all the way
+down--culture goes all the way down... In other words, if
+holons share outsides, they share insides....
+
+By the culture or worldspace of holons, I simply mean a
+shared space of what they /can/ respond to: quarks do not
+respond to all stimuli in the environment, because they
+/register/ a very narrow range of what will have meaning to
+them, what will /affect/ them.  Quarks (and all holons)
+respond only to that which /fits their worldspace/:
+everything else is a foreign language, and they are
+outsiders.  The study of what holons /can/ respond to is the
+study of shared worldspaces.  It's the common world that all
+holons of a similar depth will respond to.  That is their
+shared culture.
+
+[for example] Nonhuman cultures can be very sophisticated.
+Wolves, for example, share an emotional worldspace.  They
+possess a limbic system, the interior correlate of which is
+certain basic emotions.  And thus a wolf orients itself and
+its fellow wolves to the world through the use of these
+basic emotional cognitions--not just reptilian and
+sensorimotor, but affective.  They can hunt and coordinate
+in packs through a very sophisticated emotional signal
+systems.  They share this emotional worldspace.
+
+Yet anything /outside/ that worldspace is /not registered//
+I mean you can read /Hamlet/ to them, but no luck.  What you
+are, with that book, is basically dinner plus a few things
+that will have to be spat out.
+
+The point is that a holon responds, and /can respon/ only to
+those stimuli that fall within its worldspace, its
+worldview.  Everything else is nonexistent....
+
+Same with humans.  By the time evolution reaches the
+neocortex, or the complex triune brain, with its interior
+correlates of images and symbols and concepts, these basic
+worldspaces have become articulated into rather
+sophisticated cognitive structures.  These worldspaces
+/incorporate/ the basic componments of the previous
+world-spaces-- such as cellular irritability amd reptilian
+instincts and paleo-mammalian emotionss--but they /add/ new
+components that articulate or unfold new worldviews.
+
+Remember, the Kosmos looks diferent at each of these stages
+because the Kosmos /is/ different at each of these stages.
+At each of thes stages, the Kosmos looks at itself with new
+eyes, and thus brings forth new worlds not previously
+existing.
+
+These cultural worldspaces are listed on Lower Left.  And
+you an see they they evolve from phsycical and vegetative
+and reptiliand ("uroboric"--of the serpent) and
+limbic-emotional ("typhonic"), into more specifically
+hominid and then human forms: archaic, magic, mythic,
+rational, centauric (or existential), and possible higher
+stages yet to come.
+
+These worldview are correlated with the /exterior/ forms of
+the /social structures/ that support each of those
+worldviews and the individuals within them--again, all the
+way down.  For example, from the prokaryotic Gaia system to
+societies with a division of labor (in neural organisms) to
+groups/families of paleomammals to the more human forms of:
+/foraging/ tribes to /horticultural/ villages to /agrariam/
+empires to /industrial/ states to /informational/ global
+federation.  Which is the list to date, as reconstructed
+from available evidence.  These are all listed on the Lower
+Right.
+
+Q: And these four quadrants are related to each other in
+exactly what fashion?
+
+KW: In any fasion you want.  Just don't reduce them one to
+another.  I have some specific thoughts on this, but right
+now I don't want to push my own theory in this regard.  I
+will settle for the /orienting generalization/ that we
+simply cannot reduce these quadrants to each other without
+profound distortions and violent ruptures.  So let us grant
+each of them a certain integrity, I think.  Let's just say
+they interrelate, or they interact, or they each have
+correlates in the others.  That's plenty to work with.  When
+we talk about the different truths in each quadrant, I think
+you'll see what I mean.
+
+-- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p78- | Ken Wilbur
+#+end_quote
+
+
+
+
+
+* Evaluating Assertations
+
+Requirements:
+
+  - trustless
+  - tamperproof, or at least highly tamper resistent
+  - scales, from very short to very very long time frames and physical
+    scales.
+  - not require expert training or knowledge to participate
+  - self-sustaining
+  - meet requirements for establishing facts and truth that would be
+    acceptable in most courts of law.
+
+
+** Corruption aka noise aka errors aka 4%t08^w*4e;j
+
+When you transmit something you are making a copy.  That
+copy may only need to go from a USB drive to a Hard disk on
+a laptop, or could be something like the Rosetta Stone which
+has managed to send a message in multiple languages -- one
+of which, Egyptian hieroglyphics that had been forgotten
+when it was unearthed.  The Rosetta Stone succeeded in
+sending it's message because it was encoded in multiple
+languages, by added redundancy that made it more resiliant.
+
+Everything from Morse Code to TCP/IP is all about dealing
+with transmission/copying errors and correcting for noise,
+for corruption.
+
+** Truth
+
+#+begin_quote
+There are trivial truths and there are great truths.  The
+opposite of a trivial truth is plainly false.  The opposite
+of a great truth is also true.
+
+-- Neils Bohr
+#+end_quote
+
+
+#+begin_verse
+The truth is hard.
+The truth is hidden.
+The truth must be pursued.
+The truth is harder to hear.
+The truth is rarely simple.
+The truth isn't so obvious.
+The truth is necessary.
+The truth can't be glossed over.
+The truth has no agenda.
+The truth can't be manufactured.
+The truth doesn't take sides.
+The truth isn't red or blue.
+The truth is hard to accept.
+The truth pulls no punches.
+The truth is powerful.
+The truth is under attack.
+The truth is worth defending.
+The truth requires taking a stand.
+The truth is more important now than ever.
+
+-- The New York Times Advertisment 2017
+   [[http://thehill.com/media/320787-new-york-times-launches-major-ad-campaign-the-truth][New York Times launches major ad campaign: 'The Truth']] | TheHill
+#+end_verse
+
+
+In many cases, truth somewhat falls short of being absolute.  This is
+the reality of complexity -- complex systems can be described but
+nevery absolutely defined.
+
+In Science there are Laws and Theorys -- a Law is absolute, a theory
+has not been yet proved to be absolute.  There are many theories which
+are accepted as being as absolute, such as the theory of evolution --
+but because evolution can never be defined as cleaning as say the
+Second Law of Thermodynamics, it will most certainly be a Law in the
+forseeable future.
+
+It is important that we make the effort to determine what assertions
+are more true than others because this is the only rational means of
+making decsions.  The act of taking in information about what has
+changed around you, determining what happened, if it is true or not
+before making a decision is how we survive from minute to minute.
+This is the process used to cross a busy street, to eat or not to eat
+the leftover curry that has been sitting forgotten in the fridge since
+the New Years party and has a number of things growing in it which may
+or may not be classifiable as a new form of intelligent life.
+
+So determining how reliable, or the confidence level we have that any
+particular assertation is true is important.  In fact that it is the
+single most important thing we do as living creatures.  This needs to
+be at the very core of all information system -- and sure enough, in
+human cognitive processes, pattern recognition is made using a
+hierarchical system of pattern matchers -- when a pattern matcher
+looks at something, it tells the matchers in the levels above and
+below if there is a match, or not a match and how certain it is of it
+being a match or not.
+
+Determining if something is true is broken down into two
+parts, /authentication/ and /authorization/, which most
+people associate with logging into online services, or
+withdrawing money from a bank account.  The principle is the
+same.  When you log into your account on Google, you must
+present the system with a means of identifying and
+demonstrating that you are who you say you are
+/authtication/, and then Google checks this information
+against it's records and grants or denies you access to your
+account.
+
+By applying this process to any assertation we can determine
+the level of confidence that we have in the truth of an
+assertation or not.
+
+Before we go any further we need to address another thorny
+issue -- trust.
+
+Because authentication and authorization is difficult, in
+almost all mechanisms that determine truth, we use /trusted/
+agents that used to authenticate and authorize on our
+behalf.  We use banks as go-betweens to transfer funds that
+are trusted by both parties.  Trusted libaries are used to
+compile databases of /authorities/ which are used to match
+authors to works that claim to be their works.  Wikipedia is
+quickly becoming one such /authority/.  In Western
+democracies, a Free Press' role is to provide information
+about what a government is using that is independent of what
+the government is telling people.  This only works when the
+Press is trusted.  When people are bombarded by propaganda,
+and dissinformation by governments or groups who are trying
+to promote an ideology or gain power, that trust breaks down
+and the role of the Press is undermined.  This is what has
+happened in the United States over a twenty year period by
+one political party which lead to the election of Donald
+Trump.  Once that trust has been destroyed, it creates a
+vacuum that threatens to destroy functional societies.  This
+is a poor strategy because the groups who undermine such
+trust historically don't stay in power for very long,
+because without a foundation of information that can be
+trusted they have lost all of their credibility and have
+hurt themselves as much as their opponents.
+
+This is why it's so interesting that BitCoin and its great
+innovation the /blockchain/ was invented during this period
+of large scale disinformation and errosion of trust in the
+truth of assertations that have been made.
+
+
+             *SECTION On How BitCoin Works*
+
+
+The blockchain provides us with a means of establishing certainty
+between two parties even if neither party trust the other.
+
+A bitcoin transaction is trusted because of the blockchain
+mechanism is not only trusted but transparent and
+verifiable.  This moves trust outside of human institutions
+which are, by definition, fallible.  There is now an
+enormous amount of effort being made in a large number of
+fields and industries to apply blockchain concepts to things
+which have nothing to do with currencies, finance or
+transactions.
+
+
+** Provenance
+
+[[https://en.wikipedia.org/wiki/Provenance][Provenance]] - Wikipedia
+
+Provenance is the chain or chronoology of the ownership,
+custody or location of a historical object.
+
+The idea is simple -- and it works like the /duck/
+principle.  If something looks like a duck, quaks like a
+duck and walks like a duck, it's probably a duck.
+
+The provenance of an object is something where a number of
+true statements have been collected that provide evidence
+that the object is what it is claimed to be.
+
+The more verifible facts that can be collected about the
+object the greater the confidence that one has in it's
+authenticity.
+
+This principle applies to many things in our lives, and is
+the primary method used to authenticate anything.  This is
+why it is common to demand that two forms of identification
+that includes a picture be produced to authenticate that a
+person is who they claim to be.
+
+Two factor authorization is a fairly new wrinkle but is no
+different -- the more verifible or trusted facts that can be
+presented, the higher the confidence level is that what is
+being claimed is true.
+
+** Primary Sources
+
+  - [[https://en.wikipedia.org/wiki/Primary_source][Primary source]] | Wikipedia
+
+Verification (authentication) of assertations can be made
+using a combination of /primary/ and /secondary/ sources.
+
+
+#+begin_quote
+A history, whose author draws conclusions from other than
+primary sources or secondary sources actually based on
+primary sources, is by definition fiction and not history at
+all.
+
+— Kameron Searle
+#+end_quote
+
+
+For verification of a name primary documents such as birth,
+death, baptism, marriage and death certificates, offical
+identification credentials such as passports and drivers
+licences may be used.
+
+-------
+
+
+Determining if something is a primary or secondary source is
+largely determined by context.
+
+A review of a book treats the text of the book as a primary
+source for the review, but the reviewed book in turn might
+be based on any number of other primary sources which are
+then based on other primary sources etc.
+
+For example, William Caxton used Sir Thomas Mallory's text
+as a primary source for /Le Morte Dr Arthur/ which was as
+much Caxton's work as it was Malory.  Malory's orginal text
+which survives in the Winchester Manuscript was in turn
+based on a great many different older texts by other, mostly
+unknown authors.
+
+In other words, as in so many other things, it's turtles all
+the way down.
+
+*** Wikipedia's Prime Directive
+
+ - [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][Wikipedia:No original research]] | Wikipedia
+
+Just as the crew of the Starship Enterprise was constrained
+by the [[https://en.wikipedia.org/wiki/Prime_Directive][Prime Directive]], Wikipedia is constrained by three
+core principles that apply to all content: a) [[https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][Neutral point
+of view]] of view, b) [[https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources][No original research]] and c)
+[[https://en.wikipedia.org/wiki/Wikipedia:Verifiability][Verifiability]].
+
+We are concerned here with /no original research/ which
+disallows direct use of primary source material in articles.
+
+Their argument is that Wikipedia is an encyplopedia that is
+a summary of existing thought, not original thoughts or
+ideas. So all assertations in Wikipedia must point to
+secondary sources.
+
+#+begin_quote
+In general, the most reliable sources are:
+
+  - Peer-reviewed journals
+  - Books published by university presses
+  - University-level textbooks
+  - Magazines, journals, and books published by respected
+    publishing houses.
+  - Mainstream newspapers
+#+end_quote 
+
+This is how encyclopedias are supposed to be compiled.  But
+these limitations, that are critical to establishing an
+encyclopedia as being authoritative, does not always apply
+to other types of works.
+
+Authority records are one of them.
+
+
+
+** Chain of Custody
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+
+A chain of custody can be part of establishing provenance or
+any evidence that is used to establish the veracity of an
+assertation.
+
+#+begin_quote
+Establishing chain of custody is made of both a
+chronological and logical procedure, especially important
+when the evidence consists of fungible goods. In practice,
+this most often applies to illegal drugs which have been
+seized by law enforcement personnel. In such cases, the
+defendant at times disclaims any knowledge of possession of
+the controlled substance in question. Accordingly, the chain
+of custody documentation and testimony is presented by the
+prosecution to establish that the substance in evidence was
+in fact in the possession of the defendant.
+
+  - [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]] | Wikipedia
+#+end_quote
+
+Once a fact has been established -- with assertations that
+are linked to primary sources we need to established these
+as a chain of custody.  Links to sources must include a hash
+of the source and recorded in the blockchain -- this ensure
+that records have not been tampered with.
+
+Actually it doesn't do that -- it is still possible to
+tamper with records, but to do so means going back and
+changing so many things that are dependent on each other
+that the cost of tampering exceeds the benefit or resrouces
+availble to do so.
+
+** LOC Authority Records
+
+ - [[https://www.loc.gov/marc/authority/][MARC 21 Format for Authority Data]] | MARC Standards, LOC
+
+
+#+begin_quote
+Traditionally, the purpose of authority control has been to
+bring consistency to library catalogs.  The authority
+control process is directed at the access points contained
+in catalog records i.e., names, titles, and subjects.  It
+ensures that these access points are unique and consistent
+in in content and form, and provides a network of linkages
+for variant and related headings in the catalog.  Reference
+to an authority file maintains consistency in controlled
+access points, while cross-references and the adjacent
+display of identical access points have been the primary
+methods used to accomplish the neccessary linkages in the
+catalog.
+
+-- [[bib:vellucci:2011metadata][Metadata and authority control]] | Sherry Vellucci
+#+end_quote
+
+
+#+begin_quote
+The MARC 21 Format for Authority Data is designed to be a
+carrier for information concerning the authorized forms of
+names, subjects, and subject subdivisions to be used in
+constructing access points in MARC records, the forms of
+these names, subjects, and subject subdivisions that should
+be used as references to the authorized forms, and the
+interrelationships among these forms. A name may be used as
+a main, added, series, or subject access entry.
+
+-- [[https://www.loc.gov/marc/authority/adintro.html][MARC 21 Format for Authority Data: Introduction]] | MARC, LOC
+#+end_quote
+
+The now ubiquitious hypertext link that makes the Web, the
+Web links everything to everything, but does not have any
+mechanism to determine what links relate to what persons,
+places, works or concepts.  An authority record is used to
+distinquish Apple (fruit) from Apple (Consumer Electronics
+Company)[fn:1]
+
+** Facts
+
+Assertations -- which are determined to have a high
+confidence level that they are true are called /facts/.
+
+That said, there are not facts in isolation -- a fact is a
+network of assertations that are by consenus, considered to
+be true within a given context.
+
+Let's take a simple assertation from a beloved piece of
+literature:
+
+#+begin_center
+"Marley was dead."
+#+end_center
+
+Most of us would think that such a simple assertation would
+be straight forward, but this is Charles Dickens, who was
+being paid by the word...
+
+#+begin_quote
+Marley was dead, to begin with. There is no doubt whatever
+about that.  The register of his burial was signed by the
+clergyman, the clerk, the undertaker, and the chief
+mourner. Scrooge signed it. And Scrooge's name was good upon
+'Change for anything he chose to put his hand to. Old Marley
+was as dead as a door-nail.
+
+Mind! I don't mean to say that I know, of my own knowledge,
+what there is particularly dead about a door-nail. I might
+have been inclined, myself, to regard a coffin-nail as the
+deadest piece of ironmongery in the trade. But the wisdom of
+our ancestors is in the simile; and my unhallowed hands
+shall not disturb it, or the Country's done for. You will,
+therefore, permit me to repeat, emphatically, that Marley
+was as dead as a door-nail.
+
+-- A Christmas Carol | Charles Dickens
+#+end_quote
+
+We have already, in two short paragraphs, established a
+formidible case for the establishment of the truth of
+Marley's death.
+
+The Death Register, which is a government document, as well
+as being a primary source declares Marley's demise.
+
+The Register entry includes evidence that a consensus was
+reached to this assertion.  The consensus was not made in
+comments on facebook or even a blizzard of Tweets, no, it
+was formed by a number of persons who are considered to be,
+because of their official position, to be trusted sources,
+including a Priest who would have seen Marley's body as part
+of his duties as clergyman and are often thought provide
+trustworthy testimony, a government Clerk whose job is to
+verify that records such as this are composed according to
+institutional rules, practices and perhaps even laws of the
+City of London.  It was signed by the undertaker, who also
+would be a reliable witness and who had extensive experience
+in knowing if someone was dead or not.  We don't really know
+the veractity of the chief mourner, as this was 19th century
+England and it was common practice to hire mourners,
+especially in the case as someone who was so universally
+unloved as Jacob Marley.  But again, unless the chief
+mourner had been paid to decieve us, it would also be
+logical to assume that the other witnesses would have to
+been part of some kind of conspiracy.  Such a hypothesis
+does not pass Occums Razor and can be safely discounted.
+And finally Marley's long time partner, E. Scrooge signed
+the document, who, as was mentioned was "good upon 'Change
+for anything he chose to put his hand to".
+
+You might think that it would have been enough to quote the
+first paragraph as being sufficient.  But it's interesting
+that Dicken's went on to state that not only was Marley was
+dead, but "dead as a door-nail" which, I suppose is not only
+making the statement that he is dead, but stating that he
+was "emphatially" dead, which is not so much providing the
+degree to which he was dead, after all dead is dead, just as
+you can't be a little bit pregnant, it is a binary statement
+-- one is either, dead, or alive.  In the case of Dicken's
+story, it was important to stress this assertation to the
+reader who would find themselves confronting Marley's ghost,
+in conversation with Scrooge only a few pages later.  It was
+important that the reader understood that Marley was dead
+when he entered Scrooge's bedroom who was now a
+manifestation of the living Marley, now turned into a
+miserable and tortured specter who had been tasked to
+forewarn his partner of old.
+
+Next we come to the interesting thing about irreversible
+single direction state changes -- they are bound by an event
+that tips the state from one to the other.  They are bound
+by time.  So /when/ the statement /Marley was dead/ was
+asserted, determines if the assertion is true or not.
+
+Dicken's used the word /was/ and not /is/ because the story
+was told using the third person, so everything in the story
+happened in the past.  The statement can only be judged true
+if it was made after he died, and would not be true if it
+was made while he was alive.  This is actually quite
+important, Paul McCartney of the Beatles found in
+1966.[fn:2] So, we would assume that the death register
+would record some other details, including the date and
+perhaps place and cause of his death.
+
+Next, Dickens assumed that we have a general consensus of
+what constitutes death as opposed to the more recent concept
+of [[https://en.wikipedia.org/wiki/Clinical_death][clinical death]].  Death is the point after which something
+can no longer be revived.  For humans, unless there is some
+breakthrough in cryogenic suspended animation, it is quite
+short.  However, some creatures such as the hardy little
+[[https://en.wikipedia.org/wiki/Tardigrade][tardigrade]] have been known to be able to [[http://www.bbc.com/earth/story/20150313-the-toughest-animals-on-earth][revive]] after being
+frozen for hundreds of years.
+
+I mention this because when thinking about facts that are
+true over very long time frames, even the most rock-solid
+concepts like death might change quite radically in the
+distant future.  We can not take cultural assumptions of our
+time and apply them to others.
+
+    *Continue to talk about assumptions about Proper names,
+    computer understandable vs human understandable and then
+    put it all together into an example of all the
+    information needed for the statement Marley was Dead to
+    be true.*
+
+    This section will need to be moved to the end -- as a
+    means of putting together everyhing -- from assertation
+    to truth and belief, chain of custody etc.
+
+** Consensus
+
+  - [[https://en.wikipedia.org/wiki/Wikipedia:Consensus][Wikipedia:Consensus]] | Wikipedia
+
+Consensus is a /process/ which is completed, it is not
+absolute, it will always be a snapshot -- consensus can
+change depending on how the surrounding context changes.
+
+
+#+begin_quote
+Consensus decision-making is a group decision-making process
+in which group members develop, and agree to support a
+decision in the best interest of the whole. Consensus may be
+defined professionally as an acceptable resolution, one that
+can be supported, even if not the "favourite" of each
+individual. Consensus is defined by Merriam-Webster as,
+first, general agreement, and second, group solidarity of
+belief or sentiment. It has its origin in the Latin word
+cōnsēnsus (agreement), which is from cōnsentiō meaning
+literally feel together. It is used to describe both the
+decision and the process of reaching a decision. Consensus
+decision-making is thus concerned with the process of
+deliberating and finalizing a decision, and the social,
+economic, legal, environmental and political effects of
+using this process.
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+Consensus is /not/ a /majority/, or /unanimity/
+
+
+#+begin_quote
+As a decision-making process, consensus decision-making aims
+to be:
+
+  - Agreement Seeking :: A consensus decision making process
+       attempts to generate as much agreement as
+       possible.[2]
+  - Collaborative :: Participants contribute to a shared proposal and
+    shape it into a decision that meets the concerns of all group
+    members as much as possible.[3]
+  - Cooperative :: Participants in an effective consensus process should
+    strive to reach the best possible decision for the group and all
+    of its members, rather than competing for personal preferences.
+  - Egalitarian :: All members of a consensus decision-making body
+    should be afforded, as much as possible, equal input into the
+    process. All members have the opportunity to present, and amend
+    proposals.
+  - Inclusive :: As many stakeholders as possible should be involved in
+    the consensus decision-making process.
+  - Participatory :: The consensus process should actively solicit the
+    input and participation of all decision-makers.[4]
+
+-- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making]]  Wikipedia
+#+end_quote
+
+
+
+
+The term consensus has changed over time, and it is often wrongly used
+to indicate other things like 
+
+
+*** Truth by Consensus
+
+  - [[https://en.wikipedia.org/wiki/Truth_by_consensus][Truth by consensus]]  | Wikipedia
+
+Consensus is a poor way of arriving at truth in itself.
+
+
+** Belief
+
+:TL;DR: this section should paint belief as a tricky beast
+-- in one respect can seen as having confidence in a world
+model.  But when beliefs continue to be held that are
+contrary to newer models that have replaced them we become
+increasingly dysfunctional. This is important because
+determining if something is or is not a fact never has an
+end, change one thing, and everything else changes relative
+to it.  A fact in classical Athens might be very different
+from a fact in 19th Century Tokyo that could be very
+different from 21st Century Phnom Penh.  So it is just as
+important to establish facts as it is to establish what the
+context was for it to be a fact.  As contexts change, so is
+what is excepted as facts and our belief in them.
+
+
+
+
+
+#+begin_quote
+Alice laughed. ‘There’s no use trying,’ she said: ‘one can’t
+believe impossible things.’
+
+‘I daresay you haven’t had much practice,’ said the
+Queen. ‘When I was your age, I always did it for
+half-an-hour a day. Why, sometimes I’ve believed as many as
+six impossible things before breakfast.”
+
+― Lewis Carroll
+#+end_quote
+
+If you don't, at any given time of the day, hold in your
+head any number of contradictory, foolish, incorrect,
+dangerous and even down right impossible things then you are
+not human.
+
+It's all we can do, to take in sensory information and
+construct a model of what's going on outside our heads that
+doesn't get us killed.  That in itself is a remarkable
+achievement.  Human cognition is a messy business and we
+might as well accept that the best we can do is work around
+it those limitations, for our own sake and well as others.
+
+This does not give us licence to believe anything that pops
+into our heads.  Our survival as individuals and as a
+species depends on us getting it right more often than we
+get it wrong.  As soon as you willfully decide to believe in
+things which are empirically and obviously not true you
+start sliding down a water park ride with no water at the
+bottom to break your fall.
+
+Belief does not make a thing real or true.  But the further
+beliefs that contradict objective empirical reality, the
+more disfunctional we become as individuals and societies.
+
+What constitutes empircal reality is relative to the
+empirical evidence we have at any given time. Beliefs that
+are patently wrong today were at one time the best guess
+that the brightest people at the time could come up with.
+
+The earth was at the center of the universe, and then the
+solar system, and then of course it wasn't.  It's not that
+before Copernicus that the Sun actually revolved around the
+earth, but for all practical purposes, to the people who
+believed it, it was.  But once Copernicus improved the model
+of the world to better fit what was observed, it became
+true, until it wasn't and Galileo came along with his bloody
+telescopes that upset the Roman Catholic Church so much that
+he was not officially forgiven until the 20th century.
+
+You do the best to create a model of the world and how it
+works with what you have at hand.  It's perfectly fine to
+base beliefs and make descions based on those models.  But
+once that model has been replaced with a better model, then
+hanging on to those older beliefs is not sane and lowers
+your chance of survival.
+
+An outmoded belief that is being kept around is an ideoology
+-- ideologies often start off as perfectly good models of
+the world.  But ideologies attempt to freeze a model and
+insist that it can not be improved or altered.  At this
+point, as one would say in a version control system, that
+the main branch had been forked and over time became
+increasingly out of sync with the main branch.
+
+We as individuals and as societies are constantly telling
+ourselves, our children and our neighbors all sorts of
+nonsense.  Newborn babies are delivered by storks, an
+archetypal minor diety comes into your bedroom in your sleep
+and replaces a fallen tooth with hard currency.[fn:3]
+
+If someone hears voices or believes that they are talking to
+a giant rabbit named Harvey is seen as evidence of a mental
+break with reality.  But going to a large building and
+praying to something that you have been told exists but
+hasn't left any material evidence of it's existence is
+considered perfectly sane.  But only if you don't act on
+those beliefs in similar ways that xxxxx acted when he
+talked to Harvey.  We are expected to pay lip service to our
+beliefs, but acting on them is another thing.
+
+These beliefs are vanquished as one grows up, but other
+preposterous beliefs are only reinforced, the world was
+created in 6 days less than ten thousand years ago.  A flood
+covered the entire planet for xx days, to a height of xxx
+feet, but there is no explanation for where the water came
+from or where it went afterwords.  And all species of
+animals that exist today survived the flood in a wooden boat
+that wouldn't even rate as a small cruise liner today.  The
+animals that didn't make it onto the boat, dinosaurs and the
+like, perished.  Beliefs like these are expected to be
+believed literally, though people are not expected to
+actually live as if these things actually occured because
+they would die.
+
+Then there are lesser beliefs that persist though they have
+long been debunked.  Eating carrots gives you 20/20
+eyesight, reading in poor lightings damages your eyesight,
+
+and pretty much anything good that people believe about
+Donald Trump.
+
+
+--- I remember reading a book on UFOs in the 1970's that had
+a wonderful comment to the effect, that "the interior of all
+alien space craft looked like the interior of a '57 Buick"
+
+
+** Meaning
+
+#+begin_comment
+NOTES <2013-03-24 Sun 08:29> meaning and the observer
+NOTES <2013-03-25 Mon 22:03> More musings on meaning
+#+end_comment
+
+In the prologue to The Information, Gleick made a wonderful ==== of
+how fuzzy archaic words were adopted by Newton, Einstein and Shannon
+and given concrete scientific definitions which have meanings that can
+be mathematically defined. 
+
+
+#+BEGIN_QUOTE
+For the purposes of science, /information/ had to mean something
+special. Three centuries earlier, the new discipline of physics could
+not proceed until Isaac Newton appropriated words that were ancient
+and vague—/force/, /mass/, /motion/, and even /time/—and gave them new
+meanings. Newton made these terms into quantities, suitable for use in
+mathematical formulas. Until then, /motion/ (for example) had been
+just as soft and inclusive a term as /information/. For Aristotelians,
+motion covered a far-flung family of phenomena: a peach ripening, a
+stone falling, a child growing, a body decaying.  That was too
+rich. Most varieties of motion had to be tossed out before Newton’s
+laws could apply and the Scientific Revolution could succeed. In the
+nineteenth century, /energy/ began to undergo a similar transformation:
+natural philosophers adapted a word meaning vigor or intensity. They
+mathematicized it, giving energy its fundamental place in the
+physicists’ view of nature.
+
+It was the same with information. A rite of purification became
+necessary.
+
+-- The Information
+   James Gleick (Prologue)
+#+END_QUOTE
+
+I think we need a more concrete idea of what meaning is.  Wheeler used
+Fø11esdal's definition:
+
+   "Meaning is the joint product of all the evidence that is
+    available to those who communicate."
+
+That doesn't quite cut it -- I think it would be better to define
+meaning along the lines of:
+
+   "context of something that is observed."
+   "context fixed by the act of observation."
+
+I almost wrote that as "associative context" but that would place
+meaning into the realm of being an cognitive function of the observer.
+We need a non-anthropic definition here.
+
+Observeration, like meaning, is also something that is both relative
+and often subjective.
+
+Separating meaning from the human cognitive process is difficult.  To
+be able to do so we must discard the concept of subjectivity from
+meaning.  Subjectivity is a result of our very imperfect cognitive
+process, false conclusions drawn from misinterpreted patterns
+recognized by the brain.  
+
+So meaning is not subjective so much as relative in that it is
+determined by the POV and LOD of the observation.
+
+If state is determined by observation, and state is, in effect, a
+binary on or off state, then any context is determined by the act of
+observation. This works well with Shannon's divorce of information
+from meaning -- a binary state has no meaning, but the observed
+context of that state gives it meaning.
+
+My definition deprives 'meaning' of a number of different meanings of
+meaning in that it strips meaning of any sense of being absolute,
+eternal, spiritual or even terribly important.
+
+So what do we get from our newly minted definition that we didn't have
+before?
+
+Rereading the Epilogue of Glieck's /The Information/ I'm reminded at
+how disappointed I was.  After all, the subtitle for the chapter was
+"The Return of Meaning," and after having read hundreds of pages
+hammering home the point that in a post-Shannon world, information has
+no meaning, that in the final pages he would bring back some of the
+hope taken from us in previous chapters.  I suppose he did... after a
+fashion.
+
+What he gave us was Google and Big Data folksen, that the Internet is
+unstructured chaos and that there is only meaning in the aggregate.
+That is not because of anything fundamental about Shannon's lack of
+meaning in information, it's because meaning depends on context, and
+most unstructured data on the Internet lacks the context to be
+meaningful.  So you need need to pull together a lot of unstructured
+data and then do some very heavy processing to get meaning out of it.
+
+Big Data works like a gold mine that needs to process several tons of
+rock and soil to distill even a single ounce of gold.  It's messy,
+requires massive brute force machinery and sophisticated techniques.
+The approach is only cost effective if the cost of gold is
+prohibitively high.  For Big Data, the rock crushing and sifting is
+done by a process called Map-Reduce that works something like this:
+
+   Collect information from any number of sources in any format, do
+   some minimal processing to it, like indexing keywords, and then
+   break it into chunks.  Each chunk is sent to a different computer
+   which strains the chunk through algorithmic sieves that identify
+   patterns.  When each computer (there might be tens or even hundreds
+   of thousands of computers employed) finishes, it sends it's answer
+   to another computer which merges all of the answers together by
+   running them through another algorithm and spit out a result.
+
+It's a lot of work to distill a small amount of meaning.  This is not
+to say that the approach is not useful.  In fact it is so useful that
+it is triggering a revolution that will recast how information is
+processed in a fundemental way.  But it's not very fine-grained.  It's
+like using a Tomahawk missle to kill a mouse.
+
+Part of the problem is with data structures.  Most information on the
+Internet is structured as documents, blobs (binary objects like
+images, audio and video) and tabular data (spreadsheets, databases
+etc).  Computers are designed to store these data structures verbatim,
+as if they were physical media.  And in many respects the way we
+structure and store data is still a close digital analog to physical
+media formats of the past.  These formats have evolved over centuries
+to be effective means of communicating information on paper across
+time between people.  This is very different from how the Brain stores
+and processes information.
+
+The brain doesn't store visual information in memory like a camera.
+First it spatially identifies and maps objects within it's visual
+field.  This is why the vast number of creatures on our planet have at
+least two eyes, stereoscopic vision makes it easier to differentiate
+objects at close distances where most immediate threats to survival
+are located.  Next, objects are evaluated and prioritized according to
+what appears to be important or of interest and details are noted and
+stored about those objects as associative memories of those objects.
+If an object is recognized, (this is a chair) an association is made
+to that concept rather than making a new concept and then specific
+details about that object are made as new memories.  When we remember
+something we have seen, we don't retrieve an image, we recreate that
+image from the shards of associations and memories we have about
+something.  This is not readily apparent when you live in a single
+place all your life.  We start chunking associations about the world
+from birth.  And since most people live within a single culture within
+a rather small geographical compass, the vast majority of things we
+encounter every day are familiar.  So even if you enter a building
+that you have never been in before, most of the objects within the
+building are familiar, so the brain is able to focus on many small
+details of what is different in a room, often in a great detail.  So
+when a memory of that room is recalled, the brain is able to assemble
+a very detailed model of what was seen in that room.  This is very
+different from when you travel to a foreign country where the culture
+and material life is very different from what you are accustomed to.
+If you have only visited the country for a short time, the culture
+shock is exhausting because your brain is working overtime trying to
+assimilate so many new classes of objects and try to make sense of
+them.  It is also remarkable how little detail you can remember as
+well.  Memories of a small number of specific types of objects might
+be quite vivid and detailed while others may not be recalled at all.
+
+The contrast between how information is stored by humans on physical
+media (or on the Internet), and how the brain organizes and stores
+information could not be more different.  Documents and images are an
+attempt at capturing and recording our brain's attempts at assembling
+and recreating memories.  This is the brain's version of Map-Reduce.
+We think we are remembering a camera-like image, when we are really
+creating those images from many different parts.  This is an important
+point because all of those parts, to one degree or another, have
+meaning.  The assembled memory is the ounce of gold after crushing and
+sifting tons of raw material, but is only the tip of the iceberg in
+terms of all of the meaning that makes up the constituent parts.
+Google and Big Data are at a tremendous disadvantage because all they
+have to work with are those assembled memories in the form of
+documents, images, tabular data etc. which contain relatively little
+or no meaning because they are out of context.
+
+What is needed is a clear understanding of what is meant by meaning
+and how to use it in capturing, storing and processing information.
+In Shannon's definition of information there is no meaning.  A single
+binary /on/ or /off/ has no meaning, because it has no context.  If
+someone shouted out to you the word "down" for no apparent reason, it
+has no meaning.  But if they said "the Internet is down again," the
+statement has meaning, even to an English speaking time traveler from
+the 19th century who knows nothing about 21st century technology.
+Because even the time travler will know that something called the
+"Internet" is "down" and that this has happened before.  In
+otherwords, meaning doesn't exist at the bit level but at the byte
+level.  This is similar to how things work differently at quantum
+scales than they do at human observable scales.  Meaning requires a
+minimum amount of complexity.  That complexity is made of causal
+relationships between the bits.  Flip one bit from on to off and the
+equilibrium will be broken triggering a cascade that will effect other
+bits that depend on it to maintain state.  Some bits will also flip to
+another state, others will not.  Such relationships cluster and
+recursively nest, so you get a classic /butterfly effect/ rippling
+through the system until it once more reaches a state of equilibrium.
+This happens at the quantum information level, as quantum states
+change which cascade and amplify until it can be seen as aggregate
+change at human or even cosmic scales.
+
+Context is tricky.  Meaning requires complexity which is a system with
+a high level of order, or low entropy.  But complexity is not enough
+to constitute context, it requires /contextual/ complexity.  Context
+is not just a mapping of what surrounds something, but a map of the
+relationships that surrounds something as well.  Relationships can run
+the gamut of things as simple as proximity, to dependencies,
+associations as well as thesaurus style broader, narrower, related and
+equivilent relationships.  It includes complex social realtionships
+like father, mother, child, sibling, friend, spouse, mentor, customer,
+teacher etc.  Some relationships are explicitly established and
+recorded, others might be inferred or implicit.  But it is that
+contextual map of relationships that are the foundational building
+blocks of meaning.
+
+A related manifestation of meaning is a /pattern/. A pattern is a
+thread of relationships which weaves through a data set as Ariadne's
+thread wound through the Minotaur's labrynth.  And just as Theseus's
+thread inextricably lead to the heart of the Minotaur, /patterns/ lead
+to an ephiphany, (albeit not necessarily divine or transcendent in
+nature) that reveal a in part, some deeper understanding of the inner
+or broader workings and machinations and processes that make up our
+world..  The ability to discern such complex patterns is one of the
+fundamental things that sets Homo Sapiens apart from our other close
+primate relatives.
+
+A Pattern is a discernible regularity that repeats in a predictable
+manner.  Recognition of patterns goes to the heart of meaning, both in
+human cognition as well as for Google the Big Data applications.  A
+pattern is different from other kinds of meaning in that it is
+meaningful typically is derived after the fact, from models built up
+from information that has already been observed, recorded and
+processed.  In other words, patterns are meaning that is derived from
+meaning.
+
+Just as the bizzare world of quantum entanglement requires an
+/observer/ to determine state, /meaning/ requires an observer as well,
+and for the same reasons.  Does a falling tree in the forest make a
+sound if there is no one to hear it?  If the tree has not been
+observed by /anything/ directly or indirectly (which theoretically is
+possible but only slightly less probable than an ice cube existing at
+the core of the star), the answer is both yes and no at the same time.
+That is, until the evidence of the fallen tree has been observed after
+the fact.  At which time all of the necessary intermediate
+consequences of a falling tree /must have/ occured in order for it to
+have fallen, including sound.  You can't take the observer out of the
+equation.  Moreover, because the observer must observe within
+/contextual boundries/, every observation must be relative to its
+/PoV/ (Point of View) and the /LoD/ (Level of Detail) of the
+observation.
+
+A PoV is the position and orientation, and observational limitations
+of an observer relative to what is being observed.  A LoD is the
+amount of detail that can can be observed from a given distance.
+Tecnically LoD is a subset of PoV, but it is useful as a metric in its
+own right because it determines the granuality of what is being
+observed.  LoD is a term that comes from computer 3D modeling, which
+saves on computer processing time when rendering complex objects by
+only rendering a subset of an objects polygons if it is being viewed
+from far away.  The reasoning is that if you have a very large model
+with tens of thousands of polygons, and you are rendering an image of
+it from very faw away, the observer will not be able to view more then
+a very small subset of those polygons.  So to save time and money,
+only render a small number of polygons for objects that are far away.
+LoD turns out to be a very good way of understanding both the scope
+and distance that an observer has relative to what is being observed.
+It's a /you can't see a forest for the trees/ problem.  You can not
+observe a mouse if you are looking at one of it's toes under an
+electron microscope, the LOD determines the scope and scale of what is
+being observed, the PoV determines the perspective.  Both PoV and LoD
+are so important that they have their own chapters in the /Primer/, so
+please refer to those chapters for a longer treatment on those
+subjects.
+
+So now that we have a foundation for a definition of meaning, we
+should consider what other shades of meaning we are excluding or
+discarding.  Meaning is often thought to be inseparable from human
+subjectivity.  We have discussed how meaning is relative to an
+observers PoV and LoD.  But human subjectivity is often viewed as
+being both highly personal as well as highly unreliable.  Both of
+these limitations are have more to do with the limitations of human
+cognition than that of meaning.  The human brain can be thought of as
+a relentless pattern recognition system on top of a branching
+associative data store.  Because the system has evolved to favor those
+who physically survive to reproduce and to see their offspring survive
+long enough to reproduce, survival depends more on recognizing lots
+and lots of patterns quickly with lots of false positives than slower
+identifion of more accurate or precise patterns.  The brain is
+designed for a high level of redundancy to help weed out the more
+serious false positives that are life threatening, but we aren't so
+good at weeding out false positives that don't pose an immediate
+threat to survival.  Your chances of survival are far higher if you
+mistake the sound of a breaking branch in the jungle to be a tiger
+stalking you, than if you don't.  Human cognition is a messy business.
+A lot of these false positives are not recognized as such and are
+internalized as all sorts of things from folk beliefs, urban legands,
+seeing demons and spirits, lottery numbers coming to you in dreams,
+mystical visions, bong-hit ephiphanies and the like.  The result is
+that meaning from a human cognitive point of view is highly subjective
+and more often simply wrong than we would care to admit.  In other
+words it is important to allow for our very human cognitive failings
+and weaknesses in our definition of meaning.  Meaning is not a measure
+of right or wrong, it is not a truth statement.
+
+Another important limitation is that meaning is not ultimate.
+Ultimate meanings like "the meaning of life" are, well, meaningless.
+Such a meaning would require an omniscient observer who could see
+everything everywhere, at even the quantum level, simultaneously; /God
+as observer/.  Such an observer would violate quantum causality, as it
+would be the god-observer that would decide the fate of the poor cat
+in Schrödinger's famous thought experiment.  It would be the
+god-observer who would always make an observation before anyone opened
+the box.  Any number of theistic belief systems would have no problem
+with such a scenario, but it would likely invalidate all sorts of
+things like /quantum entaglement/.  Since quantum entanglement is
+backed up by substantial experimental evidence, it would seem that
+even omniscient god-observers are blind at quantum scales.  Even if a
+God observer were possible, any meaning it could observe, would still
+could not be ultimate, because that omniscient meaning would not be
+any more valid than any other subjective meaning from a narrower
+perspectives.
+
+Putting this all together, our working definition is that /meaning is
+the context of something fixed by the act of observation/.
+
+
+
+** Importance
+
+the only way to establish a fact-based society is to be so
+deadly serious that no one will take you seriously
+
+it can only work with /no/ venture capital
+
+it can't be taken seriously until it hits that tipping point
+and then there is no turning back -- everyone will be stuck
+with it
+
+next -- everyone pays -- that currencies that are not based
+on something of value are instead based on belief for their
+value.  Gold and silver was a terrible thing to base value
+on because in the end it's just a shiny soft metal which has
+not intrinsic worth except for it's rarity.  The ancient
+greeks used olive oil at least as a time as a kind of
+currency -- which at least is a commodity.  We need
+something that is not reversible, and consumed completely.
+You might be able to resell used oil, and oil comes in any
+numbers of different kinds of quality...  not good.
+
+But energy is something that could work -- you perform work
+to produce it (which indirectly is all nuclear -- or at
+least capture and store it - batteries, oil, gas, sugars
+etc.).  If you do useful work measured in the amount of
+energy used or generated -- that generates tokens.  If you
+consume energy or things or services that are created with
+energy, you destroy tokens.  There is no exchange, but it
+functions as if there is.
+
+This is how the fnord-chain will work -- a fnord is a
+verified fact that is recorded in the fnord-chain.  A fnord
+is a fact within the context that it is true -- if the
+context changes, then it may or may not be still true, but
+it was true in that previous context.  That's why we call it
+a fnord -- because a fnord is a conceptual probability cloud
+of all possible contexts where something could be true in
+any number (but not finite) of different ways.  In a fnord
+nothing and everything is both true and false.  But if you
+observe it, it will appear as either true or false according
+to the context that it was observed in.  In this way a fnord
+encompasses all /possible/ universes -- the possible part is
+important, which makes it a subset of all universes, because
+it requires a causal chain.  Causality is the only real
+thing that limits a fnord.  And tracing causal chains in a
+fnord-cloud is what the fnord-chain does in a way that
+doesn't require trusted third-parties as authorities.  The
+fnord-chain is a rhizomatic mesh of casual chains that
+estabish a sub-set of possible facts and lies.
+
+------
+
+the truth -- evidence-based truth is at the heart of
+criminal justice systems, science, and attempts at goverance
+that is not flat out trying to fuck you over.
+
+facts are the one thing we can agree on, because they are
+based on something that everyone can point to and see and
+hear and touch and scream at it and won't go away, doesn't
+fade or loose it's shine or that new car smell.  Facts are
+all we have. Facts are the only thing we have that allows us
+to get along without murdering each other, to death or
+worse.  There is no truth that is not based on facts, there
+is no truth in what you feel, or believe or hope or dream,
+imagine or halucinate.  If you step into an empty elevator
+shaft on the 36th floor or a building (and many other floors
+of higher and lower elevations) in a gravity well, you will
+fall to your death at the bottom of the shaft.
+
+
+----
+
+Bitcoin's blockchain made it possible for trustless
+transactions.  The block chain has had impeccable timing --
+the institutions that make civilization and functioning
+societies possible work can only work when the rate of
+change and flow of information is within thresholds which we
+don't yet know -- but it would seem that we are rapidly
+approaching them.
+
+This is crazy complicated -- and is closely tied to the
+maximum amounts of change and information that humans can
+process in any given period of time and still be able to
+function.
+
+We have relied on local, regional and global financial
+institutions to provide an infrastructure for trusted
+transactions.  But the speed that transactions can take
+place (measured now in millionths of a a second) has
+outpaced the ability for the governance layer to be able to
+police and act as a check on commerce.  All the power is
+shifting to the few that have access to computational power
+and network speeds that are literally beyond human
+comprehension.
+
+This is only the beginning -- because, as we are all aware,
+money is nothing more than information.  So whatever happens
+with money and transactions will quickly spill over and
+encompass any and every kind of information.
+
+We, as individuals are grasping at smoke, that constantly
+shifts, defying solidity.  The basic information that we
+need to survive as individuals and as a civilization is
+increasingly in the hands of a tiny percentage of people.
+We're all living in a Philip K. Dick novel where we don't
+know what is real, or even who or what we are.  It's telling
+that the idea that the universe is a simulation, like in the
+Matrix film Trilogy films, is actually so close to being
+plausible, that an increasing number of the brightest
+scientists on the planet feel the need to weigh in on the
+question, when the existence of God barely elicits a shrug
+anymore.... Even PKD didn't see that one coming.
+
+We need facts and truth to scale to global industrial scales
+-- so that no matter how many facts are asserted; not
+millions, or billions but trillions just for starters, that
+we have a trustless framework for determining what
+assertions are facts which we know within a range of
+certainty are true or not.
+
+   Ebola is scary as hell, but it will never wipe us all out
+   because it incubates too fast.  Trump is the Ebola of
+   truth -- there are groups around the world, over the past
+   thirty years who have quietly and systematically
+   undermined the collective grasp of what is true. There
+   have always been people and groups who have tried to do
+   this, but technology as made it possible to refine and
+   roll out these techniques on a scale that few comprehend,
+   even to those who are doing it.  Trump is so inept and
+   patently dimwitted that his attempts to use these same
+   techniques are seen for what they are.  It is hoped that
+   this is the crack in the seawall that will eventually
+   bring it all down and level the playing field for
+   everyone.
+
+That sounds like a tall order, but it's not -- that's what
+our brains are doing constantly, looking for patterns and
+determining if they match or not and their level of
+certainty.  We just need to externalize, network and scale
+it so that the Web is no longer a semi-structured pile of
+steaming information, but a pillar of interconnected facts
+that weave all of that information into something that we
+can trust and rely on even though we don't trust anyone....
+
+----
+
+EVERYTHING depends on facts that people trust and believe in.
+
+The assertion spew:
+
+  - The Internet of Things -- actually this is a big deal we
+    need to know if our devices are telling the truth, or if
+    they have been compromised and are now part of a bot
+    network.
+  - Social Networks
+  - Transactions
+  - Business, Government etc
+  - Contracts, Laws
+
+We need a revenue model for fnord.ltd and it will have to be the shop
+model --  a distributed, federated system.
+
+We can structure this as a fact-guild -- 
+
+In each case you take something, a news story, a contract, a map etc
+and index all assertions in each --
+
+If there is a fact associated with assertion then it is checked, If
+there isn't, then it is flagged as a fnord and it is cloud-sourced.
+
+Each fnord will be a combination of assertions and duck tests.
+
+The process is basically due dilligence -- and people who create
+documents, contracts etc are responsible for doing a lot of this work,
+but over time the fact-base will make it easier and easier.
+
+So that you'll be able to feed docs into the system and the service
+will try to match fnords to facts.  and each instance of the same fact
+will strengthen the fact and increase certainty.
+
+** Wolfram Alpha (as a fnord engine)
+
+Google search delivers fnords -- it's often difficult to
+know if what you are seeing is true, false, possible or even
+probable.  Google has never said that they were anything but
+finders of popular fnords.  The facts, falsehoods and
+scenarios that reside in those fnords are not neccessarily
+popular, so the fnord you are looking for may well be
+buried 10 or more screens down at the plank scale of
+findability..
+
+Google and other search engines now deliver a narrow number
+of facts, but other than calculations and conversions they
+don't really deliver much in the way of facts.  It's just
+not what they were set up to do.
+
+However, Wolfram Alpha:
+
+ - [[https://en.wikipedia.org/wiki/Wolfram_Alpha][Wolfram Alpha]] | Wikipedia
+ - [[http://www.wolframalpha.com/][Wolfram|Alpha: Computational Knowledge Engine]] 
+ 
+has been set up to be an /answer engine/.  WA is a remrkable
+achievement, despite the proprietary approach that has been
+taken and the limitations places on the public service.
+
+The problem is that answers are based on over a hundred
+databases of /facts/ from a variety of sources.  These facts
+must be accepted on face value -- they are not documented or
+verifiable and except for things such as numerical
+computation, can not be used as authoritative sources of
+facts.
+
+** IOT
+
+Would it be better if all devices were required to be
+their own keepers?
+
+If a device is doing useful work -- it generates tokens, if
+it uses resources it spends them.  It only becomes tricky if
+those tokens can then be transfered to someone else -- so
+that the device is being used to make money.  That's where
+things fall apart.  That's where things get hacked and
+exploited.  Profit as a moral liability, a vulnerability, a
+tempation....  or is that all just Protestant baggage
+
+any time the system is designed to be a game, where there
+are winners and losers, it is just a matter of time before
+it is gamed -- as in the movie War Games, the only way to
+win is not to play at all.
+
+that was a throw-away in the movie Arrival as well -- that
+the Chinese approach to communicating with the Aliens was
+around games....  and the bias that results from the
+perception of the resulting relationship that comes from two
+parties playing a game with each other.  It assumes that
+each side's motivation is to gain an advantage over the
+other -- a dangerous, anthropic assumption that we tend to
+project on everything around us -- even nature itself.
+
+fuck -- /we are/ just stupid hairless primates
+
+So how does this relate back to IOT?  Not sure -- I suppose
+it depends on where we put IOT devices relative to
+ourselves.  If we see them as fleets of devices that are
+owned by individuals or groups for making a profit on their
+behalf -- think printers and ink cartridges -- then yes, it
+will make things a fuck of a lot worse -- I'm thinking of
+Cory Doctorrow's dishwashing machines that only will wash
+plates that came with the machine.  But IOT could be more
+like butterflies in a field.  Doing useful pollination that
+will help produce crops that we eat, and ecosystems that we
+depend on for our survival -- indirect infrastructure that
+is part of the commons.
+
+There should be an incentive to create such infrastructure,
+but as soon as it's released into the wild it should be
+beyond our control -- a bit like children :)
+
+If these devices are also able to take care of themselves
+through their whole life cycle, this could work -- once
+released they maintain themselves, paying for repairs from
+their own profits, and then saving up for their own
+upgrades, decomissioning, recycling and replacement --
+perhaps even caching their data and state so that it is
+transfered to the replacement unit.  Which would be a sort of
+weird kind of immortality that would scare the crap out of
+many people.  But then why not?  It would be a sort of
+directed evolution -- devices don't reproduce, but
+commission others to do it for them....
+
+
+* Footnotes
+
+[fn:2] See: [[https://en.wikipedia.org/wiki/Paul_is_dead][Paul is dead]] | Wikipedia.  There is also the
+opposite case where people throughout history have claimed
+to be Kings and Popes who had previously died.  Coming back
+from the dead was actually a fairly common claim, which puts
+Biblical claims into an interesting context when people of
+later ages were told of the resurrection of Jesus as being a
+singular event, when in fact at least through medieval
+times, such a claim barely raised an eyebrow...  Today, such
+claims still are made in the guise of popular fiction and
+culture which are dim echos of common beliefs held to be
+true in past ages.
+
+[fn:3]  Which would become difficult if everyone used
+bitcoins.  It /would/ make for a very interesting
+blockchain.
+
+[fn:1] In the late 20th Century, [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple Inc.]] shifted from a
+company producing general purpose computers to a consumer
+lifestyle electronics manufacturer.  Some products are still
+protected by a [[https://en.wikipedia.org/wiki/Glamour_(presentation)#History][glamour]] (in the original sense of the word)
+and protective /wards/ (copyright) that gives them the
+appearance of being computers.
+
