@@ -22,3 +22,41 @@
 
 * Introduction
 
+Provides machine understandable [[https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning][knowledge representation]] of
+statements.
+
+/Semantic triples/, or simply, /triples/ are the atomic unit
+of the [[https://en.wikipedia.org/wiki/Resource_Description_Framework][Resource Description Framework]] (RDF) data model.
+
+
+* Triple 
+
+ - [[https://en.wikipedia.org/wiki/Semantic_triple][Semantic triple]] | Wikipedia
+
+#+begin_example
+<subject> <predicate> <object>
+#+end_example
+
+* N-Triples
+
+ - [[https://en.wikipedia.org/wiki/N-Triples#N-Quads][N-Triples]] | Wikipedia
+ - [[https://www.w3.org/TR/2014/REC-n-triples-20140225/][RDF 1.1 N-Triples]] | W3C
+ - [[http://blog.datagraph.org/2010/03/grepping-ntriples][RDF for Intrepid Unix Hackers: Grepping N-Triples]] | The Datagraph Blog
+
+
+* Named Graphs & Quads
+
+
+ - [[https://www.w3.org/TR/n-quads/][RDF 1.1 N-Quads]] | W3C
+ - [[http://blog.datagraph.org/2010/04/transmuting-ntriples][RDF for Intrepid Unix Hackers: Transmuting N-Triples]] | The Datagraph Blog
+
+
+#+begin_example
+<subject> <predicate> <object> <context>
+#+end_example
+
+* Notations/Serializations
+
+ - xml
+ - turtle
+ - owl
