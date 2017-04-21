@@ -75,7 +75,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - Graphs
    - Rhizome
    - Dictionary
-   - [[prolog-holon.org][Holon]]
+   - [[./structure-holon.org][Holon]]
 
  - [[prolog-identity.org][Identity]] & Roles
  - [[prolog-pace.org][Pace Layers]]
