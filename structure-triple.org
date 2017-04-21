@@ -48,13 +48,11 @@ own home-grown Burr Metadata Framework (BMF).
  - [[https://www.w3.org/TR/2014/REC-n-triples-20140225/][RDF 1.1 N-Triples]] | W3C
  - [[http://blog.datagraph.org/2010/03/grepping-ntriples][RDF for Intrepid Unix Hackers: Grepping N-Triples]] | The Datagraph Blog
 
-
 * Named Graphs & Quads
 
 
  - [[https://www.w3.org/TR/n-quads/][RDF 1.1 N-Quads]] | W3C
  - [[http://blog.datagraph.org/2010/04/transmuting-ntriples][RDF for Intrepid Unix Hackers: Transmuting N-Triples]] | The Datagraph Blog
-
 
 #+begin_example
 <subject> <predicate> <object> <context>
@@ -78,7 +76,7 @@ database...
     Technology"]] | Tweed, Rob; James, George (2010) 
   - [[https://en.wikipedia.org/wiki/GT.M][GT.M]] | Wikipedia
   - [[http://www.fisglobal.com/solutions/Banking%20and%20Wealth/Services/Database%20Engine][GT.M Database]] | FIS
-
+  - [[https://sourceforge.net/projects/fis-gtm/][GT.M High end TP database engine download]] | SourceForge.net
 
 #+begin_src sh
 sudo apt-get install fis-gtm
