@@ -78,6 +78,8 @@ database...
   - [[http://www.fisglobal.com/solutions/Banking%20and%20Wealth/Services/Database%20Engine][GT.M Database]] | FIS
   - [[https://sourceforge.net/projects/fis-gtm/][GT.M High end TP database engine download]] | SourceForge.net
 
+  - [[https://github.com/CoherentLogic/lorikeem][CoherentLogic/lorikeem]] | LorikeeM MUMPS Developer Tools for GNU Emacs
+
 #+begin_src sh
 sudo apt-get install fis-gtm
 #+end_src
