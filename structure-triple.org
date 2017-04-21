@@ -64,22 +64,4 @@ own home-grown Burr Metadata Framework (BMF).
  - turtle
  - owl
 
-* Software 
 
-#+begin_comment
-This section doesn't belong here -- but I am interested in
-the idea of using GT.M for the aggregate saltmine graph
-database...
-#+end_comment
-
-  - [[http://www.mgateway.com/docs/universalNoSQL.pdf]["A Universal NoSQL Engine, Using a Tried and Tested
-    Technology"]] | Tweed, Rob; James, George (2010) 
-  - [[https://en.wikipedia.org/wiki/GT.M][GT.M]] | Wikipedia
-  - [[http://www.fisglobal.com/solutions/Banking%20and%20Wealth/Services/Database%20Engine][GT.M Database]] | FIS
-  - [[https://sourceforge.net/projects/fis-gtm/][GT.M High end TP database engine download]] | SourceForge.net
-
-  - [[https://github.com/CoherentLogic/lorikeem][CoherentLogic/lorikeem]] | LorikeeM MUMPS Developer Tools for GNU Emacs
-
-#+begin_src sh
-sudo apt-get install fis-gtm
-#+end_src
