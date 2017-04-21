@@ -65,11 +65,17 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - Ethics
    - Epistemology
 
-- Structures
-   - [[prolog-holon.org][Holon]]
-   - Rhizome
+ - Structures :: prefix 'structure-'
+   - Sets
+   - Triples
+   - Property-Value
+   - Vectors/Arrays/Heaps
    - Fnord
    - Tree
+   - Graphs
+   - Rhizome
+   - Dictionary
+   - [[prolog-holon.org][Holon]]
 
  - [[prolog-identity.org][Identity]] & Roles
  - [[prolog-pace.org][Pace Layers]]
