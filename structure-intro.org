@@ -22,3 +22,68 @@
 
 * Introduction
 
+
+#+BEGIN_QUOTE
+An experience of seeing things in their separateness, but
+experiencing them as a unity, accompanied by ecstasy .... I
+call it the Big Picture Effect.
+
+-- Edgar Mitchell,  quoted in /Philosophy for Life/ pg106
+#+END_QUOTE
+
+We first need to establish what the atomic unit will be for
+the system.  Ultimately, all information is binary -- but
+that's not terribly useful, it's like measuring a cup of
+rice by how many atoms are in the cup.
+
+As a thought experiment, let's define a system that can be
+reduced to two things, /assertions/ and /messages/.  An
+assertion is a statement that we can encode as a triple made
+up of a list:
+
+#+begin_src emacs-lisp
+  '("Chasui" "age" 6)
+#+end_src
+
+Assertations are then collected into mutually exclusive
+records which are messages.  It's important to think of all
+records to belonging to the set "messages".  Messages are
+created, sent, and recieved.  The only difference between a
+text message and a archival copy of a book in a library is
+that the copy is a message that has been cached without a
+specified recipient.  But at some point either someone will
+retrieve that copy and it will have been recieved or it will
+be destroyed or lost to world.  This is the fate of all
+information.
+
+That information is dependent on it's surrounding context.
+It is context, which is made up of shared knowledge between
+the sender and recipient which determines if the recipient
+sees the message as something meaningful or is just noise.
+That doesn't mean it is noise, it may in fact be structured,
+but still undecipherable -- so that for all intents and
+purposes it can be treated as noise.
+
+Information theory, as formulated by Claude Shannon and
+others does not include any concept of meaning.
+
+So our definition of a message is very broad and includes
+everything from a the temperature reading on a guage in a
+steam room, to an obtuse poem by Wallace Stevens, to a nasty
+comment on YouTube to a birthday card from your grandmother.
+
+As we mentioned before, messages, in our model are (in
+theory) mututally exclusive, and contain a complete thought,
+or represent a fact or concept, in that they can not be
+divided into two or more messages.  We can then combine
+multiple messages into linear and hierarchical or even
+rhizomatically linked groups to become other things.
+
+Messages and assertations need to checked to see if they are
+free of errors when being sent and then if the assertations
+in the message are reliable -- in otherwords true.
+
+So we now have our model that gives us the basic building
+blocks from which the civilization that we have made in our
+model can be built?  No so fast.
+
