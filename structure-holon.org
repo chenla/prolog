@@ -33,6 +33,10 @@
   - [[https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)][Integral theory]] | Ken Wilber, Wikipedia
   
 
+* Discuss
+
+* Holons
+
 When we started we defined a simple model where everything
 could be reduced to /assertions/ and /messages/.  We have
 now replaced the assertion with the concept of the /fnord/.
@@ -250,14 +254,12 @@ high degree of autonomy, it has a life of its own.
 -- [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]], Flemming Funch, 4 Feb 95.
 #+end_quote
 
-
-
-** Holarchies
+* Holarchies
 
 
 
 
-** Four Types of Holarchies
+* Four Types of Holarchies
 
 #+begin_quote
 Well, if you look at the variuous "new paradign"
@@ -596,7 +598,7 @@ you'll see what I mean.
 -- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p78- | Ken Wilbur
 #+end_quote
 
-** Janus
+* Janus
 
   -[[https://en.wikipedia.org/wiki/Janus][ Janus]] | Wikipedia
 
@@ -612,11 +614,11 @@ Source: [[https://en.wikipedia.org/wiki/File:Janus.xcf][File:Janus.xcf - Wikiped
 
 
 
-** Atomism
+* Atomism
 
   - [[https://en.wikipedia.org/wiki/Atomism][Atomism]] | Wikipedia
   - [[http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-21][Atomism]] | Dictionary of the History of Ideas
 
-** Holism
+* Holism
 
   - [[https://en.wikipedia.org/wiki/Holism][Holism]] | Wikipedia
