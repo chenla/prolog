@@ -66,6 +66,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - Epistemology
 
  - Structures :: prefix 'structure-'
+   - [[./structure-dualnature.org][Dual Nature]]
    - Sets
    - Property-Value
    - Vectors/Arrays/Heaps
