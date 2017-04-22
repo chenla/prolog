@@ -22,8 +22,6 @@
 
 * Introduction
 
-* Holons
-
   - [[http://www.integralworld.net/edwards13.html][A Brief History of Holons]] | Mark Edwards
   - [[http://www.panarchy.org/koestler/holon.1969.html][Some general properties of self-regulating open hierarchic order]] | Arthur Koestler (1969)
   - [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]] | Flemming Funch (1995)
