@@ -587,7 +587,18 @@ you'll see what I mean.
 -- [[bib:wilbur:1996wilbur][A Brief History of Everything]] p78- | Ken Wilbur
 #+end_quote
 
+** Janus
 
+  -[[https://en.wikipedia.org/wiki/Janus][ Janus]] | Wikipedia
+
+Door god.
+
+#+begin_comment
+Source: [[https://en.wikipedia.org/wiki/File:Janus.xcf][File:Janus.xcf - Wikipedia]]
+#+end_comment
+
+#+CAPTION:  Bernard de Montfaucon's L'antiquité expliquée et représentée en figures
+[[./img/holon/556px-Janus.png]]
 
 
 
