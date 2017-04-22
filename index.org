@@ -65,7 +65,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - Ethics
    - Epistemology
 
- - Structures :: prefix 'structure-'
+ - [[./structure-intro.org][Structures]] :: prefix 'structure-'
    - [[./structure-dualnature.org][Dual Nature]]
    - Sets
    - Property-Value
