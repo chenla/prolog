@@ -1,0 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Introduction to Structures
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/structure-intro.org
+  :Created: 2017-04-22T18:24@Prek Leap (11.642600N-104.919210W)
+  :ID: 4cdc40ea-de02-41e1-9f80-b8cd001f68df
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
