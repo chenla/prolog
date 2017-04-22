@@ -35,6 +35,15 @@
 
 * Discuss
 
+There aren't really any books dedicated to holons -- even
+Ghost just has a chapter.
+
+But to make this work we will need to pull an alexander and
+build up a case for holons through nature 
+
+Talk of how holons fit into both englebart & alexander's work
+
+
 * Holons
 
 When we started we defined a simple model where everything
