@@ -24,6 +24,17 @@
 
 * Holons
 
+  - [[http://www.integralworld.net/edwards13.html][A Brief History of Holons]] | Mark Edwards
+  - [[http://www.panarchy.org/koestler/holon.1969.html][Some general properties of self-regulating open hierarchic order]] | Arthur Koestler (1969)
+  - [[http://www.worldtrans.org/essay/holarchies.html][Holarchies]] | Flemming Funch (1995)
+  - [[http://www.holon.se/folke/kurs/Distans/Ekofys/Recirk/Eng/holarchy_en.shtml][The holon, a new way to look at hierarchies]] | Folke Günther
+  - [[http://www.beyondwilber.ca/AQALmap/bookdwl/files/WAQALMB_1.pdf][Holons, holarchy, and beyond]] | (pdf)
+
+  - [[https://en.wikipedia.org/wiki/Arthur_Koestler][Arthur Koestler]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Ken_Wilber][Ken Wilber]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)][Integral theory]] | Ken Wilber, Wikipedia
+  
+
 When we started we defined a simple model where everything
 could be reduced to /assertions/ and /messages/.  We have
 now replaced the assertion with the concept of the /fnord/.
