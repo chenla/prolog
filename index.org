@@ -88,6 +88,10 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - Rate of Change  (ROC)
    - Point of View   (POV)
 
+ - [[./certain-intro.org][Certainty]] :: prefix 'certain'
+   For now a catchall for noise, truth, belief, meaning,
+                consensus, facts etc.
+
 
  - [[./prolog-estranged.org][Estranged]]
  - [[./prolog-why.org][Why]]
