@@ -612,3 +612,11 @@ Source: [[https://en.wikipedia.org/wiki/File:Janus.xcf][File:Janus.xcf - Wikiped
 
 
 
+** Atomism
+
+  - [[https://en.wikipedia.org/wiki/Atomism][Atomism]] | Wikipedia
+  - [[http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-21][Atomism]] | Dictionary of the History of Ideas
+
+** Holism
+
+  - [[https://en.wikipedia.org/wiki/Holism][Holism]] | Wikipedia
