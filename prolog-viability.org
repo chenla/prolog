@@ -232,3 +232,85 @@ which time there is collapse and a die-off.
 The carrying capacity is not a hard number, it depends on a number of
 different parameters that can be leveraged to increase or decrease
 that capacity.  
+
+
+* Comparison thought experiment
+
+When trying to work out how large a population is required
+to build and maintain an advanced technological industrial
+civilization we can look at various countries to today and
+their population to give us an idea of an approximate floor.
+
+What are the countries that could reasonibly be  said to
+have created something close to a self-sustaining
+civilization within their borders.  This is fairly easy if
+you are willing to go back as far as the Edwardian Era --
+which was an early industrial level of civilization.  But
+once we get to the 19th century things are not so simple.
+
+So let's just look at two -- Great Britian and Japan.
+
+Both are large island states, with homogeneous populations
+and very well established industrial economies.  As the
+industrial revolution gained momentum, both countries began
+to export goods and import raw materials that created
+problems that led to much larger problems with the countries
+they were getting their raw materials from.  But
+educationally, technologically and in terms of manufacturing
+they were both fairly self-sufficient both agriculturally
+and industrially.
+
+
+  - GB 1890  37.7M
+  - JP 1890  40.2M
+
+Musk's goal is to put a million people on Mars.  Is this
+enough to build a self-sustaining civilization?
+
+  - % of population who are educated
+  - % of population making up families of educated
+      including children, child rearing adults, elderly 
+      and dependent non-productive people
+
+let's now assume that all human computers and robots are
+replaced by machine computers and robots and they are
+collectively smart enough to be semi-autonomous to the point
+where things like mines and assembly lines and much of
+agriculture is largely done by robots and managed and
+directed at top by humans -- so upper management are humans,
+design, science, education and other kinds of innovation is
+done by machine-augmented humans.
+
+Are there then enough people to be able to create minimum
+viable complexity needed to produce and manage all of the
+different parts that are required?
+
+I would say that productive to unproductive ratio will never
+be less than 1 in 6.  So you'll have a productive population
+of about 160,000 people at any given time that will have to
+support a million, but replicate the work done (with the
+help of robots) of 40 million industrial era people.
+
+What will be the ratio of productive people to robots?  That
+in a sense is the real question -- how many robots do you
+need to build and manage the civilization, how many robots
+can be managed by a single person (averaged) and how much
+innovation can augmented humans contribute to continue to
+grow and solve problems and not stagnate.
+
+Put all of this together and we have a rough idea of the IQ
+and how autonomous our AI and Robots will have to be to work
+within the 1 million population target.
+
+I would also add, that as Spider Robinson observed in his
+Mars Trilogy, robots are a multiplier that will allow a
+small population to do things at larger scales and far
+faster than we do now.
+
+----
+
+I then want to zoom this back and see if the same can be
+applied to individual Bioregions on Earth -- so that each
+bio-region is mostly self-sufficient and if it has to be can
+be self-sufficient long enough to restart civilization in
+adjoining bio-regions.
