@@ -267,6 +267,9 @@ and industrially.
 Musk's goal is to put a million people on Mars.  Is this
 enough to build a self-sustaining civilization?
 
+Let's first ask what the percentage of educated people there
+were in the 1890's in GB and JP:
+
   - % of population who are educated
   - % of population making up families of educated
       including children, child rearing adults, elderly 
@@ -290,6 +293,15 @@ be less than 1 in 6.  So you'll have a productive population
 of about 160,000 people at any given time that will have to
 support a million, but replicate the work done (with the
 help of robots) of 40 million industrial era people.
+
+I think that 1-6 isn't right if you want a population that
+is growing -- each couple needs to produce 2.x children to
+keep the population from shrinking.  And we must look at
+what the average lifespan is, what age do we consider to be
+productive and how long will each person stay productive on
+average.  Then throw in accidents, disease and people who
+are never really productive -- all of those stupid cousins
+add up....
 
 What will be the ratio of productive people to robots?  That
 in a sense is the real question -- how many robots do you
