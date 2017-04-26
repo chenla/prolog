@@ -22,3 +22,43 @@
 
 * Introduction
 
+
+* The Black Box
+
+Our brains have always been black boxes -- just like the emerging AI
+systems we are building.   Stop worrying about not knowing what
+happens inside the black box so much as worrying about how the black
+boxes will externalize and communicate and remember the shit that
+comes out of the box.  Treat AI's as the same as our brains and
+construct tools that extend those black boxes so that other AIs and
+humans can work out what is good and bad and bullshit and the rest.
+The collective is the best means of checking and balancing -- not
+handicapping.  Shit goes in and shit goes out and you deal with what
+comes out and don't work so much about what happens in between.  If
+someone goes off the rails then they are cut out.  It's the system
+that has to regulate -- there won't be any one AI that could dominate
+and do what people are scared of at the moment, unless we don't even
+try to pay attention to the shit that comes out.  This is not magic,
+it's how everything works in nature.  It's why scientists who work in
+biotech aren't worried about gray goo -- nature is far more robust
+than we think -- and that's how we have to build AI.
+
+Perhaps that isn't clear -- brains kept externalizing by building
+other brains around them, and then we externalized outside the body
+with spoken language, then written language, the external cognition
+and external muscle.
+
+Each of our brains are black boxes to the the other parts of our brains.
+
+AI's will externalize in the same way -- by building layers on layers
+that don't replace the layers beneath them.  These layers should in
+principle work as pace layers when they work, and shearing layers when
+they don't.
+
+We assume that AIs will be able to replace themselves completely --
+but that can't happen because it's not the same as creating whole new
+brains that replace the old one -- there is no bridge to make that
+happen, so we will end up with crufty AIs that will be complex nested
+black boxes that will still have to talk to other black boxes and
+we're back to the same messy situation that humans have to deal with
+today.
