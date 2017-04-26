@@ -108,7 +108,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - [[prolog-window.org][Windows]]
 
- - [[prolog-transactive.org][Transactive]]
+ - [[./prolog-transactive.org][Transactive]]
    - [[./prolog-cognition.org][Cognition]]
    - [[./prolog-memory.org][Memory]]
    - [[./prolog-muscle.org][Muscle]]
