@@ -22,3 +22,17 @@
 
 * Introduction
 
+
+  - [[https://www.newscientist.com/article/2128725-a-guide-to-why-your-world-is-a-hallucination/][A guide to why your world is a hallucination]] | New Scientist
+
+
+* Philosophy & Predictive Processing
+
+  - [[http://predictive-mind.net/][Philosophy and Predictive Processing]] 
+
+* Open Mind
+
+  - [[http://open-mind.net/][OpenMind Project]]
+
+
+@{
