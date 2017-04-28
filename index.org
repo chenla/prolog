@@ -108,6 +108,11 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - [[prolog-window.org][Windows]]
 
+ - [[./mind-intro.org][Mind]] :: prefix 'mind'
+   - Map
+   - Prediction
+   - Consciousness
+
  - [[./prolog-transactive.org][Transactive]]
    - [[./prolog-cognition.org][Cognition]]
    - [[./prolog-memory.org][Memory]]
