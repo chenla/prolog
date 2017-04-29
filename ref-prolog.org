@@ -1,6 +1,23 @@
+#   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Prolog References
 #+AUTHOR: Brad Collins
 #+EMAIL: brad@chenla.la
 #+PROPERTY: header-args    :results drawer  :tangle ref-prolog.el
 
+#+STARTUP: showall
+#+PROPERTY: filename
+#+TOC: headlines 4
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/ref-prolog.org
+  :Created: 2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
+  :ID: 22d37595-e4ec-4b44-87c2-73e96ed916eb
+  :VER: 546735262.598557129
+  :CUSTOM_ID: 
+  :URL:
+  :END:
+
+* Scope Note
+
+
+* 
 
