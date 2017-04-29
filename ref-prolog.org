@@ -46,5 +46,14 @@ Internet.
 
 This is the thin edge of the web where BMF begins in ernest.
 
+It doesn't matter where we begin -- here is as good a place
+as any, but we will have to define everything in the
+process, which will build out chenla/core  that will define 
+all of the BMF burrs and eventually move most of the entries
+here into larger collections.  The mechanism for this is yet
+to be determined.  But hey, this is a bottom up process.
+I've spent enough years thinking about it top down, so let's
+see if we can no implement it bottom up.
+
 ** 
 
