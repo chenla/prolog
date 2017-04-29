@@ -1,0 +1,6 @@
+#+TITLE: Prolog References
+#+AUTHOR: Brad Collins
+#+EMAIL: brad@chenla.la
+#+PROPERTY: header-args    :results drawer  :tangle ref-prolog.el
+
+
