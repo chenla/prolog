@@ -26,8 +26,25 @@
 
 
 
-* Scope Note
+* Scope Note                                       :SN:
 
+The idea here is that every reference is a burr
 
-* 
+For now we will include the bibtex entry for each reference
+in a src block that is tangled to create latex references.
+Later we will generate the bibtex from the metadata in the
+Burr.
+
+But these burrs will go beyond being only bibliographic
+references, they can be definitions, authority records, and
+blob records.
+
+In fact, eventually, it should be relatively rare to have to
+create these on your own.  There should be public catalogs
+online that you can download locally or link to over the
+Internet.
+
+This is the thin edge of the web where BMF begins in ernest.
+
+** 
 
