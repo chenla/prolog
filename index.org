@@ -82,6 +82,9 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[prolog-pace.org][Pace Layers]]
  - [[prolog-process.org][Process]]
 
+ - [[./prolog-patterns.org][Patterns]]
+
+
  - Context
    - [[prolog-scope.org][Scope]]
    - Level of Detail (LOD)
