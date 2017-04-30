@@ -22,6 +22,44 @@
 
 * Introduction
 
+I'm starting to understand that it's not as simple as
+Alexander thought it would be -- and he certainly had no
+illusions as to how difficult it would be.  But he didn't
+dig into non architecture side of patterns and centers and
+it all -- you can't separate how we build buildings from
+everything else.
+
+Scott argues that a lot of the estrangement that I talk
+about is from simplication as a means of making things
+legible.   But you can't take impossible complexity, clean
+the slate and replace it with a moronically simple model and
+expect it to do all the things that the complex model did.
+
+We have completely forgotten the old ways -- and instead
+have idealized them into a fantasy past that never existed.
+But the old ways were connected to and worked within complex
+systems in ways that we almost can't fathom.
+
+Patterns are Alexander's way of bridging our modern
+broken-ass models in ways that we can understand in order to
+reconnect with a past that was all about connectedness.  APL
+and A Timeless Way of Building was supposed to do that.  But
+it didn't.  The Nature of Order explored what went wrong and
+found that it's far more complicated than we thought --
+which again was supposed to provide a rational means of
+connecting ourselves to something deeper and more complex.
+
+At the same time, there are a shitload of good and
+beneficial reasons to standardize all manner of things.  But
+there has to be a balance between the two -- OR more
+accurately, there are two ways of understanding the world,
+one is deterministic, atomic and simplistic -- the other is
+organic and holistic.  Do you see where I'm going with this?
+It's a holon stupid!  We must learn to live with these
+contradictions and find a way where in one context you are
+legible, and in another you are a part of a fluid
+continuum.  You can't see both at the same time.
+
 * Architecture
 
 ala Alexander
