@@ -1,0 +1,23 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Patterns
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/prolog/prolog-patterns.org
+  :Created: 2017-04-30T18:34@Prek Leap (11.642600N-104.919210W)
+  :ID: bc1ea7d5-8134-432e-a6ea-b04a28ec609b
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
