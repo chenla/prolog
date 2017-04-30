@@ -21,3 +21,256 @@
 #+TOC: headlines 4
 
 * Introduction
+
+* Architecture
+
+ala Alexander
+
+Timeless way of building
+
+
+* Measurement
+
+#+begin_quote
+For many purposes, an apparently vague measurement may
+communicate more valuable information than a statistically
+exact figure. The cultivator who reports that his rice yield
+from a plot is anywhere between four and seven baskets is
+conveying more accurate information, when the focus of
+attention is on the variability of the yield, than if he
+reported a ten-year statistical average of 5.6 baskets.
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+
+#+begin_quote
+Large-scale commercial exchange and long-distance trade tend
+to promote common standards of measurement. For relatively
+smallscale trade, grain dealers could transact with several
+suppliers as long as they knew the measure each was
+using. They might actually profit from their superior grasp
+of the profusion of units, much as smugglers take advantage
+of small differences in taxes and tariffs. Beyond a certain
+point, however, much of commerce is composed of long chains
+of transactions, often over great distances, between
+anonymous buyers and sellers. Such trade is greatly
+simplified and made legible by standard weights and
+measures. Whereas artisanal products were typically made by
+a single producer according to the desires of a particular
+cus tomer and carried a price specific to that object, the
+mass-produced commodity is made by no one in particular and
+is intended for any purchaser at all. In a sense, the virtue
+of the mass commodity is its reliable uniformity. In
+proportion, then, as the volume of commerce grew and the
+goods exchanged became increasingly standardized (a ton of
+wheat, a dozen plow tips, twenty cart wheels), there was a
+growing tendency to accept widely agreed upon units of
+measurement. Officials and physiocrats alike were convinced
+that uniform measures were the precondition for creating a
+national market and promoting rational economic action.51
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+
+#+begin_quote
+The simplification of measures, however, depended on that
+other revolutionary political simplification of the modern
+era: the concept of a uniform, homogeneous citizenship. As
+long as each estate operated within a separate legal sphere,
+as long as different categories of people were unequal in
+law, it followed that they might also have unequal rights
+with respect to measures.56 The idea of equal citizenship,
+the abstraction of the "unmarked" citizen, can be traced to
+the Enlightenment and is evident in the writings of the
+Encyclopedists.57 For the Encyclopedists, the cacophony
+among measurements, institutions, inheritance laws,
+taxation, and market regulations was the great obstacle to
+the French becoming a single people. They envisioned a
+series of centralizing and rationalizing reforms that would
+transform France into a national community where the same
+codified laws, measures, customs, and beliefs would
+everywhere prevail. It is worth noting that this project
+promotes the concept of national citizenship-a national
+French citizen perambulating the kingdom and encountering
+exactly the same fair, equal conditions as the rest of his
+compatriots. In place of a welter of incommensurable small
+communities, familiar to their inhabitants but mystifying to
+outsiders, there would rise a single national society
+perfectly legible from the center. The proponents of this
+vision well understood that what was at stake was not merely
+administrative convenience but also the transformation of a
+people: "The uniformity of customs, viewpoints, and
+principles of action will, inevitably, lead to a greater
+community of habits and predispositions."" The abstract grid
+of equal citizenship would create a new reality: the French
+citizen.
+
+The homogenization of measures, then, was part of a larger,
+emancipatory simplification. At one stroke the equality of
+all French people before the law was guaranteed by the
+state; they were no longer mere subjects of their lords and
+sovereign but bearers of inalienable rights as citizens.59
+All the previous "natural" distinctions were now
+"denaturalized" and nullified, at least in law.60 In an
+unprecedented revolutionary context where an entirely new
+political system was being created from first principles, it
+was surely no great matter to legislate uniform weights and
+measures. As the revolutionary decree read: "The centuries
+old dream of the masses of only one just measure has come
+true! The Revolution has given the people the meter. "61
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+
+* Land Tenure
+
+#+begin_quote
+Modern abstract measures of land by surface area-so many
+hectares or acres-are singularly uninformative figures to a
+family that proposes to make its living from these
+acres. Telling a farmer only that he is leasing twenty acres
+of land is about as helpful as telling a scholar that he has
+bought six kilograms of books. Customary measures of land
+have therefore taken a variety of forms corresponding to
+those aspects of the land that are of greatest practical
+interest. Where land was abundant and manpower or draftpower
+scarce, the most meaningful gauge of land was often the
+number of days required to plow or to weed it.
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+#+begin_quote
+Land might also be evaluated according to the amount of seed
+required to sow it. If the soil were very good, a field
+would be densely sown, whereas poor land would be more
+lightly seeded. The amount of seed sown to a field is in
+fact a relatively good proxy for average yield, as the
+sowing is done in anticipation of average growing
+conditions, while the actual seasonal yield would be more
+variable. Given a particular crop regimen, the amount of
+seed sown would indicate roughly how productive a field had
+been, although it would reveal little about how arduous the
+land was to cultivate or how variable the harvests were. But
+the average yield from a plot of land is itself a rather
+abstract figure. What most farmers near the subsistence
+margin want to know above all is whether a particular farm
+will meet their basic needs reliably. Thus small farms in
+Ireland were described as a "farm of one cow" or a "farm of
+two cows" to indicate their grazing capacity to those who
+lived largely by milk products and potatoes. The physical
+area a farm might comprise was of little interest compared
+to whether it would feed a particular family.4'
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+
+
+#+begin_quote
+A hypothetical case of customary land tenure practices may
+help demonstrate how difficult it is to assimilate such
+practices to the barebones schema of a modern cadastral
+map. The patterns I will describe are an amalgam of
+practices I have encountered in the literature of or in the
+course of fieldwork in Southeast Asia, and although the case
+is hypothetical, it is not unrealistic.
+
+Let us imagine a community in which families have usufruct
+rights to parcels of cropland during the main growing
+season. Only certain crops, however, may be planted, and
+every seven years the usufruct land is redistributed among
+resident families according to each family's size and its
+number of able-bodied adults. After the harvest of the
+mainseason crop, all cropland reverts to common land where
+any family may glean, graze their fowl and livestock, and
+even plant quickly maturing, dry-season crops. Rights to
+graze fowl and livestock on pastureland held in common by
+the village is extended to all local families, but the
+number of animals that can be grazed is restricted according
+to family size, especially in dry years when forage is
+scarce. Families not using their grazing rights can give
+them to other villagers but not to outsiders. Everyone has
+the right to gather firewood for normal family needs, and
+the village blacksmith and baker are given larger
+allotments. No commercial sale from village woodlands is
+permitted.
+
+Trees that have been planted and any fruit they may bear are
+the property of the family who planted them, no matter where
+they are now growing. Fruit fallen from such trees, however,
+is the property of anyone who gathers it. When a family
+fells one of its trees or a tree is felled by a storm, the
+trunk belongs to the family, the branches to the immediate
+neighbors, and the "tops" (leaves and twigs) to any poorer
+villager who carries them off. Land is set aside for use or
+leasing out by widows with children and dependents of
+conscripted males. Usufruct rights to land and trees may be
+let to anyone in the village; the only time they may be let
+to someone outside the village is if no one in the community
+wishes to claim them.
+
+After a crop failure leading to a food shortage, many of
+these arrangements are readjusted. Better-off villagers are
+expected to assume some responsibility for poorer
+relatives-by sharing their land, by hiring them, or by
+simply feeding them. Should the shortage persist, a council
+composed of heads of families may inventory food supplies
+and begin daily rationing. In cases of severe shortages or
+famine, the women who have married into the village but have
+not yet borne children will not be fed and are expected to
+return to their native village. This last practice alerts us
+to the inequalities that often prevail in local customary
+tenure; single women, junior males, and anyone defined as
+falling outside the core of the community are clearly
+disadvantaged.
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+#+begin_quote
+The fiscal or administrative goal toward which all modern
+states aspire is to measure, codify, and simplify land
+tenure in much the same way as scientific forestry
+reconceived the forest. Accommodating the luxuriant variety
+of customary land tenure was simply inconceivable. The
+historical solution, at least for the liberal state, has
+typically been the heroic simplification of individual
+freehold tenure. Land is owned by a legal individual who
+possesses wide powers of use, inheritance, or sale and whose
+ownership is represented by a uniform deed of title enforced
+through the judicial and police institutions of the
+state. Just as the flora of the forest were reduced to
+Normalbaume, so the complex tenure arrangements of customary
+practice are reduced to freehold, transferrable title. In an
+agrarian setting, the administrative landscape is blanketed
+with a uniform grid of homogeneous land, each parcel of
+which has a legal person as owner and hence taxpayer. How
+much easier it then becomes to assess such property and its
+owner on the basis of its acreage, its soil class, the crops
+it normally bears, and its assumed yield than to untangle
+the thicket of common property and mixed forms of tenure.
+
+The crowning artifact of this mighty simplification is the
+cadastral map. Created by trained surveyors and mapped to a
+given scale, the cadastral map is a more or less complete
+and accurate survey of all landholdings. Since the driving
+logic behind the map is to create a manageable and reliable
+format for taxation, the map is associated with a property
+register in which each specified (usually numbered) lot on
+the map is linked to an owner who is responsible for paying
+its taxes. The cadastral map and property register are to
+the taxation of land as the maps and tables of the
+scientific forester were to the fiscal exploitation of the
+forest.
+
+-- Seeing Like a State | Scott
+#+end_quote
+
+
+* Ecosystems
+
+ala Mollison
