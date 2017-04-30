@@ -104,6 +104,48 @@ our first machines.  A windmill turning a millstone, or
 hammer are both primitive types of machines.
 
   - then came Steam engines
+
+#+begin_quote
+In 1698, Thomas Savery of Totnes, in Devon, south-west
+England, published a patent describing how to raise a fluid
+such as water ‘by the impellent force of fire’. Savery’s
+device was the first steam engine, based on heating a supply
+of water in a boiler using coal. The steam passes into a
+series of cylinders. As the steam condenses inside each one
+to re-form water, it contracts, forming a partial
+vacuum. Assuming the cylinders are linked by pipes to the
+water that needs to be lifted, the atmospheric pressure
+acting on this water forces it into the unoccupied
+space. Savery’s design provided one of the first workable
+ways to transfer energy from a fossil fuel into movement
+that could be used for a range of jobs.
+
+In 1708, Thomas Newcomen, another Devon engineer, produced
+an improved engine that incorporated rods and other
+mechanisms that could drive machinery. In 1769, the Scottish
+inventor James Watt unveiled a still better machine that
+used energy more efficiently (less was wasted) than
+Newcomen’s engines. Soon afterwards, the first large-scale
+factories started to appear in Britain. .... Watt’s engines
+became the prime power source for the factories that
+featured in the first industrial revolution. By 1870, steam
+engines used in Britain and based on the inventor’s design
+produced an output of 3 gigawatts (3 billion watts) –
+equivalent to the work of 6 million horses. In 1890, steam
+engines produced almost 80 per cent of the energy
+requirements for US factories, superseding waterpower which
+up to the 1850s had remained the main energy source.24
+
+
+-- [[bib:marsh:2012new][The New Industrial Revolution]] pg 32 | Peter Marsh (2012)
+#+end_quote
+
+#+begin_comment
+wheels led to bearings which are one of the foundational
+parts of industrial civilization -- bearings are in vast
+array of manmade things.
+#+end_comment
+
   - then came Internal Combustion
   - then came electricity
 
