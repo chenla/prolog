@@ -339,6 +339,16 @@ automate all of this would be difficult at scale (say for
 all clothes on an aircraft carrier) but becomes even more
 problematic at small scales such as that of a home.
 
+Specialized robots work well at scale.  But we will need a
+solution that can do things like manage laundry.  The most
+common answer to this is, to build humanoid robots that can
+operate in an environment that is designed for the human
+body.  But that's not how it will happen -- at least any
+time soon. Robots could be designed in any number of ways
+which could do all of the common tasks that humans do.  And
+it's most likely that it will be swarms of robots, with each
+one good at a range of tasks that can come together and so
+things, and then rearrange themselves for the next task.
 
 ----
 
