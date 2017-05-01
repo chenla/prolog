@@ -183,10 +183,10 @@ eco-systems.
 Eco-systems are a crucial part of maintaining weather cycles -- the
 ecology of the planet drives a lot of weather -- 
 
-
-
-
 *  Minimum Viable Population
+
+  - [[https://en.wikipedia.org/wiki/Minimum_viable_population][Minimum viable population]] | Wikipedia
+
 
   - Minimum Viable Population :: between 50 (post Toba population) and 10,000.
   - Dunbar's Number :: 150
@@ -318,6 +318,27 @@ I would also add, that as Spider Robinson observed in his
 Mars Trilogy, robots are a multiplier that will allow a
 small population to do things at larger scales and far
 faster than we do now.
+
+Once we arrive at these target numbers -- minimum viable
+population (genetic, and breeding) for humans and all other
+living things that we will put on Mars, we will need to know
+the ratio of humans to robots and how high level their AI
+has to be to support high ratios of humans to robots.
+
+A washing machine has a one-to-one human-machine ratio -- it
+requires one human to operate it.  But washing clothes is
+not simply operating the machine.  You need to collect
+clothes to be washed, sort them by different washing
+methods, divide each lot into groups that will fit in the
+washing machine.  Operate the machine (including feeding it
+soap and softener).  Removing it from the machine and hang
+to dry or place in a mechanical drier and then remove, iron
+if need be, place on a hanger or fold, and then place
+completed items in a drawer or wardrobe (closet).  To
+automate all of this would be difficult at scale (say for
+all clothes on an aircraft carrier) but becomes even more
+problematic at small scales such as that of a home.
+
 
 ----
 
