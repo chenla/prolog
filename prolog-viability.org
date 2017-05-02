@@ -348,7 +348,7 @@ time soon. Robots could be designed in any number of ways
 which could do all of the common tasks that humans do.  And
 it's most likely that it will be swarms of robots, with each
 one good at a range of tasks that can come together and so
-things, and then rearrange themselves for the next task.
+things, and then rearrange themselves for the next task.q
 
 ----
 
