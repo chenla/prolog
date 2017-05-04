@@ -25,40 +25,94 @@
 
 * The Black Box
 
-Our brains have always been black boxes -- just like the emerging AI
-systems we are building.   Stop worrying about not knowing what
-happens inside the black box so much as worrying about how the black
-boxes will externalize and communicate and remember the shit that
-comes out of the box.  Treat AI's as the same as our brains and
-construct tools that extend those black boxes so that other AIs and
-humans can work out what is good and bad and bullshit and the rest.
-The collective is the best means of checking and balancing -- not
-handicapping.  Shit goes in and shit goes out and you deal with what
-comes out and don't work so much about what happens in between.  If
-someone goes off the rails then they are cut out.  It's the system
-that has to regulate -- there won't be any one AI that could dominate
-and do what people are scared of at the moment, unless we don't even
-try to pay attention to the shit that comes out.  This is not magic,
-it's how everything works in nature.  It's why scientists who work in
-biotech aren't worried about gray goo -- nature is far more robust
-than we think -- and that's how we have to build AI.
+Our brains have always been black boxes -- just like the
+emerging AI systems we are building.  Stop worrying about
+not knowing what happens inside the black box so much as
+worrying about how the black boxes will externalize and
+communicate and remember the shit that comes out of the box.
+Treat AI's as the same as our brains and construct tools
+that extend those black boxes so that other AIs and humans
+can work out what is good and bad and bullshit and the rest.
+The collective is the best means of checking and balancing
+-- not handicapping.  Shit goes in and shit goes out and you
+deal with what comes out and don't work so much about what
+happens in between.  If someone goes off the rails then they
+are cut out.  It's the system that has to regulate -- there
+won't be any one AI that could dominate and do what people
+are scared of at the moment, unless we don't even try to pay
+attention to the shit that comes out.  This is not magic,
+it's how everything works in nature.  It's why scientists
+who work in biotech aren't worried about gray goo -- nature
+is far more robust than we think -- and that's how we have
+to build AI.
 
-Perhaps that isn't clear -- brains kept externalizing by building
-other brains around them, and then we externalized outside the body
-with spoken language, then written language, the external cognition
-and external muscle.
+Perhaps that isn't clear -- brains kept externalizing by
+building other brains around them, and then we externalized
+outside the body with spoken language, then written
+language, the external cognition and external muscle.
 
-Each of our brains are black boxes to the the other parts of our brains.
+Each of our brains are black boxes to the the other parts of
+our brains.
 
-AI's will externalize in the same way -- by building layers on layers
-that don't replace the layers beneath them.  These layers should in
-principle work as pace layers when they work, and shearing layers when
-they don't.
+AI's will externalize in the same way -- by building layers
+on layers that don't replace the layers beneath them.  These
+layers should in principle work as pace layers when they
+work, and shearing layers when they don't.
 
-We assume that AIs will be able to replace themselves completely --
-but that can't happen because it's not the same as creating whole new
-brains that replace the old one -- there is no bridge to make that
-happen, so we will end up with crufty AIs that will be complex nested
-black boxes that will still have to talk to other black boxes and
-we're back to the same messy situation that humans have to deal with
+We assume that AIs will be able to replace themselves
+completely -- but that can't happen because it's not the
+same as creating whole new brains that replace the old one
+-- there is no bridge to make that happen, so we will end up
+with crufty AIs that will be complex nested black boxes that
+will still have to talk to other black boxes and we're back
+to the same messy situation that humans have to deal with
 today.
+
+* Molecular Biology is Hard
+
+#+begin_quote
+Because molecular biology is wayyyyyyyyyyyyyy harder than
+non-biologists realize, in large part due to people thinking
+'genetic code' means something like software code, when it
+was intended to be analogous to cryptographic codes instead.
+
+The human genome is not the source code for the human body,
+but rather a parts list, and an incomplete one at
+that. Unfortunately, it's encrypted. Fortunately, we broke
+the code 50 years ago. Unfortunately, it was also written in
+Klingon. We've spent 50 years trying to translate it
+(determine protein crystal/NMR structures), and
+simultaneously trying to figure out how the parts go
+together. We're maybe 20% through with the
+translation. We’re much further behind on figuring out how
+it actually works. Completing the translation of the parts
+list would be helpful, but it’s no panacea.
+
+The list of what we don’t know (and can’t predict from
+protein structures alone) is far larger than what we do
+know. Which proteins are expressed in which cells? Which
+proteins interact with each other? When do they interact
+with each other? How strong are those interactions? What
+non-protein molecules do they make, and in what
+concentrations? And keep in mind that each and every one of
+those questions affects the others, often in ways that make
+no freaking sense, because evolution is dumb.
+
+As for protein structure prediction, maybe we’ll get there
+eventually, but I’m skeptical; de novo prediction really
+hasn’t made much progress in recent years. Computational
+methods are still terrible at the (to my mind) much simpler
+problem of predicting if/how drugs bind to known protein
+structures, which does not make me optimistic. We’re pretty
+good at predicting structures through homology, mind you,
+but that’s a much simpler problem than going straight from
+the amino acid sequence.
+
+To get a broader sense of why biologists tend to be
+skeptical that computational modeling can replace
+experimental biology any time soon, see [[http://blogs.sciencemag.org/pipeline/archives/2017/04/28/software-eats-the-world-but-biology-eats-it][this recent piece]]
+and the longer article that it links to.
+
+-- [[https://www.reddit.com/user/zmil][zmil]] (comment)
+   [[https://www.reddit.com/r/slatestarcodex/comments/688g0a/the_ai_cargo_cult_kevin_kellys_skepticism_of/]['The AI Cargo Cult': Kevin Kelly's skepticism of superhuman AI]] | slatestarcodex
+#+end_quote
