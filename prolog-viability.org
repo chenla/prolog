@@ -357,3 +357,56 @@ applied to individual Bioregions on Earth -- so that each
 bio-region is mostly self-sufficient and if it has to be can
 be self-sufficient long enough to restart civilization in
 adjoining bio-regions.
+
+* Job Loss From Automation
+
+ - [[https://www.theatlantic.com/amp/article/525168/][Automation and Jobs]] | The Atlantic
+ - [[http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf][/Users/michaelosborne/Documents/Research/future_of_employment_paper/old/.texpadtmp/future_of_employment_18.dvi - The_Future_of_Employment.pdf]]
+ - [[bib:frey:2017future][The Future of Employment: How Susceptible Are Jobs to
+   Computerisation?]] | Frey (2017)
+
+ - [[https://en.wikipedia.org/wiki/Automation][Automation]] | Wikipedia
+
+ - [[bib:honeyman:2007child][Child Workers in England, 1780-1820]] | Katrina Honeyman
+ - [[bib:lebergott:1966output][Output, Employment, and Productivity in the United States after 1800]]
+
+This perennial hot topic that has been with us for
+centuries, even before [[https://en.wikipedia.org/wiki/Ned_Ludd][Ned Ludd]] led his merry band left a
+trail of wrecked weaving machinary behind them.
+
+
+In the last months there have been a flurry of articles,
+studies and dire predictions that over the next 10-20 years
+automation will eliminate large numbers of jobs.  In "places
+such as Las Vegas and the Riverside-San Bernardino area may
+be the most vulnerable to automation in upcoming years, with
+65 percent of jobs in Las Vegas and 63 percent of jobs in
+Riverside predicted to be automatable by 2025"  The study
+estimated that most urban areas will see at least 55% of
+jobs being computerized.
+
+This provides us with some concrete numbers on how many jobs
+can be automated -- so if 
+
+
+   These are all back of napkin figures -- In 1870 there was
+   estimated to be a bit less than 12 million people in the
+   UK labor market so if you have a population of about 40
+   millions you get a very rough figure of 25% of the
+   population working at any one time.
+
+   So if half of those jobs were automated, you would have 5
+   million workers to support 40 million with 1 person
+   supporting 8 people.
+
+   For Musk's 1 million person colony, you would have 125K
+   workforce supporting a million people.  Break that into
+   shops with an average size of 5 and you get 25,000 shops
+   to maintain a self-supporting technological industrial
+   civilization.
+
+Is 25K highly shops with five people, lots of computational
+power and robots achieve that?  There will be a lot of
+redundancy involved, so if each specialty had 5 shops
+filling that need you get 5 thousand different types of
+shops.
