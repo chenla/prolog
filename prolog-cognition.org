@@ -68,6 +68,33 @@ will still have to talk to other black boxes and we're back
 to the same messy situation that humans have to deal with
 today.
 
+
+* all complex systems as a black box
+
+
+It might well be that all /intelligences/, because they are
+complex systems, will always be a black box, human, machine,
+whatever.  That that's the deal.  What goes in, might be
+legible, what comes out, might be legible as well.  But the
+complexity makes whatever happens inbetween illegible and
+that if you try to take it apart and make sense of it, you
+will just get a sum of it's parts, not a legible
+intelligance.  The AIs we are building are ourselves.
+That's the bargin and we might just have to live with it.
+
+Can this be proved?  That intelligences are illegible?
+
+If it turns out that human intelligence is not just
+happening at the biological level, but that there are 
+quantum effects that are involved... then the answer is
+yes.  And it likely won't be as difficult as we think to
+build machine intelligence that does the same thing in a
+different way.  But what if it's not?  What if it is all
+electro-chemical computation?  It still might not be
+knowable.  Just as we can't know the weather -- once you
+cross a complexity threshold it becomes a black box.
+
+
 * Molecular Biology is Hard
 
 #+begin_quote
