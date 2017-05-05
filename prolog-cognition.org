@@ -69,7 +69,7 @@ to the same messy situation that humans have to deal with
 today.
 
 
-* all complex systems as a black box
+* Complex systems as a black box
 
 
 It might well be that all /intelligences/, because they are
