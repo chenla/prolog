@@ -410,3 +410,29 @@ power and robots achieve that?  There will be a lot of
 redundancy involved, so if each specialty had 5 shops
 filling that need you get 5 thousand different types of
 shops.
+
+* Intermittent Run Production
+
+One important approach of getting those 25K shops to produce
+everything is to realize that each shop should be able to
+produce more than one specialized thing.  Generalized
+short-run production can get us a long ways.  There is also
+no reason why some items can't be stockpiled.  If there is
+extra capacity, use it to stockpile items, say lighting
+elements, or fiber, or bearings or whatever so that there
+would be no need to produce those things immediately if
+there is a disaster and production has to be repurposed.
+
+In one respect this is the opposite of just-in-time... but
+not... the colony is not a free market, so inventory is not
+the same for them as it is for a commerical company who
+stockpiles inventory in anticipation of sales.  The former
+knows that the stockpile will be used, the later is tying
+up captial in goods that are may or may not be sold.
+
+The colony would treat the stores as last-in-first out and
+only produce more when they are needed.
+
+In this sense industrial production is based on competitive
+production, but not one where profit is the primary goal.
+
