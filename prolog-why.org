@@ -688,17 +688,45 @@ world in three successive stages.
 
 * The Usefulness of Useless Knowledge
 
-
-
  - [[https://arstechnica.com/science/2017/05/two-defenses-of-research-on-useless-knowledge/#p3][Two defenses of research on useless knowledge]] | Ars Technica
  - https://library.ias.edu/files/UsefulnessHarpers.pdf
  - [[https://en.wikipedia.org/wiki/Abraham_Flexner#Institute_for_Advanced_Study][Abraham Flexner]] | Wikipedia
  - [[https://www.brainpickings.org/2012/07/27/the-usefulness-of-useless-knowledge/][The Usefulness of Useless Knowledge]] | Brain Pickings
 
-- [[https://www.ias.edu/ideas/2017/dijkgraaf-usefulness][The Usefulness of Useless Knowledge]] | Institute for Advanced Study
+ - [[https://www.ias.edu/ideas/2017/dijkgraaf-usefulness][The Usefulness of Useless Knowledge]] | Institute for Advanced Study
 
  - [[https://en.wikipedia.org/wiki/Institute_for_Advanced_Study][Institute for Advanced Study]] | Wikipedia
  - [[https://www.ias.edu/sites/default/files/pdfs/publications/IASBlueBook_2013.pdf][IASBlueBook_2013.pdf]]
+
+
+#+begin_quote
+We hear it said with tiresome iteration that ours is a
+materialistic age, the main concern of which should be the
+wider distribution of material goods and worldly
+opportunities. The justified outcry of those who through no
+fault of their own are deprived of opportunity and a fair
+share of worldly goods therefore diverts an increasing
+number of students from the studies which their fathers
+pursued to the equally important and no less urgent study of
+social, economic, and governmental problems. I have no
+quarrel with this tendency. The world in which we live is
+the only world about which our senses can testify. Unless it
+is made a better world, a fairer world, millions will
+continue to go to their graves silent, saddened, and
+embittered. I have myself spent many years pleading that our
+schools should become more acutely aware of the world in
+which their pupils and students are destined to pass their
+lives. Now I sometimes wonder whether that current has not
+become too strong and whether there would be sufficient
+opportunity for a full life if the world were emptied of
+some of the useless things that give it spiritual
+significance; in other words, whether our conception of what
+.is useful may not have become too narrow to be adequate to
+the roaming and capricious possibilities of the human
+spirit.
+
+-- The Usefulness of Useless Knowledge | Abraham Flexner (1939)
+#+end_quote
 
 
 #+begin_quote
