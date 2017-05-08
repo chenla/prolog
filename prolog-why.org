@@ -686,3 +686,40 @@ planet predate any human culture by thousands of years.  They are the
 ancestors of all humans who came out of Africa and spread across the
 world in three successive stages.
 
+* The Usefulness of Useless Knowledge
+
+
+
+ - [[https://arstechnica.com/science/2017/05/two-defenses-of-research-on-useless-knowledge/#p3][Two defenses of research on useless knowledge]] | Ars Technica
+ - https://library.ias.edu/files/UsefulnessHarpers.pdf
+ - [[https://en.wikipedia.org/wiki/Abraham_Flexner#Institute_for_Advanced_Study][Abraham Flexner]] | Wikipedia
+ - [[https://www.brainpickings.org/2012/07/27/the-usefulness-of-useless-knowledge/][The Usefulness of Useless Knowledge]] | Brain Pickings
+
+- [[https://www.ias.edu/ideas/2017/dijkgraaf-usefulness][The Usefulness of Useless Knowledge]] | Institute for Advanced Study
+
+ - [[https://en.wikipedia.org/wiki/Institute_for_Advanced_Study][Institute for Advanced Study]] | Wikipedia
+ - [[https://www.ias.edu/sites/default/files/pdfs/publications/IASBlueBook_2013.pdf][IASBlueBook_2013.pdf]]
+
+
+#+begin_quote
+A poem, a symphony, a painting, a mathematical truth, a new
+scientific fact, all bear in themselves all the
+justification that universities, colleges, and institutes of
+research need or require ...
+
+-- Abraham Flexner Founding Director IAS 1930–39
+#+end_quote
+
+
+#+begin_quote
+The very concept of history implies the scholar and the
+reader. Without a generation of civilized people to study
+history, to preserve its records, to absorb its lessons and
+relate them to its own problems, history, too, would lose
+its meaning.
+
+-- George Kennan (1904–2005) Professor, School of Historical
+   Studies, on receiving the Gold Medal for History from the
+   American Academy and Institute of Arts and Letters in
+   1984
+#+end_quote
