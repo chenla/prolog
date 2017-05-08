@@ -730,6 +730,42 @@ spirit.
 
 
 #+begin_quote
+Mr. Eastman, Marconi was inevitable. The real credit for
+everything that has been done in the field of wireless
+belongs, as far as such fundamental credit can be definitely
+assigned to anyone, to Professor Clerk Maxwell, who in 1865
+carried out certain abstruse and remote calculations in the
+field of magnetism and electricity…. Other discoveries
+supplemented Maxwell’s theoretical work during the next
+fifteen years. Finally in 1887 and 1888 the scientific
+problem still remaining — the detection and demonstration of
+the electromagnetic waves which are the carriers of wireless
+signals — was solved by Heinrich Hertz, a worker in
+Helmholtz’s laboratory in Berlin. Neither Maxwell nor Hertz
+had any concern about the utility of their work; no such
+thought ever entered their minds. They had no practical
+objective. The inventor in the legal sense was of course
+Marconi, but what did Marconi invent? Merely the last
+technical detail, mainly the now obsolete receiving device
+called coherer, almost universally discarded.
+
+Hertz and Maxwell could invent nothing, but it was their
+useless theoretical work which was seized upon by a clever
+technician and which has created new means for
+communication, utility, and amusement by which men whose
+merits are relatively slight have obtained fame and earned
+millions. Who were the useful men? Not Marconi, but Clerk
+Maxwell and Heinrich Hertz. Hertz and Maxwell were geniuses
+without thought of use. Marconi was a clever inventor with
+no thought but use.
+
+-- The Usefulness of Useless Knowledge | Abraham Flexner (1939)
+#+end_quote
+
+
+
+
+#+begin_quote
 A poem, a symphony, a painting, a mathematical truth, a new
 scientific fact, all bear in themselves all the
 justification that universities, colleges, and institutes of
