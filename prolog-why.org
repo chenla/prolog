@@ -782,7 +782,7 @@ scientific fact, all bear in themselves all the
 justification that universities, colleges, and institutes of
 research need or require ...
 
--- Abraham Flexner Founding Director IAS 1930–39
+-- The Usefulness of Useless Knowledge | Abraham Flexner (1939)
 #+end_quote
 
 
@@ -797,4 +797,43 @@ its meaning.
    Studies, on receiving the Gold Medal for History from the
    American Academy and Institute of Arts and Letters in
    1984
+#+end_quote
+
+
+#+begin_quote
+I am not for a moment suggesting that everything that goes
+on in laboratories will ultimately turn to some unexpected
+practical use or that an ultimate practical use is its
+actual justification.  Much more am I pleading for the
+abolition of the word "use," and for the freeing of the
+human spirit.  To be sure, we shall thus free some harmless
+cranks.  To be sure, we shall thus waste some precious dol-
+lars.  But what is infinitely more impor- tant is that we
+shall be striking the shackles off the human mind and
+setting it free for the adventures which in our own day
+have, on the one hand, taken Hale and Rutherford and
+Einstein and their peers millions upon millions of miles
+into the uttermost realms of space and, on the other, loosed
+the boundless energy imprisoned in the atom.  What
+Rutherford and others like Bohr and Millikan have done out
+of sheer curiosity in the effort to understand the
+construction of the atom has released forces which may
+transform human life; but this ultimate and unforeseen and
+unpredictable practical result is not offered as a
+justification for Rutherford or Einstein or Millikan or Bohr
+or any of their peers.  Let them alone.  No educational
+administrator can possibly direct the channels in which
+these or other men shall work.  The waste, I admit again,
+looks prodigious.  It is not really so.  All the waste that
+could be summed up in de- veloping the science of
+bacteriology is as nothing compared to the advantages which
+have accrued from the discoveries of Pasteur, Koch, Ehrlich,
+Theobald Smith, and scores of others-advantages that could
+never have accrued if the idea of possible use had permeated
+their .  minds.  These great artists-for such are scientists
+and bacteriologists-disseminated the spirit which prevailed
+in laboratories in which they were simply following the line
+of their own natural curiosity.
+
+-- The Usefulness of Useless Knowledge | Abraham Flexner (1939)
 #+end_quote
