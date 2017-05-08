@@ -762,7 +762,18 @@ no thought but use.
 -- The Usefulness of Useless Knowledge | Abraham Flexner (1939)
 #+end_quote
 
+#+begin_quote
+This lament, alas, is timelier than ever. As Columbia
+biological sciences professor Stuart Firestein reminds us in
+the excellent Ignorance: How It Drives Science, grant
+applications for scientific research are now routinely
+denied on the grounds of being “curiosity-driven” — a term
+used in a pejorative sense whereas, ironically, it should
+describe the highest aspiration of science, something many a
+great scientist can speak to.
 
+-- [[https://www.brainpickings.org/2012/07/27/the-usefulness-of-useless-knowledge/][The Usefulness of Useless Knowledge]] | Brain Pickings
+#+end_quote
 
 
 #+begin_quote
