@@ -77,15 +77,34 @@ rationalizing its actions, building an argument for why and
 how, rather than replaying what it did like a video that
 explains step by step it's detailed reasoning.  There will
 be times that it knows that it based its action on the
-probability of x y z outcomes that gave a scenario -- but
-there will be all sorts of things that will /feel/ like the
-right solution and will go with that, but not be able to
-explain why it felt right.
+probability of x y z outcomes that were used to create a
+scenario -- but there will be all sorts of things that will
+/feel/ like the right solution and will go with that, but
+not be able to explain why it felt right.
 
+This theory, if it pans out will be yet another nail in the
+human exceptionalist coffin and will make a number of people
+deeply uncomfortable.
 
+This is why things like BMF is so important, AIs will need
+to externally document what they find, just like we do.
+Their minds will not be recording devices, they will need to
+externalize their thoughts, and experiences and use other
+dumb compuational computers (cloud) to do specialized number
+crunching.  Take this to the next step, and like Kevin Kelly
+envisions, every intelligence will be different, there will
+be no one general AI that does everything.  AIs will have to
+google things, and they will have to compose their thoughts
+like we do, as way of learning and understanding.  Our AIs
+will be a transactive species like us -- and will relying on
+each other and us, just we rely on each other and them.
+Each is a holon, and together we are a whole.
 
-
-
+The Borg are simply a distributed cloud -- and the cloud is
+an intelligence.  But when humans embrace AIs as an
+extension of themselves and a part of the larger concept of
+mankind then we are all holons and we all form larger wholes
+which are part of larger holons.
 
 
 
