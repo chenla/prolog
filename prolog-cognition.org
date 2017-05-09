@@ -167,7 +167,13 @@ what it is looking at.  This means that the system is not
 the same as a traditional piece of software that is run and
 will do the same thing every time it is run -- a machine
 learning system is always growing and changing.  That, in
-effect is why it is a territory and not a map.
+effect is why it is a territory and not a map.  In other
+words, you can never step in the same river twice, and by
+the time you ask the river what it was, it is no longer the
+same river and can not answer because it does not know.
+
+
+
 
 * The Black Box
 
