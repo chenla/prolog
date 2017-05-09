@@ -67,6 +67,25 @@ be frustrating, because it will be true of machine
 intelligences no less than it is of meat intelligences.
 It's sort of the uncertainty principle for Intelligence.
 
+This is not to say that we won't eventually be able to ask
+AIs why they came up with an answer, or why they did
+something but they will have to do it the way we did, by
+coming up with a plausible reason that fits the facts.  That
+doesn't mean that this is really why or how, but it will
+have to be good enough.  And when it does, the AI will be
+rationalizing its actions, building an argument for why and
+how, rather than replaying what it did like a video that
+explains step by step it's detailed reasoning.  There will
+be times that it knows that it based its action on the
+probability of x y z outcomes that gave a scenario -- but
+there will be all sorts of things that will /feel/ like the
+right solution and will go with that, but not be able to
+explain why it felt right.
+
+
+
+
+
 
 
 
