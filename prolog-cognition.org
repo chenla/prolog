@@ -151,6 +151,23 @@ But only the banana matcher will also see that's the yellow
 fruit is long and faceted and in a bunch.  Which the mango
 matcher will ignore and say 'doh'.
 
+I only explain all of this because this is how our neocortex
+works as well as machine learning software.  And in each
+case we have a pattern matcher that works a little like an
+if then statement -- that is aware of a range of different
+possible things.  Taken all of these pattern matchers
+together working in parallel and we have a system which
+quickly becomes far more complex than the sum of its parts.
+
+Add to that, that every new input that goes through the
+matching tree, also improves and changes individual
+patterns.  Each matcher that finds a positive or a negative
+is strengthened and becomes more complex and confident in
+what it is looking at.  This means that the system is not
+the same as a traditional piece of software that is run and
+will do the same thing every time it is run -- a machine
+learning system is always growing and changing.  That, in
+effect is why it is a territory and not a map.
 
 * The Black Box
 
