@@ -121,6 +121,35 @@ and becomes more complex.  I'm not articulating this very
 well at the moment becuase I'm still trying to explore the
 concept.  But it is an intriguing idea.
 
+A calculator is dumb as paint -- it takes inputs and does a
+calculation and that's that.  But a bit of code with an if
+then statement actually thinks -- it takes an input and
+evaluates between two or more possibilities and comes up
+with an answer -- the if then statement embraces a number of
+different causal inputs.
+
+If we create a bunch of if then statements that run in
+parallel, so that each is looking for something different we
+have something even more interesting.  So if we have a pile
+of fruit, and then chunks of code which each are looking for
+a different kind of fruit, and the same input is then sent
+to all the fruit identifiers, you might get one of them that
+says -- ah, an apple!  The others might say, alas, not a
+pinapple, or blast it's not a mango, or damn, it's not a
+rambutan.  But that's getting ahead of ourselves.  We first
+need pattern matchers to figure out if what it is looking at
+is a fruit or something else like a rock.  So you might have
+a level of parallel pattern matchers that are looking for
+things that organic and edible and grow on trees.  At each
+level several pattern matchers will fire off 'I found it'
+and pattern matchers at the level above who are waiting for
+things that in turn tell them they found what they are
+looking for.  So that eventually, once you know it's a
+fruit, the color layer will say I found yellow, and the ripe
+mango and banana matches above say they found yellow fruits.
+But only the banana matcher will also see that's the yellow
+fruit is long and faceted and in a bunch.  Which the mango
+matcher will ignore and say 'doh'.
 
 
 * The Black Box
