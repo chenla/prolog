@@ -22,6 +22,36 @@
 
 * Introduction
 
+* cognition as territory
+
+It came to me last night, just as I was ready to close up
+the office, that the reason that intelligence is a black
+box is because in the map-territory relation, once a
+cognitive system reaches a certain threshold of complexity
+it can not longer be legible.
+
+You can't separate intelligence from the information that it
+learned from.  Humans are not naturally intelligent, when we
+are born we have some preprogrammed behavior but other than
+that there isn't much there.  But as babies observe the
+world, they start to identify patterns from sensory
+information and from experimenting with that information and
+finding out what works and what doesn't.  We don't become
+intelligent, and perhaps even self-conscious until we have
+ingested enough information to understand what we are and
+some concept of what the world is like.  So the training
+data set is what we take in, crunch it up and become
+intelligent.  But what happens to that training data is
+unknown.  We don't record like a camera or microphone, we
+create maps of patterns that become memories -- and memories
+are reconstructions of sensory events, that are likely never
+really ever the same twice.  We constantly reinventing our
+memories relative to the present.
+
+
+
+
+
 
 * The Black Box
 
