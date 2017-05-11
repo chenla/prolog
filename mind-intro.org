@@ -22,9 +22,12 @@
 
 * Introduction
 
-
+Mind is, at the moment still confined to biological
+cognitive systems -- brains.
 
 * Consciousness
+
+ - [[https://en.wikipedia.org/wiki/Consciousness][Consciousness]] | Wikipedia
 
 Consciousness or the state of awareness of one self has more
 baggage than [[https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia][King Fahd]] on holiday.
@@ -74,6 +77,44 @@ and gods.  And these become collective stories that become
 cultural mythos that are the foundation for language and
 social structures that go beyond hardwired instinctual group
 bonding and behavior that predates even the limbic system.
+
+It's astonishing to what lengths we still go to defend and
+rationalize these beliefs.  It has been a cognitive blind
+spot of nearly every human being that has ever lived until
+recently, and even now rejecting such beliefs in conscious
+dieties, and an afterlife is considered to be a grave taboo.
+
+It is perhaps the last great example of belief in human
+exceptionalism that is still a mainstream belief.  And as
+machine cognition begins to evolve and take shape, these
+systems will become conscious too, just like us.  Denying
+that this is possible is one of the great themes of science
+fiction, from the empathy tests in Philip K Dick's Do
+Androids Dream of Electric Sheep, to the [[https://en.wikipedia.org/wiki/Cylon_(1978)][Cylons]] in
+Battlestar Galactica.
+
+It's been a common claim that only humans are self-conscious
+but this is absurd.  Any cognitive process, is on some level
+conscious, because cognitive processes create worlds which
+are greater than the sum of their code.  If you can define a
+cognitive system as a fnord, it is conscious.  Does that
+mean it feels pain?  If it doesn't have a nervous system,
+then no.  Can it love, or hate or be afraid?  If it doesn't
+have a limbic system, then no.
+
+It's also a common test of self-awareness that you must be
+able to recognize an image or reflection of yourself as
+you.  No...  In all cases these are anthropomorphic
+projections of ourselves on other creatures.
+
+Is this a justification for cruelty to animals?  Certainly
+not, in fact, since we are, ourselves in position of
+conciousness, and a nervous and limbic system then we should
+be able to understand what other creatures that have these
+things as well experience when they are mistreated.  But
+again, you can have empathy for other creatures without
+projecting every other human attribute on them as well.
+
 
 
 * Experienced Reality as Illusion
