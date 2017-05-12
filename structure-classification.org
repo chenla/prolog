@@ -25,7 +25,22 @@
 
 * Introduction
 * Colon Classification
+
+ - [[https://en.wikipedia.org/wiki/Colon_classification][Colon classification]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/S._R._Ranganathan][S. R. Ranganathan]] | Wikipedia
+
+* Faceted Classification
+
+ - [[https://en.wikipedia.org/wiki/Faceted_classification][Faceted classification]] | Wikipedia
+
+* Folksonomies
+
+ - [[https://en.wikipedia.org/wiki/Folksonomy][Folksonomy]] | Wikipedia
+
 * Thesaurus
+
+ - 
+
 * FRBR & FRANAR
 
 ** FRBR -- Bibliographic Records
