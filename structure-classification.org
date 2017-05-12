@@ -27,6 +27,34 @@
 
  - [[https://en.wikipedia.org/wiki/Categorization][Categorization]] | Wikipedia
 
+While categorization and classification are not strictly
+data structures, they are how we take information and turn
+them into data structures.  In that sense the schemes we use
+to structure things go hand in hand with the data structures
+that result from these processes.
+
+Classification is process of simplification and making
+things legible in both the good and bad senses of the term.
+In fact legibility can not be achieved without some sort of
+classification scheme.
+
+Classification and organization or structuring anything are
+almost interchangable -- you can't have one without the
+other.  And, as has been oft said, the way an organization
+organizes it's information is a mirror of the way that power
+is organized within that organization.
+
+Classification may sound like a rather dry and esoteric
+topic, but it lies at the center of civilization,
+government, war, business, science and education.
+
+This is not intended to be a comprehensive history or overview
+of classification and categorization but it is meant to
+provide enough background and context to unserstand the
+design choices that have gone into BMF and how the Prolog,
+Primer and Hoard are organized.
+
+
 * Colon Classification
 
  - [[https://en.wikipedia.org/wiki/Colon_classification][Colon classification]] | Wikipedia
