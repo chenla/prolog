@@ -1,0 +1,26 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Classification 
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name:      /home/deerpig/proj/chenla/prolog/structure-classification.org
+  :Created:   2017-05-12T14:50@Prek Leap (11.642600N-104.919210W)
+  :ID:        1dc4507e-394b-47b8-8eb5-aaac00812c04
+  :VER:       547847467.144688757
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:BUY6-1800
+  :CUSTOM_ID: 
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
