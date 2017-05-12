@@ -24,3 +24,19 @@
 #+TOC: headlines 4
 
 * Introduction
+* Colon Classification
+* Thesaurus
+* FRBR & FRANAR
+
+ - http://www.library.illinois.edu/cam/rda/files/FRAD.pdf | 
+   IFLA (2009)
+ - https://www.ifla.org/files/assets/cataloguing/frad/frad_2013.pdf |
+   IFLA (2013)
+ - https://www.ifla.org/files/assets/cataloguing/frbr/frbr_2008.pdf |
+   IFLA (1997, 2009)
+ - [[https://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records][Functional Requirements for Bibliographic Records]] | Wikipedia
+ - [[bib:maxwell:2008frbr][FRBR A Guide for the Perplexed]] | Robert L. Maxwell (2008)
+ - [[https://www.loc.gov/cds/downloads/FRBR.PDF][What is FRBR? A Conceptual Model for the Bibliographic Universe]] |
+   Barbara Tillet (2004)
+ - [[http://kcoyle.net/beforeAndAfter/index.html][FRBR Before and After]] | Karen Coyle (2015) ([[bib:coyle:2015frbr][local copy]])
+ 
