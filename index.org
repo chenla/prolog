@@ -77,6 +77,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
    - [[./structure-tree.org][Tree]]
    - [[./structure-rhizome.org][Rhizome]]
    - [[./structure-holon.org][Holon]]
+   - [[./structure-classification.org][Classification]]
 
  - [[prolog-identity.org][Identity]] & Roles
  - [[prolog-pace.org][Pace Layers]]
