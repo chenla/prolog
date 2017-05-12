@@ -37,9 +37,17 @@
 
  - [[https://en.wikipedia.org/wiki/Folksonomy][Folksonomy]] | Wikipedia
 
+* Controlled Vocabulary
+
+ - [[https://en.wikipedia.org/wiki/Controlled_vocabulary][Controlled vocabulary]] | Wikipedia
+ - [[http://www.well.com/~doctorow/metacrap.htm][Metacrap]] | Cory Doctorow 
+
 * Thesaurus
 
- - 
+ - [[https://en.wikipedia.org/wiki/Thesaurus_(information_retrieval)][Thesaurus (information retrieval)]] | Wikipedia
+ - [[http://www.niso.org/apps/group_public/download.php/12591/z39-19-2005r2010.pdf][ANSI/NISO Z39.19-2005]] (R2010) | NISO
+   ISBN: 1-880124-65-3 
+
 
 * FRBR & FRANAR
 
