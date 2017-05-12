@@ -47,9 +47,11 @@
  - [[https://en.wikipedia.org/wiki/Thesaurus_(information_retrieval)][Thesaurus (information retrieval)]] | Wikipedia
  - [[http://www.niso.org/apps/group_public/download.php/12591/z39-19-2005r2010.pdf][ANSI/NISO Z39.19-2005]] (R2010) | NISO
    ISBN: 1-880124-65-3 
+ - [[https://en.wikipedia.org/wiki/ISO_25964][ISO 25964]] | Wikipedia
+ - ISO 25964 --> fucking expensive!
+ - [[https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System][Simple Knowledge Organization System (SKOS)]]  | Wikipedia
 
-
-* FRBR & FRANAR
+* FRBR
 
 ** FRBR -- Bibliographic Records
  - https://www.ifla.org/files/assets/cataloguing/frbr/frbr_2008.pdf 
