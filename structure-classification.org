@@ -24,6 +24,9 @@
 #+TOC: headlines 4
 
 * Introduction
+
+ - [[https://en.wikipedia.org/wiki/Categorization][Categorization]] | Wikipedia
+
 * Colon Classification
 
  - [[https://en.wikipedia.org/wiki/Colon_classification][Colon classification]] | Wikipedia
@@ -32,6 +35,11 @@
 * Faceted Classification
 
  - [[https://en.wikipedia.org/wiki/Faceted_classification][Faceted classification]] | Wikipedia
+
+* Taxonomy 
+
+ - [[https://en.wikipedia.org/wiki/Taxonomy_(general)][Taxonomy (general)]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Ontology_(information_science)][Ontology (information science)]] | Wikipedia
 
 * Folksonomies
 
@@ -49,7 +57,13 @@
    ISBN: 1-880124-65-3 
  - [[https://en.wikipedia.org/wiki/ISO_25964][ISO 25964]] | Wikipedia
  - ISO 25964 --> fucking expensive!
+
+* SKOS
+
  - [[https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System][Simple Knowledge Organization System (SKOS)]]  | Wikipedia
+ - [[https://www.w3.org/2004/02/skos/][SKOS Simple Knowledge Organization System]] | W3C (home)
+ - [[https://www.w3.org/TR/2009/CR-skos-reference-20090317/][SKOS Simple Knowledge Organization System Reference]] | W3C (primer)
+
 
 * FRBR
 
