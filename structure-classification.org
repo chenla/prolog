@@ -50,7 +50,7 @@ government, war, business, science and education.
 
 This is not intended to be a comprehensive history or overview
 of classification and categorization but it is meant to
-provide enough background and context to unserstand the
+provide enough background and context to understand the
 design choices that have gone into BMF and how the Prolog,
 Primer and Hoard are organized.
 
