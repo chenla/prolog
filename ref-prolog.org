@@ -8,14 +8,12 @@
 #+PROPERTY: filename
 #+TOC: headlines 4
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/ref-prolog.org
-  :Created: 2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
-  :ID: 22d37595-e4ec-4b44-87c2-73e96ed916eb
-  :VER: 546735262.598557129
-  :BXID: GRO44-6794
-  :TSPACE: prolog/works/org.chenla
   :CUSTOM_ID: Prolegomena_References_()
-  :URL:
+  :Name:      /home/deerpig/proj/chenla/prolog/ref-prolog.org
+  :Created:   2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
+  :ID:        22d37595-e4ec-4b44-87c2-73e96ed916eb
+  :VER:       546735262.598557129
+  :BXID:      proj:GRO44-6794
   :END:
 
   :TREE:
@@ -55,5 +53,5 @@ to be determined.  But hey, this is a bottom up process.
 I've spent enough years thinking about it top down, so let's
 see if we can no implement it bottom up.
 
-** 
+
 
