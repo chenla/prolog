@@ -8,17 +8,24 @@
 #+PROPERTY: filename
 #+TOC: headlines 4
   :PROPERTIES:
-  :CUSTOM_ID: Prolegomena_References_()
+  :CUSTOM_ID: Prolegomena_References
   :Name:      /home/deerpig/proj/chenla/prolog/ref-prolog.org
   :Created:   2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
   :ID:        22d37595-e4ec-4b44-87c2-73e96ed916eb
-  :VER:       546735262.598557129
+  :STAMP:     546735262.598557129
   :BXID:      proj:GRO44-6794
   :END:
 
   :TREE:
-  :BT: 
+  :BT: (prop value)
+       (owner deerpig)
 
+   [  ][  ]
+
+   value      -- for the relationship - implies self as prov
+   prop value -- key value pair - implies self as prov
+   triple     -- triple - implies self as prov
+   quad       -- external prov
 
   :END:
 
@@ -72,7 +79,9 @@ tspace index for the bxid.
 
 The index is very simple:
 
-  ("GR044-6794" "546735262.598557129" "22d37595-e4ec-4b44-87c2-73e96ed916eb")
+  ("GR044-6794.546735262.598557129" 
+   "Prolegomena_References" 
+   "22d37595-e4ec-4b44-87c2-73e96ed916eb")
 
 Search list for GR044-6794 which will return all triples for GR044-6794.
 
@@ -114,6 +123,9 @@ Then we will need:
     on the whole burr, but anything pointing to block or
     inline content must be tied to specific versions.
 
+  - helm interface for looking up burrs by bxid and
+    custom_id should be able to insert custom_id or bxid at
+    point...
 
 
 
