@@ -55,3 +55,44 @@ see if we can no implement it bottom up.
 
 
 
+* Notes towards the next Burs
+
+define a new org protocol  'bmf'
+
+  :BXID:      proj:GRO44-6794
+
+look up 'proj' in LINK and expand which gives us a local path to the
+tspace index for the bxid.
+
+The index is very simple:
+
+  ("GR044-6794" "546735262.598557129" "22d37595-e4ec-4b44-87c2-73e96ed916eb")
+
+Search list for GR044-6794 which will return all triples for GR044-6794.
+
+Then sort by the car cdr and take the top one which will be most recent.
+
+Finally grab the id for top one which, is then used to go to the burr
+using the org id function.
+
+So:
+
+   bmf:/proj/GR044-6794
+
+Goes to the latest version of the burr.  But you can also link to a
+specific version by appending the version/time stamp.
+
+   bmf:/proj/GR044-6794.546735262.598557129
+
+--------
+
+Then we will need:
+
+  - function for indexing all of the bxids
+
+  - version control -- which means you commit a burr which
+    copies the old version into an archive and then gives
+    a new id to the new version.  Do we want a commit string?
+
+Once this basic lookup is done we can start working on the
+external database 
