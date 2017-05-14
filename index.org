@@ -58,7 +58,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - [[./prolog-manifesto.org][Manifesto]]
  - [[./prolog-introduction.org][Introduction]]
- - [[prolog-cosmos.org][Cosmos]]
+ - [[./prolog-cosmos.org][Cosmos]]
 
  - [[./prolog-philosopy.org][Philosophy]]
    - Cosmology
@@ -85,8 +85,7 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
  - [[./prolog-patterns.org][Patterns]]
 
-
- - Context
+- Context
    - [[prolog-scope.org][Scope]]
    - Level of Detail (LOD)
    - Rate of Change  (ROC)
