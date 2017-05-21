@@ -429,6 +429,25 @@ The whole social media ecosystem is build around speed, and
 not giving people enough time to think because you can make
 more money when people react than when they think.
 
+My takeaway from this is that we need to build tools to deal
+with overload, and give us time for otium.  Social media is
+negotium in the harshest sense of the word.  And we need to
+learn to feel comfortable again with the vast majority of
+our communications being asynchronous.  Teach people to use
+IM only for what is immediately important -- not as a
+shorthand means of communication and chat.
+
+Chat is limited but useful -- and again should not be used
+to conduct conversations that are more than a brief back and
+forth to ask and answer a question in real time.
+
+We need to take back email, and it's legacy as an electronic
+analog to paper correpondance through the post.
+
+Most comment threads are pointless and would be better
+served by measured responses to papers and articles that
+take place over days and weeks.
+
 * What where when
 
 I find it remarkable that our brains store what, where and
@@ -448,6 +467,9 @@ something new.
 
 -- [[https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=https://t.co/OcAMCcjA2H][We Aren’t Built to Live in the Moment]] | New York Times
 #+end_quote
+
+We reconstruct memories in different ways, in context with
+what we know at the moment we recall things.
 
 #+begin_quote
 Episodic memory is widely conceived as a fundamentally
