@@ -365,7 +365,7 @@ and the longer article that it links to.
 - [[http://rstb.royalsocietypublishing.org/content/362/1481/773][The cognitive neuroscience of constructive memory:
   remembering the past and imagining the future]] |
   Philosophical Transactions of the Royal Society B:
-  Biological Sciences DOI: 10.1098/rstb.2007.2087 ([[bib:schacter:2007cognitive][local])
+  Biological Sciences DOI: 10.1098/rstb.2007.2087 ([[bib:schacter:2007cognitive][local]])
 
 
 What struck me, reading the NYT article was something that
@@ -428,6 +428,11 @@ looking to influence political issues and elections.
 The whole social media ecosystem is build around speed, and
 not giving people enough time to think because you can make
 more money when people react than when they think.
+
+* What where when
+
+I find it remarkable that our brains store what, where and
+when in different parts of the brain.
 
 #+begin_quote
 Perhaps the most remarkable evidence comes from recent brain
