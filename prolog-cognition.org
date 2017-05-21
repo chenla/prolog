@@ -367,8 +367,33 @@ and the longer article that it links to.
   Philosophical Transactions of the Royal Society B:
   Biological Sciences DOI: 10.1098/rstb.2007.2087 ([[bib:schacter:2007cognitive][local])
 
+
+What struck me, reading the NYT article was something that
+didn't occur to anyone in the HN discussion thread.  If we
+are not wired to live in the moment -- it means that the
+moment is not our strong suit.  But for a long time now, a
+hundred years at least, the amount of change and information
+that we have to deal with is growing exponentially.  This
+leaves us with less time to contemplate our prospects, as
+the article puts it.
+
+The tools that have emerged in the last two decades haven't
+helped this at all.  Instead of help us to cope with the
+overload, we are simply given tools to wack up the overload
+to eleven.  We are now encouraged to live and act and
+communicate and make decisions in the moment, rather than
+think things through first.  It started with email and
+usenet.  Both were originally designed for UUCP store and
+forward networks, not instant and always on.  So we started
+using email as something that required immediate attention,
+and for people to respond in like kind.  USENET was never
+able to really make the leap so discussions moved to mailing
+lists and then online forums.
+
+
+
 #+begin_quote
-erhaps the most remarkable evidence comes from recent brain
+Perhaps the most remarkable evidence comes from recent brain
 imaging research. When recalling a past event, the
 hippocampus must combine three distinct pieces of
 information — what happened, when it happened and where it
