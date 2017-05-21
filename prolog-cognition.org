@@ -27,8 +27,8 @@
 It came to me last night, just as I was ready to close up
 the office, that the reason that intelligence is a black
 box is because in the map-territory relation, once a
-cognitive system reaches a certain threshold of complexity
-it can not longer be legible.
+cognitive system reaches a certain threshold of complexity, 
+can no longer be legible.
 
 You can't separate intelligence from the information that it
 learned from.  Humans are not naturally intelligent, when we
