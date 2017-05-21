@@ -357,3 +357,24 @@ and the longer article that it links to.
 -- [[https://www.reddit.com/user/zmil][zmil]] (comment)
    [[https://www.reddit.com/r/slatestarcodex/comments/688g0a/the_ai_cargo_cult_kevin_kellys_skepticism_of/]['The AI Cargo Cult': Kevin Kelly's skepticism of superhuman AI]] | slatestarcodex
 #+end_quote
+
+* We Aren’t Built to Live in the Moment (NYT article)
+
+- [[https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=https://t.co/OcAMCcjA2H][We Aren’t Built to Live in the Moment]] | New York Times
+
+
+
+#+begin_quote
+erhaps the most remarkable evidence comes from recent brain
+imaging research. When recalling a past event, the
+hippocampus must combine three distinct pieces of
+information — what happened, when it happened and where it
+happened — that are each stored in a different part of the
+brain. Researchers have found that the same circuitry is
+activated when people imagine a novel scene. Once again, the
+hippocampus combines three kinds of records (what, when and
+where), but this time it scrambles the information to create
+something new.
+
+-- [[https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=https://t.co/OcAMCcjA2H][We Aren’t Built to Live in the Moment]] | New York Times
+#+end_quote
