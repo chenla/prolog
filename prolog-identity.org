@@ -53,9 +53,64 @@ are not us, and we don't own them.
 
 So it makes sense that roles are defined by corporate bodies
 and that while you take on that role, you will have a
-namespace that is associated with you.
+name within a corporate namespace that is associated with you.
+
+So your account on twitter or reddit, are in a sense, roles
+within those communities.  A role is not the same as an
+account but can be, it could also be a job title,
+citizenship, membership in a party or church.  So far so
+good.
+
+But none of these roles are interoperable in a useful way to
+the individual.  
+
+What is needed is a reasonable level of privacy combined
+with transparency.  When you are 30 years old you don't want
+your boss to be able to easily find pictures of you at a keg
+party in freshman year in uni, nor your uni schoolmates to
+see your emo stage content you wrote in HS.  And you don't
+want a master switch that unlocks it all by a guy with a $5
+wrench aimed at your head.
+
+So first -- all content should have a TTL that matches
+different stages in your life.  And even within those stages
+there should be a TTL.
+
+This does not stop a three letter agency or a google or
+facebook from hoovering up everything and keeping it
+forever.
+
+And there is also facial recognition and other ways of
+determining if the same person is the same in two different
+roles.
+
+But it will take some effort to do so -- and should require
+non-trivial amounts of resources, just the same in the old
+days that an investigator could go to your home town
+library, and look up your yearbook, or go through county
+records, or other public records and piece a lot things
+together.  
+
+There is no technological way of safeguarding such things --
+it will have to be done through enforceble rules and laws,
+and there should be requirements for warrants to have to be
+issued to obtain access to different roles.
+
+I strongly disagree with the idea of the right to be
+forgotten as it stands now -- that is erasing things from
+the public record and if it is clear what is private and
+what is public then when something is made public, it should
+stay public.
 
 
+
+myrole: deerpig
+
+    private key
+    public key
+
+   - /u/deerpig  stamp  --> role-hash --> signed
+   - @deerpig    stamp  --> role-hash --> signed 
 
 
 
