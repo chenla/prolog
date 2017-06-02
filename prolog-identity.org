@@ -96,7 +96,22 @@ girl at the desk across from yours, it is not owned by the
 company and can not be seen by the company unless both
 parties agree.  So if you slag off the boss -- you and the
 person you told this to would have to agree to open this up
-for the boss to see.
+for the boss to see.  And there is no reason to disclose
+that those roles exist to the company and there should be
+plausible deniability when you create a role.
+
+For this to work, shared roles should be created
+automatically based on the context of what you are doing,
+not only as an explicit act.  Then we can provide all sorts
+of ways to consolidate roles like we do in version control.
+Merge, squash etc.  So if a romance evolves from a
+friendship, the two parties can squash  bunch of small roles
+into a more formal role.  You can also invite people into a
+group, as well as kick them out (and make the distinction of
+cutting them off from content they previously had access to,
+or cutting off access to any content in the group made after
+they had been kicked out).
+
 
 This does not stop a three letter agency or a google or
 facebook from hoovering up everything and keeping it
