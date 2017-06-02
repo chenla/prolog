@@ -32,6 +32,32 @@ Refs
    - [[https://en.wikipedia.org/wiki/Reasons_and_Persons][Reasons and Persons]] | Wikipedia
    
 
+* Identity & Roles as Namespaces
+
+The more I think about it, there is no way of separating a
+shared role from a namespace -- each of our roles is part of
+a collective, even if that is just two people.
+
+We are not individuals -- we are corporate identities, even
+to ourselves -- a loose overlapping ever changing collection
+of roles, some internal, some external.
+
+If you are the CEO of a company -- that is a role that you
+represent in that company, it is not you, or even owned by
+you.  In fact it doesn't even have to be a person at all, it
+could be a piece of software.
+
+Many if not most of our roles are not defined by us, they
+are accepted (willingly or not) to be played by us, but they
+are not us, and we don't own them.
+
+So it makes sense that roles are defined by corporate bodies
+and that while you take on that role, you will have a
+namespace that is associated with you.
+
+
+
+
 
 * An Identity Model
 ** Introducion
