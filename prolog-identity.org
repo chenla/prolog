@@ -105,17 +105,36 @@ automatically based on the context of what you are doing,
 not only as an explicit act.  Then we can provide all sorts
 of ways to consolidate roles like we do in version control.
 Merge, squash etc.  So if a romance evolves from a
-friendship, the two parties can squash  bunch of small roles
-into a more formal role.  You can also invite people into a
-group, as well as kick them out (and make the distinction of
-cutting them off from content they previously had access to,
-or cutting off access to any content in the group made after
-they had been kicked out).
+friendship, the two parties can squash a bunch of small
+roles into a more formal private role.  You can also invite
+people into a group, as well as kick them out (and make the
+distinction of cutting them off from content they previously
+had access to, or cutting off access to any content in the
+group made after they had been kicked out).
 
+Again, this is not a panacea -- it will still largely have
+the same holes and be as messy as our real lives, but it
+will provide a means of establishing reasonable behavior and
+boundries we can live with.
 
 This does not stop a three letter agency or a google or
 facebook from hoovering up everything and keeping it
 forever.
+
+Then there is the problem of bad actors that make such
+systems illegal or for a state to require backdoors, or to
+provide wiretap access to any role.  I hope we can develop
+the system so that states who do this, will have a handicap
+that ultimately works against them. This is not something that
+will be easy, or will be obvious.  I do think that this is
+possible though.  If the system is not secure -- then it
+can't be trusted.  
+
+Remember, this identity system will be part of a larger
+transaction system that is transparent and trustless.  
+
+A bad state still has their $5 wrench -- which should be
+enough.
 
 And there is also facial recognition and other ways of
 determining if the same person is the same in two different
