@@ -175,6 +175,20 @@ this difficult.  I don't know how I feel about that yet...
 This will require more than a little bit of a learning curve
 for us.  To keep roles from leaking too much.
 
+It will also require that everything is encrypted --
+everything -- and that we will have to do our own indexing
+and generate our own metadata locally and then choose who
+has access to what.
+
+When you buy a phone or camera -- you should first be asked
+to create a key pair, that encrypts everything done on the
+phone -- and you should be able to then check that the
+software on the phone and the hardware hasn't been tampered
+with by checking against a trusted authentication
+source.... but that is a whole subject in its own right and
+outside of the identity model.
+
+
 ---
 
 myrole: deerpig
