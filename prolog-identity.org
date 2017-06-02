@@ -76,6 +76,28 @@ So first -- all content should have a TTL that matches
 different stages in your life.  And even within those stages
 there should be a TTL.
 
+In fact the TTL shouldn't be based on the content, but on
+the role itself.  Your HS role will bleed over in the first
+months you are at College, your single role will bleed over
+to your engaged role and then into your married role and
+then split into parent and married roles, but only for a set
+period, and then things get archived under past roles.
+Humans mark different stages of their lives within the
+social groups they belong to.  This is natural.
+
+Your role as programmer is a title owned by the corporation
+-- but is not the same as your semi-private role as
+colleague with others in the company while you worked there.
+The boss has the right to data when you are in a corporate
+role, but not to the data as a colleague even though most of
+the interactions take place on company time and in company
+facilities.  If you share a picture of your dog with the
+girl at the desk across from yours, it is not owned by the
+company and can not be seen by the company unless both
+parties agree.  So if you slag off the boss -- you and the
+person you told this to would have to agree to open this up
+for the boss to see.
+
 This does not stop a three letter agency or a google or
 facebook from hoovering up everything and keeping it
 forever.
@@ -116,7 +138,8 @@ you can do a screen capture of the picture that bipasses the
 role as well, unless we lock down our applications to make
 this difficult.  I don't know how I feel about that yet...
 
-
+This will require more than a little bit of a learning curve
+for us.  To keep roles from leaking too much.
 
 ---
 
