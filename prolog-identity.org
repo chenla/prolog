@@ -104,6 +104,8 @@ stay public.
 
 
 
+---
+
 myrole: deerpig
 
     private key
@@ -112,6 +114,10 @@ myrole: deerpig
    - /u/deerpig  stamp  --> role-hash --> signed
    - @deerpig    stamp  --> role-hash --> signed 
 
+
+* Roles as institutional intermediation
+
+  - [[https://www.brookings.edu/wp-content/uploads/2017/05/more-professionalism-less-populism.pdf][more-professionalism-less-populism.pdf]] | brookings institute
 
 
 * An Identity Model
