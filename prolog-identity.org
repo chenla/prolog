@@ -102,6 +102,20 @@ the public record and if it is clear what is private and
 what is public then when something is made public, it should
 stay public.
 
+If you are a senator having an affair -- you and whoever you
+are with can form a corporate joint identity that requires
+any picture that is sent by either of you in that role to 
+require consent from both parties to be shared.  This makes
+dick pics a bit more difficult to leak into your public role
+as senator, or your private role as father, or parent.
+
+It will not prevent one of the parties from forking the
+photo and making that public, but when that happens the
+other party should be informed of the fork.  And even then,
+you can do a screen capture of the picture that bipasses the
+role as well, unless we lock down our applications to make
+this difficult.  I don't know how I feel about that yet...
+
 
 
 ---
