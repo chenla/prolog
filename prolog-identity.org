@@ -181,12 +181,11 @@ and generate our own metadata locally and then choose who
 has access to what.
 
 So when does something, in a shared role, become part of
-that role?  When you mark something as shared?  When you sed
+that role?  When you mark something as shared?  When you said
 it?  Can you edit your own content without the other party's
 consent?  What about copy and paste something from one role
 to another?  In order for this to work, we will need
 the equiv of git for identities and roles.
-
 
 When you buy a phone or camera -- you should first be asked
 to create a key pair, that encrypts everything done on the
