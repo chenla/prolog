@@ -10,11 +10,12 @@ to the concepts and contextual and social assumptions that the
 /Primer/ is based on.  In that sense this will be the primer for the
 /Primer/.
 
-Dictionaries define a /prolegomenon/ as a discursive introduction; a map
-of a territory.  But sometimes the territory is so expansive that the
-map that models it is great enough to warrant a map of it's own... 
+Dictionaries define a /prolegomenon/ as a discursive introduction; a
+map of a territory.  But sometimes the territory is so expansive that
+the map that models it is great enough to warrant a map of it's own...
 Ranganathan's Prolegomenon was such an introduction.  Wordsworth's
-/Prelude/ ate up so much that the /Recluse/ was never completed....
+/Prelude/ ate up so much time and space that the /Recluse/ was never
+completed....
 
 I fear that this will be the fate of my humble literate computational
 prolegomena as well.
