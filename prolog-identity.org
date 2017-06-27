@@ -1,7 +1,32 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Identity
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/prolog-identity.org
+:Created:   2017-02-02T18:51@Prek Leap (11.642600N-104.919210W)
+:ID:        5a67ded4-ffb0-4ccd-82ad-9cf9b9a3612c
+:VER:       551808392.176235181
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:INF1-6741
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
   :PROPERTIES:
   :Name: /home/deerpig/proj/chenla/prolog/prolog-identity.org
   :Created: 2017-02-02T18:51@Prek Leap (11.642600N-104.919210W)
