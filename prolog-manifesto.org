@@ -16,7 +16,7 @@
 :BXID:      proj:DAD8-2015
 :Class:     primer
 :Type:      work
-:Status:    stub
+:Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
