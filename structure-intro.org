@@ -1,27 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Introduction to Structures
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/structure-intro.org
-  :Created: 2017-04-22T18:24@Prek Leap (11.642600N-104.919210W)
-  :ID: 4cdc40ea-de02-41e1-9f80-b8cd001f68df
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/structure-intro.org
+:Created:   2017-04-22T18:24@Prek Leap (11.642600N-104.919210W)
+:ID:        4cdc40ea-de02-41e1-9f80-b8cd001f68df
+:VER:       551832513.079595391
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:UVH2-3253
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
-
 
 #+BEGIN_QUOTE
 An experience of seeing things in their separateness, but
