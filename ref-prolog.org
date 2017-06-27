@@ -1,21 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Prolegomena References
-#+AUTHOR: Brad Collins
-#+EMAIL: brad@chenla.la
-#+PROPERTY: header-args    :results drawer  :tangle ref-prolog.el
 
+#+TITLE: Prolegomena References
 #+STARTUP: showall
-#+PROPERTY: filename
 #+TOC: headlines 4
-  :PROPERTIES:
-  :CUSTOM_ID: Prolegomena_References
-  :Name:      /home/deerpig/proj/chenla/prolog/ref-prolog.org
-  :Created:   2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
-  :ID:        22d37595-e4ec-4b44-87c2-73e96ed916eb
-  :GEO:       48P-491193-1287029-15
-  :STAMP:     546735262.598557129
-  :BXID:      proj:GRO44-6794
-  :END:
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/ref-prolog.org
+:Created:   2017-04-29T17:50@Prek Leap (11.642600N-104.919210W)
+:ID:        22d37595-e4ec-4b44-87c2-73e96ed916eb
+:VER:       551831796.260207619
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:CNG1-6554
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
 
   :TREE:
   :BT: (prop value)
