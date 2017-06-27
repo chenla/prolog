@@ -1,27 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Muscle
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/prolog-muscle.org
-  :Created: 2017-04-15T19:18@Prek Leap (11.642600N-104.919210W)
-  :ID: 42c19dca-114c-46bd-a854-8bbc5936eacd
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/prolog-muscle.org
+:Created:   2017-04-15T19:18@Prek Leap (11.642600N-104.919210W)
+:ID:        42c19dca-114c-46bd-a854-8bbc5936eacd
+:VER:       551810031.630315278
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:WPG1-8106
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
-
 
 Everything started with human muscle:
 
