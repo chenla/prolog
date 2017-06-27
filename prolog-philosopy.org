@@ -1,26 +1,32 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Scopic Philosophy
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/prolog-philosopy.org
-  :Created: 2017-03-19T12:08@Prek Leap (11.642600N-104.919210W)
-  :ID: f8cb3166-0ba2-4d95-acc5-97e604c2982e
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/prolog-philosopy.org
+:Created:   2017-03-19T12:08@Prek Leap (11.642600N-104.919210W)
+:ID:        f8cb3166-0ba2-4d95-acc5-97e604c2982e
+:VER:       551830632.036621647
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:SCS5-2438
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
+
 The Epicurean Saddle on the Stoic Horse
 - Title is a paraphrase from William Bradford "The Pilgram
   Saddle on the Puritan Horse".
