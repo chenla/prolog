@@ -1,27 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Introduction to Certainty
+
+#+TITLE: Introduction to Uncertainty
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/certain-intro.org
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/prolog/certain-intro.org
   :Created: 2017-04-22T19:23@Prek Leap (11.642600N-104.919210W)
   :ID: 1c4bd9b4-0439-41a8-9971-737c0800e8d1
-  :URL:
+  :VER:       551805940.202288559
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:MIL3-8564
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 * Introduction
-
 
 #+begin_comment
 Is belief, meaning etc. certainty? likely not -- methinks i needs more
