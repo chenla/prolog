@@ -1,45 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Master Plan
+
+#+TITLE: Master Plan Notes
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
 :PROPERTIES:
-:Name: /home/deerpig/proj/chenla/core-docs/master-plan.org
-:Created: 2016-09-17T15:34@Prek Leap (11.642600N-104.919210W)
-:ID: fa188367-d380-493a-b8d2-d70c12982248
-:URL:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/notes.org
+:Created:   2016-09-17T15:34@Prek Leap (11.642600N-104.919210W)
+:ID:        fa188367-d380-493a-b8d2-d70c12982248
+:VER:       551808253.099768612
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:FKS2-6164
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
 :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
-
-
-* Changes since version: src_sh[:results value]{git describe --abbrev=0 --tags}
-
-#+HTML: <ul>
-
-#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.01"
-RES=`git log $TAG...HEAD --pretty="<li>%s</li>\n" -- master-plan.org`
-if [ -z $RES ]; then
-RES="<li>no changes</li>"
-fi
-echo $RES
-#+END_SRC
-
-#+RESULTS:
-#+BEGIN_EXPORT html
-<li>no changes</li>
-#+END_EXPORT
-
-#+HTML: </ul>
-#+HTML: </div>
 
 * Introduction
 
