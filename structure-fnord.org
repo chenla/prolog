@@ -1,24 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Fnord
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/structure-fnord.org
-  :Created: 2017-04-21T12:07@Prek Leap (11.642600N-104.919210W)
-  :ID: 3f9a27e8-f283-420d-a61b-9eb13a3f755a
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/structure-fnord.org
+:Created:   2017-04-21T12:07@Prek Leap (11.642600N-104.919210W)
+:ID:        3f9a27e8-f283-420d-a61b-9eb13a3f755a
+:VER:       551832325.349913642
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:ESW7-5117
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
 
