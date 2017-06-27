@@ -1,24 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Rhizome
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/prolog/structure-rhizome.org
-  :Created: 2017-04-21T12:06@Prek Leap (11.642600N-104.919210W)
-  :ID: 1403ffe9-6206-4034-af65-791e9d47739b
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/structure-rhizome.org
+:Created:   2017-04-21T12:06@Prek Leap (11.642600N-104.919210W)
+:ID:        1403ffe9-6206-4034-af65-791e9d47739b
+:VER:       551832724.453867419
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:IUA4-3466
+:Class:     primer
+:Type:      work
+:Status:    stub
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
 
