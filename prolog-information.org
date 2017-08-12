@@ -27,3 +27,28 @@
 
 * Introduction
 
+
+#+begin_quote
+There’s only meaning where there’s prior agreement about our
+symbols. And all communication is like this, from waves sent over
+electrical wires, to the letters agreed upon to symbolize words, to
+the words agreed upon to symbolize things.
+
+ - [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+#+end_quote
+
+#+begin_quote
+The real measure of information is not in the symbols we send— it’s in
+the symbols we could have sent, but did not. To send a message is to
+make a selection from a pool of possible symbols, and “at each
+selection there are eliminated all of the other symbols which might
+have been chosen.” To choose is to kill off alternatives. Symbols from
+large vocabularies bear more information than symbols from small
+ones. Information measures freedom of choice.
+
+ - [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+#+end_quote
+
+
+
+
