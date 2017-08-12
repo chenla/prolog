@@ -26,6 +26,8 @@
  - [[./prolog-introduction.org][Introduction]]
  - [[./prolog-cosmos.org][Cosmos]]
 
+ - [[./prolog-information.org][Information]]
+
  - [[./prolog-philosopy.org][Philosophy]]
    - Cosmology
    - Ethics
