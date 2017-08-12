@@ -34,7 +34,8 @@ symbols. And all communication is like this, from waves sent over
 electrical wires, to the letters agreed upon to symbolize words, to
 the words agreed upon to symbolize things.
 
- - [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+ -- [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+     [[bib:soni:2017mind][A Mind at Play]] |  Jimmy Soni & Rob Goodman (2017)
 #+end_quote
 
 #+begin_quote
@@ -46,9 +47,50 @@ have been chosen.” To choose is to kill off alternatives. Symbols from
 large vocabularies bear more information than symbols from small
 ones. Information measures freedom of choice.
 
- - [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+ -- [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+    [[bib:soni:2017mind][A Mind at Play]] | Jimmy Soni & Rob Goodman (2017)
 #+end_quote
 
 
+#+begin_quote
+  - The information source produces a message.  The transmitter encodes
+  - the message into a form capable of being sent as a signal.  The
+  - channel is the medium through which the signal passes.   • The noise
+  - source represents the distortions and corruptions that afflict the
+  - signal on its way to the receiver.  The receiver decodes the
+  - message, reversing the action of the transmitter.   • The
+  - destination is the recipient of the message.
 
+The beauty of this stripped-down model is that it applies
+universally. It is a story that messages cannot help but play
+out—human messages, messages in circuits, messages in the neurons,
+messages in the blood. You speak into a phone (source); the phone
+encodes the sound pressure of your voice into an electrical signal
+(transmitter); the signal passes into a wire (channel); a signal in a
+nearby wire interferes with it (noise); the signal is decoded back
+into sound (receiver); the sound reaches the ear at the other end
+(destination).
+
+In one of your cells, a strand of your DNA contains the instructions
+to build a protein (source); the instructions are encoded in a strand
+of messenger RNA (transmitter); the messenger RNA carries the code to
+your cell’s sites of protein synthesis (channel); one of the “letters”
+in the RNA code is randomly switched in a “point mutation” (noise);
+each three-“letter” code is translated into an amino acid, protein’s
+building block (receiver); the amino acids are bound into a protein
+chain, and the DNA’s instructions have been carried out (destination).
+
+Those six boxes are flexible enough to apply even to the messages the
+world had not yet conceived of—messages for which Shannon was, here,
+preparing the way. They encompass human voices as electromagnetic
+waves that bounce off satellites and the ceaseless digital churn of
+the Internet. They pertain just as well to the codes written into
+DNA. Although the molecule’s discovery was still five years in the
+future, Shannon was arguably the first to conceive of our genes as
+information bearers, an imaginative leap that erased the border
+between mechanical, electronic, and biological messages.
+
+ -- [[http://nautil.us/issue/51/limits/how-information-got-re_invented][How Claude Shannon Rebooted Information]] | Nautilus
+    [[bib:soni:2017mind][A Mind at Play]] |  Jimmy Soni & Rob Goodman (2017)
+#+end_quote
 
