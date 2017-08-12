@@ -52,8 +52,12 @@ ones. Information measures freedom of choice.
 #+end_quote
 
 
+
+
 #+begin_quote
-  - The information source produces a message.  The transmitter encodes
+ [[./img/information/shannon.jpg]]
+
+- The information source produces a message.  The transmitter encodes
   - the message into a form capable of being sent as a signal.  The
   - channel is the medium through which the signal passes.   • The noise
   - source represents the distortions and corruptions that afflict the
