@@ -24,8 +24,58 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+#+begin_quote
+I don't have a way to change the behavior of
+seven-point-five billion people carrying their beliefs
+around like precious ges wrapped in hand grenades.
+
+-- [[http://theoatmeal.com/comics/believe][You're not going to believe what I'm about to tell you]] | The Oatmeal
+#+end_quote
+
 
 * Introduction
+
+It would be useful to have a theory of the absolute limits
+of cognition.  Can cognition infinitely scale or are there
+hard limits.
+
+Physical computation has physical limits in terms of energy
+and storage -- but computation isn't the same as cognition
+(is it?  I have to think about that).  But for now let's say
+that computation ≠ cognition.
+
+I think the whole map/territory relationship will be one of
+the biggest limits.  But also how fast information can
+propagate -- it's one thing to say that the entire universe
+is a computation engine -- but if information travels at the
+speed of light, then it will take millions and billions of
+years to complete a thought -- and there universe only has
+been around only a few more billions of years than than can
+be counted on two hands.  Of course there is quantum
+entanglement, spooky action at a distence,  but there is no
+evidence at present to suggest that this is being used by
+the universe in any way other than to literally keep it's
+shit together.  But then, we really don't know, or
+understand quantum entanglement except that it's real and it
+really messes with your head.
+
+But the map/territory problem, to me, is the real show
+stopper and would seem to make it impossible for a conscious
+omniscient intelligence who existed everywhere and knew
+everything at the same time (which is the definition of a
+monothesitic deity) to exist as part of the universe.  Such
+a thing would have to be outside of the unviverse, which
+again is possible, but then it would still run up against
+the same map/territory problem outside of the universe.  It
+might be omniscient of our universe, but not the universe at
+it's own scale.
+
+In other words, there may well be gods, but they are only
+gods, relative to ourselves at our scale.  And this begs the
+question that if this is true, then how far can it scale?
+If it's turtles all the way down, is size really real?  Is
+the multiverse just a single grain of sand of many
+multiverses?
 
 * cognition as territory
 
@@ -500,3 +550,7 @@ imagining the future.
 -- [[bib:schacter:2007cognitive][The cognitive neuroscience of constructive memory: remembering the past and
    imagining the future]] | Daniel L. Schacter (2007)
 #+end_quote
+
+* Cognitive Limits
+
+ - 
