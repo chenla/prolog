@@ -24,6 +24,11 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+#+begin_quote
+A strange game. The only winning move is not to play.
+
+-- WOPR | War Games 1983
+#+end_quote
 
 * Introduction
 
@@ -36,6 +41,7 @@
     American Prospect no. 24 (Winter 1996
     [http://epn.org/prospect/24/24putn.html]).
   - [[http://hbanaszak.mjr.uw.edu.pl/TempTxt/Putnam_1996_TheStraangeDisappearanceOfCivivAmerica.PDF][Putnam_1996_TheStraangeDisappearanceOfCivivAmerica.PDF]]
+  - [[https://aeon.co/essays/history-tells-us-where-the-wealth-gap-leads][History tells us where the wealth gap leads]] | Aeon Essays
   - [[http://peterturchin.com/cliodynamica/the-double-helix-of-inequality-and-well-being/][Peter Turchin The Double Helix of Inequality and Well-Being]] - Peter Turchin
   - War and Peace and War | Peter Turchin, 2007
   - Ultrasociety | Peter Turchin, 2015
