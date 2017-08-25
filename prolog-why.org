@@ -647,6 +647,10 @@ We literally need to go into space, to save the earth.
 
  - [[https://en.wikipedia.org/wiki/Mediocrity_principle][Mediocrity principle]] | Wikipedia (named by Carl Sagan)
 
+ - [[https://en.wikipedia.org/wiki/Occam%27s_razor][Occam's razor]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Duck_test][Duck test]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Fermi_paradox][Fermi paradox]] | Wikipedia
+
 
 * Footnotes
 
