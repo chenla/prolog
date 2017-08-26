@@ -651,6 +651,34 @@ We literally need to go into space, to save the earth.
  - [[https://en.wikipedia.org/wiki/Duck_test][Duck test]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Fermi_paradox][Fermi paradox]] | Wikipedia
 
+* Konstantin Tsiolkovsky
+
+ - [[https://web.archive.org/web/20120615044125/http://www.informatics.org/museum/tsiol.html][Tsiolkovsky]] | wayback machine
+ - [[https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky][Konstantin Tsiolkovsky]] | Wikipedia
+ - [[http://tsiolkovsky.org/en/cosmic-philosophy-by-tsiolkovsky/][Tsiolkovsky`s Cosmic Philosophy]] | Books, articles, manuscripts, letters
+ 
+#+begin_quote
+"The Earth is the cradle of the mind, but we cannot live
+forever in a cradle".
+ 
+-- Konstantin E. Tsiolkovsky-Kaluga | 1911. From a letter.
+#+end_quote
+
+#+begin_quote
+“I still have dreams in which I fly up to the stars in my
+machine,” Tsiolkovsky wrote in middle age. “It is difficult
+to work all on your own for many years, in adverse
+conditions without a gleam of hope, without any help.” Many
+of his contemporaries thought he was truly mad. Those who
+knew physics better than Tsiolkovsky and Goddard—including
+The New York Times in a dismissive editorial not retracted
+until the eve of Apollo 11—insisted that rockets could not
+work in a vacuum, that the Moon and the planets were forever
+beyond human reach.
+
+-- Pale Blue Dot | Carl Sagan
+#+end_quote
+
 
 * Footnotes
 
