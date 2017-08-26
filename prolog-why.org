@@ -661,7 +661,7 @@ We literally need to go into space, to save the earth.
 "The Earth is the cradle of the mind, but we cannot live
 forever in a cradle".
  
--- Konstantin E. Tsiolkovsky-Kaluga | 1911. From a letter.
+-- Konstantin Tsiolkovsky | 1911. From a letter.
 #+end_quote
 
 #+begin_quote
