@@ -27,7 +27,7 @@
 
 * Introduction
 
-Robin Hanson:
+Robin Hanson, Scott Alexander etal
 
 
   - [[http://www.overcomingbias.com/2017/08/forager-v-farmer-elaborated.html][Forager v Farmer, Elaborated]] | Overcoming Bias
@@ -39,6 +39,9 @@ Robin Hanson:
   - [[http://www.overcomingbias.com/2012/07/the-riddle-of-ritual.html][The Riddle of Ritual]] | Overcoming Bias
   - [[http://www.econ.yale.edu/smith/econ116a/keynes1.pdf][Economic Possibilities for our Grandchildren]] (pdf) | John
     Maynard Keynes, 1930
+  - [[http://www.overcomingbias.com/2010/06/foragers.html][Foragers]] | Overcoming Bias
+  - [[http://mason.gmu.edu/~rhanson/forager.pdf][Forager Facts]] | Youngberg, 2010
+  - [[http://www.overcomingbias.com/2012/08/sex-at-dusk-v-sex-at-dawn.html][Sex At Dusk v. Dawn]] |  Overcoming Bias
 
 ----
 
@@ -113,6 +116,9 @@ with the warrior class.  But in the end, the whole system is
 built on fear used to keep people in their place and force
 them to do what the more powerful wanted.
 
+
+....
+
 Foragers don't have this problem.  They could move any time.
 So if there are places where they can go to forage, it
 doesn't matter if they find other people foraging where they
@@ -126,6 +132,12 @@ family, and it was likely that partnering was a bit more
 looser than for farmers.
 
 
+So how does this square with Keeley, LeBlanc and Diamond?
+
+Is slash/burning agriculture or foraging?  are forrest
+peoples different from savannah?
+
+....
 
 #+begin_quote
 The farming mode required humans to swallow many changes
