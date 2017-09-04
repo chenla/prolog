@@ -43,6 +43,18 @@ Robin Hanson, Scott Alexander etal
   - [[http://mason.gmu.edu/~rhanson/forager.pdf][Forager Facts]] | Youngberg, 2010
   - [[http://www.overcomingbias.com/2012/08/sex-at-dusk-v-sex-at-dawn.html][Sex At Dusk v. Dawn]] |  Overcoming Bias
 
+  -  
+
+----
+
+Should start with concept of Hobbes vs Rousseau's /Nobile
+Savage/ and misconceptions about man, violence and war....
+
+ - War Before Civilization | Keeley, 1996
+ - Constant Battles | LeBanc, 2003
+ - War in Human Civilization | Gat, 2006 
+ - The World Until Yesterday | Diamond, 2012 
+
 ----
 
 The general idea is that the people settled down during the
@@ -206,3 +218,30 @@ together for unpopular positions.
 
 -- [[http://www.overcomingbias.com/2017/08/forager-v-farmer-elaborated.html][Forager v Farmer, Elaborated]] | Overcoming Bias, 2017
 #+end_quote
+
+Is it really safety vs fear that divides forager from farmer
+or a present vs future (okay, these are connected).
+Foragers lived from day to day, farmers lived for tomorrow:
+
+Sapiens quote
+
+#+begin_quote
+Many anthropological and archaeological studies indicate
+that in simple agricultural societies with no political
+frameworks beyond village and tribe, human violence was
+responsible for about 15 per cent of deaths, including 25
+per cent of male deaths. In contemporary New Guinea,
+violence accounts for 30 per cent of male deaths in one
+agricultural tribal society, the Dani, and 35 per cent in
+another, the Enga. In Ecuador, perhaps 50 per cent of adult
+Waoranis meet a violent death at the hands of another human!
+
+-- Sapiens 
+#+end_quote
+
+Gat, /War in Human Civilization/, 130–1;
+ 
+Robert S. Walker and Drew H. Bailey, /Body Counts in Lowland
+South American Violence/, Evolution and Human Behavior 34
+(2013), 29–34.
+
