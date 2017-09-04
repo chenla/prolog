@@ -29,8 +29,14 @@
 
 Robin Hanson:
 
+
+  - [[http://www.overcomingbias.com/2017/08/forager-v-farmer-elaborated.html][Forager v Farmer, Elaborated]] | Overcoming Bias
+  - [[http://www.overcomingbias.com/2015/08/specific-vs-general-foragers-farmers.html][Specific vs. General Foragers & Farmers]] | Overcoming Bias
+  - [[http://www.overcomingbias.com/2010/10/two-types-of-people.html][Two Types of People]] | Overcoming Bias
   - [[http://www.overcomingbias.com/2010/10/fear-made-farmers.html][Fear Made Farmers]] | Overcoming Bias
-  - [[http://slatestarcodex.com/2013/03/04/a-thrivesurvive-theory-of-the-political-spectrum/][A Thrive/Survive Theory Of The Political Spectrum]] | Slate Star Codex]]
+  - [[http://slatestarcodex.com/2013/03/04/a-thrivesurvive-theory-of-the-political-spectrum/][A Thrive/Survive Theory Of The Political Spectrum]] | Slate Star Codex
+  - [[http://www.overcomingbias.com/2016/04/school-is-to-submit.html][School Is To Submit]] | Overcoming Bias
+  - [[http://www.overcomingbias.com/2012/07/the-riddle-of-ritual.html][The Riddle of Ritual]] | Overcoming Bias
 
 
 ----
@@ -106,3 +112,66 @@ were limited because they had to be carried from place to place, so
 there wasn't an investment in land and possessions that would hurt
 them if they were lost.  Bands were larger than a family, and it was
 likely that partnering was a bit more looser than for farmers.
+
+
+
+#+begin_quote
+The farming mode required humans to swallow many changes
+that didn’t feel nice or natural to foragers. While foragers
+are fiercely egalitarian, farmers are dominated by kings and
+generals, and have unequal property and classes. Farmers
+work more hours at less mentally challenging tasks, and get
+less variety via travel. Huge new cultural pressures, such
+as religions with moralizing gods, were needed to turn
+foragers into farmers.
+
+-- [[http://www.overcomingbias.com/2016/04/school-is-to-submit.html][School Is To Submit]] | Robin Hanson, Overcoming Bias, 2016
+#+end_quote
+
+The agricultural revolution laid the psychological
+groundwork for preparing people for the industrial
+revolution.  But strangely, the trend since the late 20th
+century if for people to tend turn their backs on the
+farmer/worker model and begin to act more like foragers.
+
+#+begin_quote
+In the absence of such threats, the talky collective was the
+main arena that mattered. Everyone worked hard to look good
+by the far-view idealistic and empathy-based norms usually
+favored in collective views. They behaved well when
+observed, learned to talk persuasively to the group, and
+made sure to have friends to watch and talk for them. They
+expressed their emotions, and acted like they cared about
+others.
+
+When they felt on good terms with the group, people could
+relax and feel safe. They then become more playful, and
+acted like animals generally do when playful. Within a
+bounded safe space, behavior becomes more varied, stylized,
+artistic, humorous, teasing, self-indulgent, and emotionally
+expressive. For example, there is more, and more varied,
+music and dance. New possibilities are explored.
+
+A feeling of safety includes feeling safe to form more
+distinct subgroups, without others seeing such subgroups as
+threatening factions. And that includes feeling safe to form
+groups that tend to argue together for similar positions
+within talky collective discussions, and to disagree with
+the larger group. After all, it is hard for a talky
+collective to function well unless members are allowed to
+openly disagree with one another.
+
+But when the group was stressed and threatened by
+dominators, outsiders, or famine, the collective view
+mattered less, and people reverted to more general
+Machiavellian social strategies. Then it mattered more who
+had what physical resources and strength, and what personal
+allies. People leaned toward projecting toughness instead of
+empathy. And they demanded stronger signals of loyalty, such
+as conformity, and were more willing to suspect people of
+disloyalty. Subgroups and non-conformity became more
+suspect, including subgroups that consistently argued
+together for unpopular positions.
+
+-- [[http://www.overcomingbias.com/2017/08/forager-v-farmer-elaborated.html][Forager v Farmer, Elaborated]] | Overcoming Bias, 2017
+#+end_quote
