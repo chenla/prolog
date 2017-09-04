@@ -47,8 +47,9 @@ agricultural revolution a new way of thinking was required.
 
 #+begin_quote
 Farming required huge behavior changes, mostly unnatural to
-foragers. A key enabler seems to have been increased self-control to
-follow social norms. But what allowed this increased self-control?
+foragers. A key enabler seems to have been increased
+self-control to follow social norms. But what allowed this
+increased self-control?
 
 -- [[http://www.overcomingbias.com/2010/10/fear-made-farmers.html][Fear Made Farmers]] | Overcoming Bias
 #+end_quote
@@ -61,23 +62,25 @@ into their farm, and if someone takes that away, it is a
 great loss for the farmer because it's not easy to move
 somewhere else, find land that no one is using and then
 start from scratch.  So fear of loosing land is at the heart
-of farming.  Women and children were all tied up with
-property as well because children would get your property
-after your death, it was important to be very clear whose
-children your wife bore.  Defense of property required large
-strong men who could fight.  Farmers are not exactly ideal
-warriors, so farmers would band together into groups and pay
-for protection from strongmen, warlords, and later kings and
-even later, states.  Because the warrior class was under the
-control of the king or state, and that they had a monopoly
-on use of force, they eventually took over and farmers
-became subject to the warrior class.  Religions changed from
-being animistic, to being personified dieties who ruled
-mankind the way the kings rules the farmers.  But these new
-gods were always angry at people when they disobeyed or
-broke the rules.  At the root of all of this was the threat
-of death by the gods, or more likely by the followers of the
-gods who would punish you on their behalf.
+of farming.  Women and children were tied up with property
+as well because children would get your property after your
+death, it was important to be very clear whose children your
+wife bore.  Defense of property required large strong men
+who could fight.
+
+Farmers are not exactly ideal warriors, so farmers would
+band together into groups and pay for protection from
+strongmen, warlords, and later kings and even later, states.
+Because the warrior class was under the control of the king
+or state, and that they had a monopoly on use of force, they
+eventually took over and farmers became subject to the
+warrior class.  Religions changed from being animistic, to
+being anthropomorphic personified dieties who ruled mankind
+the way the kings rules the farmers.  But these new gods
+were always angry at people when they disobeyed or broke the
+rules.  At the root of all of this was the threat of death
+by the gods, or more likely by the followers of the gods who
+would punish you on their behalf.
 
 #+begin_quote
 One source was moving from vague spirituality to religions
