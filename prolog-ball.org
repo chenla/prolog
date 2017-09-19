@@ -27,3 +27,147 @@
 
 * Introduction
 
+Note: Based on [[url:40395a17-92a8-4b3a-b167-5b137786f079][Notes]].
+
+
+The Dark Mountain folks and others like Gosh have laid out the idea
+that humans and human societies are driven by narratives.  A narrative
+is a story.  A story is a thread that snakes through a simplified
+model, or map of the world that are constantly being built and
+maintained by our brains.  In order for groups of people to be able to
+communicate, they must share a set of common knowledge between them
+that allows them to understand each other.  This common knoweledge is
+made up of two parts, a symbol system, which is spoken language,
+culture, which is a collection of narratives that taken together form
+a collective map.  Culture is that shared map that constitutes a group
+encyclopedia that makes it possible to communicate and cooperate with
+each other.
+
+All culture is fiction.  We've collectively made it up through an
+iterative process that spans many generations.  It is made up of
+things we traditionally understand as stories, such as myths and
+legends.  And when a set of myths and legends are codified, they
+become an organized religion and in more recent times, an ideology,
+which is a religion minus the divine.  Religions and ideologies are
+very powerful, but they change very slowly, over many generations.
+And when the rate of change out paces the ability of religions and
+ideologies to change their collective maps, they become out of sync
+with the real world.  This is in essence what cognitive dissonance is,
+trying to reconcile a codifed map of the world with the world that you
+experience with your five senses.
+
+And cultural narratives are not limited to religion and ideologoes.
+They include all sorts of things which we don't think of as a story.
+Money, capitalism, democracy, egalitarianism, sovereignty, the state,
+justice and even truth and the American way are some of the big ones,
+but any meme that becomes part of a culture is a story as well.  Every
+diet, from the xxx diet to the xxx diet is a story.  Vegitarianism and
+Veganism, stories.
+
+But understanding culture, or group communication and cooperation as
+narratives only takes us so far.  What is missing is process, the
+steps required to do things.  Narratives and all stories are basically
+descriptions of process, which are by and large, causal chains, strung
+one after the other.
+
+A process breaks a narrative into discrete steps.  And this is
+crucial, because the size of a group is determined on how many steps a
+process can be broken down into.  In a society, each of these steps
+can be described as a specialization.  The story of civilization is
+the story of how man has learned to create ever more elaborate and
+abstract stories and break them down into increasingly fine-grained
+specializations.  The more specializations, the larger the group can
+become.
+
+
+In computer science there is a concept called the
+Read-Evaluate-Print-Loop or [[https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][REPL]].  A REPLE is an interactive interface
+between an operator (usually a person) at a command-line like
+interface.  Typically there is a little blinking curser that indicates
+where you type something.  Once you hit enter or return the REPL
+=reads= the input.  The input is then =evaluated= or processed by the
+programing language and is then =printed= out on the screen as output.
+Then it all =loops= and the process is repeated.
+
+The REPL is sort of the oral tradition for computer interaction.  It
+is face to face and one to one.  The REPL allows you to store a
+limited amount of information in RAM, but turn off the interface, or
+the computer and it's back to square one.  This is similar to the oral
+tradition in that a person could interact with another, and store
+things in human memmory, but that memory was limited and volatile, it
+was lost when the person forgot as old memories are replaced by new
+ones, or the person died.
+
+BALL is a REPL for groups, and more specifically groups at scale.  In
+other words a BALL is the interface for a civilization.  Subsets of
+the BALL where different stages are merged together provide
+streamlined interfaces for increasingly smaller groups who don't need
+to break things down into so many steps.
+
+It's the breaking down into steps that's key here.  It's something we
+will come back to over and over again.  Breaking down into steps is
+how we break things into specializations.  The larger the group, the
+more specializations and steps are required for the group to be able
+to operate.
+
+This is very important for a number of things.  As man developed
+spoken language it made possible to break up processes into more and
+more steps which made larger groups possible.  Fast forward to the
+invention of written languages which was able to take spoken language
+beyond face to face interactions into time and space.  This was a
+revolution, but was limited by how many people could read, and hand
+copying of texts which introduced errors that were compounded with
+each copy. Written languages increased the reach of communication in
+both space and time, which greatly expanded how much you could break
+up a REPL and made possible ever larger groups.  Human society hit a
+bit of a sweat spot with spoken language and plateaued for 3-4
+thousand years until the the printing press came along.  
+
+The printing press on it's face didn't seem like much of an
+innovation. It made it possible to create exact copies of a text, and
+to cheaply and easily make anywhere from two to two hundred million
+copies with the only limit being on how much paper and ink you had to
+copy things on.  The printing press made the advances of written
+languages available to potentially everyone in a society.  This made
+possible the world that emerged in the 18th and 19th century which is
+known as the industrial revolution.
+
+
+
+What are the steps that need to be taken to go from bit to it; from an
+event that provokes an emotional response, that is turned into an idea
+and plan that leads to a decision and action.
+
+
+This is how we go from bitching about something, to an idea for how to
+fix it, breaking down the idea into a plan, breaking the plan into
+projects, developing each project, building, testing and deploying
+those projects, then telling people about it and teaching them what it
+is and how to use is and then finally listening and collecting
+feedback which should then loop back to fix and improve.
+
+#+begin_ascii
+  - Manifesto, Theses
+    - Vision,    Declaration
+      - Road Map,  Constitution, Bill of Rights
+        - Milestone, Act, Initiative
+          - Feature,   Statutes, Laws
+            - Build      Debate, legislate
+              - Test       Vote, elect
+                - Deploy     Disbursement
+                  - Market     Speeches, press conference, etc.
+                    - Listen     Census, polls, town halls etc.
+#+end_ascii
+
+  | name              | technology         | Government                          |
+  |-------------------+--------------------+-------------------------------------|
+  | Manifesto, Theses |                    |                                     |
+  | Vision            | Vision Statement   | Declaration                         |
+  | Road Map          | Road Map           | Constitution, Bill of Rights        |
+  | Milestone         | Milestone, Package | Acts & Initiatives                  |
+  | Feature           | Feature            | Statutes & Laws                     |
+  | Build             | Build              | Legislate, (Draft, Propose, Debate) |
+  | Test              | Test & Review      | Vote, Elections                     |
+  | Deploy            | Release            | Disburse, Put into effect           |
+  | Market & Teach    | Market & Train     | Speech, Press Release/Conference    |
+  | Listen            | Stats & Polls      | Census, Polls & Town Halls etc.     |
