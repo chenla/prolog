@@ -51,7 +51,7 @@
  - [[prolog-identity.org][Identity]] & Roles
  - [[prolog-pace.org][Pace Layers]]
  - [[prolog-process.org][Process]]
-
+ - [[./prolog-ball.org][BALL Loop]]
  - [[./prolog-patterns.org][Patterns]]
 
 - Context
