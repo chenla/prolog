@@ -90,7 +90,23 @@ clunky as science could describe it at that time.
 
      *NOW tie the narrative back to the end science*
 
-Only a fool would dare say such a thing today.
+In 1989, Francis Fukuyama declared the end of history:
+
+#+begin_quote
+What we may be witnessing is not just the end of the Cold War, or the
+passing of a particular period of post-war history, but the end of
+history as such: that is, the end point of mankind's ideological
+evolution and the universalization of Western liberal democracy as the
+final form of human government.
+
+-- The End of History and the Last Man, 1989
+   [[https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man][The End of History and the Last Man]] | Wikipedia
+#+end_quote
+
+Fukuyama has become a cautionary tale.  Resurrecting the ghost of the
+/end of history/ is almost a Dickensian exercise that is paraded out
+by everyone as a rite of passage.  After all, who would be stupid
+enough to say such a thing /today/.
 
 History is littered with such prognostications.  That man could not
 survive moving faster than a few hundreds of kilometers per hour
@@ -102,6 +118,15 @@ recently this was the norm in science, not the exception.
 Einstein was scolded in university for conjectures about atoms and
 molecules which were not, had not yet reached a scientific consensus
 of their existence.
+
+It's really disingenuous to dump on these people.  It's the way our
+brains are wired.  We assume that if the sky is not falling at this
+very moment that it's likely it won't fall in the next moment and it's
+easy to believe it will be the same in the next moment and the next
+and so on and in doing so come to the conclusion that we have reached
+a plateau.
+
+
 
 We still hadn't wholly surrendered to the now holy doctrine of the
 inevitibility of progress in the same way we have today. We are all
@@ -156,12 +181,12 @@ to the universe, how much energy we can generate and consume (at least
 in our solar system), how fast our computers can flip bits, how much
 information can be stored, how fast we can travel etc.  
 
-
+  *look up charlie stross's back of napkin calculations on storage*
 
 It is true that we have only exploited a tiny fraction of what can be
 done within those limits.  But here is the thing.  We don't know how
 far we can continue to improve technology.  We will eventually hit a
-wall where advances will become fewer and farther apart.  Our
+wall where advances will become fewer and farther between.  Our
 technological progress has been advancing exponentially.  Human's
 aren't able to grasp exponential anything.  The savannah had no need
 for such concepts.  We simply can't comprehend the situation we are in
@@ -183,9 +208,9 @@ that sends us hurtling towards another singularity.  Where it ends is
 anybody's guess.
 
 And that's the thing.  The singularity is not ahead of us, we are
-smack dab in the middle of the singularity and we have no idea what
+smack dab in the middle, it's all around us and we have no idea what
 will happen next.  That's Vinge's original definition of a
 singularity, that things are changing so fast that it's impossible to
 predict what will happen next.  It's exhilarating and terrifying at
-the same time, a roller coaster in hurtling in the darkness, which we
-haven't noticed has long been freed of any guidance of the tracks.
+the same time, a roller coaster hurtling through the darkness, which
+we haven't noticed escaped the confines of the tracks.
