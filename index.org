@@ -68,6 +68,12 @@
  - [[./prolog-estranged.org][Estranged]]
  - [[./prolog-why.org][Why]]
 
+
+ The Great:
+   - Acceleration
+   - [[./prolog-great-plateau.org][Plateau]]
+   - Filter
+
  - [[./prolog-viability.org][Viability]] :: hard min/max floor/ceiling numbers
  - Collapse & Loss :: prefix 'collapse-' & 'loss-'
    - carrying capacity
