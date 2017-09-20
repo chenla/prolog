@@ -1,0 +1,29 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: The Great Plateau
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/prolog/prolog-great-plateau.org
+:Created:   2017-09-20T19:43@Prek Leap (11.642600N-104.919210W)
+:ID:        8118c15d-8977-4919-81dc-ec99879165a8
+:VER:       559183480.839484216
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:ROI4-2277
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
