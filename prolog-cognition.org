@@ -551,6 +551,334 @@ imagining the future.
    imagining the future]] | Daniel L. Schacter (2007)
 #+end_quote
 
+
+* Fast and Slow
+
+ - [[id:kahneman:2011thinking][Thinking, Fast and Slow]] | Daniel Kahneman (2011)
+
+
+#+begin_quote
+When you come late to the party, writing the 160th review,
+you have a certain freedom to write something as much for
+your own use as for other readers, confident that the review
+will be at the bottom of the pile.
+
+Kahneman's thesis is that the human animal is systematically
+illogical. Not only do we mis-assess situations, but we do
+so following fairly predictable patterns. Moreover, those
+patterns are grounded in our primate ancestry.
+
+The first observation, giving the title to the book, is that
+eons of natural selection gave us the ability to make a fast
+reaction to a novel situation. Survival depended on it. So,
+if we hear an unnatural noise in the bushes, our tendency is
+to run. Thinking slow, applying human logic, we might
+reflect that it is probably Johnny coming back from the Girl
+Scout camp across the river bringing cookies, and that
+running might not be the best idea. However, fast thinking
+is hardwired.
+
+The first part of the book is dedicated to a description of
+the two systems, the fast and slow system. Kahneman
+introduces them in his first chapter as system one and
+system two.
+
+Chapter 2 talks about the human energy budget. Thinking is
+metabolically expensive; 20 percent of our energy intake
+goes to the brain. Moreover, despite what your teenager
+tells you, dedicating energy to thinking about one thing
+means that energy is not available for other things. Since
+slow thinking is expensive, the body is programmed to avoid
+it.
+
+Chapter 3 expands on this notion of the lazy controller. We
+don't invoke our slow thinking, system two machinery unless
+it is needed. It is expensive. As an example, try
+multiplying two two-digit numbers in your head while you are
+running. You will inevitably slow down. NB: Kahneman uses
+the example of multiplying two digit numbers in your head
+quite frequently. Most readers don't know how to do
+this. Check out "The Secrets of Mental Math" for
+techniques. Kahneman and myself being slightly older guys,
+we probably like to do it just to prove we still
+can. Whistling past the graveyard - we know full well that
+mental processes slow down after 65.
+
+Chapter 4 - the associative machine - discusses the way the
+brain is wired to automatically associate words with one
+another and concepts with one another, and a new experience
+with a recent experience. Think of it as the bananas vomit
+chapter. Will you think of next time you see a banana?
+
+Chapter 5 - cognitive ease. We are lazy. We don't solve the
+right problem, we solve the easy problem.
+
+Chapter 6 - norms, surprises, and causes. A recurrent theme
+in the book is that although our brains do contain a
+statistical algorithm, it is not very accurate. It does not
+understand the normal distribution. We are inclined to
+expect more regularity than actually exists in the world,
+and we have poor intuition about the tail ends of the bell
+curve. We have little intuition at all about non-Gaussian
+distributions.
+
+Chapter 7 - a machine for jumping to conclusions. He
+introduces a recurrent example. A ball and bat together cost
+$1.10. The bat costs one dollar more than the ball. How much
+does the ball cost? System one, fast thinking, leaps out
+with an answer which is wrong. It requires slow thinking to
+come up with the right answer - and the instinct to distrust
+your intuition.
+
+Chapter 8 - how judgments happen. Drawing parallels across
+domains. If Tom was as smart as he is tall, how smart would
+he be?
+
+Chapter 9 - answering an easier question. Some questions
+have no easy answer. "How do you feel about yourself these
+days?" Is harder to answer than "did you have a date last
+week?" If the date question is asked first, it primes an
+answer for the harder question.
+
+Section 2 - heuristics and biases
+
+Chapter 10 - the law of small numbers. In the realm of
+statistics there is a law of large numbers. The larger the
+sample size, the more accurate the statistical inference
+from measuring them. Conversely, a small sample size can be
+quite biased. I was in a study abroad program with 10 women,
+three of them over six feet. Could I generalize about the
+women in the University of Maryland student body?
+Conversely, I was the only male among 11 students and the
+only one over 60. Could they generalize anything from that?
+In both cases, not much.
+
+Chapter 11 - anchors. A irrelevant notion is a hard thing to
+get rid of. For instance, the asking price of the house
+should have nothing to do with its value, but it does
+greatly influence bids.
+
+Chapter 12 - the science of availability. If examples come
+easily to mind, we are more inclined to believe the
+statistic. If I know somebody who got mugged last year, and
+you don't, my assessment of the rate of street crime will
+probably be too high, and yours perhaps too low. Newspaper
+headlines distort all of our thinking about the
+probabilities of things like in and terrorist
+attacks. Because we read about it, it is available.
+
+Chapter 13 - availability, emotion and risk. Continuation.
+
+Chapter 14 - Tom W's specialty. This is about the tendency
+for stereotypes to override statistics. If half the students
+in the University area education majors, and only a 10th of
+a percent study mortuary science, the odds are overwhelming
+that any individual student is an education
+major. Nonetheless, if you ask about Tom W, a sallow gloomy
+type of guy, people will ignore the statistics and guess he
+is in mortuary science.
+
+Chapter 15 - less is more. Linda is described as a very
+intelligent and assertive woman. What are the odds she is a
+business major? The odds that she is a feminist business
+major? Despite the mathematical impossibility, most people
+will think that the odds of the latter are greater than the
+former.
+
+Chapter 16 - causes trump statistics. The most important
+aspect of this chapter is Bayesian analysis, which is so
+much second nature to Kahneman that he doesn't even describe
+it. The example he gives is a useful illustration.
+
+  - 85% of the cabs in the city are green, and 15% are blue.
+  - A witness identified the cab involved in a hit and run as blue.
+  - The court tested the witness' reliability, and the
+    witness was able to correctly identify the correct color
+    80% of the time, and failed 20% of the time.
+
+First, to go to the point. Given these numbers, most people
+will assume that the cab in the accident was blue because of
+the witness testimony. However, if we change the statement
+of the problem so that there is a 20% chance that the blue
+identification of the color was wrong, but 85% of the cabs
+involved in accidents are green, people will overwhelmingly
+say that the cab in the accident was a green madman. The
+problems are mathematically identical but the opinion is
+different.  Now the surprise. The correct answer is that
+there is a 41% chance that the cab involved in the accident
+was blue. Here's how we figure it out from Bayes theorem.
+
+If the cab was blue, a 15% chance, and correctly identified,
+an 80% chance, the combined probability is .15 * .8 = .12, a
+12% chance If the cab was green, an 85% chance, and
+incorrectly identified, a 20% chance, the combined
+probability is .85 * .2 = .17, a 17% chance Since the cab
+had to be either blue or green, the total probability of it
+being identified as blue, whether right or wrong, is .12 +
+.17 = .29. In other words, this witness could be expected to
+identify the cab as blue 29% of the time whether she was
+right or wrong.  The chances she was right are .12 out of
+.29, or 41%. Recommend that you cut and paste this, because
+Bayes theorem is cited fairly often, and is kind of hard to
+understand. It may be simple for Kahneman, but it is not for
+his average reader, I am sure.
+
+Chapter 17 - regression to the mean. If I told you I got an
+SAT score of 750 you could assume that I was smart, or that
+I was lucky, or some combination. The average is only
+around 500. The chances are little bit of both, and if I
+take a test a second time I will get a lower score, not
+because I am any stupider but because your first observation
+of me wasn't exactly accurate. This is called regression to
+the mean. It is not about the things you are measuring, it
+is about the nature of measurement instruments. Don't
+mistake luck for talent.
+
+Chapter 18 - taming intuitive predictions. The probability
+of the occurrence of an event which depends on a number of
+prior events is the cumulative probability of all those
+prior events. The probability of a smart grade school kid
+becoming a Rhodes scholar is a cumulative probability of
+passing a whole series of hurdles: studying hard, excelling
+in high school, avoiding drink and drugs, parental support
+and so on. The message in this chapter is that we tend to
+overestimate our ability to project the future.
+
+Part three - overconfidence
+
+Chapter 19 - the illusion of understanding. Kahneman
+introduces another potent concept, "what you see is all
+there is," thereinafter WYSIATI. We make judgments on the
+basis of the knowledge we have, and we are overconfident
+about the predictive value of that observation. To repeat
+their example, we see the tremendous success of Google. We
+discount the many perils which could have totally derailed
+the company along the way, including the venture capitalist
+who could have bought it all for one million dollars but
+thought the price was too steep.
+
+Chapter 20 - The illusion of validity. Kahneman once again
+anticipates a bit more statistical knowledge than his
+readers are likely to have. The validity of a measure is the
+degree to which an instrument measures what it purports to
+measure. You could ask a question such as whether the SAT is
+a valid measure of intelligence. The answer is, not really,
+because performance on the SAT depends quite a bit on prior
+education and previous exposure to standardized tests. You
+could ask whether the SAT is a valid predictor of
+performance in college. The answer there is that it is not
+very good, but nonetheless it is the best available
+predictor. It is valid enough because there is nothing
+better. To get back to the point, we are inclined to assume
+measurements are more valid than they are, in other words,
+to overestimate our ability to predict based on
+measurements.
+
+Chapter 21 - intuitions versus formulas. The key anecdote
+here is about a formula for predicting the quality of a
+French wine vintage. The rule of thumb formula beat the best
+French wine experts. Likewise, mathematical algorithms for
+predicting college success are as least as successful, and
+much cheaper, than long interviews with placement
+specialists.
+
+Chapter 22 - expert intuition, when can we trust it? The
+short answer to this is, in situations in which prior
+experience is quite germane to new situations and there is
+some degree of predictability, and also an environment which
+provides feedback so that the experts can validate their
+predictions. He would trust the expert intuition of a
+firefighter; there is some similarity among fires, and the
+firemen learns quickly about his mistakes. He would not
+trust the intuition of a psychiatrist, whose mistakes may
+not show up for years.
+
+Chapter 23 - the outside view. The key notion here is that
+people within an institution, project, or any endeavor tend
+to let their inside knowledge blind them to things an
+outsider might see. We can be sure that most insiders in
+Enron foresaw nothing but success. An outsider, having seen
+more cases of off-balance-sheet accounting and the woes it
+can cause, would have had a different prediction.
+
+Chapter 24 - the engine of capitalism. This is a tour of
+decision-making within the capitalist citadel. It should
+destroy the notion that there are CEOs who are vastly above
+average, and also the efficient markets theory. Nope. The
+guys in charge often don't understand, and more important,
+they are blind to their own lack of knowledge.
+
+Part four - choices
+
+This is a series of chapters about how people make decisions
+involving money and risk. In most of the examples presented
+there is a financially optimal alternative. Many people will
+not find that alternative because of the way the problem is
+cast and because of the exogenous factors. Those factors
+include:
+
+Marginal utility. Another thousand dollars is much less
+important to a millionaire than a wage slave.
+
+Chapter 26 - Prospect theory: The bias against loss. Losing
+$1000 causes pain out of proportion to the pleasure of
+winning $1000.
+
+Chapter 27 - The endowment effect. I will not pay as much to
+acquire something as I would demand if I already owned it
+and were selling.
+
+Chapter 28 - Bad Events. We will take unreasonable risk when
+all the alternatives are bad. Pouring good money after bad,
+the sunk cost effect, is an example.
+
+Chapter 29 - The fourfold pattern. High risk, low risk, win,
+lose. Human nature is to make choices which are not
+mathematically optimal: buying lottery tickets and buying
+unnecessary insurance.
+
+Chapter 30 - rare events. Our minds are not structured to
+assess the likelihood of rare events. We overestimate the
+visible ones, such as tsunamis and terrorist attacks, and
+ignore the ones of which we are unaware.
+
+Chapter 31 - Risk policies. This is about systematizing our
+acceptance of risk and making policies. As a policy, should
+we buy insurance or not, recognizing that there are
+instances in which we may override the policy. As a policy,
+should we accept the supposedly lower risk of buying mutual
+funds, even given the management fees?
+
+Chapter 32 - keeping score. This is about letting the past
+influence present decisions. The classic example is people
+who refuse to sell for a loss, whether shares of stock or a
+house.
+
+Chapter 33 - reversals. We can let a little negative impact
+a large positive. One cockroach in a crate of strawberries.
+
+Chapter 34 - Frames and reality. How we state it. 90%
+survival is more attractive than 10% mortality.
+
+Part V. Two selves: Experience and memory
+
+Our memory may be at odds with our experience at the
+time. Mountain climbing or marathon running are sheer
+torture at the time, but the memories are exquisite. We
+remember episodes such as childbirth by the extreme of pain,
+not the duration.
+
+Lift decision: do we live life for the present experience,
+or the anticipated memories? Are we hedonists, or
+Japanese/German tourists photographing everything to better
+enjoy the memories?
+
+-- [[https://www.amazon.com/gp/customer-reviews/R3KHS6T5UE1HQG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0374533555][Annotations on Kahneman's table of contents - a survey of
+   logic and illogic]] (March 15, 2012)
+#+end_quote
+
+
+
 * Cognitive Limits
 
  - 
