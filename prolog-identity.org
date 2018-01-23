@@ -24,6 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Introduction
 
@@ -237,6 +238,112 @@ myrole: deerpig
   - [[https://www.brookings.edu/wp-content/uploads/2017/05/more-professionalism-less-populism.pdf][more-professionalism-less-populism.pdf]] | brookings institute
 
 
+* Context Crash
+
+#+begin_quote
+ "technology exacerbates human misery as individuals become
+ increasingly controlled by what they fail to understand."
+
+ — Debra Howcroft and Brian Fitzgerald
+   cite:howcroft:1998utopia
+
+#+end_quote
+
+
+#+begin_quote
+In everyday life, we tend to have different sides of
+ourselves that come out in different contexts. For example,
+the way you are at work is probably different from the way
+you might be at a bar or at a church or temple.
+
+Sociologist Erving Goffman used concepts of theatre to
+explain these different aspects of our identities, for
+example, front stage and back stage.
+
+But on Facebook, all these stages or contexts were mashed
+together. The result was what internet researchers called
+context collapse. People were even getting fired when one
+aspect of their lives was discovered by another (i.e. their
+boss!).
+
+— Kate Raynes-Goldie
+  [[https://phys.org/news/2018-01-secret-history-facebook-depression.html][The secret history of Facebook depression]] | Particle @phys.org
+#+end_quote
+
+#+begin_quote
+n 2008, I found myself speaking with the big boss himself,
+Facebook CEO Mark Zuckerberg. I was in the second year of my
+Ph.D. research on Facebook at Curtin University. And I had
+questions.
+
+Why did Facebook make everyone be the same for all of their
+contacts? Was Facebook going to add features that would make
+managing this easier?
+
+To my surprise, Zuckerberg told me that he had designed the
+site to be that way on purpose. And, he added, it was
+"lying" to behave differently in different social
+situations.
+
+Up until this point, I had assumed Facebook's socially
+awkward design was unintentional. It was simply the result
+of computer nerds designing for the rest of humanity,
+without realising it was not how people actually want to
+interact.
+
+The realisation that Facebook's context collapse was
+intentional not only changed the whole direction of my
+research but provides the key to understanding why Facebook
+may not be so great for your mental health.
+
+— Kate Raynes-Goldie
+  [[https://phys.org/news/2018-01-secret-history-facebook-depression.html][The secret history of Facebook depression]] | Particle @phys.org
+#+end_quote
+
+WTF "Facebook's context crash was intentional"!!! 
+
+
+** References
+
+ - [[https://boingboing.net/2018/01/22/facebook-is-sad.html][Social scientists have warned Zuck all along that the Facebook theory of interaction would make people angry and miserable]] | Boing Boing
+ - [[https://phys.org/news/2018-01-secret-history-facebook-depression.html][The secret history of Facebook depression]] | Particle @phys.org
+
+ Howcroft, D., & Fitzgerald, B., From utopia to dystopia: the
+ twin faces of the internet, In , Information Systems:
+ Current Issues and Future Changes, Proceedings of IFIP WG8
+ (pp. 49–70) (1998). : . cite:howcroft:1998utopia
+
+ Raynes-Goldie, K., The secret history of facebook
+ depression, Particle (phys.org), (), (2018).
+ cite:raynes-goldie:2018secret-history
+
+ Raynes-Goldie, K. S., Privacy in the age of facebook:
+ discourse, architecture, consequences (Doctoral
+ dissertation) (2012). Curtin University, Perth, Australia.
+ cite:raynes:2012privacy
+
+* Dramaturgy & Spoiled Identity
+
+** References
+
+Goffman, E., Stigma: notes on the management of spoiled
+identity (1986), : Touchstone.
+cite:goffman:1986stigma
+
+Goffman, E., The presentation of self in everyday life
+(2008), : Anchor Books [u.a.
+cite:goffman:1986stigma
+
+contributors, W., /Dramaturgy (sociology) --- wikipedia, the
+free encyclopedia/ (2018).
+cite:wiki:2018dramaturgy
+
+contributors, W., /Erving goffman --- wikipedia, the free
+encyclopedia/ (2018).
+cite:wiki:2018erving-goffman
+
+
+
 * An Identity Model
 ** Introducion
 
@@ -255,7 +362,6 @@ social network spaces and not so much about roles and identity.
 Notes from:
 
 http://www.slideshare.net/padday/the-real-life-social-network-v2
-
 
 ** Personal Social Networks
 
@@ -593,6 +699,7 @@ change over time as new information comes in.
 The Ghost daemon determines what role a ghost is in at any given
 moment -- which determines who sees what, and the context of what the
 ghost is doing at at any one time.
+
 * References
 
  - [[http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI][Buddy Brain Drain]] | Robin Dunbar, New York Post, 2010/01/25

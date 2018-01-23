@@ -24,6 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Introduction
 
@@ -669,3 +670,5 @@ Source: [[https://en.wikipedia.org/wiki/File:Janus.xcf][File:Janus.xcf - Wikiped
 * Holism
 
   - [[https://en.wikipedia.org/wiki/Holism][Holism]] | Wikipedia
+
+cite:bogle:2012clash
