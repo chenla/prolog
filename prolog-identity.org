@@ -325,6 +325,9 @@ WTF "Facebook's context crash was intentional"!!!
 * Dramaturgy & Spoiled Identity
 
 ** References
+:PROPERTIES:
+:ID:       70a468c9-8fa5-459a-9a04-26335c610a7a
+:END:
 
 Goffman, E., Stigma: notes on the management of spoiled
 identity (1986), : Touchstone.
