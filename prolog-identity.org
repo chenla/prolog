@@ -27,24 +27,12 @@
 bibliography:../hoard/bib.bib
 
 * Introduction
-
   :PROPERTIES:
   :Name: /home/deerpig/proj/chenla/prolog/prolog-identity.org
   :Created: 2017-02-02T18:51@Prek Leap (11.642600N-104.919210W)
   :ID: 5a67ded4-ffb0-4ccd-82ad-9cf9b9a3612c
   :URL:
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 Refs
 
