@@ -227,6 +227,9 @@ myrole: deerpig
 
 
 * Context Crash
+:PROPERTIES:
+:ID:       b73bb864-bf93-43ea-bac9-355a8158dafe
+:END:
 
 #+begin_quote
  "technology exacerbates human misery as individuals become
@@ -259,7 +262,7 @@ boss!).
 #+end_quote
 
 #+begin_quote
-n 2008, I found myself speaking with the big boss himself,
+In 2008, I found myself speaking with the big boss himself,
 Facebook CEO Mark Zuckerberg. I was in the second year of my
 Ph.D. research on Facebook at Curtin University. And I had
 questions.
@@ -699,6 +702,8 @@ ghost is doing at at any one time.
  - [[http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html][The Dunbar Number as a Limit to Group Sizes]] | Christopher Allen
    Life With Alacrity (Blog), 2004/03/10
  - [[http://en.wikipedia.org/wiki/Dunbar's_number][Dunbar number]] | Wikipedia (accessed 2011/08/26)
+
+
  - [[http://en.wikipedia.org/wiki/Interpersonal_ties][Interpersonal ties]] | Wikipedia (accessed 2011/08/26)
  - [[http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf][The Strength of Weak Ties]] | Granovetter, Mark S. (1973). 
    Amer. J. of Sociology, Vol. 78, Issue 6, May 1360-80.
