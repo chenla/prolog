@@ -22,24 +22,39 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-The larger purpose of the prolegomenon is to provide an introduction
-to the concepts and contextual and social assumptions that the
-/Primer/ is based on.  In that sense this will be the primer for the
-/Primer/.
+*PLEASE NOTE: 2018-04-19, Prek Leap*
 
-Dictionaries define a /prolegomenon/ as a discursive introduction; a
-map of a territory.  But sometimes the territory is so expansive that
-the map that models it is great enough to warrant a map of it's own...
-Ranganathan's Prolegomenon was such an introduction.  Wordsworth's
-/Prelude/ ate up so much time and space that the /Recluse/ was never
-completed....
+This archive is in the process of being deprecated. We are
+slowly moving all contents that are worth keeping to their
+new home which is part of Warp & Woof, APPL, Hoard and
+Primer.
 
-I fear that this will be the fate of my humble literate computational
-prolegomena as well.
+As we process each file, it will be moved into the ./archive
+directory.  When we've finished moving everything there, the
+entire repo will be deprecated and archived.
 
-The idea is that these texts can be used to construct a number of
-narratives that can be published in traditional formats to act as a
-bridge, or at least a beartrap that drops you down the rabbit hole.
+---
+
+The larger purpose of the prolegomenon is to provide an
+introduction to the concepts and contextual and social
+assumptions that the /Primer/ is based on.  In that sense
+this will be the primer for the /Primer/.
+
+Dictionaries define a /prolegomenon/ as a discursive
+introduction; a map of a territory.  But sometimes the
+territory is so expansive that the map that models it is
+great enough to warrant a map of it's own...  Ranganathan's
+Prolegomenon was such an introduction.  Wordsworth's
+/Prelude/ ate up so much time and space that the /Recluse/
+was never completed....
+
+I fear that this will be the fate of my humble literate
+computational prolegomena as well.
+
+The idea is that these texts can be used to construct a
+number of narratives that can be published in traditional
+formats to act as a bridge, or at least a beartrap that
+drops you down the rabbit hole.
 
 Beware the pointy bits at the bottom when you land...
 
