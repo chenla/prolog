@@ -55,7 +55,7 @@
  - [[./prolog-patterns.org][Patterns]]
 
 - Context
-   - [[prolog-scope.org][Scope]]
+   - [[./prolog-scope.org][Scope]]
    - Level of Detail (LOD)
    - Rate of Change  (ROC)
    - Point of View   (POV)
