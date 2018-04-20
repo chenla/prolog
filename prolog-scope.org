@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 :PROPERTIES:
 :CUSTOM_ID: 
-:Name:      /home/deerpig/proj/chenla/prolog/prolog-scope.org
+:Name:      /home/deerpig/proj/chenla/prolog/archive/prolog-scope.org
 :Created:   2017-02-02T18:53@Prek Leap (11.642600N-104.919210W)
 :ID:        49441282-65a8-4b64-a62d-fe8786701c62
 :VER:       551830899.695076687
@@ -23,6 +23,8 @@
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+*NOTE This File Is Deprecated 2018-04-20*
 
 * Introduction
 
