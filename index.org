@@ -48,7 +48,7 @@
    - [[./structure-holon.org][Holon]]
    - [[./structure-classification.org][Classification]]
 
- - [[prolog-identity.org][Identity]] & Roles
+ X [[./archive/prolog-identity.org][Identity]] & Roles  (deprecated)
  - [[prolog-pace.org][Pace Layers]]
  - [[prolog-process.org][Process]]
  - [[./prolog-ball.org][BALL Loop]]
