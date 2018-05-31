@@ -94,7 +94,7 @@
  - [[./prolog-cooperation.org][Cooperation]]
 
  X [[./archive/prolog-transactive.org][Transactive]] (deprecated)
-   - [[./prolog-cognition.org][Cognition]]
+   X [[./archive/prolog-cognition.org][Cognition]] (deprecated)
    - [[./prolog-memory.org][Memory]]
    - [[./prolog-muscle.org][Muscle]]
    - [[./prolog-unknown.org][What We Don't Know]]
