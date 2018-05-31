@@ -86,7 +86,7 @@
 
  - [[prolog-window.org][Windows]]
 
- - [[./mind-intro.org][Mind]] :: prefix 'mind'
+ X [[./archive/mind-intro.org][Mind]] :: prefix 'mind' (deprecated)
    - Map
    - Prediction
    - Consciousness
