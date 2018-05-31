@@ -24,6 +24,9 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+  *NOTE: Deprecated: 2018-05-31*
+
+
 #+begin_quote
 I don't have a way to change the behavior of
 seven-point-five billion people carrying their beliefs
