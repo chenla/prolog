@@ -58,3 +58,8 @@ drops you down the rabbit hole.
 
 Beware the pointy bits at the bottom when you land...
 
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/prolog]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/prolog]]
