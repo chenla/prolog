@@ -474,7 +474,8 @@ industrial civilization, you just need a fuck of a lot of
 computational power and a shitload of robots and a place to
 let them both loose...
 
-* The Consequences of Specialization
+* The Consequences of Specialization        :DEPRECATED:
+*NOTE: Copied to w&w [2018-06-07 Thu 08:35]*
 
 Note: This section is based based on these [[url:1ac70469-6b8a-4af9-ab6b-88d8e25883d4][Notes]].
 
